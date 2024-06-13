@@ -63,24 +63,6 @@
       "height": 400
     },
     {
-      "id": "276621896a9f754e",
-      "type": "link",
-      "url": "https://sv.wikipedia.org/wiki/Solv%C3%A4nda#/media/Fil:Sonnenr%C3%B6schen02.jpg",
-      "x": 90,
-      "y": 140,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "eec87a4dc9a8e648",
-      "type": "link",
-      "url": "https://sv.wikipedia.org/wiki/Sm%C3%B6rblomma#/media/Fil:Ranunculus_acris_new.jpg",
-      "x": 620,
-      "y": 200,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "febb9dcbd5fe787e",
       "type": "link",
       "url": "https://sv.wikipedia.org/wiki/Kabbleka#/media/Fil:Caltha_palustris0.jpg",
@@ -88,6 +70,42 @@
       "y": 540,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "87234dce6cf56d7e",
+      "x": 60,
+      "y": 101,
+      "width": 400,
+      "height": 400,
+      "type": "link",
+      "url": "https://sv.wikipedia.org/wiki/Solv%C3%A4nda#/media/Fil:Sonnenr%C3%B6schen02.jpg"
+    },
+    {
+      "id": "eec87a4dc9a8e648",
+      "type": "link",
+      "url": "https://sv.wikipedia.org/wiki/Sm%C3%B6rblomma#/media/Fil:Ranunculus_acris_new.jpg",
+      "x": 840,
+      "y": 460,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2036fef3a6bb5117",
+      "type": "link",
+      "url": "https://sv.wikipedia.org/wiki/Gulvial#/media/Fil:(MHNT)_Lathyrus_pratensis_-_Inflorescence.jpg",
+      "x": 860,
+      "y": 0,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "50e5f496ebbb3142",
+      "x": 1494,
+      "y": 809,
+      "width": 400,
+      "height": 400,
+      "type": "link",
+      "url": "https://sv.wikipedia.org/wiki/Lundsm%C3%B6rblomma#/media/Fil:Ranunculus_spp_Sturm51.jpg"
     }
   ],
   "edges": [
