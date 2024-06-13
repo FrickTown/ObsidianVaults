@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 117.04327523728017,
-                  "y": -97.58436489922516,
-                  "zoom": -0.005660013641668682
+                  "x": -166.76120087090516,
+                  "y": 306.9495932068049,
+                  "zoom": -0.19999996423721433
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Media/Solvända.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Media/Solvända.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gula Blommor.canvas"
+                "file": "Media/Solvända.jpg"
               }
             }
           }
