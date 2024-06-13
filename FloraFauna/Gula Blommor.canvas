@@ -54,42 +54,6 @@
       "color": "4"
     },
     {
-      "id": "63f28d4ef15ec130",
-      "type": "link",
-      "url": "https://sv.wikipedia.org/wiki/Nejlikrot#/media/Fil:(MHNT)_Geum_urbanum_-_Buds_and_flower.jpg",
-      "x": -380,
-      "y": 460,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "febb9dcbd5fe787e",
-      "type": "link",
-      "url": "https://sv.wikipedia.org/wiki/Kabbleka#/media/Fil:Caltha_palustris0.jpg",
-      "x": 290,
-      "y": 540,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "87234dce6cf56d7e",
-      "type": "link",
-      "url": "https://sv.wikipedia.org/wiki/Solv%C3%A4nda#/media/Fil:Sonnenr%C3%B6schen02.jpg",
-      "x": 60,
-      "y": 101,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "2036fef3a6bb5117",
-      "type": "link",
-      "url": "https://sv.wikipedia.org/wiki/Gulvial#/media/Fil:(MHNT)_Lathyrus_pratensis_-_Inflorescence.jpg",
-      "x": 860,
-      "y": 0,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "50e5f496ebbb3142",
       "type": "link",
       "url": "https://sv.wikipedia.org/wiki/Lundsm%C3%B6rblomma#/media/Fil:Ranunculus_spp_Sturm51.jpg",
@@ -100,20 +64,74 @@
     },
     {
       "id": "3d45bda12b2c76e7",
+      "type": "link",
+      "url": "https://sv.wikipedia.org/wiki/Revsm%C3%B6rblomma#/media/Fil:Cleaned-Illustration_Ranunculus_repens.jpg",
       "x": 1494,
       "y": 340,
       "width": 400,
-      "height": 400,
-      "type": "link",
-      "url": "https://sv.wikipedia.org/wiki/Revsm%C3%B6rblomma#/media/Fil:Cleaned-Illustration_Ranunculus_repens.jpg"
+      "height": 400
     },
     {
-      "id": "eec87a4dc9a8e648",
-      "type": "link",
-      "url": "https://sv.wikipedia.org/wiki/Sm%C3%B6rblomma#/media/Fil:Ranunculus_acris_new.jpg",
-      "x": 1494,
-      "y": -100,
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": 420,
+      "y": 160,
       "width": 400,
+      "height": 300
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": 836,
+      "y": 750,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": -160,
+      "y": 653,
+      "width": 192,
+      "height": 399
+    },
+    {
+      "id": "a837c47d3a9b596d",
+      "type": "file",
+      "file": "Media/Nejlikrot2.jpg",
+      "x": 120,
+      "y": 715,
+      "width": 400,
+      "height": 277
+    },
+    {
+      "id": "9603c55aaa0fb9a3",
+      "type": "file",
+      "file": "Media/Gulvial.jpg",
+      "x": 872,
+      "y": -142,
+      "width": 281,
+      "height": 400
+    },
+    {
+      "id": "9c720367de56c81b",
+      "type": "file",
+      "file": "Media/Smörblomma2.jpg",
+      "x": 2000,
+      "y": -80,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "df10e23eae0c97b3",
+      "type": "file",
+      "file": "Media/Smörblomma1.jpg",
+      "x": 2440,
+      "y": -130,
+      "width": 367,
       "height": 400
     }
   ],

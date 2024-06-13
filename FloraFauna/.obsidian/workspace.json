@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 975.131515621662,
-                  "y": 413.061613914386,
-                  "zoom": -0.8991311542690175
+                  "x": 1742.8642207704743,
+                  "y": 608.9251052461822,
+                  "zoom": -1.1954019074581361
                 }
               }
             }
@@ -151,16 +151,19 @@
   },
   "active": "448acc95208c44bf",
   "lastOpenFiles": [
-    "Pasted image 20240613212001.jpg",
+    "Media/Pasted image 20240613212001.jpg",
+    "Gula Blommor.canvas",
+    "Media/Smörblomma2.jpg",
+    "Media/Smörblomma1.jpg",
+    "Media/Gulvial.jpg",
+    "Media/Nejlikrot2.jpg",
+    "Media/Nejlikrot1.jpg",
+    "Media/Kabbleka.jpg",
+    "Welcome.md",
+    "Media/Solvända.jpg",
+    "Media/Solvända 1.jpg",
     "create a link.md",
     "Pasted image 20240613210222.jpg",
-    "Pasted image 20240613210008.jpg",
-    "Gula Blommor.canvas",
-    "Media/Solvända.jpg",
-    "Media/640px-Sonnenröschen02.jpg",
-    "Media/Blodrot.jpg",
-    "Media/IMG_20240611_103128093~2.jpg",
-    "Media",
-    "Welcome.md"
+    "Media"
   ]
 }
