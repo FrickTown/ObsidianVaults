@@ -117,15 +117,6 @@
       "height": 300
     },
     {
-      "id": "df10e23eae0c97b3",
-      "type": "file",
-      "file": "Media/Smörblomma1.jpg",
-      "x": 1894,
-      "y": -142,
-      "width": 367,
-      "height": 400
-    },
-    {
       "id": "d269b14d1a79685a",
       "type": "file",
       "file": "Media/Revsmörblomma2.jpg",
@@ -135,9 +126,20 @@
       "height": 400
     },
     {
+      "id": "05eef454c60f9c82",
+      "type": "text",
+      "text": "Har klängen?",
+      "shape": "oval",
+      "x": 2094,
+      "y": 550,
+      "width": 260,
+      "height": 103,
+      "color": "6"
+    },
+    {
       "id": "410cd639034a0f4a",
-      "x": 1894,
-      "y": 843,
+      "x": 2300,
+      "y": 800,
       "width": 400,
       "height": 300,
       "type": "file",
@@ -147,19 +149,39 @@
       "id": "9603c55aaa0fb9a3",
       "type": "file",
       "file": "Media/Gulvial.jpg",
-      "x": 2360,
-      "y": 750,
-      "width": 281,
-      "height": 400
+      "x": 1996,
+      "y": 800,
+      "width": 197,
+      "height": 280
     },
     {
-      "id": "709dd8a369e84213",
-      "x": 2172,
-      "y": 669,
+      "id": "df10e23eae0c97b3",
+      "type": "file",
+      "file": "Media/Smörblomma1.jpg",
+      "x": 1850,
+      "y": -20,
+      "width": 275,
+      "height": 300
+    },
+    {
+      "id": "e0a916319005faad",
+      "type": "text",
+      "text": "Smörblomma",
+      "shape": "oval",
+      "x": 1670,
+      "y": -120,
       "width": 260,
       "height": 60,
-      "type": "text",
-      "text": "Har klängen?"
+      "color": "6"
+    },
+    {
+      "id": "b42f6209b80afada",
+      "x": 1045,
+      "y": 1207,
+      "width": 345,
+      "height": 400,
+      "type": "file",
+      "file": "Media/Gullviva.jpg"
     }
   ],
   "edges": [
@@ -183,7 +205,32 @@
       "fromSide": "bottom",
       "toNode": "b2ad8691d17a6b54",
       "toSide": "top"
+    },
+    {
+      "id": "bfabf0a3966b7f22",
+      "fromNode": "05eef454c60f9c82",
+      "fromSide": "bottom",
+      "toNode": "9603c55aaa0fb9a3",
+      "toSide": "top",
+      "color": "4",
+      "label": "Ja"
+    },
+    {
+      "id": "0ff22f98398119a1",
+      "fromNode": "05eef454c60f9c82",
+      "fromSide": "bottom",
+      "toNode": "410cd639034a0f4a",
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
     }
   ],
-  "metadata": {}
+  "metadata": {
+    "properties": {
+      "cssclasses": [
+        "font-size:",
+        "20px;"
+      ]
+    }
+  }
 }
