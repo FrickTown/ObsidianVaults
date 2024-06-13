@@ -41,6 +41,35 @@
       "height": 400,
       "type": "file",
       "file": "Media/Blodrot.jpg"
+    },
+    {
+      "id": "ffccdc066b8cf222",
+      "type": "text",
+      "text": "Stjälk förvedad",
+      "shape": "oval",
+      "x": 290,
+      "y": 0,
+      "width": 260,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "b56019074aa702ed",
+      "x": 90,
+      "y": 140,
+      "width": 400,
+      "height": 400,
+      "type": "link",
+      "url": "https://sv.wikipedia.org/wiki/Solv%C3%A4nda"
+    },
+    {
+      "id": "d0f881f406c35eef",
+      "x": 600,
+      "y": 140,
+      "width": 400,
+      "height": 400,
+      "type": "link",
+      "url": "https://sv.wikipedia.org/wiki/Sm%C3%B6rblomma"
     }
   ],
   "edges": [
