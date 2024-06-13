@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "f6414cdab3c4e770",
+      "type": "text",
+      "text": "Fyra kronblad",
+      "shape": "centered-rectangle",
+      "x": -360,
+      "y": -100,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "3d4cc58b1eb12db1",
+      "type": "text",
+      "text": "Fem kronblad",
+      "shape": "centered-rectangle",
+      "x": 160,
+      "y": -100,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "25f982d4bc4e177e",
+      "type": "text",
+      "text": "Gul Blomma",
+      "shape": "oval",
+      "x": -100,
+      "y": -240,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "87f17b5023f6e748",
+      "fromNode": "25f982d4bc4e177e",
+      "fromSide": "left",
+      "toNode": "f6414cdab3c4e770",
+      "toSide": "top"
+    },
+    {
+      "id": "db3d31fbe6cf592b",
+      "fromNode": "25f982d4bc4e177e",
+      "fromSide": "right",
+      "toNode": "3d4cc58b1eb12db1",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
