@@ -48,15 +48,6 @@
       "height": 280
     },
     {
-      "id": "b42f6209b80afada",
-      "type": "file",
-      "file": "Media/Gullviva.jpg",
-      "x": 1045,
-      "y": 1207,
-      "width": 345,
-      "height": 400
-    },
-    {
       "id": "8b8488e7ff6f512a",
       "type": "file",
       "file": "Media/Gåsört.png",
@@ -64,15 +55,6 @@
       "y": 1260,
       "width": 400,
       "height": 399
-    },
-    {
-      "id": "b5533ae1543565c9",
-      "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": 2700,
-      "y": 130,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "25f982d4bc4e177e",
@@ -95,15 +77,6 @@
       "width": 260,
       "height": 60,
       "color": "6"
-    },
-    {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": 173,
-      "y": 245,
-      "width": 293,
-      "height": 220
     },
     {
       "id": "b2ad8691d17a6b54",
@@ -315,10 +288,57 @@
       "id": "6d5858daca7a224b",
       "type": "file",
       "file": "Media/Lundsmörblomma.png",
-      "x": 699,
+      "x": 632,
       "y": 288,
       "width": 267,
       "height": 400
+    },
+    {
+      "id": "969b1f906b6c5c21",
+      "type": "text",
+      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 628,
+      "y": 715,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "b42f6209b80afada",
+      "type": "file",
+      "file": "Media/Gullviva.jpg",
+      "x": 1133,
+      "y": 1292,
+      "width": 345,
+      "height": 400
+    },
+    {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": 3,
+      "y": -37,
+      "width": 235,
+      "height": 235
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -487,
+      "y": 350,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "fe4e1ef0767a9279",
+      "x": -458,
+      "y": 219,
+      "width": 260,
+      "height": 60,
+      "type": "text",
+      "text": ""
     }
   ],
   "edges": [
@@ -371,7 +391,8 @@
       "fromSide": "right",
       "toNode": "732d090c86ba7d70",
       "toSide": "top",
-      "color": "3"
+      "color": "3",
+      "label": "Inte fyra"
     },
     {
       "id": "ada9914bc4e89672",
@@ -423,7 +444,7 @@
       "toNode": "6d5858daca7a224b",
       "toSide": "top",
       "color": "5",
-      "label": "Fingrade, men\nstora och runda mot botten"
+      "label": "Fingrade, men\nStora och runda vid\nstjälkbotten"
     }
   ],
   "metadata": {

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 1296.1020534261984,
-                  "y": 408.373807003357,
-                  "zoom": -0.670624950211495
+                  "x": -299.73568942574747,
+                  "y": 551.9032346479526,
+                  "zoom": 0.04000002861022888
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Lundsmörblomma.png",
+                "file": "Gula Blommor.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Lundsmörblomma.png",
+                "file": "Gula Blommor.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Lundsmörblomma.png"
+                "file": "Gula Blommor.canvas"
               }
             }
           }
