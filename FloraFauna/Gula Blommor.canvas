@@ -1,15 +1,6 @@
 {
   "nodes": [
     {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": 836,
-      "y": 750,
-      "width": 400,
-      "height": 300
-    },
-    {
       "id": "92e5ce10e457725d",
       "type": "file",
       "file": "Media/Nejlikrot1.jpg",
@@ -26,42 +17,6 @@
       "y": 715,
       "width": 400,
       "height": 277
-    },
-    {
-      "id": "6d5858daca7a224b",
-      "type": "file",
-      "file": "Media/Lundsmörblomma.png",
-      "x": 1494,
-      "y": 800,
-      "width": 267,
-      "height": 400
-    },
-    {
-      "id": "4b39d5c1a0bb65ad",
-      "type": "file",
-      "file": "Media/Revsmörblomma1.png",
-      "x": 1494,
-      "y": 327,
-      "width": 400,
-      "height": 266
-    },
-    {
-      "id": "9c720367de56c81b",
-      "type": "file",
-      "file": "Media/Smörblomma2.jpg",
-      "x": 1400,
-      "y": -20,
-      "width": 400,
-      "height": 300
-    },
-    {
-      "id": "d269b14d1a79685a",
-      "type": "file",
-      "file": "Media/Revsmörblomma2.jpg",
-      "x": 1180,
-      "y": 350,
-      "width": 243,
-      "height": 400
     },
     {
       "id": "05eef454c60f9c82",
@@ -91,15 +46,6 @@
       "y": 800,
       "width": 197,
       "height": 280
-    },
-    {
-      "id": "df10e23eae0c97b3",
-      "type": "file",
-      "file": "Media/Smörblomma1.jpg",
-      "x": 1850,
-      "y": -20,
-      "width": 275,
-      "height": 300
     },
     {
       "id": "b42f6209b80afada",
@@ -149,17 +95,6 @@
       "width": 260,
       "height": 60,
       "color": "6"
-    },
-    {
-      "id": "3d4cc58b1eb12db1",
-      "type": "text",
-      "text": "Fem kronblad",
-      "shape": "centered-rectangle",
-      "x": 520,
-      "y": 185,
-      "width": 260,
-      "height": 60,
-      "color": "3"
     },
     {
       "id": "a33030e1bd35bb0c",
@@ -225,12 +160,12 @@
     },
     {
       "id": "f91523274481427f",
+      "type": "file",
+      "file": "Media/Femfingerört.jpg",
       "x": 410,
       "y": 1052,
       "width": 180,
-      "height": 240,
-      "type": "file",
-      "file": "Media/Femfingerört.jpg"
+      "height": 240
     },
     {
       "id": "64ad8c3fb146e295",
@@ -277,15 +212,113 @@
       "color": "3"
     },
     {
+      "id": "3d4cc58b1eb12db1",
+      "type": "text",
+      "text": "Fem kronblad",
+      "shape": "centered-rectangle",
+      "x": 300,
+      "y": 593,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "d62086087423e3ad",
+      "type": "text",
+      "text": "Hur är bladen?",
+      "shape": "oval",
+      "x": 1036,
+      "y": 80,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
       "id": "e0a916319005faad",
       "type": "text",
       "text": "Smörblomma-likes",
       "shape": "oval",
-      "x": 836,
-      "y": -190,
+      "x": 1036,
+      "y": -40,
       "width": 260,
       "height": 60,
-      "color": "6"
+      "color": "4"
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": 699,
+      "y": 930,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "9c720367de56c81b",
+      "type": "file",
+      "file": "Media/Smörblomma2.jpg",
+      "x": 1029,
+      "y": 591,
+      "width": 276,
+      "height": 207
+    },
+    {
+      "id": "9862f4144fb29361",
+      "type": "text",
+      "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1029,
+      "y": 823,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "df10e23eae0c97b3",
+      "type": "file",
+      "file": "Media/Smörblomma1.jpg",
+      "x": 1029,
+      "y": 288,
+      "width": 275,
+      "height": 300
+    },
+    {
+      "id": "d269b14d1a79685a",
+      "type": "file",
+      "file": "Media/Revsmörblomma2.jpg",
+      "x": 1458,
+      "y": 288,
+      "width": 243,
+      "height": 400
+    },
+    {
+      "id": "4b39d5c1a0bb65ad",
+      "type": "file",
+      "file": "Media/Revsmörblomma1.png",
+      "x": 1416,
+      "y": 688,
+      "width": 327,
+      "height": 217
+    },
+    {
+      "id": "b11e641fb9ed9df7",
+      "type": "text",
+      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1442,
+      "y": 930,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "6d5858daca7a224b",
+      "type": "file",
+      "file": "Media/Lundsmörblomma.png",
+      "x": 699,
+      "y": 288,
+      "width": 267,
+      "height": 400
     }
   ],
   "edges": [
@@ -348,6 +381,49 @@
       "toSide": "top",
       "color": "1",
       "label": "Nej"
+    },
+    {
+      "id": "561b0c43ebc4e1d6",
+      "fromNode": "d6f016f13ee26405",
+      "fromSide": "right",
+      "toNode": "e0a916319005faad",
+      "toSide": "left",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "9895da84d1932639",
+      "fromNode": "e0a916319005faad",
+      "fromSide": "bottom",
+      "toNode": "d62086087423e3ad",
+      "toSide": "top"
+    },
+    {
+      "id": "6942631505107717",
+      "fromNode": "d62086087423e3ad",
+      "fromSide": "bottom",
+      "toNode": "df10e23eae0c97b3",
+      "toSide": "top",
+      "color": "5",
+      "label": "Svärdlika x3\nPekar utåt"
+    },
+    {
+      "id": "024a37d021270684",
+      "fromNode": "d62086087423e3ad",
+      "fromSide": "right",
+      "toNode": "d269b14d1a79685a",
+      "toSide": "top",
+      "color": "5",
+      "label": "Fingrade, \"arga\""
+    },
+    {
+      "id": "36ce3971f2912d62",
+      "fromNode": "d62086087423e3ad",
+      "fromSide": "left",
+      "toNode": "6d5858daca7a224b",
+      "toSide": "top",
+      "color": "5",
+      "label": "Fingrade, men\nstora och runda mot botten"
     }
   ],
   "metadata": {
