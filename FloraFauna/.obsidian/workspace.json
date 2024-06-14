@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": -166.76120087090516,
-                  "y": 306.9495932068049,
-                  "zoom": -0.19999996423721433
+                  "x": 589.2860648297626,
+                  "y": 72.4938390554361,
+                  "zoom": -0.5067187050962825
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Solvända.jpg",
+                "file": "Gula Blommor.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Solvända.jpg",
+                "file": "Gula Blommor.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Solvända.jpg"
+                "file": "Gula Blommor.canvas"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "448acc95208c44bf",
   "lastOpenFiles": [
+    "Media/Femfingerört.jpg",
     "Media/Käringtand.jpg",
     "Gula Blommor.canvas",
     "Welcome.md",
