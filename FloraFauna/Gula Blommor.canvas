@@ -10,15 +10,6 @@
       "height": 399
     },
     {
-      "id": "a837c47d3a9b596d",
-      "type": "file",
-      "file": "Media/Nejlikrot2.jpg",
-      "x": 120,
-      "y": 715,
-      "width": 400,
-      "height": 277
-    },
-    {
       "id": "05eef454c60f9c82",
       "type": "text",
       "text": "Har klängen?",
@@ -110,28 +101,6 @@
       "color": "3"
     },
     {
-      "id": "d6f016f13ee26405",
-      "type": "text",
-      "text": "Blad fria?",
-      "shape": "oval",
-      "x": 300,
-      "y": -40,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "ffccdc066b8cf222",
-      "type": "text",
-      "text": "Stjälk förvedad",
-      "shape": "oval",
-      "x": -140,
-      "y": 300,
-      "width": 260,
-      "height": 50,
-      "color": "4"
-    },
-    {
       "id": "f91523274481427f",
       "type": "file",
       "file": "Media/Femfingerört.jpg",
@@ -147,17 +116,6 @@
       "shape": "centered-rectangle",
       "x": 370,
       "y": 1292,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "066e0f409b4c207e",
-      "type": "text",
-      "text": "Solvända\n",
-      "shape": "centered-rectangle",
-      "x": 190,
-      "y": 475,
       "width": 260,
       "height": 60,
       "color": "3"
@@ -216,15 +174,6 @@
       "width": 260,
       "height": 60,
       "color": "4"
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": 699,
-      "y": 930,
-      "width": 400,
-      "height": 300
     },
     {
       "id": "9c720367de56c81b",
@@ -314,33 +263,6 @@
       "height": 400
     },
     {
-      "id": "65a00075878b245b",
-      "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": 3,
-      "y": -37,
-      "width": 235,
-      "height": 235
-    },
-    {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": -487,
-      "y": 350,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "fe4e1ef0767a9279",
-      "x": -458,
-      "y": 219,
-      "width": 260,
-      "height": 60,
-      "type": "text",
-      "text": ""
-    },
-    {
       "id": "351f7744c72e2c71",
       "type": "text",
       "text": "Avvikande bladform",
@@ -351,13 +273,113 @@
       "height": 60
     },
     {
-      "id": "37f46ee6099f2316",
-      "x": 2452,
-      "y": 283,
-      "width": 214,
-      "height": 400,
+      "id": "90ceb8e908006245",
       "type": "file",
-      "file": "Media/Ängshaverrot.jpg"
+      "file": "Media/Johannesört.png",
+      "x": 636,
+      "y": -370,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": 590,
+      "y": 1322,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": 1828,
+      "y": 191,
+      "width": 214,
+      "height": 400
+    },
+    {
+      "id": "a837c47d3a9b596d",
+      "type": "file",
+      "file": "Media/Nejlikrot2.jpg",
+      "x": 38,
+      "y": 658,
+      "width": 332,
+      "height": 230
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "Nejlikrot\nRosaceae (Rosväxter)",
+      "shape": "centered-rectangle",
+      "x": 74,
+      "y": 910,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "ffccdc066b8cf222",
+      "type": "text",
+      "text": "Stjälk förvedad",
+      "shape": "oval",
+      "x": 280,
+      "y": 191,
+      "width": 260,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": -443,
+      "y": 241,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -194,
+      "y": 241,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "d6f016f13ee26405",
+      "type": "text",
+      "text": "Kronbladsform?",
+      "shape": "oval",
+      "x": 300,
+      "y": -40,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "066e0f409b4c207e",
+      "type": "text",
+      "text": "Solvända\n",
+      "shape": "centered-rectangle",
+      "x": -194,
+      "y": 475,
+      "width": 293,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "ed4909a2d8a2e0d6",
+      "type": "text",
+      "text": "Solvända\n",
+      "shape": "centered-rectangle",
+      "x": -443,
+      "y": 475,
+      "width": 220,
+      "height": 50,
+      "color": "3"
     }
   ],
   "edges": [
@@ -428,8 +450,8 @@
       "fromSide": "right",
       "toNode": "e0a916319005faad",
       "toSide": "left",
-      "color": "1",
-      "label": "Nej"
+      "color": "3",
+      "label": "Skålformad"
     },
     {
       "id": "9895da84d1932639",
@@ -464,6 +486,24 @@
       "toSide": "top",
       "color": "5",
       "label": "Fingrade, men\nStora och runda vid\nstjälkbotten"
+    },
+    {
+      "id": "bcea125036951aa3",
+      "fromNode": "732d090c86ba7d70",
+      "fromSide": "bottom",
+      "toNode": "a33030e1bd35bb0c",
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "d7353d80e474846e",
+      "fromNode": "732d090c86ba7d70",
+      "fromSide": "bottom",
+      "toNode": "65a00075878b245b",
+      "toSide": "top",
+      "color": "4",
+      "label": "Ja"
     }
   ],
   "metadata": {

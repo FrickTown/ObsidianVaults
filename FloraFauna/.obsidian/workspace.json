@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 2076.8350279667443,
-                  "y": 499.8650181177703,
-                  "zoom": -0.9526561918063104
+                  "x": -120.38806427122267,
+                  "y": 393.1317236601846,
+                  "zoom": -0.6371874512080125
                 }
               }
             }
@@ -151,6 +151,7 @@
   },
   "active": "448acc95208c44bf",
   "lastOpenFiles": [
+    "Media/Johannesört.png",
     "Media/Ängshaverrot.jpg",
     "Media/Änghaverrot.jpg",
     "Media/479px-Tragopogon_bloss.jpg",
@@ -163,7 +164,6 @@
     "Media/Gullviva.jpg",
     "Media/413px-Primula_veris_170405.jpg",
     "Media/Revsmörblomma1.png",
-    "Media/Revsmörblomma2.jpg",
     "create a link.md",
     "Media"
   ]
