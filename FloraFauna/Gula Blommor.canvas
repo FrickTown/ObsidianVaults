@@ -1,53 +1,6 @@
 {
   "nodes": [
     {
-      "id": "92e5ce10e457725d",
-      "type": "file",
-      "file": "Media/Nejlikrot1.jpg",
-      "x": -160,
-      "y": 653,
-      "width": 192,
-      "height": 399
-    },
-    {
-      "id": "05eef454c60f9c82",
-      "type": "text",
-      "text": "Har klängen?",
-      "shape": "oval",
-      "x": 2094,
-      "y": 550,
-      "width": 260,
-      "height": 103,
-      "color": "6"
-    },
-    {
-      "id": "410cd639034a0f4a",
-      "type": "file",
-      "file": "Media/Käringtand.jpg",
-      "x": 2300,
-      "y": 800,
-      "width": 373,
-      "height": 280
-    },
-    {
-      "id": "9603c55aaa0fb9a3",
-      "type": "file",
-      "file": "Media/Gulvial.jpg",
-      "x": 1996,
-      "y": 800,
-      "width": 197,
-      "height": 280
-    },
-    {
-      "id": "8b8488e7ff6f512a",
-      "type": "file",
-      "file": "Media/Gåsört.png",
-      "x": 1628,
-      "y": 1260,
-      "width": 400,
-      "height": 399
-    },
-    {
       "id": "25f982d4bc4e177e",
       "type": "text",
       "text": "Gul Blomma",
@@ -75,8 +28,8 @@
       "file": "Media/Blodrot.jpg",
       "x": -887,
       "y": 105,
-      "width": 301,
-      "height": 400
+      "width": 259,
+      "height": 344
     },
     {
       "id": "732d090c86ba7d70",
@@ -101,53 +54,137 @@
       "color": "3"
     },
     {
-      "id": "f91523274481427f",
+      "id": "05eef454c60f9c82",
+      "type": "text",
+      "text": "Har klängen?",
+      "shape": "oval",
+      "x": 2414,
+      "y": 550,
+      "width": 260,
+      "height": 103,
+      "color": "6"
+    },
+    {
+      "id": "d269b14d1a79685a",
       "type": "file",
-      "file": "Media/Femfingerört.jpg",
-      "x": 410,
-      "y": 1052,
-      "width": 180,
-      "height": 240
+      "file": "Media/Revsmörblomma2.jpg",
+      "x": 1778,
+      "y": 288,
+      "width": 243,
+      "height": 400
+    },
+    {
+      "id": "351f7744c72e2c71",
+      "type": "text",
+      "text": "Avvikande bladform",
+      "shape": "oval",
+      "x": 2287,
+      "y": -1,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": 2148,
+      "y": 191,
+      "width": 214,
+      "height": 400
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": 910,
+      "y": 1322,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "b42f6209b80afada",
+      "type": "file",
+      "file": "Media/Gullviva.jpg",
+      "x": 1453,
+      "y": 1292,
+      "width": 345,
+      "height": 400
+    },
+    {
+      "id": "4b39d5c1a0bb65ad",
+      "type": "file",
+      "file": "Media/Revsmörblomma1.png",
+      "x": 1736,
+      "y": 688,
+      "width": 327,
+      "height": 217
+    },
+    {
+      "id": "b11e641fb9ed9df7",
+      "type": "text",
+      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1762,
+      "y": 930,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "Nejlikrot\nRosaceae (Rosväxter)",
+      "shape": "centered-rectangle",
+      "x": 1146,
+      "y": 1122,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": 912,
+      "y": 865,
+      "width": 192,
+      "height": 399
+    },
+    {
+      "id": "a837c47d3a9b596d",
+      "type": "file",
+      "file": "Media/Nejlikrot2.jpg",
+      "x": 1110,
+      "y": 870,
+      "width": 332,
+      "height": 230
     },
     {
       "id": "64ad8c3fb146e295",
       "type": "text",
       "text": "Femfingerört",
       "shape": "centered-rectangle",
-      "x": 370,
+      "x": 690,
       "y": 1292,
       "width": 260,
       "height": 60,
       "color": "3"
     },
     {
-      "id": "da7c394962f2b760",
-      "type": "text",
-      "text": "Gulvial\nFabaceae (Ärtväxt)",
-      "shape": "centered-rectangle",
-      "x": 1964,
-      "y": 1100,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "4b076624de27abcb",
-      "type": "text",
-      "text": "Käringtand\nFabaceae (Ärtväxt)",
-      "shape": "centered-rectangle",
-      "x": 2357,
-      "y": 1100,
-      "width": 260,
-      "height": 60,
-      "color": "3"
+      "id": "f91523274481427f",
+      "type": "file",
+      "file": "Media/Femfingerört.jpg",
+      "x": 730,
+      "y": 1052,
+      "width": 180,
+      "height": 240
     },
     {
       "id": "3d4cc58b1eb12db1",
       "type": "text",
       "text": "Fem kronblad",
       "shape": "centered-rectangle",
-      "x": 300,
+      "x": 620,
       "y": 593,
       "width": 260,
       "height": 60,
@@ -158,7 +195,7 @@
       "type": "text",
       "text": "Hur är bladen?",
       "shape": "oval",
-      "x": 1036,
+      "x": 1356,
       "y": 80,
       "width": 260,
       "height": 60,
@@ -169,7 +206,7 @@
       "type": "text",
       "text": "Smörblomma-likes",
       "shape": "oval",
-      "x": 1036,
+      "x": 1356,
       "y": -40,
       "width": 260,
       "height": 60,
@@ -179,7 +216,7 @@
       "id": "9c720367de56c81b",
       "type": "file",
       "file": "Media/Smörblomma2.jpg",
-      "x": 1029,
+      "x": 1349,
       "y": 591,
       "width": 276,
       "height": 207
@@ -189,7 +226,7 @@
       "type": "text",
       "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
       "shape": "centered-rectangle",
-      "x": 1029,
+      "x": 1349,
       "y": 823,
       "width": 276,
       "height": 60,
@@ -199,45 +236,16 @@
       "id": "df10e23eae0c97b3",
       "type": "file",
       "file": "Media/Smörblomma1.jpg",
-      "x": 1029,
+      "x": 1349,
       "y": 288,
       "width": 275,
       "height": 300
     },
     {
-      "id": "d269b14d1a79685a",
-      "type": "file",
-      "file": "Media/Revsmörblomma2.jpg",
-      "x": 1458,
-      "y": 288,
-      "width": 243,
-      "height": 400
-    },
-    {
-      "id": "4b39d5c1a0bb65ad",
-      "type": "file",
-      "file": "Media/Revsmörblomma1.png",
-      "x": 1416,
-      "y": 688,
-      "width": 327,
-      "height": 217
-    },
-    {
-      "id": "b11e641fb9ed9df7",
-      "type": "text",
-      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 1442,
-      "y": 930,
-      "width": 276,
-      "height": 60,
-      "color": "3"
-    },
-    {
       "id": "6d5858daca7a224b",
       "type": "file",
       "file": "Media/Lundsmörblomma.png",
-      "x": 632,
+      "x": 952,
       "y": 288,
       "width": 267,
       "height": 400
@@ -247,74 +255,48 @@
       "type": "text",
       "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
       "shape": "centered-rectangle",
-      "x": 628,
+      "x": 948,
       "y": 715,
       "width": 276,
       "height": 60,
       "color": "3"
     },
     {
-      "id": "b42f6209b80afada",
-      "type": "file",
-      "file": "Media/Gullviva.jpg",
-      "x": 1133,
-      "y": 1292,
-      "width": 345,
-      "height": 400
-    },
-    {
-      "id": "351f7744c72e2c71",
+      "id": "da7c394962f2b760",
       "type": "text",
-      "text": "Avvikande bladform",
-      "shape": "oval",
-      "x": 1967,
-      "y": -1,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "90ceb8e908006245",
-      "type": "file",
-      "file": "Media/Johannesört.png",
-      "x": 636,
-      "y": -370,
-      "width": 400,
-      "height": 300
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": 590,
-      "y": 1322,
-      "width": 400,
-      "height": 300
-    },
-    {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": 1828,
-      "y": 191,
-      "width": 214,
-      "height": 400
-    },
-    {
-      "id": "a837c47d3a9b596d",
-      "type": "file",
-      "file": "Media/Nejlikrot2.jpg",
-      "x": 38,
-      "y": 658,
-      "width": 332,
-      "height": 230
-    },
-    {
-      "id": "0b2f1b89533f4d75",
-      "type": "text",
-      "text": "Nejlikrot\nRosaceae (Rosväxter)",
+      "text": "Gulvial\nFabaceae (Ärtväxt)",
       "shape": "centered-rectangle",
-      "x": 74,
-      "y": 910,
+      "x": 2284,
+      "y": 1100,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "9603c55aaa0fb9a3",
+      "type": "file",
+      "file": "Media/Gulvial.jpg",
+      "x": 2316,
+      "y": 800,
+      "width": 197,
+      "height": 280
+    },
+    {
+      "id": "410cd639034a0f4a",
+      "type": "file",
+      "file": "Media/Käringtand.jpg",
+      "x": 2620,
+      "y": 800,
+      "width": 373,
+      "height": 280
+    },
+    {
+      "id": "4b076624de27abcb",
+      "type": "text",
+      "text": "Käringtand\nFabaceae (Ärtväxt)",
+      "shape": "centered-rectangle",
+      "x": 2677,
+      "y": 1100,
       "width": 260,
       "height": 60,
       "color": "3"
@@ -324,60 +306,100 @@
       "type": "text",
       "text": "Stjälk förvedad",
       "shape": "oval",
-      "x": 280,
+      "x": 600,
       "y": 191,
       "width": 260,
       "height": 50,
       "color": "4"
     },
     {
-      "id": "65a00075878b245b",
+      "id": "90ceb8e908006245",
       "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": -443,
-      "y": 241,
-      "width": 220,
-      "height": 220
-    },
-    {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": -194,
-      "y": 241,
-      "width": 293,
-      "height": 220
+      "file": "Media/Johannesört.png",
+      "x": 956,
+      "y": -370,
+      "width": 400,
+      "height": 300
     },
     {
       "id": "d6f016f13ee26405",
       "type": "text",
       "text": "Kronbladsform?",
       "shape": "oval",
-      "x": 300,
+      "x": 620,
       "y": -40,
       "width": 260,
       "height": 60,
       "color": "6"
     },
     {
-      "id": "066e0f409b4c207e",
+      "id": "6e1ad954296e2b14",
       "type": "text",
-      "text": "Solvända\n",
-      "shape": "centered-rectangle",
-      "x": -194,
-      "y": 475,
-      "width": 293,
-      "height": 50,
-      "color": "3"
+      "text": "Hur är växtbasen?",
+      "shape": "oval",
+      "x": -520,
+      "y": 228,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": -630,
+      "y": 481,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "79003287bb15a051",
+      "type": "file",
+      "file": "Media/Gåsört.png",
+      "x": -390,
+      "y": 481,
+      "width": 290,
+      "height": 289
     },
     {
       "id": "ed4909a2d8a2e0d6",
       "type": "text",
+      "text": "Gul Fetknopp\nCrassulaceae (Korsblad)",
+      "shape": "centered-rectangle",
+      "x": -628,
+      "y": 725,
+      "width": 220,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "1c6c8bb2f263de4d",
+      "type": "text",
+      "text": "Gåsört\nRosaceae (Rosväxt)",
+      "shape": "centered-rectangle",
+      "x": -390,
+      "y": 797,
+      "width": 290,
+      "height": 57,
+      "color": "3"
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -100,
+      "y": 190,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "066e0f409b4c207e",
+      "type": "text",
       "text": "Solvända\n",
       "shape": "centered-rectangle",
-      "x": -443,
-      "y": 475,
-      "width": 220,
+      "x": -100,
+      "y": 424,
+      "width": 293,
       "height": 50,
       "color": "3"
     }
@@ -488,22 +510,38 @@
       "label": "Fingrade, men\nStora och runda vid\nstjälkbotten"
     },
     {
-      "id": "bcea125036951aa3",
+      "id": "2ad56812ea3dc3cc",
       "fromNode": "732d090c86ba7d70",
-      "fromSide": "bottom",
+      "fromSide": "right",
       "toNode": "a33030e1bd35bb0c",
       "toSide": "top",
       "color": "1",
       "label": "Nej"
     },
     {
-      "id": "d7353d80e474846e",
+      "id": "39d2f4c485058eb7",
       "fromNode": "732d090c86ba7d70",
+      "fromSide": "left",
+      "toNode": "6e1ad954296e2b14",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "14dd94c4e6ede5a0",
+      "fromNode": "6e1ad954296e2b14",
       "fromSide": "bottom",
       "toNode": "65a00075878b245b",
       "toSide": "top",
-      "color": "4",
-      "label": "Ja"
+      "color": "3"
+    },
+    {
+      "id": "b23aaac9417ad4ac",
+      "fromNode": "6e1ad954296e2b14",
+      "fromSide": "bottom",
+      "toNode": "79003287bb15a051",
+      "toSide": "top",
+      "color": "#bfbfbf",
+      "label": "Grön/Silvrig"
     }
   ],
   "metadata": {
