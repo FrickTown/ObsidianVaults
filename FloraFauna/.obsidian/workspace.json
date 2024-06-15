@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": -409.96982742989456,
-                  "y": 1011.2205230738646,
-                  "zoom": -1.183281184933149
+                  "x": 1146.1754286829776,
+                  "y": 617.0571285271158,
+                  "zoom": -1.0081249401532129
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Media/Ängshaverrot.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Media/Ängshaverrot.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gula Blommor.canvas"
+                "file": "Media/Ängshaverrot.jpg"
               }
             }
           }

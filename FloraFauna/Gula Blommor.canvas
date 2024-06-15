@@ -65,15 +65,6 @@
       "color": "6"
     },
     {
-      "id": "d269b14d1a79685a",
-      "type": "file",
-      "file": "Media/Revsmörblomma2.jpg",
-      "x": 1778,
-      "y": 288,
-      "width": 243,
-      "height": 400
-    },
-    {
       "id": "351f7744c72e2c71",
       "type": "text",
       "text": "Avvikande bladform",
@@ -82,55 +73,6 @@
       "y": -1,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "4b39d5c1a0bb65ad",
-      "type": "file",
-      "file": "Media/Revsmörblomma1.png",
-      "x": 1736,
-      "y": 688,
-      "width": 327,
-      "height": 217
-    },
-    {
-      "id": "b11e641fb9ed9df7",
-      "type": "text",
-      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 1762,
-      "y": 930,
-      "width": 276,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "0b2f1b89533f4d75",
-      "type": "text",
-      "text": "Nejlikrot\nRosaceae (Rosväxter)",
-      "shape": "centered-rectangle",
-      "x": 1146,
-      "y": 1122,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "92e5ce10e457725d",
-      "type": "file",
-      "file": "Media/Nejlikrot1.jpg",
-      "x": 912,
-      "y": 865,
-      "width": 192,
-      "height": 399
-    },
-    {
-      "id": "a837c47d3a9b596d",
-      "type": "file",
-      "file": "Media/Nejlikrot2.jpg",
-      "x": 1110,
-      "y": 870,
-      "width": 332,
-      "height": 230
     },
     {
       "id": "64ad8c3fb146e295",
@@ -151,77 +93,6 @@
       "y": 1052,
       "width": 180,
       "height": 240
-    },
-    {
-      "id": "d62086087423e3ad",
-      "type": "text",
-      "text": "Hur är stjälkbladen?",
-      "shape": "oval",
-      "x": 1356,
-      "y": 80,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "e0a916319005faad",
-      "type": "text",
-      "text": "Smörblomma-likes",
-      "shape": "oval",
-      "x": 1356,
-      "y": -40,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "9c720367de56c81b",
-      "type": "file",
-      "file": "Media/Smörblomma2.jpg",
-      "x": 1349,
-      "y": 591,
-      "width": 276,
-      "height": 207
-    },
-    {
-      "id": "9862f4144fb29361",
-      "type": "text",
-      "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 1349,
-      "y": 823,
-      "width": 276,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "df10e23eae0c97b3",
-      "type": "file",
-      "file": "Media/Smörblomma1.jpg",
-      "x": 1349,
-      "y": 288,
-      "width": 275,
-      "height": 300
-    },
-    {
-      "id": "6d5858daca7a224b",
-      "type": "file",
-      "file": "Media/Lundsmörblomma.png",
-      "x": 952,
-      "y": 288,
-      "width": 267,
-      "height": 400
-    },
-    {
-      "id": "969b1f906b6c5c21",
-      "type": "text",
-      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 948,
-      "y": 715,
-      "width": 276,
-      "height": 60,
-      "color": "3"
     },
     {
       "id": "da7c394962f2b760",
@@ -262,17 +133,6 @@
       "width": 260,
       "height": 60,
       "color": "3"
-    },
-    {
-      "id": "ffccdc066b8cf222",
-      "type": "text",
-      "text": "Stjälk förvedad",
-      "shape": "oval",
-      "x": 600,
-      "y": 191,
-      "width": 260,
-      "height": 50,
-      "color": "4"
     },
     {
       "id": "d6f016f13ee26405",
@@ -355,26 +215,6 @@
       "height": 400
     },
     {
-      "id": "2e228fe8fcd744b4",
-      "type": "text",
-      "text": "Äkta Johannesört",
-      "shape": "centered-rectangle",
-      "x": 1016,
-      "y": -190,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "43bb611974511113",
-      "type": "file",
-      "file": "Äkta Johannes.png",
-      "x": 991,
-      "y": -414,
-      "width": 310,
-      "height": 208
-    },
-    {
       "id": "6e1ad954296e2b14",
       "type": "text",
       "text": "Hur är växtbasen?",
@@ -433,6 +273,164 @@
       "y": 835,
       "width": 333,
       "height": 250
+    },
+    {
+      "id": "2e228fe8fcd744b4",
+      "type": "text",
+      "text": "Äkta Johannesört\n/Hypericacae/ (Johannesörtsväxt)",
+      "shape": "centered-rectangle",
+      "x": 66,
+      "y": 949,
+      "width": 310,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "43bb611974511113",
+      "type": "file",
+      "file": "Äkta Johannes.png",
+      "x": 66,
+      "y": 725,
+      "width": 310,
+      "height": 208
+    },
+    {
+      "id": "c2e1c26e3cac7008",
+      "type": "text",
+      "text": "Fyrkantig Johannesört",
+      "x": 560,
+      "y": 1242,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "Nejlikrot\nRosaceae (Rosväxter)",
+      "shape": "centered-rectangle",
+      "x": 1320,
+      "y": 1332,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": 1086,
+      "y": 1075,
+      "width": 192,
+      "height": 399
+    },
+    {
+      "id": "a837c47d3a9b596d",
+      "type": "file",
+      "file": "Media/Nejlikrot2.jpg",
+      "x": 1284,
+      "y": 1080,
+      "width": 332,
+      "height": 230
+    },
+    {
+      "id": "9c720367de56c81b",
+      "type": "file",
+      "file": "Media/Smörblomma2.jpg",
+      "x": 1580,
+      "y": 751,
+      "width": 276,
+      "height": 207
+    },
+    {
+      "id": "9862f4144fb29361",
+      "type": "text",
+      "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1580,
+      "y": 983,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "d62086087423e3ad",
+      "type": "text",
+      "text": "Hur är stjälkbladen?",
+      "shape": "oval",
+      "x": 1587,
+      "y": 240,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "df10e23eae0c97b3",
+      "type": "file",
+      "file": "Media/Smörblomma1.jpg",
+      "x": 1580,
+      "y": 448,
+      "width": 275,
+      "height": 300
+    },
+    {
+      "id": "b11e641fb9ed9df7",
+      "type": "text",
+      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1993,
+      "y": 1090,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "4b39d5c1a0bb65ad",
+      "type": "file",
+      "file": "Media/Revsmörblomma1.png",
+      "x": 1967,
+      "y": 848,
+      "width": 327,
+      "height": 217
+    },
+    {
+      "id": "d269b14d1a79685a",
+      "type": "file",
+      "file": "Media/Revsmörblomma2.jpg",
+      "x": 2009,
+      "y": 448,
+      "width": 243,
+      "height": 400
+    },
+    {
+      "id": "969b1f906b6c5c21",
+      "type": "text",
+      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1179,
+      "y": 875,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "6d5858daca7a224b",
+      "type": "file",
+      "file": "Media/Lundsmörblomma.png",
+      "x": 1183,
+      "y": 448,
+      "width": 267,
+      "height": 400
+    },
+    {
+      "id": "e0a916319005faad",
+      "type": "text",
+      "text": "Smörblomma-likes",
+      "shape": "oval",
+      "x": 1587,
+      "y": 120,
+      "width": 260,
+      "height": 60,
+      "color": "4"
     }
   ],
   "edges": [
