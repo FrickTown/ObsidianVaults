@@ -84,15 +84,6 @@
       "height": 60
     },
     {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": 2148,
-      "y": 191,
-      "width": 214,
-      "height": 400
-    },
-    {
       "id": "4b39d5c1a0bb65ad",
       "type": "file",
       "file": "Media/Revsmörblomma1.png",
@@ -162,20 +153,9 @@
       "height": 240
     },
     {
-      "id": "3d4cc58b1eb12db1",
-      "type": "text",
-      "text": "Fem kronblad",
-      "shape": "centered-rectangle",
-      "x": 620,
-      "y": 593,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
       "id": "d62086087423e3ad",
       "type": "text",
-      "text": "Hur är bladen?",
+      "text": "Hur är stjälkbladen?",
       "shape": "oval",
       "x": 1356,
       "y": 80,
@@ -295,15 +275,6 @@
       "color": "4"
     },
     {
-      "id": "90ceb8e908006245",
-      "type": "file",
-      "file": "Media/Johannesört.png",
-      "x": 956,
-      "y": -370,
-      "width": 400,
-      "height": 300
-    },
-    {
       "id": "d6f016f13ee26405",
       "type": "text",
       "text": "Kronbladsform?",
@@ -313,66 +284,6 @@
       "width": 260,
       "height": 60,
       "color": "6"
-    },
-    {
-      "id": "79003287bb15a051",
-      "type": "file",
-      "file": "Media/Gåsört.png",
-      "x": -458,
-      "y": 733,
-      "width": 290,
-      "height": 289
-    },
-    {
-      "id": "1c6c8bb2f263de4d",
-      "type": "text",
-      "text": "Gåsört\nRosaceae (Rosväxt)",
-      "shape": "centered-rectangle",
-      "x": -458,
-      "y": 1049,
-      "width": 290,
-      "height": 57,
-      "color": "3"
-    },
-    {
-      "id": "65a00075878b245b",
-      "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": -698,
-      "y": 733,
-      "width": 220,
-      "height": 220
-    },
-    {
-      "id": "ed4909a2d8a2e0d6",
-      "type": "text",
-      "text": "Gul Fetknopp\nCrassulaceae (Korsblad)",
-      "shape": "centered-rectangle",
-      "x": -696,
-      "y": 977,
-      "width": 220,
-      "height": 50,
-      "color": "3"
-    },
-    {
-      "id": "6e1ad954296e2b14",
-      "type": "text",
-      "text": "Hur är växtbasen?",
-      "shape": "oval",
-      "x": -588,
-      "y": 480,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": -622,
-      "y": 1158,
-      "width": 333,
-      "height": 250
     },
     {
       "id": "3507fcefbd97054e",
@@ -433,6 +344,95 @@
       "width": 293,
       "height": 56,
       "color": "3"
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": 666,
+      "y": 288,
+      "width": 214,
+      "height": 400
+    },
+    {
+      "id": "2e228fe8fcd744b4",
+      "type": "text",
+      "text": "Äkta Johannesört",
+      "shape": "centered-rectangle",
+      "x": 1016,
+      "y": -190,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "43bb611974511113",
+      "type": "file",
+      "file": "Äkta Johannes.png",
+      "x": 991,
+      "y": -414,
+      "width": 310,
+      "height": 208
+    },
+    {
+      "id": "6e1ad954296e2b14",
+      "type": "text",
+      "text": "Hur är växtbasen?",
+      "shape": "oval",
+      "x": -586,
+      "y": 572,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "1c6c8bb2f263de4d",
+      "type": "text",
+      "text": "Gåsört\nRosaceae (Rosväxt)",
+      "shape": "centered-rectangle",
+      "x": -260,
+      "y": 1076,
+      "width": 290,
+      "height": 57,
+      "color": "3"
+    },
+    {
+      "id": "79003287bb15a051",
+      "type": "file",
+      "file": "Media/Gåsört.png",
+      "x": -260,
+      "y": 760,
+      "width": 290,
+      "height": 289
+    },
+    {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": -889,
+      "y": 765,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "ed4909a2d8a2e0d6",
+      "type": "text",
+      "text": "Gul Fetknopp\nCrassulaceae (Korsblad)",
+      "shape": "centered-rectangle",
+      "x": -887,
+      "y": 1009,
+      "width": 220,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": -622,
+      "y": 835,
+      "width": 333,
+      "height": 250
     }
   ],
   "edges": [
@@ -556,7 +556,7 @@
       "toNode": "65a00075878b245b",
       "toSide": "top",
       "color": "3",
-      "label": "Omärkvärdig"
+      "label": "Försumbar"
     },
     {
       "id": "b23aaac9417ad4ac",
@@ -593,6 +593,15 @@
       "toSide": "top",
       "color": "4",
       "label": "Ja"
+    },
+    {
+      "id": "e107faeb080d1a5c",
+      "fromNode": "6e1ad954296e2b14",
+      "fromSide": "bottom",
+      "toNode": "59ec22f181e80282",
+      "toSide": "top",
+      "color": "4",
+      "label": "Grön"
     }
   ],
   "metadata": {
