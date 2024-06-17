@@ -1,36 +1,6 @@
 {
   "nodes": [
     {
-      "id": "330109e163d6b78a",
-      "type": "group",
-      "x": 1100,
-      "y": -820,
-      "width": 680,
-      "height": 643,
-      "color": "3",
-      "label": "Johannesörtsväxter"
-    },
-    {
-      "id": "05eef454c60f9c82",
-      "type": "text",
-      "text": "Har klängen?",
-      "shape": "oval",
-      "x": 2414,
-      "y": 550,
-      "width": 260,
-      "height": 103,
-      "color": "6"
-    },
-    {
-      "id": "410cd639034a0f4a",
-      "type": "file",
-      "file": "Media/Käringtand.jpg",
-      "x": 2620,
-      "y": 800,
-      "width": 373,
-      "height": 280
-    },
-    {
       "id": "4b076624de27abcb",
       "type": "text",
       "text": "Käringtand\nFabaceae (Ärtväxt)\n**Kölen rakt ut**",
@@ -39,26 +9,6 @@
       "y": 1100,
       "width": 263,
       "height": 88,
-      "color": "3"
-    },
-    {
-      "id": "43bb611974511113",
-      "type": "file",
-      "file": "Media/Äkta Johannes.png",
-      "x": 1124,
-      "y": -747,
-      "width": 310,
-      "height": 208
-    },
-    {
-      "id": "2e228fe8fcd744b4",
-      "type": "text",
-      "text": "Äkta Johannesört\n/Hypericacae/ (Johannesörtsväxt)",
-      "shape": "centered-rectangle",
-      "x": 1124,
-      "y": -523,
-      "width": 310,
-      "height": 50,
       "color": "3"
     },
     {
@@ -316,12 +266,12 @@
     {
       "id": "c2e1c26e3cac7008",
       "type": "text",
-      "text": "Fyrkantig Johannesört\n/Hypericacae/ (Johannesörtsväxt)",
+      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
       "shape": "centered-rectangle",
       "x": 1460,
       "y": -300,
       "width": 300,
-      "height": 103,
+      "height": 110,
       "color": "3"
     },
     {
@@ -443,7 +393,7 @@
       "x": -1404,
       "y": 920,
       "width": 218,
-      "height": 76,
+      "height": 95,
       "color": "3"
     },
     {
@@ -507,6 +457,46 @@
       "width": 342,
       "height": 137,
       "color": "3"
+    },
+    {
+      "id": "2e228fe8fcd744b4",
+      "type": "text",
+      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
+      "shape": "centered-rectangle",
+      "x": 1124,
+      "y": -523,
+      "width": 310,
+      "height": 143,
+      "color": "3"
+    },
+    {
+      "id": "43bb611974511113",
+      "type": "file",
+      "file": "Media/Äkta Johannes.png",
+      "x": 1124,
+      "y": -747,
+      "width": 310,
+      "height": 208
+    },
+    {
+      "id": "05eef454c60f9c82",
+      "type": "text",
+      "text": "Har klängen?",
+      "shape": "oval",
+      "x": 2414,
+      "y": 550,
+      "width": 260,
+      "height": 103,
+      "color": "6"
+    },
+    {
+      "id": "410cd639034a0f4a",
+      "type": "file",
+      "file": "Media/Käringtand.jpg",
+      "x": 2620,
+      "y": 800,
+      "width": 373,
+      "height": 280
     }
   ],
   "edges": [
