@@ -672,15 +672,6 @@
       "file": "Media/Sommargyllen1.jpg"
     },
     {
-      "id": "555f63dc94409548",
-      "x": 1022,
-      "y": -1825,
-      "width": 610,
-      "height": 457,
-      "type": "file",
-      "file": "Media/Gul Näckros.jpg"
-    },
-    {
       "id": "dc6dbfb547bb5b8c",
       "type": "file",
       "file": "Media/Lundkovall.jpg",
@@ -740,6 +731,26 @@
       "height": 60,
       "type": "text",
       "text": ""
+    },
+    {
+      "id": "555f63dc94409548",
+      "x": 720,
+      "y": -2169,
+      "width": 610,
+      "height": 457,
+      "type": "file",
+      "file": "Media/Gul Näckros.jpg"
+    },
+    {
+      "id": "08b93378d0e9c81b",
+      "type": "text",
+      "text": "**Gul Näckros**\n_Nuphar lutea_\n/Nymphaceae/ (Näckrosväxt)\n**Du borde kunna sätta denna utan extra tips**",
+      "shape": "centered-rectangle",
+      "x": 913,
+      "y": -1626,
+      "width": 294,
+      "height": 160,
+      "color": "3"
     }
   ],
   "edges": [
