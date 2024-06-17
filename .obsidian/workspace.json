@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9611edf70f1779",
+        "id": "a41c376f73f8cf99",
         "type": "tabs",
         "children": [
           {
-            "id": "d520d18de534d34e",
+            "id": "671452da5916a267",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 665.490282045249,
-                  "y": -1149.7531703731383,
-                  "zoom": 0.20000000000000007
+                  "x": -872.6542837815141,
+                  "y": -676.5883463883364,
+                  "zoom": -1
                 }
               }
             }
@@ -152,10 +152,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d520d18de534d34e",
+  "active": "671452da5916a267",
   "lastOpenFiles": [
-    "Snabbnyckel (Familj).canvas",
+    "Media/Gul Näckros.jpg",
+    "Media/Sommargyllen1.jpg",
     "Gula Blommor.canvas",
+    "Media/Sommargyllen2.jpg",
+    "Pasted image 20240617224154.png",
+    "Snabbnyckel (Familj).canvas",
     "Blomväxtfamiljer.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -168,9 +172,6 @@
     "ReadMe.md.md",
     "Media/Johannesört.png",
     "canvas-export.html.pdf",
-    "canvas-export.html",
-    "Media/Gråfibbla.png",
-    "Pasted image 20240617190101.png",
-    "Media/Äkta Johannes.png"
+    "canvas-export.html"
   ]
 }

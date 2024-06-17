@@ -1,16 +1,6 @@
 {
   "nodes": [
     {
-      "id": "f27cfad9eebce4f7",
-      "type": "file",
-      "file": "ReadMe.md.md",
-      "subpath": "#Gula Blommor",
-      "x": -585,
-      "y": -808,
-      "width": 394,
-      "height": 122
-    },
-    {
       "id": "a837c47d3a9b596d",
       "type": "file",
       "file": "Media/Nejlikrot2.jpg",
@@ -110,48 +100,6 @@
       "width": 207,
       "height": 60,
       "color": "6"
-    },
-    {
-      "id": "1fdcbdf5ccbeac19",
-      "type": "text",
-      "text": "... har den ett lila huvud ovanför de gula bladen?",
-      "shape": "oval",
-      "x": -565,
-      "y": -510,
-      "width": 264,
-      "height": 80,
-      "color": "6"
-    },
-    {
-      "id": "25f982d4bc4e177e",
-      "type": "text",
-      "text": "Gul Blomma",
-      "shape": "oval",
-      "x": -537,
-      "y": -632,
-      "width": 207,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "41aab41a3f3875c8",
-      "type": "text",
-      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
-      "shape": "centered-rectangle",
-      "x": -931,
-      "y": -550,
-      "width": 207,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "dc6dbfb547bb5b8c",
-      "type": "file",
-      "file": "Media/Lundkovall.jpg",
-      "x": -942,
-      "y": -801,
-      "width": 230,
-      "height": 230
     },
     {
       "id": "d6f016f13ee26405",
@@ -695,15 +643,6 @@
       "height": 225
     },
     {
-      "id": "4183daf7adc38741",
-      "type": "file",
-      "file": "Media/Sommargyllen.jpg",
-      "x": 360,
-      "y": -1903,
-      "width": 342,
-      "height": 688
-    },
-    {
       "id": "6bcc286a8597bbb2",
       "type": "text",
       "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)",
@@ -713,6 +652,94 @@
       "width": 273,
       "height": 126,
       "color": "3"
+    },
+    {
+      "id": "731bf1b6ea060c84",
+      "x": 324,
+      "y": -1544,
+      "width": 344,
+      "height": 303,
+      "type": "file",
+      "file": "Media/Sommargyllen2.jpg"
+    },
+    {
+      "id": "643ddad8130b6209",
+      "x": 362,
+      "y": -2095,
+      "width": 268,
+      "height": 540,
+      "type": "file",
+      "file": "Media/Sommargyllen1.jpg"
+    },
+    {
+      "id": "555f63dc94409548",
+      "x": 1022,
+      "y": -1825,
+      "width": 610,
+      "height": 457,
+      "type": "file",
+      "file": "Media/Gul Näckros.jpg"
+    },
+    {
+      "id": "dc6dbfb547bb5b8c",
+      "type": "file",
+      "file": "Media/Lundkovall.jpg",
+      "x": -942,
+      "y": -986,
+      "width": 230,
+      "height": 230
+    },
+    {
+      "id": "41aab41a3f3875c8",
+      "type": "text",
+      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
+      "shape": "centered-rectangle",
+      "x": -931,
+      "y": -735,
+      "width": 207,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "f27cfad9eebce4f7",
+      "type": "file",
+      "file": "ReadMe.md.md",
+      "subpath": "#Gula Blommor",
+      "x": -585,
+      "y": -993,
+      "width": 394,
+      "height": 122
+    },
+    {
+      "id": "1fdcbdf5ccbeac19",
+      "type": "text",
+      "text": "... har den ett lila huvud ovanför de gula bladen?",
+      "shape": "oval",
+      "x": -565,
+      "y": -695,
+      "width": 264,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "25f982d4bc4e177e",
+      "type": "text",
+      "text": "Gul Blomma",
+      "shape": "oval",
+      "x": -537,
+      "y": -817,
+      "width": 207,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "1342aacb5c4a1a43",
+      "x": -533,
+      "y": -420,
+      "width": 260,
+      "height": 60,
+      "type": "text",
+      "text": ""
     }
   ],
   "edges": [
