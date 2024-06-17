@@ -768,37 +768,6 @@
       "height": 318
     },
     {
-      "id": "58d32939c67374f7",
-      "type": "text",
-      "text": "5-taligt hylle?",
-      "shape": "oval",
-      "x": 575,
-      "y": -1050,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "64ad8c3fb146e295",
-      "type": "text",
-      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
-      "shape": "centered-rectangle",
-      "x": 1888,
-      "y": -1057,
-      "width": 223,
-      "height": 159,
-      "color": "3"
-    },
-    {
-      "id": "f91523274481427f",
-      "type": "file",
-      "file": "Media/Femfingerört.jpg",
-      "x": 1500,
-      "y": -1295,
-      "width": 346,
-      "height": 462
-    },
-    {
       "id": "b2026690d655d76e",
       "x": 471,
       "y": -711,
@@ -816,6 +785,37 @@
       "y": -869,
       "width": 400,
       "height": 143,
+      "color": "3"
+    },
+    {
+      "id": "58d32939c67374f7",
+      "type": "text",
+      "text": "Är den lite silvrig till färgen?",
+      "shape": "oval",
+      "x": 589,
+      "y": -1057,
+      "width": 234,
+      "height": 77,
+      "color": "6"
+    },
+    {
+      "id": "f91523274481427f",
+      "type": "file",
+      "file": "Media/Femfingerört.jpg",
+      "x": 1016,
+      "y": -1627,
+      "width": 346,
+      "height": 462
+    },
+    {
+      "id": "64ad8c3fb146e295",
+      "type": "text",
+      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
+      "shape": "centered-rectangle",
+      "x": 1400,
+      "y": -1325,
+      "width": 328,
+      "height": 155,
       "color": "3"
     }
   ],
@@ -1232,7 +1232,26 @@
       "fromSide": "top",
       "toNode": "b2026690d655d76e",
       "toSide": "bottom",
+      "color": "5",
       "label": "PacMan utan ögon"
+    },
+    {
+      "id": "78824f008b8c67cf",
+      "fromNode": "58d32939c67374f7",
+      "fromSide": "right",
+      "toNode": "a837c47d3a9b596d",
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "cdfc8e9d7b9b12bc",
+      "fromNode": "58d32939c67374f7",
+      "fromSide": "right",
+      "toNode": "f91523274481427f",
+      "toSide": "bottom",
+      "color": "4",
+      "label": "Ja"
     }
   ],
   "metadata": {
