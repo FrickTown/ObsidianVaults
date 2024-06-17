@@ -315,37 +315,6 @@
       "color": "6"
     },
     {
-      "id": "caaf4c66e50b602f",
-      "type": "text",
-      "text": "Kronbladsform?",
-      "shape": "oval",
-      "x": -1103,
-      "y": 1015,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": -1519,
-      "y": 1260,
-      "width": 333,
-      "height": 250
-    },
-    {
-      "id": "4b2c5fc7163f8778",
-      "type": "text",
-      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
-      "shape": "centered-rectangle",
-      "x": -1501,
-      "y": 1540,
-      "width": 297,
-      "height": 123,
-      "color": "3"
-    },
-    {
       "id": "2e228fe8fcd744b4",
       "type": "text",
       "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
@@ -508,6 +477,46 @@
       "width": 260,
       "height": 60,
       "color": "6"
+    },
+    {
+      "id": "6f3c957870838bc2",
+      "type": "file",
+      "file": "Media/Tussilago.jpg",
+      "x": -700,
+      "y": 222,
+      "width": 264,
+      "height": 198
+    },
+    {
+      "id": "5686d1a636f72b1e",
+      "type": "text",
+      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
+      "shape": "centered-rectangle",
+      "x": -700,
+      "y": 420,
+      "width": 264,
+      "height": 138,
+      "color": "3"
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": -1139,
+      "y": 755,
+      "width": 333,
+      "height": 250
+    },
+    {
+      "id": "4b2c5fc7163f8778",
+      "type": "text",
+      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
+      "shape": "centered-rectangle",
+      "x": -1121,
+      "y": 1035,
+      "width": 297,
+      "height": 123,
+      "color": "3"
     }
   ],
   "edges": [
@@ -678,24 +687,6 @@
       "color": "5"
     },
     {
-      "id": "e17f6c186cbd7681",
-      "fromNode": "caaf4c66e50b602f",
-      "fromSide": "bottom",
-      "toNode": "59ec22f181e80282",
-      "toSide": "top",
-      "color": "5",
-      "label": "Strålande"
-    },
-    {
-      "id": "33ef4e9dea17d786",
-      "fromNode": "6e1ad954296e2b14",
-      "fromSide": "bottom",
-      "toNode": "caaf4c66e50b602f",
-      "toSide": "top",
-      "color": "4",
-      "label": "Ej märkvärdig"
-    },
-    {
       "id": "fa94eefb3ff35a50",
       "fromNode": "6e1ad954296e2b14",
       "fromSide": "left",
@@ -718,7 +709,27 @@
       "fromNode": "970e75fe5f1967f4",
       "fromSide": "bottom",
       "toNode": "3507fcefbd97054e",
-      "toSide": "top"
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "027415612c284403",
+      "fromNode": "970e75fe5f1967f4",
+      "fromSide": "left",
+      "toNode": "6f3c957870838bc2",
+      "toSide": "right",
+      "color": "4",
+      "label": "Ja"
+    },
+    {
+      "id": "3d81e32f6695033e",
+      "fromNode": "6e1ad954296e2b14",
+      "fromSide": "bottom",
+      "toNode": "59ec22f181e80282",
+      "toSide": "top",
+      "color": "4",
+      "label": "Grön"
     }
   ],
   "metadata": {
