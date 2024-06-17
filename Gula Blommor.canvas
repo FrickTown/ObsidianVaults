@@ -386,88 +386,6 @@
       "color": "3"
     },
     {
-      "id": "6b634c557b9b9bb9",
-      "type": "text",
-      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
-      "shape": "centered-rectangle",
-      "x": 280,
-      "y": 850,
-      "width": 290,
-      "height": 141,
-      "color": "3"
-    },
-    {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": 318,
-      "y": 422,
-      "width": 214,
-      "height": 400
-    },
-    {
-      "id": "3b7de5b1937693d9",
-      "type": "text",
-      "text": "Korgblomma",
-      "shape": "oval",
-      "x": 295,
-      "y": 125,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "63bce2b4c5a46282",
-      "type": "text",
-      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
-      "shape": "centered-rectangle",
-      "x": -470,
-      "y": 858,
-      "width": 221,
-      "height": 94,
-      "color": "3"
-    },
-    {
-      "id": "066e0f409b4c207e",
-      "type": "text",
-      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
-      "shape": "centered-rectangle",
-      "x": -52,
-      "y": 824,
-      "width": 293,
-      "height": 112,
-      "color": "3"
-    },
-    {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": -52,
-      "y": 590,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "3507fcefbd97054e",
-      "type": "text",
-      "text": "Har blomman pip?",
-      "shape": "oval",
-      "x": -276,
-      "y": 481,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "b42f6209b80afada",
-      "type": "file",
-      "file": "Media/Gullviva.jpg",
-      "x": -470,
-      "y": 591,
-      "width": 221,
-      "height": 256
-    },
-    {
       "id": "970e75fe5f1967f4",
       "type": "text",
       "text": "Korgblommig?",
@@ -517,6 +435,119 @@
       "width": 297,
       "height": 123,
       "color": "3"
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -87,
+      "y": 766,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "066e0f409b4c207e",
+      "type": "text",
+      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
+      "shape": "centered-rectangle",
+      "x": -87,
+      "y": 1000,
+      "width": 293,
+      "height": 112,
+      "color": "3"
+    },
+    {
+      "id": "bde87e4c55689c24",
+      "x": -454,
+      "y": 766,
+      "width": 308,
+      "height": 231,
+      "type": "file",
+      "file": "Media/Humlelusern.jpeg"
+    },
+    {
+      "id": "3eec569de4370114",
+      "type": "text",
+      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
+      "shape": "centered-rectangle",
+      "x": -422,
+      "y": 1022,
+      "width": 245,
+      "height": 145,
+      "color": "3"
+    },
+    {
+      "id": "3507fcefbd97054e",
+      "type": "text",
+      "text": "Har blomman pip?",
+      "shape": "oval",
+      "x": -276,
+      "y": 459,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "6b634c557b9b9bb9",
+      "type": "text",
+      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
+      "shape": "centered-rectangle",
+      "x": 330,
+      "y": 854,
+      "width": 290,
+      "height": 141,
+      "color": "3"
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": 368,
+      "y": 426,
+      "width": 214,
+      "height": 400
+    },
+    {
+      "id": "3b7de5b1937693d9",
+      "type": "text",
+      "text": "Korgblomma",
+      "shape": "oval",
+      "x": 345,
+      "y": 129,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "b42f6209b80afada",
+      "type": "file",
+      "file": "Media/Gullviva.jpg",
+      "x": 96,
+      "y": 361,
+      "width": 221,
+      "height": 256
+    },
+    {
+      "id": "63bce2b4c5a46282",
+      "type": "text",
+      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
+      "shape": "centered-rectangle",
+      "x": 96,
+      "y": 617,
+      "width": 221,
+      "height": 94,
+      "color": "3"
+    },
+    {
+      "id": "307de7ae09f16d24",
+      "type": "text",
+      "text": "",
+      "shape": "oval",
+      "x": -130,
+      "y": 602,
+      "width": 260,
+      "height": 60,
+      "color": "6"
     }
   ],
   "edges": [
@@ -652,24 +683,6 @@
       "label": "Grön/Silvrig"
     },
     {
-      "id": "e61b80ac6e9f3756",
-      "fromNode": "3507fcefbd97054e",
-      "fromSide": "right",
-      "toNode": "a33030e1bd35bb0c",
-      "toSide": "top",
-      "color": "1",
-      "label": "Nej"
-    },
-    {
-      "id": "97a046fdcf2fb0dd",
-      "fromNode": "3507fcefbd97054e",
-      "fromSide": "left",
-      "toNode": "b42f6209b80afada",
-      "toSide": "top",
-      "color": "4",
-      "label": "Ja"
-    },
-    {
       "id": "4b9e440523a58500",
       "fromNode": "d6f016f13ee26405",
       "fromSide": "left",
@@ -730,6 +743,15 @@
       "toSide": "top",
       "color": "4",
       "label": "Grön"
+    },
+    {
+      "id": "63776b7338f4dbb4",
+      "fromNode": "3507fcefbd97054e",
+      "fromSide": "right",
+      "toNode": "b42f6209b80afada",
+      "toSide": "left",
+      "color": "4",
+      "label": "Ja"
     }
   ],
   "metadata": {
