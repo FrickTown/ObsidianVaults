@@ -140,17 +140,6 @@
       "color": "3"
     },
     {
-      "id": "9862f4144fb29361",
-      "type": "text",
-      "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 612,
-      "y": 880,
-      "width": 219,
-      "height": 119,
-      "color": "3"
-    },
-    {
       "id": "e0a916319005faad",
       "type": "text",
       "text": "Smörblomma-likes\n(Ranunkel)",
@@ -463,15 +452,6 @@
       "height": 184
     },
     {
-      "id": "af9dde609e6ec265",
-      "type": "file",
-      "file": "Media/Ryssgubbe2.jpg",
-      "x": -300,
-      "y": -1929,
-      "width": 400,
-      "height": 268
-    },
-    {
       "id": "643ddad8130b6209",
       "type": "file",
       "file": "Media/Sommargyllen1.jpg",
@@ -571,26 +551,6 @@
       "y": 1198,
       "width": 238,
       "height": 162,
-      "color": "3"
-    },
-    {
-      "id": "65a00075878b245b",
-      "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": -2060,
-      "y": 808,
-      "width": 198,
-      "height": 198
-    },
-    {
-      "id": "ed4909a2d8a2e0d6",
-      "type": "text",
-      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)\n****",
-      "shape": "centered-rectangle",
-      "x": -2071,
-      "y": 1018,
-      "width": 220,
-      "height": 121,
       "color": "3"
     },
     {
@@ -821,17 +781,6 @@
       "color": "3"
     },
     {
-      "id": "f9f68933834bcf84",
-      "type": "text",
-      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
-      "shape": "centered-rectangle",
-      "x": -250,
-      "y": -1643,
-      "width": 300,
-      "height": 147,
-      "color": "3"
-    },
-    {
       "id": "0b2f1b89533f4d75",
       "type": "text",
       "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)\n**Kan ibland likna revsmörblomma, men notera de väldigt strödda bladen och gröna foderbladen.**",
@@ -892,6 +841,57 @@
       "width": 249,
       "height": 74,
       "color": "6"
+    },
+    {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": -2033,
+      "y": 790,
+      "width": 198,
+      "height": 198
+    },
+    {
+      "id": "ed4909a2d8a2e0d6",
+      "type": "text",
+      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)\n**Borde nog egentligen uppmärksamma sin vikt mer.**",
+      "shape": "centered-rectangle",
+      "x": -2059,
+      "y": 1003,
+      "width": 251,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "f9f68933834bcf84",
+      "type": "text",
+      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
+      "shape": "centered-rectangle",
+      "x": -255,
+      "y": -1660,
+      "width": 310,
+      "height": 183,
+      "color": "3"
+    },
+    {
+      "id": "af9dde609e6ec265",
+      "type": "file",
+      "file": "Media/Ryssgubbe2.jpg",
+      "x": -300,
+      "y": -1934,
+      "width": 400,
+      "height": 268
+    },
+    {
+      "id": "9862f4144fb29361",
+      "type": "text",
+      "text": "**Vanlig Smörblomma**\n_Ranunculus acris_\nRanunculaceae (Ranunkel)\n**Episka svärd-formade blad. **\n**\"Spjut\" enligt Krok...**",
+      "shape": "centered-rectangle",
+      "x": 585,
+      "y": 880,
+      "width": 271,
+      "height": 180,
+      "color": "3"
     }
   ],
   "edges": [
