@@ -100,17 +100,6 @@
       "height": 211
     },
     {
-      "id": "b11e641fb9ed9df7",
-      "type": "text",
-      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 952,
-      "y": 958,
-      "width": 219,
-      "height": 84,
-      "color": "3"
-    },
-    {
       "id": "410cd639034a0f4a",
       "type": "file",
       "file": "Media/Käringtand.jpg",
@@ -202,17 +191,6 @@
       "height": 379
     },
     {
-      "id": "969b1f906b6c5c21",
-      "type": "text",
-      "text": "**Lundsmörblomma**\n_Ranunculus cassubicus_\nRanunculaceae (Ranunkel)\nFetingbladen längst ned ",
-      "shape": "centered-rectangle",
-      "x": 257,
-      "y": 767,
-      "width": 219,
-      "height": 105,
-      "color": "3"
-    },
-    {
       "id": "d90df7b36aaa6a5c",
       "type": "text",
       "text": "Drar höjdgränsen vid ungefär knähöjd. Naturligtvis lättare att bedöma med shorts på sig. [40 cm]",
@@ -298,17 +276,6 @@
       "y": -695,
       "width": 264,
       "height": 80,
-      "color": "6"
-    },
-    {
-      "id": "1342aacb5c4a1a43",
-      "type": "text",
-      "text": "Växer den precis intill ett vattendrag?",
-      "shape": "oval",
-      "x": -550,
-      "y": -445,
-      "width": 234,
-      "height": 65,
       "color": "6"
     },
     {
@@ -589,7 +556,7 @@
     {
       "id": "72d3fd9194d090ca",
       "type": "file",
-      "file": "Media/Revfingerört.JPG",
+      "file": "Media/Revfingerört.jpg",
       "x": -2338,
       "y": 988,
       "width": 246,
@@ -618,7 +585,7 @@
     {
       "id": "ed4909a2d8a2e0d6",
       "type": "text",
-      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)",
+      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)\n****",
       "shape": "centered-rectangle",
       "x": -2071,
       "y": 1018,
@@ -892,6 +859,39 @@
       "y": -808,
       "width": 148,
       "height": 308
+    },
+    {
+      "id": "969b1f906b6c5c21",
+      "type": "text",
+      "text": "**Lundsmörblomma**\n_Ranunculus cassubicus_\nRanunculaceae (Ranunkel)\n**Fetingbladen längst ned bästa avgöraren.**",
+      "shape": "centered-rectangle",
+      "x": 235,
+      "y": 759,
+      "width": 263,
+      "height": 153,
+      "color": "3"
+    },
+    {
+      "id": "b11e641fb9ed9df7",
+      "type": "text",
+      "text": "**Revsmörblomma**\n_Ranunculus repens_\nRanunculaceae (Ranunkel)\n**Bladen har uddblad.**\n**Ser lite mer ondskefull ut än vanlig smörblomma.**",
+      "shape": "centered-rectangle",
+      "x": 921,
+      "y": 954,
+      "width": 259,
+      "height": 186,
+      "color": "3"
+    },
+    {
+      "id": "1342aacb5c4a1a43",
+      "type": "text",
+      "text": "Växer den precis intill ett vattendrag?",
+      "shape": "oval",
+      "x": -557,
+      "y": -449,
+      "width": 249,
+      "height": 74,
+      "color": "6"
     }
   ],
   "edges": [
