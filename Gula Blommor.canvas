@@ -142,37 +142,6 @@
       "color": "3"
     },
     {
-      "id": "6f3c957870838bc2",
-      "type": "file",
-      "file": "Media/Tussilago.jpg",
-      "x": -1252,
-      "y": 944,
-      "width": 210,
-      "height": 158
-    },
-    {
-      "id": "5686d1a636f72b1e",
-      "type": "text",
-      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
-      "shape": "centered-rectangle",
-      "x": -1252,
-      "y": 1159,
-      "width": 210,
-      "height": 138,
-      "color": "3"
-    },
-    {
-      "id": "307de7ae09f16d24",
-      "type": "text",
-      "text": "Hur är stjälken?",
-      "shape": "oval",
-      "x": -1131,
-      "y": 783,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "59ec22f181e80282",
       "type": "file",
       "file": "Media/Kabbleka.jpg",
@@ -180,57 +149,6 @@
       "y": 808,
       "width": 250,
       "height": 188
-    },
-    {
-      "id": "c97a99b21cccf7b4",
-      "type": "text",
-      "text": "**Gråfibbla**\n_Pilosella officinarum_\nAsteraceae\n**Typ maskros. Fast inte.**",
-      "shape": "centered-rectangle",
-      "x": -949,
-      "y": 1159,
-      "width": 207,
-      "height": 107,
-      "color": "3"
-    },
-    {
-      "id": "5e9c92d87721cc37",
-      "type": "file",
-      "file": "Media/Gråfibbla.png",
-      "x": -925,
-      "y": 943,
-      "width": 159,
-      "height": 159
-    },
-    {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": -715,
-      "y": 771,
-      "width": 233,
-      "height": 175
-    },
-    {
-      "id": "066e0f409b4c207e",
-      "type": "text",
-      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
-      "shape": "centered-rectangle",
-      "x": -715,
-      "y": 1005,
-      "width": 233,
-      "height": 123,
-      "color": "3"
-    },
-    {
-      "id": "3eec569de4370114",
-      "type": "text",
-      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
-      "shape": "centered-rectangle",
-      "x": -682,
-      "y": 534,
-      "width": 195,
-      "height": 145,
-      "color": "3"
     },
     {
       "id": "d37b99d4d0b14af0",
@@ -274,26 +192,6 @@
       "height": 175
     },
     {
-      "id": "63bce2b4c5a46282",
-      "type": "text",
-      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
-      "shape": "centered-rectangle",
-      "x": -1488,
-      "y": 359,
-      "width": 176,
-      "height": 167,
-      "color": "3"
-    },
-    {
-      "id": "bde87e4c55689c24",
-      "type": "file",
-      "file": "Media/Humlelusern.jpeg",
-      "x": -675,
-      "y": 370,
-      "width": 181,
-      "height": 136
-    },
-    {
       "id": "3507fcefbd97054e",
       "type": "text",
       "text": "Kronans form?",
@@ -324,17 +222,6 @@
       "y": -240,
       "width": 207,
       "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "05eef454c60f9c82",
-      "type": "text",
-      "text": "Hur ligger kölen mot hyllet?",
-      "shape": "oval",
-      "x": 919,
-      "y": -246,
-      "width": 207,
-      "height": 58,
       "color": "6"
     },
     {
@@ -584,11 +471,22 @@
       "height": 230
     },
     {
+      "id": "05eef454c60f9c82",
+      "type": "text",
+      "text": "Hur ligger kölen mot hyllet?",
+      "shape": "oval",
+      "x": 790,
+      "y": -238,
+      "width": 207,
+      "height": 58,
+      "color": "6"
+    },
+    {
       "id": "410cd639034a0f4a",
       "type": "file",
       "file": "Media/Käringtand.jpg",
-      "x": 1307,
-      "y": -468,
+      "x": 1178,
+      "y": -460,
       "width": 296,
       "height": 222
     },
@@ -597,8 +495,8 @@
       "type": "text",
       "text": "**Käringtand**\n_Lotus corniculatus_\nFabaceae (Ärtväxt)\n**Kölen rakt ut**\n**Ibland lite röd**\n**Parbladiga \\*med\\* uddblad**",
       "shape": "centered-rectangle",
-      "x": 1630,
-      "y": -452,
+      "x": 1501,
+      "y": -444,
       "width": 296,
       "height": 191,
       "color": "3"
@@ -607,8 +505,8 @@
       "id": "9603c55aaa0fb9a3",
       "type": "file",
       "file": "Media/Gulvial.jpg",
-      "x": 1298,
-      "y": -198,
+      "x": 1169,
+      "y": -190,
       "width": 157,
       "height": 224
     },
@@ -617,11 +515,124 @@
       "type": "text",
       "text": "**Gulvial**\n_Lathyrus pratensis_\nFabaceae (Ärtväxt)\n**Kölen ligger längsmed**\n**Växer ofta lite högre än käringtand**\n**Parbladiga \\*utan\\* uddblad**",
       "shape": "centered-rectangle",
-      "x": 1489,
-      "y": -188,
+      "x": 1360,
+      "y": -180,
       "width": 301,
       "height": 205,
       "color": "3"
+    },
+    {
+      "id": "63bce2b4c5a46282",
+      "type": "text",
+      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
+      "shape": "centered-rectangle",
+      "x": -1490,
+      "y": 356,
+      "width": 176,
+      "height": 167,
+      "color": "3"
+    },
+    {
+      "id": "e8a09464606014a6",
+      "type": "text",
+      "text": "Har växten avsevärt långa stjälkar?",
+      "shape": "oval",
+      "x": -123,
+      "y": -240,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "5e9c92d87721cc37",
+      "type": "file",
+      "file": "Media/Gråfibbla.png",
+      "x": -980,
+      "y": 981,
+      "width": 216,
+      "height": 216
+    },
+    {
+      "id": "c97a99b21cccf7b4",
+      "type": "text",
+      "text": "**Gråfibbla**\n_Pilosella officinarum_\nAsteraceae\n**Typ maskros. Fast inte.**",
+      "shape": "centered-rectangle",
+      "x": -989,
+      "y": 1215,
+      "width": 234,
+      "height": 138,
+      "color": "3"
+    },
+    {
+      "id": "307de7ae09f16d24",
+      "type": "text",
+      "text": "Hur är stjälken?",
+      "shape": "oval",
+      "x": -1102,
+      "y": 649,
+      "width": 207,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "5686d1a636f72b1e",
+      "type": "text",
+      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
+      "shape": "centered-rectangle",
+      "x": -1252,
+      "y": 1192,
+      "width": 245,
+      "height": 161,
+      "color": "3"
+    },
+    {
+      "id": "6f3c957870838bc2",
+      "type": "file",
+      "file": "Media/Tussilago.jpg",
+      "x": -1252,
+      "y": 988,
+      "width": 245,
+      "height": 184
+    },
+    {
+      "id": "bde87e4c55689c24",
+      "type": "file",
+      "file": "Media/Humlelusern.jpeg",
+      "x": -621,
+      "y": 381,
+      "width": 181,
+      "height": 136
+    },
+    {
+      "id": "066e0f409b4c207e",
+      "type": "text",
+      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
+      "shape": "centered-rectangle",
+      "x": -661,
+      "y": 1016,
+      "width": 233,
+      "height": 123,
+      "color": "3"
+    },
+    {
+      "id": "3eec569de4370114",
+      "type": "text",
+      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
+      "shape": "centered-rectangle",
+      "x": -628,
+      "y": 545,
+      "width": 195,
+      "height": 145,
+      "color": "3"
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -661,
+      "y": 782,
+      "width": 233,
+      "height": 175
     }
   ],
   "edges": [
@@ -804,15 +815,6 @@
       "label": "Smörblomsaktig"
     },
     {
-      "id": "85f31d64c912cd2c",
-      "fromNode": "3f886d8bcb15750b",
-      "fromSide": "right",
-      "toNode": "d6f016f13ee26405",
-      "toSide": "left",
-      "color": "1",
-      "label": "Nej"
-    },
-    {
       "id": "db42f05c8f9bf708",
       "edgePathRoute": "square",
       "fromNode": "d6f016f13ee26405",
@@ -919,6 +921,24 @@
       "toSide": "left",
       "color": "1",
       "label": "Utstickande"
+    },
+    {
+      "id": "2f4f66b84a6adae6",
+      "fromNode": "3f886d8bcb15750b",
+      "fromSide": "right",
+      "toNode": "e8a09464606014a6",
+      "toSide": "left",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "d237a42b1fc49c56",
+      "fromNode": "e8a09464606014a6",
+      "fromSide": "right",
+      "toNode": "d6f016f13ee26405",
+      "toSide": "left",
+      "color": "1",
+      "label": "Nej"
     }
   ],
   "metadata": {
