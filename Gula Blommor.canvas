@@ -33,15 +33,6 @@
       "color": "6"
     },
     {
-      "id": "dc6dbfb547bb5b8c",
-      "type": "file",
-      "file": "Media/Lundkovall.jpg",
-      "x": -136,
-      "y": -824,
-      "width": 194,
-      "height": 194
-    },
-    {
       "id": "f91523274481427f",
       "type": "file",
       "file": "Media/Femfingerört.jpg",
@@ -89,17 +80,6 @@
       "y": -1062,
       "width": 153,
       "height": 318
-    },
-    {
-      "id": "41aab41a3f3875c8",
-      "type": "text",
-      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
-      "shape": "centered-rectangle",
-      "x": -142,
-      "y": -590,
-      "width": 207,
-      "height": 160,
-      "color": "3"
     },
     {
       "id": "3f886d8bcb15750b",
@@ -622,6 +602,26 @@
       "width": 207,
       "height": 60,
       "color": "6"
+    },
+    {
+      "id": "41aab41a3f3875c8",
+      "type": "text",
+      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
+      "shape": "centered-rectangle",
+      "x": -931,
+      "y": -590,
+      "width": 207,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "dc6dbfb547bb5b8c",
+      "type": "file",
+      "file": "Media/Lundkovall.jpg",
+      "x": -942,
+      "y": -832,
+      "width": 230,
+      "height": 230
     }
   ],
   "edges": [
@@ -850,15 +850,6 @@
       "color": "5"
     },
     {
-      "id": "a0e92040caa8b9f9",
-      "fromNode": "1fdcbdf5ccbeac19",
-      "fromSide": "right",
-      "toNode": "41aab41a3f3875c8",
-      "toSide": "left",
-      "color": "4",
-      "label": "...ja"
-    },
-    {
       "id": "e98fa0ddbb2cbe6f",
       "fromNode": "57a24f8eb47e6f05",
       "fromSide": "bottom",
@@ -902,6 +893,15 @@
       "toSide": "left",
       "color": "5",
       "label": "Intrikat vikta"
+    },
+    {
+      "id": "d439237fddb74feb",
+      "fromNode": "1fdcbdf5ccbeac19",
+      "fromSide": "left",
+      "toNode": "41aab41a3f3875c8",
+      "toSide": "right",
+      "color": "4",
+      "label": "...ja"
     }
   ],
   "metadata": {
