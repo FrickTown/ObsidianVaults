@@ -416,17 +416,6 @@
       "height": 400
     },
     {
-      "id": "6b634c557b9b9bb9",
-      "type": "text",
-      "text": "Ängshaverrot\n\nAsteraceae (Korgblomma)",
-      "shape": "centered-rectangle",
-      "x": 225,
-      "y": 805,
-      "width": 290,
-      "height": 100,
-      "color": "3"
-    },
-    {
       "id": "06c10b447e796fa6",
       "type": "file",
       "file": "Media/Fyrkantig Johannes.png",
@@ -469,12 +458,23 @@
     {
       "id": "4b2c5fc7163f8778",
       "type": "text",
-      "text": "Kabbleka",
+      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
       "shape": "centered-rectangle",
-      "x": -992,
-      "y": 1117,
-      "width": 260,
-      "height": 60,
+      "x": -1010,
+      "y": 1099,
+      "width": 297,
+      "height": 123,
+      "color": "3"
+    },
+    {
+      "id": "6b634c557b9b9bb9",
+      "type": "text",
+      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n****",
+      "shape": "centered-rectangle",
+      "x": 225,
+      "y": 819,
+      "width": 290,
+      "height": 141,
       "color": "3"
     }
   ],
