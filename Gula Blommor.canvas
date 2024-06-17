@@ -37,7 +37,7 @@
       "type": "text",
       "text": "Kronblad fria?",
       "shape": "oval",
-      "isStartNode": true,
+      "isStartNode": false,
       "x": -1048,
       "y": -240,
       "width": 260,
@@ -490,18 +490,18 @@
     {
       "id": "da7c394962f2b760",
       "type": "text",
-      "text": "**Gulvial**\n_Lathyrus pratensis_\nFabaceae (Ärtväxt)\n**Kölen ligger längsmed**\n**Växer ofta lite högre än käringtand**",
+      "text": "**Gulvial**\n_Lathyrus pratensis_\nFabaceae (Ärtväxt)\n**Kölen ligger längsmed**\n**Växer ofta lite högre än käringtand**\n**Parbladiga \\*utan\\* uddblad**",
       "shape": "centered-rectangle",
       "x": 1834,
       "y": -190,
-      "width": 256,
+      "width": 286,
       "height": 171,
       "color": "3"
     },
     {
       "id": "4b076624de27abcb",
       "type": "text",
-      "text": "**Käringtand**\n_Lotus corniculatus_\nFabaceae (Ärtväxt)\n**Kölen rakt ut**\n**Ibland lite röd**",
+      "text": "**Käringtand**\n_Lotus corniculatus_\nFabaceae (Ärtväxt)\n**Kölen rakt ut**\n**Ibland lite röd**\n**Parbladiga \\*med\\* uddblad**",
       "shape": "centered-rectangle",
       "x": 2227,
       "y": -190,
@@ -626,12 +626,12 @@
     },
     {
       "id": "dc6dbfb547bb5b8c",
+      "type": "file",
+      "file": "Media/Lundkovall.jpg",
       "x": 345,
       "y": -824,
       "width": 244,
-      "height": 244,
-      "type": "file",
-      "file": "Media/Lundkovall.jpg"
+      "height": 244
     }
   ],
   "edges": [
