@@ -482,15 +482,6 @@
       "color": "3"
     },
     {
-      "id": "b42f6209b80afada",
-      "type": "file",
-      "file": "Media/Gullviva.jpg",
-      "x": -1341,
-      "y": 324,
-      "width": 197,
-      "height": 228
-    },
-    {
       "id": "63bce2b4c5a46282",
       "type": "text",
       "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
@@ -573,17 +564,6 @@
       "color": "3"
     },
     {
-      "id": "307de7ae09f16d24",
-      "type": "text",
-      "text": "Hur är stjälken?",
-      "shape": "oval",
-      "x": -999,
-      "y": 609,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "3507fcefbd97054e",
       "type": "text",
       "text": "Kronans form?",
@@ -633,6 +613,26 @@
       "width": 263,
       "height": 146,
       "color": "3"
+    },
+    {
+      "id": "307de7ae09f16d24",
+      "type": "text",
+      "text": "Hur är stjälken?",
+      "shape": "oval",
+      "x": -1017,
+      "y": 598,
+      "width": 207,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "b42f6209b80afada",
+      "type": "file",
+      "file": "Media/Gullviva.jpg",
+      "x": -1320,
+      "y": 324,
+      "width": 197,
+      "height": 228
     }
   ],
   "edges": [
@@ -862,16 +862,6 @@
       "label": "Nej"
     },
     {
-      "id": "e10a1e261cbbd206",
-      "edgePathRoute": "a-star",
-      "fromNode": "d6f016f13ee26405",
-      "fromSide": "bottom",
-      "toNode": "3b7de5b1937693d9",
-      "toSide": "right",
-      "color": "5",
-      "label": "Korg"
-    },
-    {
       "id": "ba2e36204bffada8",
       "fromNode": "d6f016f13ee26405",
       "fromSide": "right",
@@ -942,6 +932,15 @@
       "toSide": "right",
       "color": "5",
       "label": "Pip"
+    },
+    {
+      "id": "ec4f690e66d95621",
+      "fromNode": "d6f016f13ee26405",
+      "fromSide": "bottom",
+      "toNode": "3b7de5b1937693d9",
+      "toSide": "top",
+      "color": "5",
+      "label": "Korg"
     }
   ],
   "metadata": {
