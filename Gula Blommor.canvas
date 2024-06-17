@@ -59,17 +59,6 @@
       "height": 230
     },
     {
-      "id": "0b2f1b89533f4d75",
-      "type": "text",
-      "text": "Nejlikrot\nRosaceae (Rosväxter)",
-      "shape": "centered-rectangle",
-      "x": 1320,
-      "y": 1332,
-      "width": 260,
-      "height": 108,
-      "color": "3"
-    },
-    {
       "id": "9c720367de56c81b",
       "type": "file",
       "file": "Media/Smörblomma2.jpg",
@@ -336,26 +325,6 @@
       "color": "6"
     },
     {
-      "id": "65a00075878b245b",
-      "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": -1733,
-      "y": 382,
-      "width": 220,
-      "height": 220
-    },
-    {
-      "id": "ed4909a2d8a2e0d6",
-      "type": "text",
-      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)",
-      "shape": "centered-rectangle",
-      "x": -1731,
-      "y": 626,
-      "width": 218,
-      "height": 95,
-      "color": "3"
-    },
-    {
       "id": "e571b5180598863d",
       "type": "text",
       "text": "**Revfingerört**\n_Potentilla reptans_\nRosaceae\n**Ofta meterlånga krypande revor med små, sågade blad**",
@@ -374,157 +343,6 @@
       "y": 375,
       "width": 310,
       "height": 232
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": -1448,
-      "y": 475,
-      "width": 315,
-      "height": 236
-    },
-    {
-      "id": "4b2c5fc7163f8778",
-      "type": "text",
-      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
-      "shape": "centered-rectangle",
-      "x": -1430,
-      "y": 724,
-      "width": 297,
-      "height": 123,
-      "color": "3"
-    },
-    {
-      "id": "b2ad8691d17a6b54",
-      "type": "file",
-      "file": "Media/Blodrot.jpg",
-      "x": -1643,
-      "y": -240,
-      "width": 259,
-      "height": 344
-    },
-    {
-      "id": "63bce2b4c5a46282",
-      "type": "text",
-      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
-      "shape": "centered-rectangle",
-      "x": -1009,
-      "y": 87,
-      "width": 221,
-      "height": 94,
-      "color": "3"
-    },
-    {
-      "id": "b42f6209b80afada",
-      "type": "file",
-      "file": "Media/Gullviva.jpg",
-      "x": -994,
-      "y": -151,
-      "width": 190,
-      "height": 220
-    },
-    {
-      "id": "6f3c957870838bc2",
-      "type": "file",
-      "file": "Media/Tussilago.jpg",
-      "x": -820,
-      "y": 320,
-      "width": 264,
-      "height": 198
-    },
-    {
-      "id": "5686d1a636f72b1e",
-      "type": "text",
-      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
-      "shape": "centered-rectangle",
-      "x": -820,
-      "y": 518,
-      "width": 264,
-      "height": 138,
-      "color": "3"
-    },
-    {
-      "id": "1c6c8bb2f263de4d",
-      "type": "text",
-      "text": "**Gåsört**\n_Argentina anserina_\nRosaceae (Rosväxt)\n**Mångpariga blad med talrika sågtänder**",
-      "shape": "centered-rectangle",
-      "x": -1116,
-      "y": 664,
-      "width": 290,
-      "height": 142,
-      "color": "3"
-    },
-    {
-      "id": "79003287bb15a051",
-      "type": "file",
-      "file": "Media/Gåsört.png",
-      "x": -1104,
-      "y": 377,
-      "width": 266,
-      "height": 265
-    },
-    {
-      "id": "3507fcefbd97054e",
-      "type": "text",
-      "text": "Kronans form?",
-      "shape": "oval",
-      "x": -626,
-      "y": -68,
-      "width": 260,
-      "height": 50,
-      "color": "6"
-    },
-    {
-      "id": "307de7ae09f16d24",
-      "type": "text",
-      "text": "Hur är stjälken?",
-      "shape": "oval",
-      "x": -756,
-      "y": 104,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "3eec569de4370114",
-      "type": "text",
-      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
-      "shape": "centered-rectangle",
-      "x": -273,
-      "y": 53,
-      "width": 245,
-      "height": 145,
-      "color": "3"
-    },
-    {
-      "id": "bde87e4c55689c24",
-      "type": "file",
-      "file": "Media/Humlelusern.jpeg",
-      "x": -265,
-      "y": -128,
-      "width": 228,
-      "height": 171
-    },
-    {
-      "id": "066e0f409b4c207e",
-      "type": "text",
-      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
-      "shape": "centered-rectangle",
-      "x": -366,
-      "y": 623,
-      "width": 293,
-      "height": 112,
-      "color": "3"
-    },
-    {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": -366,
-      "y": 389,
-      "width": 293,
-      "height": 220
     },
     {
       "id": "f6414cdab3c4e770",
@@ -548,6 +366,188 @@
       "width": 260,
       "height": 60,
       "color": "6"
+    },
+    {
+      "id": "b2ad8691d17a6b54",
+      "type": "file",
+      "file": "Media/Blodrot.jpg",
+      "x": -1622,
+      "y": -240,
+      "width": 232,
+      "height": 309
+    },
+    {
+      "id": "307de7ae09f16d24",
+      "type": "text",
+      "text": "Hur är stjälken?",
+      "shape": "oval",
+      "x": -452,
+      "y": 122,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "3507fcefbd97054e",
+      "type": "text",
+      "text": "Kronans form?",
+      "shape": "oval",
+      "x": -322,
+      "y": -50,
+      "width": 260,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "6f3c957870838bc2",
+      "type": "file",
+      "file": "Media/Tussilago.jpg",
+      "x": -516,
+      "y": 338,
+      "width": 264,
+      "height": 198
+    },
+    {
+      "id": "5686d1a636f72b1e",
+      "type": "text",
+      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
+      "shape": "centered-rectangle",
+      "x": -516,
+      "y": 536,
+      "width": 264,
+      "height": 138,
+      "color": "3"
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
+      "shape": "centered-rectangle",
+      "x": 1289,
+      "y": 1320,
+      "width": 327,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "1c6c8bb2f263de4d",
+      "type": "text",
+      "text": "**Gåsört**\n_Argentina anserina_\nRosaceae (Rosväxt)\n**Mångpariga blad med talrika sågtänder**",
+      "shape": "centered-rectangle",
+      "x": -917,
+      "y": 592,
+      "width": 290,
+      "height": 142,
+      "color": "3"
+    },
+    {
+      "id": "79003287bb15a051",
+      "type": "file",
+      "file": "Media/Gåsört.png",
+      "x": -905,
+      "y": 305,
+      "width": 266,
+      "height": 265
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": -1280,
+      "y": 343,
+      "width": 315,
+      "height": 236
+    },
+    {
+      "id": "4b2c5fc7163f8778",
+      "type": "text",
+      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
+      "shape": "centered-rectangle",
+      "x": -1262,
+      "y": 592,
+      "width": 297,
+      "height": 123,
+      "color": "3"
+    },
+    {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": -1673,
+      "y": 343,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "ed4909a2d8a2e0d6",
+      "type": "text",
+      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)",
+      "shape": "centered-rectangle",
+      "x": -1671,
+      "y": 587,
+      "width": 218,
+      "height": 95,
+      "color": "3"
+    },
+    {
+      "id": "3eec569de4370114",
+      "type": "text",
+      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
+      "shape": "centered-rectangle",
+      "x": 77,
+      "y": 71,
+      "width": 245,
+      "height": 145,
+      "color": "3"
+    },
+    {
+      "id": "bde87e4c55689c24",
+      "type": "file",
+      "file": "Media/Humlelusern.jpeg",
+      "x": 85,
+      "y": -110,
+      "width": 228,
+      "height": 171
+    },
+    {
+      "id": "b42f6209b80afada",
+      "type": "file",
+      "file": "Media/Gullviva.jpg",
+      "x": -678,
+      "y": -133,
+      "width": 190,
+      "height": 220
+    },
+    {
+      "id": "63bce2b4c5a46282",
+      "type": "text",
+      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
+      "shape": "centered-rectangle",
+      "x": -918,
+      "y": -85,
+      "width": 221,
+      "height": 94,
+      "color": "3"
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -146,
+      "y": 338,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "066e0f409b4c207e",
+      "type": "text",
+      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
+      "shape": "centered-rectangle",
+      "x": -146,
+      "y": 572,
+      "width": 293,
+      "height": 112,
+      "color": "3"
     }
   ],
   "edges": [
@@ -736,6 +736,7 @@
     },
     {
       "id": "5df2a9da7349887e",
+      "edgePathRoute": "square",
       "fromNode": "f6414cdab3c4e770",
       "fromSide": "bottom",
       "toNode": "732d090c86ba7d70",
@@ -745,6 +746,7 @@
     },
     {
       "id": "0d424f6d337aab68",
+      "edgePathRoute": "square",
       "fromNode": "f6414cdab3c4e770",
       "fromSide": "bottom",
       "toNode": "b2ad8691d17a6b54",
@@ -757,7 +759,9 @@
       "fromNode": "3f886d8bcb15750b",
       "fromSide": "left",
       "toNode": "f6414cdab3c4e770",
-      "toSide": "right"
+      "toSide": "right",
+      "color": "4",
+      "label": "Ja"
     }
   ],
   "metadata": {
