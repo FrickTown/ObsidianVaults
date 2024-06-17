@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 522.8740611097303,
-                  "y": 891.9177083965515,
-                  "zoom": -0.23092112629155204
+                  "x": 710.6581926545743,
+                  "y": 536.3564209532503,
+                  "zoom": -3.8309211262915515
                 }
               }
             }
@@ -148,7 +148,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "d520d18de534d34e",

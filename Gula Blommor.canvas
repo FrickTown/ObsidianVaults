@@ -102,68 +102,6 @@
       "color": "3"
     },
     {
-      "id": "410cd639034a0f4a",
-      "type": "file",
-      "file": "Media/Käringtand.jpg",
-      "x": 1700,
-      "y": -1238,
-      "width": 296,
-      "height": 222
-    },
-    {
-      "id": "4b076624de27abcb",
-      "type": "text",
-      "text": "**Käringtand**\n_Lotus corniculatus_\nFabaceae (Ärtväxt)\n**Kölen rakt ut**\n**Ibland lite röd**\n**Parbladiga \\*med\\* uddblad**",
-      "shape": "centered-rectangle",
-      "x": 1700,
-      "y": -988,
-      "width": 296,
-      "height": 171,
-      "color": "3"
-    },
-    {
-      "id": "da7c394962f2b760",
-      "type": "text",
-      "text": "**Gulvial**\n_Lathyrus pratensis_\nFabaceae (Ärtväxt)\n**Kölen ligger längsmed**\n**Växer ofta lite högre än käringtand**\n**Parbladiga \\*utan\\* uddblad**",
-      "shape": "centered-rectangle",
-      "x": 1413,
-      "y": -1002,
-      "width": 247,
-      "height": 200,
-      "color": "3"
-    },
-    {
-      "id": "9603c55aaa0fb9a3",
-      "type": "file",
-      "file": "Media/Gulvial.jpg",
-      "x": 1458,
-      "y": -1238,
-      "width": 157,
-      "height": 224
-    },
-    {
-      "id": "05eef454c60f9c82",
-      "type": "text",
-      "text": "Har klängen?",
-      "shape": "oval",
-      "x": 1536,
-      "y": -1488,
-      "width": 207,
-      "height": 103,
-      "color": "6"
-    },
-    {
-      "id": "d6f016f13ee26405",
-      "type": "text",
-      "text": "Kronans form?",
-      "shape": "oval",
-      "x": 522,
-      "y": -240,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "3f886d8bcb15750b",
       "type": "text",
       "text": "Nära marken?",
@@ -431,129 +369,62 @@
       "color": "6"
     },
     {
-      "id": "df10e23eae0c97b3",
-      "type": "file",
-      "file": "Media/Smörblomma1.jpg",
-      "x": 512,
-      "y": 812,
-      "width": 219,
-      "height": 239
-    },
-    {
-      "id": "d269b14d1a79685a",
-      "type": "file",
-      "file": "Media/Revsmörblomma2.jpg",
-      "x": 853,
-      "y": 812,
-      "width": 193,
-      "height": 318
-    },
-    {
-      "id": "06c10b447e796fa6",
-      "type": "file",
-      "file": "Media/Fyrkantig Johannes.png",
-      "x": 1122,
-      "y": 778,
-      "width": 238,
-      "height": 318
-    },
-    {
-      "id": "c2e1c26e3cac7008",
+      "id": "da7c394962f2b760",
       "type": "text",
-      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
+      "text": "**Gulvial**\n_Lathyrus pratensis_\nFabaceae (Ärtväxt)\n**Kölen ligger längsmed**\n**Växer ofta lite högre än käringtand**\n**Parbladiga \\*utan\\* uddblad**",
       "shape": "centered-rectangle",
       "x": 1122,
-      "y": 1119,
-      "width": 238,
-      "height": 157,
+      "y": -85,
+      "width": 247,
+      "height": 200,
       "color": "3"
     },
     {
-      "id": "4b39d5c1a0bb65ad",
+      "id": "9603c55aaa0fb9a3",
       "type": "file",
-      "file": "Media/Revsmörblomma1.png",
-      "x": 790,
-      "y": 1136,
-      "width": 318,
-      "height": 211
+      "file": "Media/Gulvial.jpg",
+      "x": 1167,
+      "y": -321,
+      "width": 157,
+      "height": 224
     },
     {
-      "id": "b11e641fb9ed9df7",
-      "type": "text",
-      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 853,
-      "y": 1365,
-      "width": 219,
-      "height": 84,
-      "color": "3"
-    },
-    {
-      "id": "9c720367de56c81b",
+      "id": "410cd639034a0f4a",
       "type": "file",
-      "file": "Media/Smörblomma2.jpg",
-      "x": 474,
-      "y": 1055,
-      "width": 295,
-      "height": 221
+      "file": "Media/Käringtand.jpg",
+      "x": 1409,
+      "y": -321,
+      "width": 296,
+      "height": 222
     },
     {
-      "id": "9862f4144fb29361",
+      "id": "4b076624de27abcb",
       "type": "text",
-      "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
+      "text": "**Käringtand**\n_Lotus corniculatus_\nFabaceae (Ärtväxt)\n**Kölen rakt ut**\n**Ibland lite röd**\n**Parbladiga \\*med\\* uddblad**",
       "shape": "centered-rectangle",
-      "x": 513,
-      "y": 1287,
-      "width": 219,
-      "height": 119,
+      "x": 1409,
+      "y": -71,
+      "width": 296,
+      "height": 171,
       "color": "3"
     },
     {
-      "id": "43bb611974511113",
-      "type": "file",
-      "file": "Media/Äkta Johannes.png",
-      "x": 1515,
-      "y": 778,
-      "width": 350,
-      "height": 235
-    },
-    {
-      "id": "2e228fe8fcd744b4",
+      "id": "05eef454c60f9c82",
       "type": "text",
-      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
-      "shape": "centered-rectangle",
-      "x": 1567,
-      "y": 1027,
-      "width": 246,
-      "height": 185,
-      "color": "3"
-    },
-    {
-      "id": "6d5858daca7a224b",
-      "type": "file",
-      "file": "Media/Lundsmörblomma.png",
-      "x": 190,
-      "y": 793,
-      "width": 253,
-      "height": 379
-    },
-    {
-      "id": "969b1f906b6c5c21",
-      "type": "text",
-      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 207,
-      "y": 1182,
-      "width": 219,
-      "height": 105,
-      "color": "3"
+      "text": "Ligger kölen platt längsmed kronan?",
+      "shape": "oval",
+      "x": 919,
+      "y": -246,
+      "width": 207,
+      "height": 72,
+      "color": "6"
     },
     {
       "id": "37f46ee6099f2316",
       "type": "file",
       "file": "Media/Ängshaverrot.jpg",
-      "x": -162,
-      "y": 664,
+      "x": -353,
+      "y": 386,
       "width": 254,
       "height": 475
     },
@@ -562,41 +433,50 @@
       "type": "text",
       "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
       "shape": "centered-rectangle",
-      "x": -162,
-      "y": 1151,
-      "width": 254,
+      "x": -341,
+      "y": 873,
+      "width": 242,
       "height": 141,
       "color": "3"
     },
     {
-      "id": "e0a916319005faad",
+      "id": "3b7de5b1937693d9",
       "type": "text",
-      "text": "Smörblomma-likes\n(Ranunkel)",
+      "text": "Korgblomma",
       "shape": "oval",
-      "x": 518,
-      "y": 509,
+      "x": -330,
+      "y": 231,
       "width": 207,
       "height": 60,
       "color": "4"
     },
     {
-      "id": "d62086087423e3ad",
+      "id": "6d5858daca7a224b",
+      "type": "file",
+      "file": "Media/Lundsmörblomma.png",
+      "x": -1,
+      "y": 515,
+      "width": 253,
+      "height": 379
+    },
+    {
+      "id": "969b1f906b6c5c21",
       "type": "text",
-      "text": "Hur är stjälkbladen?",
-      "shape": "oval",
-      "x": 519,
-      "y": 634,
-      "width": 207,
-      "height": 60,
-      "color": "6"
+      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 16,
+      "y": 904,
+      "width": 219,
+      "height": 105,
+      "color": "3"
     },
     {
       "id": "57a24f8eb47e6f05",
       "type": "text",
       "text": "Johannesörter",
       "shape": "oval",
-      "x": 1360,
-      "y": 508,
+      "x": 1169,
+      "y": 230,
       "width": 207,
       "height": 60,
       "color": "4"
@@ -606,43 +486,145 @@
       "type": "text",
       "text": "Är stjälken fyrkantig?",
       "shape": "oval",
-      "x": 1360,
-      "y": 634,
+      "x": 1169,
+      "y": 356,
       "width": 207,
       "height": 60,
       "color": "6"
     },
     {
-      "id": "3b7de5b1937693d9",
+      "id": "43bb611974511113",
+      "type": "file",
+      "file": "Media/Äkta Johannes.png",
+      "x": 1324,
+      "y": 500,
+      "width": 350,
+      "height": 235
+    },
+    {
+      "id": "2e228fe8fcd744b4",
       "type": "text",
-      "text": "Korgblomma",
+      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
+      "shape": "centered-rectangle",
+      "x": 1376,
+      "y": 749,
+      "width": 246,
+      "height": 185,
+      "color": "3"
+    },
+    {
+      "id": "06c10b447e796fa6",
+      "type": "file",
+      "file": "Media/Fyrkantig Johannes.png",
+      "x": 931,
+      "y": 500,
+      "width": 238,
+      "height": 318
+    },
+    {
+      "id": "c2e1c26e3cac7008",
+      "type": "text",
+      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
+      "shape": "centered-rectangle",
+      "x": 931,
+      "y": 841,
+      "width": 238,
+      "height": 157,
+      "color": "3"
+    },
+    {
+      "id": "df10e23eae0c97b3",
+      "type": "file",
+      "file": "Media/Smörblomma1.jpg",
+      "x": 321,
+      "y": 534,
+      "width": 219,
+      "height": 239
+    },
+    {
+      "id": "d269b14d1a79685a",
+      "type": "file",
+      "file": "Media/Revsmörblomma2.jpg",
+      "x": 662,
+      "y": 534,
+      "width": 193,
+      "height": 318
+    },
+    {
+      "id": "e0a916319005faad",
+      "type": "text",
+      "text": "Smörblomma-likes\n(Ranunkel)",
       "shape": "oval",
-      "x": -139,
-      "y": 509,
+      "x": 327,
+      "y": 231,
       "width": 207,
       "height": 60,
       "color": "4"
+    },
+    {
+      "id": "d62086087423e3ad",
+      "type": "text",
+      "text": "Hur är stjälkbladen?",
+      "shape": "oval",
+      "x": 328,
+      "y": 356,
+      "width": 207,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "4b39d5c1a0bb65ad",
+      "type": "file",
+      "file": "Media/Revsmörblomma1.png",
+      "x": 599,
+      "y": 858,
+      "width": 318,
+      "height": 211
+    },
+    {
+      "id": "b11e641fb9ed9df7",
+      "type": "text",
+      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 662,
+      "y": 1087,
+      "width": 219,
+      "height": 84,
+      "color": "3"
+    },
+    {
+      "id": "9c720367de56c81b",
+      "type": "file",
+      "file": "Media/Smörblomma2.jpg",
+      "x": 283,
+      "y": 777,
+      "width": 295,
+      "height": 221
+    },
+    {
+      "id": "9862f4144fb29361",
+      "type": "text",
+      "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 322,
+      "y": 1009,
+      "width": 219,
+      "height": 119,
+      "color": "3"
+    },
+    {
+      "id": "d6f016f13ee26405",
+      "type": "text",
+      "text": "Kronans form?",
+      "shape": "oval",
+      "x": 327,
+      "y": -240,
+      "width": 207,
+      "height": 60,
+      "color": "6"
     }
   ],
   "edges": [
-    {
-      "id": "bfabf0a3966b7f22",
-      "fromNode": "05eef454c60f9c82",
-      "fromSide": "bottom",
-      "toNode": "9603c55aaa0fb9a3",
-      "toSide": "top",
-      "color": "4",
-      "label": "Ja"
-    },
-    {
-      "id": "0ff22f98398119a1",
-      "fromNode": "05eef454c60f9c82",
-      "fromSide": "bottom",
-      "toNode": "410cd639034a0f4a",
-      "toSide": "top",
-      "color": "1",
-      "label": "Nej"
-    },
     {
       "id": "9895da84d1932639",
       "fromNode": "e0a916319005faad",
@@ -903,14 +885,22 @@
       "label": "Nej"
     },
     {
-      "id": "9fe6e44629cffbde",
+      "id": "e10a1e261cbbd206",
       "edgePathRoute": "a-star",
       "fromNode": "d6f016f13ee26405",
       "fromSide": "bottom",
       "toNode": "3b7de5b1937693d9",
-      "toSide": "top",
+      "toSide": "right",
       "color": "5",
       "label": "Korg"
+    },
+    {
+      "id": "ba2e36204bffada8",
+      "fromNode": "d6f016f13ee26405",
+      "fromSide": "right",
+      "toNode": "05eef454c60f9c82",
+      "toSide": "left",
+      "label": "Ihopvikta"
     }
   ],
   "metadata": {
