@@ -1,6 +1,16 @@
 {
   "nodes": [
     {
+      "id": "dceb82ea6854a534",
+      "type": "group",
+      "x": -650,
+      "y": -1108,
+      "width": 434,
+      "height": 357,
+      "color": "3",
+      "label": "Börja Här"
+    },
+    {
       "id": "3f886d8bcb15750b",
       "type": "text",
       "text": "Nära marken?",
@@ -181,7 +191,7 @@
     {
       "id": "bde87e4c55689c24",
       "type": "file",
-      "file": "Media/Humlelusern.jpeg",
+      "file": "Media/Humlelusern.jpg",
       "x": -648,
       "y": 148,
       "width": 280,
@@ -443,16 +453,6 @@
       "height": 318
     },
     {
-      "id": "f27cfad9eebce4f7",
-      "type": "file",
-      "file": "ReadMe.md.md",
-      "subpath": "#Gula Blommor",
-      "x": -585,
-      "y": -993,
-      "width": 394,
-      "height": 122
-    },
-    {
       "id": "1fdcbdf5ccbeac19",
       "type": "text",
       "text": "... har den ett lila huvud ovanför de gula bladen?",
@@ -462,17 +462,6 @@
       "width": 264,
       "height": 80,
       "color": "6"
-    },
-    {
-      "id": "25f982d4bc4e177e",
-      "type": "text",
-      "text": "Gul Blomma",
-      "shape": "oval",
-      "x": -537,
-      "y": -817,
-      "width": 207,
-      "height": 60,
-      "color": "3"
     },
     {
       "id": "e13cb508fafea497",
@@ -879,6 +868,29 @@
       "y": -371,
       "width": 486,
       "height": 323
+    },
+    {
+      "id": "f27cfad9eebce4f7",
+      "type": "file",
+      "file": "ReadMe.md.md",
+      "subpath": "#Gula Blommor",
+      "isStartNode": false,
+      "x": -630,
+      "y": -1088,
+      "width": 394,
+      "height": 122
+    },
+    {
+      "id": "25f982d4bc4e177e",
+      "type": "text",
+      "text": "Gul Blomma",
+      "shape": "predefined-process",
+      "isStartNode": false,
+      "x": -583,
+      "y": -954,
+      "width": 301,
+      "height": 183,
+      "color": "3"
     }
   ],
   "edges": [
