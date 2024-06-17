@@ -314,46 +314,15 @@
       "height": 400
     },
     {
-      "id": "6e1ad954296e2b14",
-      "type": "text",
-      "text": "Hur är växtbasen?",
-      "shape": "oval",
-      "x": -1453,
-      "y": 124,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "e571b5180598863d",
-      "type": "text",
-      "text": "**Revfingerört**\n_Potentilla reptans_\nRosaceae\n**Ofta meterlånga krypande revor med små, sågade blad**",
-      "shape": "centered-rectangle",
-      "x": -2070,
-      "y": 623,
-      "width": 299,
-      "height": 162,
-      "color": "3"
-    },
-    {
-      "id": "72d3fd9194d090ca",
-      "type": "file",
-      "file": "Media/Revfingerört.JPG",
-      "x": -2070,
-      "y": 375,
-      "width": 310,
-      "height": 232
-    },
-    {
       "id": "f6414cdab3c4e770",
       "type": "text",
       "text": "Antal gula blad?",
-      "shape": "centered-rectangle",
+      "shape": "oval",
       "x": -1340,
       "y": -410,
       "width": 260,
       "height": 60,
-      "color": "3"
+      "color": "6"
     },
     {
       "id": "732d090c86ba7d70",
@@ -363,26 +332,6 @@
       "isStartNode": true,
       "x": -1048,
       "y": -240,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "b2ad8691d17a6b54",
-      "type": "file",
-      "file": "Media/Blodrot.jpg",
-      "x": -1622,
-      "y": -240,
-      "width": 232,
-      "height": 309
-    },
-    {
-      "id": "307de7ae09f16d24",
-      "type": "text",
-      "text": "Hur är stjälken?",
-      "shape": "oval",
-      "x": -452,
-      "y": 122,
       "width": 260,
       "height": 60,
       "color": "6"
@@ -399,26 +348,6 @@
       "color": "6"
     },
     {
-      "id": "6f3c957870838bc2",
-      "type": "file",
-      "file": "Media/Tussilago.jpg",
-      "x": -516,
-      "y": 338,
-      "width": 264,
-      "height": 198
-    },
-    {
-      "id": "5686d1a636f72b1e",
-      "type": "text",
-      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
-      "shape": "centered-rectangle",
-      "x": -516,
-      "y": 536,
-      "width": 264,
-      "height": 138,
-      "color": "3"
-    },
-    {
       "id": "0b2f1b89533f4d75",
       "type": "text",
       "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
@@ -427,66 +356,6 @@
       "y": 1320,
       "width": 327,
       "height": 154,
-      "color": "3"
-    },
-    {
-      "id": "1c6c8bb2f263de4d",
-      "type": "text",
-      "text": "**Gåsört**\n_Argentina anserina_\nRosaceae (Rosväxt)\n**Mångpariga blad med talrika sågtänder**",
-      "shape": "centered-rectangle",
-      "x": -917,
-      "y": 592,
-      "width": 290,
-      "height": 142,
-      "color": "3"
-    },
-    {
-      "id": "79003287bb15a051",
-      "type": "file",
-      "file": "Media/Gåsört.png",
-      "x": -905,
-      "y": 305,
-      "width": 266,
-      "height": 265
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": -1280,
-      "y": 343,
-      "width": 315,
-      "height": 236
-    },
-    {
-      "id": "4b2c5fc7163f8778",
-      "type": "text",
-      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
-      "shape": "centered-rectangle",
-      "x": -1262,
-      "y": 592,
-      "width": 297,
-      "height": 123,
-      "color": "3"
-    },
-    {
-      "id": "65a00075878b245b",
-      "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": -1673,
-      "y": 343,
-      "width": 220,
-      "height": 220
-    },
-    {
-      "id": "ed4909a2d8a2e0d6",
-      "type": "text",
-      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)",
-      "shape": "centered-rectangle",
-      "x": -1671,
-      "y": 587,
-      "width": 218,
-      "height": 95,
       "color": "3"
     },
     {
@@ -530,11 +399,153 @@
       "color": "3"
     },
     {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": -1624,
+      "y": 345,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "ed4909a2d8a2e0d6",
+      "type": "text",
+      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)",
+      "shape": "centered-rectangle",
+      "x": -1622,
+      "y": 589,
+      "width": 218,
+      "height": 95,
+      "color": "3"
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": -1323,
+      "y": 345,
+      "width": 315,
+      "height": 236
+    },
+    {
+      "id": "4b2c5fc7163f8778",
+      "type": "text",
+      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
+      "shape": "centered-rectangle",
+      "x": -1305,
+      "y": 594,
+      "width": 297,
+      "height": 123,
+      "color": "3"
+    },
+    {
+      "id": "307de7ae09f16d24",
+      "type": "text",
+      "text": "Hur är stjälken?",
+      "shape": "oval",
+      "x": -488,
+      "y": 320,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "1c6c8bb2f263de4d",
+      "type": "text",
+      "text": "**Gåsört**\n_Argentina anserina_\nRosaceae (Rosväxt)\n**Mångpariga blad med talrika sågtänder**",
+      "shape": "centered-rectangle",
+      "x": -968,
+      "y": 589,
+      "width": 290,
+      "height": 142,
+      "color": "3"
+    },
+    {
+      "id": "79003287bb15a051",
+      "type": "file",
+      "file": "Media/Gåsört.png",
+      "x": -956,
+      "y": 302,
+      "width": 266,
+      "height": 265
+    },
+    {
+      "id": "72d3fd9194d090ca",
+      "type": "file",
+      "file": "Media/Revfingerört.JPG",
+      "x": -2000,
+      "y": 302,
+      "width": 310,
+      "height": 232
+    },
+    {
+      "id": "e571b5180598863d",
+      "type": "text",
+      "text": "**Revfingerört**\n_Potentilla reptans_\nRosaceae\n**Ofta meterlånga krypande revor med små, sågade blad**",
+      "shape": "centered-rectangle",
+      "x": -2000,
+      "y": 550,
+      "width": 299,
+      "height": 162,
+      "color": "3"
+    },
+    {
+      "id": "6e1ad954296e2b14",
+      "type": "text",
+      "text": "Hur är växtbasen?",
+      "shape": "oval",
+      "x": -1453,
+      "y": 87,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "b2ad8691d17a6b54",
+      "type": "file",
+      "file": "Media/Blodrot.jpg",
+      "x": -1562,
+      "y": -240,
+      "width": 218,
+      "height": 290
+    },
+    {
+      "id": "d37b99d4d0b14af0",
+      "type": "text",
+      "text": "**Blodrot**\n_Potentilla erecta_\nRosaceae",
+      "shape": "centered-rectangle",
+      "x": -1845,
+      "y": -145,
+      "width": 260,
+      "height": 107,
+      "color": "3"
+    },
+    {
+      "id": "6f3c957870838bc2",
+      "type": "file",
+      "file": "Media/Tussilago.jpg",
+      "x": -620,
+      "y": 482,
+      "width": 264,
+      "height": 198
+    },
+    {
+      "id": "5686d1a636f72b1e",
+      "type": "text",
+      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
+      "shape": "centered-rectangle",
+      "x": -620,
+      "y": 680,
+      "width": 264,
+      "height": 138,
+      "color": "3"
+    },
+    {
       "id": "a33030e1bd35bb0c",
       "type": "file",
       "file": "Media/Solvända.jpg",
-      "x": -146,
-      "y": 338,
+      "x": 36,
+      "y": 308,
       "width": 293,
       "height": 220
     },
@@ -543,10 +554,21 @@
       "type": "text",
       "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
       "shape": "centered-rectangle",
-      "x": -146,
-      "y": 572,
+      "x": 36,
+      "y": 542,
       "width": 293,
       "height": 112,
+      "color": "3"
+    },
+    {
+      "id": "c97a99b21cccf7b4",
+      "type": "text",
+      "text": "**Gråfibbla**\n_Pilosella officinarum_\nAsteraceae",
+      "shape": "centered-rectangle",
+      "x": -276,
+      "y": 684,
+      "width": 260,
+      "height": 107,
       "color": "3"
     }
   ],
@@ -762,6 +784,13 @@
       "toSide": "right",
       "color": "4",
       "label": "Ja"
+    },
+    {
+      "id": "649b2f312cd9f0b7",
+      "fromNode": "3507fcefbd97054e",
+      "fromSide": "bottom",
+      "toNode": "a33030e1bd35bb0c",
+      "toSide": "top"
     }
   ],
   "metadata": {
