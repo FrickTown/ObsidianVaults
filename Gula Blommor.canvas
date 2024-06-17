@@ -572,26 +572,6 @@
       "color": "3"
     },
     {
-      "id": "dc6dbfb547bb5b8c",
-      "type": "file",
-      "file": "Media/Lundkovall.jpg",
-      "x": -942,
-      "y": -986,
-      "width": 230,
-      "height": 230
-    },
-    {
-      "id": "41aab41a3f3875c8",
-      "type": "text",
-      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
-      "shape": "centered-rectangle",
-      "x": -931,
-      "y": -735,
-      "width": 207,
-      "height": 160,
-      "color": "3"
-    },
-    {
       "id": "f27cfad9eebce4f7",
       "type": "file",
       "file": "ReadMe.md.md",
@@ -622,15 +602,6 @@
       "width": 207,
       "height": 60,
       "color": "3"
-    },
-    {
-      "id": "1342aacb5c4a1a43",
-      "type": "text",
-      "text": "",
-      "x": -533,
-      "y": -420,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "08b93378d0e9c81b",
@@ -773,6 +744,47 @@
       "y": -1969,
       "width": 268,
       "height": 540
+    },
+    {
+      "id": "dc6dbfb547bb5b8c",
+      "type": "file",
+      "file": "Media/Lundkovall.jpg",
+      "x": -1012,
+      "y": -1045,
+      "width": 288,
+      "height": 288
+    },
+    {
+      "id": "41aab41a3f3875c8",
+      "type": "text",
+      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
+      "shape": "centered-rectangle",
+      "x": -1006,
+      "y": -742,
+      "width": 276,
+      "height": 175,
+      "color": "3"
+    },
+    {
+      "id": "1342aacb5c4a1a43",
+      "type": "text",
+      "text": "Växer den precis intill ett vattendrag?\n(Och verkar vara en vattenväxt?)",
+      "shape": "oval",
+      "x": -550,
+      "y": -445,
+      "width": 234,
+      "height": 105,
+      "color": "6"
+    },
+    {
+      "id": "cf1f5943f134dc6b",
+      "x": -1657,
+      "y": -566,
+      "width": 260,
+      "height": 60,
+      "color": "4",
+      "type": "text",
+      "text": ""
     }
   ],
   "edges": [
@@ -949,15 +961,6 @@
       "label": "Skål"
     },
     {
-      "id": "29a873b9de873203",
-      "fromNode": "1fdcbdf5ccbeac19",
-      "fromSide": "bottom",
-      "toNode": "3f886d8bcb15750b",
-      "toSide": "top",
-      "color": "1",
-      "label": "Nej"
-    },
-    {
       "id": "8d81922f64ddcb9e",
       "fromNode": "25f982d4bc4e177e",
       "fromSide": "bottom",
@@ -1114,6 +1117,24 @@
       "toSide": "bottom",
       "color": "5",
       "label": "Tuta"
+    },
+    {
+      "id": "075ef6d5c33ac9bd",
+      "fromNode": "1342aacb5c4a1a43",
+      "fromSide": "bottom",
+      "toNode": "3f886d8bcb15750b",
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "317830b9297194e1",
+      "fromNode": "1fdcbdf5ccbeac19",
+      "fromSide": "bottom",
+      "toNode": "1342aacb5c4a1a43",
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
     }
   ],
   "metadata": {
