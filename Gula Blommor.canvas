@@ -206,15 +206,6 @@
       "color": "3"
     },
     {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": 666,
-      "y": 288,
-      "width": 214,
-      "height": 400
-    },
-    {
       "id": "6e1ad954296e2b14",
       "type": "text",
       "text": "Hur är växtbasen?",
@@ -431,6 +422,26 @@
       "width": 260,
       "height": 60,
       "color": "4"
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": 690,
+      "y": 140,
+      "width": 214,
+      "height": 400
+    },
+    {
+      "id": "6b634c557b9b9bb9",
+      "type": "text",
+      "text": "Ängshaverrot\nAsteraceae (Korgblomma)",
+      "shape": "centered-rectangle",
+      "x": 652,
+      "y": 554,
+      "width": 290,
+      "height": 60,
+      "color": "3"
     }
   ],
   "edges": [

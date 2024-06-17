@@ -11,11 +11,34 @@
             "id": "5d39db42e27f0b85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Gula Blommor.canvas",
+                "viewState": {
+                  "x": 1052,
+                  "y": 567,
+                  "zoom": -2.7979930810934195
+                }
+              }
+            }
+          },
+          {
+            "id": "af9a48b127573b3c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Gula Blommor.canvas",
+                "viewState": {
+                  "x": 2188.7253808035043,
+                  "y": 926.9412669826827,
+                  "zoom": -0.7979930810934198
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gula Blommor.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Gula Blommor.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gula Blommor.canvas"
+              }
             }
           }
         ]
@@ -135,9 +162,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d39db42e27f0b85",
-  "lastOpenFiles": []
+  "active": "af9a48b127573b3c",
+  "lastOpenFiles": [
+    "ReadMe.md.md",
+    "Blomväxtfamiljer.md",
+    "Gula Blommor.canvas"
+  ]
 }
