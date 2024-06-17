@@ -1,57 +1,6 @@
 {
   "nodes": [
     {
-      "id": "da7c394962f2b760",
-      "type": "text",
-      "text": "Gulvial\nFabaceae (Ärtväxt)\n**Kölen längsmed**",
-      "shape": "centered-rectangle",
-      "x": 2284,
-      "y": 1100,
-      "width": 256,
-      "height": 100,
-      "color": "3"
-    },
-    {
-      "id": "9603c55aaa0fb9a3",
-      "type": "file",
-      "file": "Media/Gulvial.jpg",
-      "x": 2316,
-      "y": 800,
-      "width": 197,
-      "height": 280
-    },
-    {
-      "id": "05eef454c60f9c82",
-      "type": "text",
-      "text": "Har klängen?",
-      "shape": "oval",
-      "x": 2414,
-      "y": 550,
-      "width": 260,
-      "height": 103,
-      "color": "6"
-    },
-    {
-      "id": "410cd639034a0f4a",
-      "type": "file",
-      "file": "Media/Käringtand.jpg",
-      "x": 2620,
-      "y": 800,
-      "width": 373,
-      "height": 280
-    },
-    {
-      "id": "4b076624de27abcb",
-      "type": "text",
-      "text": "Käringtand\nFabaceae (Ärtväxt)\n**Kölen rakt ut**",
-      "shape": "centered-rectangle",
-      "x": 2677,
-      "y": 1100,
-      "width": 263,
-      "height": 88,
-      "color": "3"
-    },
-    {
       "id": "25f982d4bc4e177e",
       "type": "text",
       "text": "Gul Blomma",
@@ -509,17 +458,6 @@
       "height": 399
     },
     {
-      "id": "e0a916319005faad",
-      "type": "text",
-      "text": "Smörblomma-likes\n(Ranunkel)",
-      "shape": "oval",
-      "x": 1187,
-      "y": 61,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "d62086087423e3ad",
       "type": "text",
       "text": "Hur är stjälkbladen?",
@@ -541,23 +479,105 @@
       "height": 60
     },
     {
+      "id": "05eef454c60f9c82",
+      "type": "text",
+      "text": "Har klängen?",
+      "shape": "oval",
+      "x": 1964,
+      "y": -740,
+      "width": 260,
+      "height": 103,
+      "color": "6"
+    },
+    {
+      "id": "9603c55aaa0fb9a3",
+      "type": "file",
+      "file": "Media/Gulvial.jpg",
+      "x": 1866,
+      "y": -490,
+      "width": 197,
+      "height": 280
+    },
+    {
+      "id": "da7c394962f2b760",
+      "type": "text",
+      "text": "Gulvial\nFabaceae (Ärtväxt)\n**Kölen längsmed**\nVäxer ofta lite högre än käringtand",
+      "shape": "centered-rectangle",
+      "x": 1834,
+      "y": -190,
+      "width": 256,
+      "height": 171,
+      "color": "3"
+    },
+    {
+      "id": "4b076624de27abcb",
+      "type": "text",
+      "text": "Käringtand\nFabaceae (Ärtväxt)\n**Kölen rakt ut**",
+      "shape": "centered-rectangle",
+      "x": 2227,
+      "y": -190,
+      "width": 263,
+      "height": 88,
+      "color": "3"
+    },
+    {
+      "id": "410cd639034a0f4a",
+      "type": "file",
+      "file": "Media/Käringtand.jpg",
+      "x": 2170,
+      "y": -490,
+      "width": 373,
+      "height": 280
+    },
+    {
+      "id": "e0a916319005faad",
+      "type": "text",
+      "text": "Smörblomma-likes\n(Ranunkel)",
+      "shape": "oval",
+      "x": 1186,
+      "y": 61,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "43bb611974511113",
+      "type": "file",
+      "file": "Media/Äkta Johannes.png",
+      "x": 2065,
+      "y": 389,
+      "width": 310,
+      "height": 208
+    },
+    {
       "id": "2e228fe8fcd744b4",
       "type": "text",
       "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
       "shape": "centered-rectangle",
-      "x": 2203,
-      "y": 205,
+      "x": 2065,
+      "y": 613,
       "width": 310,
       "height": 143,
       "color": "3"
+    },
+    {
+      "id": "57a24f8eb47e6f05",
+      "type": "text",
+      "text": "Johannesörter",
+      "shape": "oval",
+      "x": 2246,
+      "y": 60,
+      "width": 260,
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "c2e1c26e3cac7008",
       "type": "text",
       "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
       "shape": "centered-rectangle",
-      "x": 2539,
-      "y": 428,
+      "x": 2506,
+      "y": 801,
       "width": 300,
       "height": 110,
       "color": "3"
@@ -566,19 +586,21 @@
       "id": "06c10b447e796fa6",
       "type": "file",
       "file": "Media/Fyrkantig Johannes.png",
-      "x": 2539,
-      "y": 16,
+      "x": 2506,
+      "y": 389,
       "width": 300,
       "height": 400
     },
     {
-      "id": "43bb611974511113",
-      "type": "file",
-      "file": "Media/Äkta Johannes.png",
-      "x": 2203,
-      "y": -19,
-      "width": 310,
-      "height": 208
+      "id": "9d8e821f4308f283",
+      "type": "text",
+      "text": "Är stjälken fyrkantig?",
+      "shape": "oval",
+      "x": 2300,
+      "y": 200,
+      "width": 260,
+      "height": 60,
+      "color": "6"
     }
   ],
   "edges": [
@@ -813,6 +835,15 @@
       "toSide": "right",
       "color": "5",
       "label": "Korg"
+    },
+    {
+      "id": "b3cfa3f6259e20ad",
+      "edgePathRoute": "a-star",
+      "fromNode": "d6f016f13ee26405",
+      "fromSide": "bottom",
+      "toNode": "57a24f8eb47e6f05",
+      "toSide": "left",
+      "color": "5"
     }
   ],
   "metadata": {
