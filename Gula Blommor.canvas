@@ -675,6 +675,17 @@
       "width": 280,
       "height": 113,
       "color": "3"
+    },
+    {
+      "id": "e476ba9a860d722b",
+      "type": "text",
+      "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\n**Växer nära vatten**",
+      "shape": "centered-rectangle",
+      "x": 1327,
+      "y": -797,
+      "width": 253,
+      "height": 117,
+      "color": "3"
     }
   ],
   "edges": [
