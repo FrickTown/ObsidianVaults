@@ -384,88 +384,6 @@
       "color": "3"
     },
     {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": -87,
-      "y": 766,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "066e0f409b4c207e",
-      "type": "text",
-      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
-      "shape": "centered-rectangle",
-      "x": -87,
-      "y": 1000,
-      "width": 293,
-      "height": 112,
-      "color": "3"
-    },
-    {
-      "id": "bde87e4c55689c24",
-      "type": "file",
-      "file": "Media/Humlelusern.jpeg",
-      "x": -454,
-      "y": 766,
-      "width": 308,
-      "height": 231
-    },
-    {
-      "id": "3eec569de4370114",
-      "type": "text",
-      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
-      "shape": "centered-rectangle",
-      "x": -422,
-      "y": 1022,
-      "width": 245,
-      "height": 145,
-      "color": "3"
-    },
-    {
-      "id": "6b634c557b9b9bb9",
-      "type": "text",
-      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
-      "shape": "centered-rectangle",
-      "x": 330,
-      "y": 854,
-      "width": 290,
-      "height": 141,
-      "color": "3"
-    },
-    {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": 368,
-      "y": 426,
-      "width": 214,
-      "height": 400
-    },
-    {
-      "id": "3b7de5b1937693d9",
-      "type": "text",
-      "text": "Korgblomma",
-      "shape": "oval",
-      "x": 345,
-      "y": 129,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "307de7ae09f16d24",
-      "type": "text",
-      "text": "Strålande blomställning?",
-      "shape": "oval",
-      "x": -276,
-      "y": 611,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "25f982d4bc4e177e",
       "type": "text",
       "text": "Gul Blomma",
@@ -488,29 +406,9 @@
       "color": "6"
     },
     {
-      "id": "6f3c957870838bc2",
-      "type": "file",
-      "file": "Media/Tussilago.jpg",
-      "x": -16,
-      "y": -125,
-      "width": 264,
-      "height": 198
-    },
-    {
-      "id": "5686d1a636f72b1e",
-      "type": "text",
-      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
-      "shape": "centered-rectangle",
-      "x": -16,
-      "y": 73,
-      "width": 264,
-      "height": 138,
-      "color": "3"
-    },
-    {
       "id": "3507fcefbd97054e",
       "type": "text",
-      "text": "Kronbladsform?",
+      "text": "Kronans form?",
       "shape": "oval",
       "x": -276,
       "y": 291,
@@ -539,15 +437,116 @@
       "color": "3"
     },
     {
-      "id": "970e75fe5f1967f4",
+      "id": "f27cfad9eebce4f7",
+      "type": "file",
+      "file": "ReadMe.md.md",
+      "subpath": "#Gula Blommor",
+      "x": -220,
+      "y": -808,
+      "width": 496,
+      "height": 122
+    },
+    {
+      "id": "6f3c957870838bc2",
+      "type": "file",
+      "file": "Media/Tussilago.jpg",
+      "x": -380,
+      "y": 760,
+      "width": 264,
+      "height": 198
+    },
+    {
+      "id": "5686d1a636f72b1e",
       "type": "text",
-      "text": "Korgblommig?",
+      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
+      "shape": "centered-rectangle",
+      "x": -380,
+      "y": 958,
+      "width": 264,
+      "height": 138,
+      "color": "3"
+    },
+    {
+      "id": "066e0f409b4c207e",
+      "type": "text",
+      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
+      "shape": "centered-rectangle",
+      "x": -16,
+      "y": 982,
+      "width": 293,
+      "height": 112,
+      "color": "3"
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -16,
+      "y": 748,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "307de7ae09f16d24",
+      "type": "text",
+      "text": "Hur är stjälken?",
       "shape": "oval",
       "x": -276,
-      "y": 414,
+      "y": 510,
       "width": 260,
       "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "bde87e4c55689c24",
+      "type": "file",
+      "file": "Media/Humlelusern.jpeg",
+      "x": 60,
+      "y": 209,
+      "width": 285,
+      "height": 214
+    },
+    {
+      "id": "3eec569de4370114",
+      "type": "text",
+      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
+      "shape": "centered-rectangle",
+      "x": 85,
+      "y": 444,
+      "width": 245,
+      "height": 145,
       "color": "3"
+    },
+    {
+      "id": "6b634c557b9b9bb9",
+      "type": "text",
+      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
+      "shape": "centered-rectangle",
+      "x": 345,
+      "y": 903,
+      "width": 290,
+      "height": 141,
+      "color": "3"
+    },
+    {
+      "id": "3b7de5b1937693d9",
+      "type": "text",
+      "text": "Korgblomma",
+      "shape": "oval",
+      "x": 360,
+      "y": 178,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": 383,
+      "y": 475,
+      "width": 214,
+      "height": 400
     }
   ],
   "edges": [
@@ -722,7 +721,8 @@
       "fromNode": "732d090c86ba7d70",
       "fromSide": "right",
       "toNode": "3507fcefbd97054e",
-      "toSide": "top"
+      "toSide": "top",
+      "color": "1"
     },
     {
       "id": "a38e5abbd4918e5d",
@@ -730,15 +730,25 @@
       "fromSide": "left",
       "toNode": "b42f6209b80afada",
       "toSide": "right",
-      "color": "4",
-      "label": "Ja"
+      "color": "5",
+      "label": "Pip"
     },
     {
-      "id": "79385bef26be1989",
+      "id": "1a0e0a03a941cdde",
       "fromNode": "3507fcefbd97054e",
       "fromSide": "bottom",
-      "toNode": "970e75fe5f1967f4",
-      "toSide": "top"
+      "toNode": "307de7ae09f16d24",
+      "toSide": "top",
+      "color": "5",
+      "label": "Korg"
+    },
+    {
+      "id": "0a8856a4efa1ebe4",
+      "fromNode": "3507fcefbd97054e",
+      "fromSide": "right",
+      "toNode": "bde87e4c55689c24",
+      "toSide": "left",
+      "label": "?"
     }
   ],
   "metadata": {

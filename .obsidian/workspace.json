@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 433.84158852356853,
-                  "y": -360.8984809891306,
-                  "zoom": -0.7833728887002208
+                  "x": 41.74353806412658,
+                  "y": 505.22037811655315,
+                  "zoom": -0.9999999999999999
                 }
               }
             }
@@ -153,12 +153,12 @@
   },
   "active": "af9a48b127573b3c",
   "lastOpenFiles": [
+    "ReadMe.md.md",
+    "Gula Blommor.canvas",
+    "Blomväxtfamiljer.md",
     "Media/Humlelusern.jpeg",
     "Media/Revfingerört.JPG",
     "Media/Tussilago.jpg",
-    "Gula Blommor.canvas",
-    "Media/Tussilago.png",
-    "ReadMe.md.md",
-    "Blomväxtfamiljer.md"
+    "Media/Tussilago.png"
   ]
 }
