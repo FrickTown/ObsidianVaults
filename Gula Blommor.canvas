@@ -109,26 +109,6 @@
       "height": 198
     },
     {
-      "id": "d37b99d4d0b14af0",
-      "type": "text",
-      "text": "**Blodrot**\n_Potentilla erecta_\nRosaceae",
-      "shape": "centered-rectangle",
-      "x": -2210,
-      "y": 318,
-      "width": 207,
-      "height": 107,
-      "color": "3"
-    },
-    {
-      "id": "b2ad8691d17a6b54",
-      "type": "file",
-      "file": "Media/Blodrot.jpg",
-      "x": -1985,
-      "y": 223,
-      "width": 173,
-      "height": 230
-    },
-    {
       "id": "732d090c86ba7d70",
       "type": "text",
       "text": "Kronblad fria?",
@@ -139,15 +119,6 @@
       "width": 207,
       "height": 60,
       "color": "6"
-    },
-    {
-      "id": "b42f6209b80afada",
-      "type": "file",
-      "file": "Media/Gullviva.jpg",
-      "x": -1297,
-      "y": 351,
-      "width": 151,
-      "height": 175
     },
     {
       "id": "3507fcefbd97054e",
@@ -223,17 +194,6 @@
       "y": -801,
       "width": 230,
       "height": 230
-    },
-    {
-      "id": "63bce2b4c5a46282",
-      "type": "text",
-      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
-      "shape": "centered-rectangle",
-      "x": -1490,
-      "y": 356,
-      "width": 176,
-      "height": 167,
-      "color": "3"
     },
     {
       "id": "5686d1a636f72b1e",
@@ -631,7 +591,47 @@
       "x": 1646,
       "y": 748,
       "width": 285,
-      "height": 208,
+      "height": 156,
+      "color": "3"
+    },
+    {
+      "id": "b42f6209b80afada",
+      "type": "file",
+      "file": "Media/Gullviva.jpg",
+      "x": -1341,
+      "y": 324,
+      "width": 197,
+      "height": 228
+    },
+    {
+      "id": "63bce2b4c5a46282",
+      "type": "text",
+      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
+      "shape": "centered-rectangle",
+      "x": -1541,
+      "y": 356,
+      "width": 176,
+      "height": 167,
+      "color": "3"
+    },
+    {
+      "id": "b2ad8691d17a6b54",
+      "type": "file",
+      "file": "Media/Blodrot.jpg",
+      "x": -2060,
+      "y": 220,
+      "width": 228,
+      "height": 303
+    },
+    {
+      "id": "d37b99d4d0b14af0",
+      "type": "text",
+      "text": "**Blodrot**\n_Potentilla erecta_\nRosaceae",
+      "shape": "centered-rectangle",
+      "x": -2278,
+      "y": 306,
+      "width": 207,
+      "height": 107,
       "color": "3"
     }
   ],
