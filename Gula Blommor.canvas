@@ -799,13 +799,22 @@
       "height": 462
     },
     {
+      "id": "b2026690d655d76e",
+      "x": 471,
+      "y": -711,
+      "width": 499,
+      "height": 331,
+      "type": "file",
+      "file": "Media/Ängsskallra.JPG"
+    },
+    {
       "id": "284e3edd5c9ed91b",
       "type": "text",
       "text": "**Ängsskallra**\n_Rhinanthus minor_\n/Orobanchaceae/ (Snyltros)",
       "shape": "centered-rectangle",
-      "x": 575,
-      "y": -556,
-      "width": 260,
+      "x": 520,
+      "y": -869,
+      "width": 400,
       "height": 143,
       "color": "3"
     }
@@ -1216,6 +1225,14 @@
       "toSide": "left",
       "color": "1",
       "label": "Nej"
+    },
+    {
+      "id": "23647ad9a162599f",
+      "fromNode": "d6f016f13ee26405",
+      "fromSide": "top",
+      "toNode": "b2026690d655d76e",
+      "toSide": "bottom",
+      "label": "PacMan utan ögon"
     }
   ],
   "metadata": {
