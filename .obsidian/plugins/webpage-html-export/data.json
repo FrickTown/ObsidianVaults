@@ -14,10 +14,10 @@
   "allowFoldingHeadings": true,
   "allowFoldingLists": true,
   "allowResizingSidebars": true,
-  "logLevel": "warning",
+  "logLevel": "all",
   "minifyHTML": true,
   "makeNamesWebStyle": true,
-  "onlyExportModified": true,
+  "onlyExportModified": false,
   "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": false,
@@ -45,6 +45,10 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "/home/frick/Documents/FoF_Public",
   "filesToExport": [
-    []
+    [
+      "Media",
+      "Gula Blommor.canvas",
+      "Snabbnyckel (Familj).canvas"
+    ]
   ]
 }
