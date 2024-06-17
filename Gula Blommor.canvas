@@ -1,24 +1,6 @@
 {
   "nodes": [
     {
-      "id": "a837c47d3a9b596d",
-      "type": "file",
-      "file": "Media/Nejlikrot2.jpg",
-      "x": 783,
-      "y": -1057,
-      "width": 264,
-      "height": 183
-    },
-    {
-      "id": "92e5ce10e457725d",
-      "type": "file",
-      "file": "Media/Nejlikrot1.jpg",
-      "x": 625,
-      "y": -1062,
-      "width": 153,
-      "height": 318
-    },
-    {
       "id": "3f886d8bcb15750b",
       "type": "text",
       "text": "Nära marken?",
@@ -541,37 +523,6 @@
       "height": 318
     },
     {
-      "id": "0b2f1b89533f4d75",
-      "type": "text",
-      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
-      "shape": "centered-rectangle",
-      "x": 787,
-      "y": -874,
-      "width": 260,
-      "height": 154,
-      "color": "3"
-    },
-    {
-      "id": "f91523274481427f",
-      "type": "file",
-      "file": "Media/Femfingerört.jpg",
-      "x": 408,
-      "y": -655,
-      "width": 217,
-      "height": 290
-    },
-    {
-      "id": "64ad8c3fb146e295",
-      "type": "text",
-      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
-      "shape": "centered-rectangle",
-      "x": 667,
-      "y": -589,
-      "width": 223,
-      "height": 159,
-      "color": "3"
-    },
-    {
       "id": "f27cfad9eebce4f7",
       "type": "file",
       "file": "ReadMe.md.md",
@@ -604,20 +555,9 @@
       "color": "3"
     },
     {
-      "id": "284e3edd5c9ed91b",
-      "type": "text",
-      "text": "**Ängsskallra**\n_Rhinanthus minor_\n/Orobanchaceae/ (Snyltros)",
-      "shape": "centered-rectangle",
-      "x": 1103,
-      "y": -1441,
-      "width": 260,
-      "height": 143,
-      "color": "3"
-    },
-    {
       "id": "e13cb508fafea497",
       "type": "text",
-      "text": "Syns dessa ofta i flockar?",
+      "text": "Syns dessa oftast i flockar?",
       "shape": "oval",
       "x": 19,
       "y": -1057,
@@ -759,17 +699,6 @@
       "color": "6"
     },
     {
-      "id": "e476ba9a860d722b",
-      "type": "text",
-      "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\nSvärdlika gröna blad **Växer nära vatten**",
-      "shape": "centered-rectangle",
-      "x": -1397,
-      "y": -1045,
-      "width": 253,
-      "height": 117,
-      "color": "3"
-    },
-    {
       "id": "7320063e4633ddd1",
       "type": "file",
       "file": "Media/Svärdslilja.jpg",
@@ -797,6 +726,88 @@
       "y": -1609,
       "width": 610,
       "height": 457
+    },
+    {
+      "id": "e476ba9a860d722b",
+      "type": "text",
+      "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\n**Svärdlika gröna blad omrking en gul, fladdrig blomma. **\n**Växer nära vatten**",
+      "shape": "centered-rectangle",
+      "x": -1440,
+      "y": -1088,
+      "width": 331,
+      "height": 182,
+      "color": "3"
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
+      "shape": "centered-rectangle",
+      "x": 1198,
+      "y": -615,
+      "width": 260,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "a837c47d3a9b596d",
+      "type": "file",
+      "file": "Media/Nejlikrot2.jpg",
+      "x": 1194,
+      "y": -798,
+      "width": 264,
+      "height": 183
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": 1036,
+      "y": -803,
+      "width": 153,
+      "height": 318
+    },
+    {
+      "id": "58d32939c67374f7",
+      "type": "text",
+      "text": "5-taligt hylle?",
+      "shape": "oval",
+      "x": 575,
+      "y": -1050,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "64ad8c3fb146e295",
+      "type": "text",
+      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
+      "shape": "centered-rectangle",
+      "x": 1888,
+      "y": -1057,
+      "width": 223,
+      "height": 159,
+      "color": "3"
+    },
+    {
+      "id": "f91523274481427f",
+      "type": "file",
+      "file": "Media/Femfingerört.jpg",
+      "x": 1500,
+      "y": -1295,
+      "width": 346,
+      "height": 462
+    },
+    {
+      "id": "284e3edd5c9ed91b",
+      "type": "text",
+      "text": "**Ängsskallra**\n_Rhinanthus minor_\n/Orobanchaceae/ (Snyltros)",
+      "shape": "centered-rectangle",
+      "x": 575,
+      "y": -556,
+      "width": 260,
+      "height": 143,
+      "color": "3"
     }
   ],
   "edges": [
@@ -1102,7 +1113,9 @@
       "fromNode": "e8a09464606014a6",
       "fromSide": "top",
       "toNode": "e13cb508fafea497",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "color": "4",
+      "label": "Ja"
     },
     {
       "id": "2a952b2c30fc55fd",
@@ -1110,7 +1123,8 @@
       "fromSide": "top",
       "toNode": "0212183bb2c89311",
       "toSide": "bottom",
-      "color": "4"
+      "color": "4",
+      "label": "Ja"
     },
     {
       "id": "8e244dcac7bbec32",
@@ -1172,21 +1186,36 @@
       "fromNode": "2ef8106ca344b577",
       "fromSide": "left",
       "toNode": "cf1f5943f134dc6b",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "color": "4",
+      "label": "Ja"
     },
     {
       "id": "e3e1a69aa823f66b",
       "fromNode": "cf1f5943f134dc6b",
       "fromSide": "top",
       "toNode": "08b93378d0e9c81b",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "color": "4",
+      "label": "Ja"
     },
     {
       "id": "2b7b0a2f684fc939",
       "fromNode": "cf1f5943f134dc6b",
       "fromSide": "top",
       "toNode": "e476ba9a860d722b",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "349bba5cbfad5d61",
+      "fromNode": "e13cb508fafea497",
+      "fromSide": "right",
+      "toNode": "58d32939c67374f7",
+      "toSide": "left",
+      "color": "1",
+      "label": "Nej"
     }
   ],
   "metadata": {

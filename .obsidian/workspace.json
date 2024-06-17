@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": -1498.1094390411156,
-                  "y": -989.9772934479292,
-                  "zoom": -0.5999999999999999
+                  "x": 666.5775449939614,
+                  "y": -841.1005174642307,
+                  "zoom": -0.6
                 }
               }
             }
@@ -154,6 +154,7 @@
   },
   "active": "671452da5916a267",
   "lastOpenFiles": [
+    "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
     "Media/Sommargyllen1.jpg",
     "Gula Blommor.canvas",
@@ -170,7 +171,6 @@
     "Media/Ryssgubbe.jpg",
     "Media/Sommargyllen.jpg",
     "ReadMe.md.md",
-    "Media/Johannesört.png",
     "canvas-export.html.pdf",
     "canvas-export.html"
   ]
