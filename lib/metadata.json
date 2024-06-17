@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian",
-  "lastExport": 1718666460161,
+  "lastExport": 1718668368150,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -42,6 +42,7 @@
     "Media/Svärdslilja.jpg",
     "Media/Tussilago.jpg",
     "Gula Blommor.canvas",
+    "ReadMe.md.md",
     "Snabbnyckel (Familj).canvas",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -123,393 +124,395 @@
   ],
   "fileInfo": {
     "Media/Äkta Johannes.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 240995,
       "exportedPath": "media/äkta-johannes.png",
       "dependencies": []
     },
     "Media/Ängshaverrot.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 36798,
       "exportedPath": "media/ängshaverrot.jpg",
       "dependencies": []
     },
     "Media/Femfingerört.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 47687,
       "exportedPath": "media/femfingerört.jpg",
       "dependencies": []
     },
     "Media/Fyrkantig Johannes.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 64623,
       "exportedPath": "media/fyrkantig-johannes.png",
       "dependencies": []
     },
     "Media/Gåsört.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 3957732,
       "exportedPath": "media/gåsört.png",
       "dependencies": []
     },
     "Media/Gråfibbla.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 647890,
       "exportedPath": "media/gråfibbla.png",
       "dependencies": []
     },
     "Media/Gul Fetknopp.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 1983601,
       "exportedPath": "media/gul-fetknopp.png",
       "dependencies": []
     },
     "Media/Gullviva.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 29716,
       "exportedPath": "media/gullviva.jpg",
       "dependencies": []
     },
     "Media/Gulvial.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 111627,
       "exportedPath": "media/gulvial.jpg",
       "dependencies": []
     },
     "Media/Johannesört.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 1393171,
       "exportedPath": "media/johannesört.png",
       "dependencies": []
     },
     "Media/Kabbleka.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 61422,
       "exportedPath": "media/kabbleka.jpg",
       "dependencies": []
     },
     "Media/Käringtand.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 51462,
       "exportedPath": "media/käringtand.jpg",
       "dependencies": []
     },
     "Media/Lundkovall.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 58185,
       "exportedPath": "media/lundkovall.jpg",
       "dependencies": []
     },
     "Media/Lundsmörblomma.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 1977930,
       "exportedPath": "media/lundsmörblomma.png",
       "dependencies": []
     },
     "Media/Nejlikrot1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 121800,
       "exportedPath": "media/nejlikrot1.jpg",
       "dependencies": []
     },
     "Media/Nejlikrot2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 162865,
       "exportedPath": "media/nejlikrot2.jpg",
       "dependencies": []
     },
     "Media/Revsmörblomma1.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 611895,
       "exportedPath": "media/revsmörblomma1.png",
       "dependencies": []
     },
     "Media/Revsmörblomma2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 36879,
       "exportedPath": "media/revsmörblomma2.jpg",
       "dependencies": []
     },
     "Media/Smörblomma1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 185139,
       "exportedPath": "media/smörblomma1.jpg",
       "dependencies": []
     },
     "Media/Smörblomma2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 88094,
       "exportedPath": "media/smörblomma2.jpg",
       "dependencies": []
     },
     "Media/Solvända.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 92614,
       "exportedPath": "media/solvända.jpg",
       "dependencies": []
     },
     "Media/Tussilago.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 259106,
       "exportedPath": "media/tussilago.jpg",
       "dependencies": []
     },
     "Gula Blommor.canvas": {
-      "modifiedTime": 1718666460161,
-      "sourceSize": 31820,
+      "modifiedTime": 1718668368150,
+      "sourceSize": 32730,
       "exportedPath": "gula-blommor.html",
       "dependencies": [
-        "media/gåsört.png",
-        "media/käringtand.jpg",
-        "media/gulvial.jpg",
-        "media/gul-fetknopp.png",
-        "media/solvända.jpg",
-        "media/gullviva.jpg",
-        "media/smörblomma2.jpg",
-        "media/smörblomma1.jpg",
-        "media/revsmörblomma2.jpg",
-        "media/revsmörblomma1.png",
-        "media/ängshaverrot.jpg",
-        "media/lundsmörblomma.png",
         "media/äkta-johannes.png",
         "media/fyrkantig-johannes.png",
-        "media/ryssgubbe1.jpg",
-        "media/ryssgubbe2.jpg",
-        "media/sommargyllen2.jpg",
-        "media/sommargyllen1.jpg",
-        "media/lundkovall.jpg",
+        "media/smörblomma2.jpg",
+        "media/revsmörblomma2.jpg",
+        "media/revsmörblomma1.png",
+        "media/käringtand.jpg",
+        "media/gulvial.jpg",
+        "media/smörblomma1.jpg",
+        "media/lundsmörblomma.png",
         "media/svärdslilja.jpg",
+        "media/skelört.jpg",
+        "media/lundkovall.jpg",
+        "media/ryssgubbe1.jpg",
+        "media/sommargyllen2.jpg",
+        "media/ängsskallra.jpg",
+        "media/gåsört.png",
+        "media/tussilago.jpg",
+        "media/sommargyllen1.jpg",
+        "media/femfingerört.jpg",
+        "media/kabbleka.jpg",
+        "media/revfingerört.jpg",
+        "media/färgkulla.jpg",
+        "media/solvända.jpg",
+        "media/gråfibbla.png",
+        "media/gullviva.jpg",
+        "media/blodrot2.jpg",
+        "media/humlelusern.jpg",
+        "media/ängshaverrot.jpg",
         "media/gul-näckros.jpg",
         "media/nejlikrot2.jpg",
         "media/nejlikrot1.jpg",
-        "media/femfingerört.jpg",
-        "media/gråfibbla.png",
-        "media/tussilago.jpg",
-        "media/kabbleka.jpg",
-        "media/färgkulla.jpg",
-        "media/blodrot2.jpg",
-        "media/skelört.jpg",
-        "media/ängsskallra.jpg"
+        "media/gul-fetknopp.png",
+        "media/ryssgubbe2.jpg"
       ]
     },
     "media/femfingerört.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 47687,
       "exportedPath": "media/femfingerört.jpg",
       "dependencies": []
     },
     "media/nejlikrot2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 162865,
       "exportedPath": "media/nejlikrot2.jpg",
       "dependencies": []
     },
     "media/nejlikrot1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 121800,
       "exportedPath": "media/nejlikrot1.jpg",
       "dependencies": []
     },
     "media/gåsört.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 3957732,
       "exportedPath": "media/gåsört.png",
       "dependencies": []
     },
     "media/kabbleka.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 61422,
       "exportedPath": "media/kabbleka.jpg",
       "dependencies": []
     },
     "media/lundkovall.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 58185,
       "exportedPath": "media/lundkovall.jpg",
       "dependencies": []
     },
     "media/tussilago.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 259106,
       "exportedPath": "media/tussilago.jpg",
       "dependencies": []
     },
     "media/lundsmörblomma.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 1977930,
       "exportedPath": "media/lundsmörblomma.png",
       "dependencies": []
     },
     "media/smörblomma1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 185139,
       "exportedPath": "media/smörblomma1.jpg",
       "dependencies": []
     },
     "media/smörblomma2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 88094,
       "exportedPath": "media/smörblomma2.jpg",
       "dependencies": []
     },
     "media/revsmörblomma2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 36879,
       "exportedPath": "media/revsmörblomma2.jpg",
       "dependencies": []
     },
     "media/fyrkantig-johannes.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 64623,
       "exportedPath": "media/fyrkantig-johannes.png",
       "dependencies": []
     },
     "media/revsmörblomma1.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 611895,
       "exportedPath": "media/revsmörblomma1.png",
       "dependencies": []
     },
     "media/käringtand.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 51462,
       "exportedPath": "media/käringtand.jpg",
       "dependencies": []
     },
     "media/äkta-johannes.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 240995,
       "exportedPath": "media/äkta-johannes.png",
       "dependencies": []
     },
     "media/gulvial.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 111627,
       "exportedPath": "media/gulvial.jpg",
       "dependencies": []
     },
     "media/ängshaverrot.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 36798,
       "exportedPath": "media/ängshaverrot.jpg",
       "dependencies": []
     },
     "media/gul-fetknopp.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 1983601,
       "exportedPath": "media/gul-fetknopp.png",
       "dependencies": []
     },
     "media/solvända.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 92614,
       "exportedPath": "media/solvända.jpg",
       "dependencies": []
     },
     "media/gråfibbla.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 647890,
       "exportedPath": "media/gråfibbla.png",
       "dependencies": []
     },
     "media/gullviva.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 29716,
       "exportedPath": "media/gullviva.jpg",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -521,183 +524,201 @@
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 130183,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 14869,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Media/Gul Näckros.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 5471232,
       "exportedPath": "media/gul-näckros.jpg",
       "dependencies": []
     },
     "Media/Ryssgubbe1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 378688,
       "exportedPath": "media/ryssgubbe1.jpg",
       "dependencies": []
     },
     "Media/Ryssgubbe2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 178409,
       "exportedPath": "media/ryssgubbe2.jpg",
       "dependencies": []
     },
     "Media/Sommargyllen1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 102987,
       "exportedPath": "media/sommargyllen1.jpg",
       "dependencies": []
     },
     "Media/Sommargyllen2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 49316,
       "exportedPath": "media/sommargyllen2.jpg",
       "dependencies": []
     },
     "Media/Svärdslilja.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 207258,
       "exportedPath": "media/svärdslilja.jpg",
       "dependencies": []
     },
     "media/ryssgubbe1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 378688,
       "exportedPath": "media/ryssgubbe1.jpg",
       "dependencies": []
     },
     "media/ryssgubbe2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 178409,
       "exportedPath": "media/ryssgubbe2.jpg",
       "dependencies": []
     },
     "media/sommargyllen2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 49316,
       "exportedPath": "media/sommargyllen2.jpg",
       "dependencies": []
     },
     "media/sommargyllen1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 102987,
       "exportedPath": "media/sommargyllen1.jpg",
       "dependencies": []
     },
     "media/svärdslilja.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 207258,
       "exportedPath": "media/svärdslilja.jpg",
       "dependencies": []
     },
     "media/gul-näckros.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 5471232,
       "exportedPath": "media/gul-näckros.jpg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1718666460161,
-      "sourceSize": 14379,
+      "modifiedTime": 1718668368150,
+      "sourceSize": 14689,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "Media/Ängsskallra.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 98727,
       "exportedPath": "media/ängsskallra.jpg",
       "dependencies": []
     },
     "Media/Färgkulla.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 84246,
       "exportedPath": "media/färgkulla.jpg",
       "dependencies": []
     },
     "Media/Humlelusern.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 81706,
       "exportedPath": "media/humlelusern.jpg",
       "dependencies": []
     },
     "Media/Revfingerört.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 836053,
       "exportedPath": "media/revfingerört.jpg",
       "dependencies": []
     },
     "Media/Skelört.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 168238,
       "exportedPath": "media/skelört.jpg",
       "dependencies": []
     },
     "Media/Blodrot1.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 152068,
       "exportedPath": "media/blodrot1.jpg",
       "dependencies": []
     },
     "Media/Blodrot2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 179964,
       "exportedPath": "media/blodrot2.jpg",
       "dependencies": []
     },
     "media/färgkulla.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 84246,
       "exportedPath": "media/färgkulla.jpg",
       "dependencies": []
     },
     "media/blodrot2.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 179964,
       "exportedPath": "media/blodrot2.jpg",
       "dependencies": []
     },
     "media/skelört.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 168238,
       "exportedPath": "media/skelört.jpg",
       "dependencies": []
     },
     "media/ängsskallra.jpg": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 98727,
       "exportedPath": "media/ängsskallra.jpg",
       "dependencies": []
     },
     "Snabbnyckel (Familj).canvas": {
-      "modifiedTime": 1718666460161,
+      "modifiedTime": 1718668368150,
       "sourceSize": 226,
       "exportedPath": "snabbnyckel-(familj).html",
+      "dependencies": []
+    },
+    "ReadMe.md.md": {
+      "modifiedTime": 1718668368150,
+      "sourceSize": 181,
+      "exportedPath": "readme.md.html",
+      "dependencies": []
+    },
+    "media/revfingerört.jpg": {
+      "modifiedTime": 1718668368150,
+      "sourceSize": 836053,
+      "exportedPath": "media/revfingerört.jpg",
+      "dependencies": []
+    },
+    "media/humlelusern.jpg": {
+      "modifiedTime": 1718668368150,
+      "sourceSize": 81706,
+      "exportedPath": "media/humlelusern.jpg",
       "dependencies": []
     }
   }
