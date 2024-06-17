@@ -1102,14 +1102,18 @@
       "fromNode": "0212183bb2c89311",
       "fromSide": "top",
       "toNode": "f9f68933834bcf84",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "color": "5",
+      "label": "Spridd"
     },
     {
       "id": "5175d48f4971975f",
       "fromNode": "0212183bb2c89311",
       "fromSide": "top",
       "toNode": "6bcc286a8597bbb2",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "color": "5",
+      "label": "Tuta"
     }
   ],
   "metadata": {
