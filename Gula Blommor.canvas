@@ -200,28 +200,6 @@
       "height": 280
     },
     {
-      "id": "3f886d8bcb15750b",
-      "type": "text",
-      "text": "Nära marken?",
-      "shape": "oval",
-      "x": -100,
-      "y": -220,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "25f982d4bc4e177e",
-      "type": "text",
-      "text": "Gul Blomma",
-      "shape": "oval",
-      "x": -100,
-      "y": -340,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
       "id": "c2e1c26e3cac7008",
       "type": "text",
       "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
@@ -458,12 +436,12 @@
     },
     {
       "id": "bde87e4c55689c24",
+      "type": "file",
+      "file": "Media/Humlelusern.jpeg",
       "x": -454,
       "y": 766,
       "width": 308,
-      "height": 231,
-      "type": "file",
-      "file": "Media/Humlelusern.jpeg"
+      "height": 231
     },
     {
       "id": "3eec569de4370114",
@@ -541,10 +519,32 @@
     {
       "id": "307de7ae09f16d24",
       "type": "text",
-      "text": "",
+      "text": "Strålande blomställning?",
       "shape": "oval",
-      "x": -130,
-      "y": 602,
+      "x": -276,
+      "y": 611,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "25f982d4bc4e177e",
+      "type": "text",
+      "text": "Gul Blomma",
+      "shape": "oval",
+      "x": -146,
+      "y": -599,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "3f886d8bcb15750b",
+      "type": "text",
+      "text": "Nära marken?",
+      "shape": "oval",
+      "x": -146,
+      "y": -410,
       "width": 260,
       "height": 60,
       "color": "6"
@@ -602,15 +602,6 @@
       "toSide": "top",
       "color": "3",
       "label": "Inte fyra"
-    },
-    {
-      "id": "ada9914bc4e89672",
-      "fromNode": "3f886d8bcb15750b",
-      "fromSide": "right",
-      "toNode": "d6f016f13ee26405",
-      "toSide": "top",
-      "color": "1",
-      "label": "Nej"
     },
     {
       "id": "561b0c43ebc4e1d6",
@@ -752,6 +743,22 @@
       "toSide": "left",
       "color": "4",
       "label": "Ja"
+    },
+    {
+      "id": "44637fcd6a7a7e4d",
+      "fromNode": "3507fcefbd97054e",
+      "fromSide": "bottom",
+      "toNode": "307de7ae09f16d24",
+      "toSide": "top"
+    },
+    {
+      "id": "ada9914bc4e89672",
+      "fromNode": "3f886d8bcb15750b",
+      "fromSide": "right",
+      "toNode": "d6f016f13ee26405",
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
     }
   ],
   "metadata": {
