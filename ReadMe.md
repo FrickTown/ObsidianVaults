@@ -1,5 +1,4 @@
 # Obsidian Vault Repo
-## Hub-branch
+## Webpage branch
 
-Directory:
-FloraFauna - Notes for the course "Floristics and Faunistics, 10HP"
+Hosts an interactive website for partaking in my notes.
