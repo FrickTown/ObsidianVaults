@@ -269,7 +269,7 @@
     {
       "id": "c97a99b21cccf7b4",
       "type": "text",
-      "text": "**Gråfibbla**\n_Pilosella officinarum_\nAsteraceae",
+      "text": "**Gråfibbla**\n_Pilosella officinarum_\nAsteraceae\n**Typ maskros. Fast inte.**",
       "shape": "centered-rectangle",
       "x": -258,
       "y": 696,
@@ -490,7 +490,7 @@
     {
       "id": "da7c394962f2b760",
       "type": "text",
-      "text": "Gulvial\nFabaceae (Ärtväxt)\n**Kölen längsmed**\nVäxer ofta lite högre än käringtand",
+      "text": "**Gulvial**\n_Lathyrus pratensis_\nFabaceae (Ärtväxt)\n**Kölen ligger längsmed**\n**Växer ofta lite högre än käringtand**",
       "shape": "centered-rectangle",
       "x": 1834,
       "y": -190,
@@ -501,12 +501,12 @@
     {
       "id": "4b076624de27abcb",
       "type": "text",
-      "text": "Käringtand\nFabaceae (Ärtväxt)\n**Kölen rakt ut**",
+      "text": "**Käringtand**\n_Lotus corniculatus_\nFabaceae (Ärtväxt)\n**Kölen rakt ut**\n**Ibland lite röd**",
       "shape": "centered-rectangle",
       "x": 2227,
       "y": -190,
       "width": 263,
-      "height": 88,
+      "height": 171,
       "color": "3"
     },
     {
