@@ -479,17 +479,6 @@
       "color": "3"
     },
     {
-      "id": "e0a916319005faad",
-      "type": "text",
-      "text": "Smörblomma-likes\n(Ranunkel)",
-      "shape": "oval",
-      "x": 1186,
-      "y": 36,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "969b1f906b6c5c21",
       "type": "text",
       "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
@@ -574,11 +563,22 @@
       "type": "text",
       "text": "Hur är stjälkbladen?",
       "shape": "oval",
-      "x": 794,
-      "y": 121,
+      "x": 1179,
+      "y": 186,
       "width": 260,
       "height": 60,
       "color": "6"
+    },
+    {
+      "id": "e0a916319005faad",
+      "type": "text",
+      "text": "Smörblomma-likes\n(Ranunkel)",
+      "shape": "oval",
+      "x": 1186,
+      "y": 91,
+      "width": 260,
+      "height": 60,
+      "color": "4"
     }
   ],
   "edges": [
@@ -805,12 +805,13 @@
       "label": "Korg"
     },
     {
-      "id": "e3f4cde6d982e54f",
+      "id": "db42f05c8f9bf708",
+      "edgePathRoute": "square",
       "fromNode": "d6f016f13ee26405",
       "fromSide": "bottom",
       "toNode": "e0a916319005faad",
-      "toSide": "bottom",
-      "label": "Skål-lik"
+      "toSide": "top",
+      "label": "Skål"
     }
   ],
   "metadata": {
