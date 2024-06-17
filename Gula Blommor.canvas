@@ -1,155 +1,6 @@
 {
   "nodes": [
     {
-      "id": "64ad8c3fb146e295",
-      "type": "text",
-      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
-      "shape": "centered-rectangle",
-      "x": 690,
-      "y": 1292,
-      "width": 260,
-      "height": 128,
-      "color": "3"
-    },
-    {
-      "id": "f91523274481427f",
-      "type": "file",
-      "file": "Media/Femfingerört.jpg",
-      "x": 730,
-      "y": 1052,
-      "width": 180,
-      "height": 240
-    },
-    {
-      "id": "92e5ce10e457725d",
-      "type": "file",
-      "file": "Media/Nejlikrot1.jpg",
-      "x": 1086,
-      "y": 1075,
-      "width": 192,
-      "height": 399
-    },
-    {
-      "id": "969b1f906b6c5c21",
-      "type": "text",
-      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 1179,
-      "y": 875,
-      "width": 276,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "6d5858daca7a224b",
-      "type": "file",
-      "file": "Media/Lundsmörblomma.png",
-      "x": 1183,
-      "y": 448,
-      "width": 267,
-      "height": 400
-    },
-    {
-      "id": "a837c47d3a9b596d",
-      "type": "file",
-      "file": "Media/Nejlikrot2.jpg",
-      "x": 1284,
-      "y": 1080,
-      "width": 332,
-      "height": 230
-    },
-    {
-      "id": "9c720367de56c81b",
-      "type": "file",
-      "file": "Media/Smörblomma2.jpg",
-      "x": 1580,
-      "y": 751,
-      "width": 276,
-      "height": 207
-    },
-    {
-      "id": "9862f4144fb29361",
-      "type": "text",
-      "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 1580,
-      "y": 983,
-      "width": 276,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "d62086087423e3ad",
-      "type": "text",
-      "text": "Hur är stjälkbladen?",
-      "shape": "oval",
-      "x": 1587,
-      "y": 240,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "df10e23eae0c97b3",
-      "type": "file",
-      "file": "Media/Smörblomma1.jpg",
-      "x": 1580,
-      "y": 448,
-      "width": 275,
-      "height": 300
-    },
-    {
-      "id": "4b39d5c1a0bb65ad",
-      "type": "file",
-      "file": "Media/Revsmörblomma1.png",
-      "x": 1967,
-      "y": 848,
-      "width": 327,
-      "height": 217
-    },
-    {
-      "id": "e0a916319005faad",
-      "type": "text",
-      "text": "Smörblomma-likes\n(Ranunkel)",
-      "shape": "oval",
-      "x": 1587,
-      "y": 120,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "b11e641fb9ed9df7",
-      "type": "text",
-      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 1993,
-      "y": 1090,
-      "width": 276,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "d269b14d1a79685a",
-      "type": "file",
-      "file": "Media/Revsmörblomma2.jpg",
-      "x": 2009,
-      "y": 448,
-      "width": 243,
-      "height": 400
-    },
-    {
-      "id": "d6f016f13ee26405",
-      "type": "text",
-      "text": "Kronbladsform?",
-      "shape": "oval",
-      "x": 620,
-      "y": -40,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "351f7744c72e2c71",
       "type": "text",
       "text": "Avvikande bladformation",
@@ -178,46 +29,6 @@
       "y": 800,
       "width": 197,
       "height": 280
-    },
-    {
-      "id": "c2e1c26e3cac7008",
-      "type": "text",
-      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
-      "shape": "centered-rectangle",
-      "x": 1460,
-      "y": -300,
-      "width": 300,
-      "height": 110,
-      "color": "3"
-    },
-    {
-      "id": "06c10b447e796fa6",
-      "type": "file",
-      "file": "Media/Fyrkantig Johannes.png",
-      "x": 1460,
-      "y": -712,
-      "width": 300,
-      "height": 400
-    },
-    {
-      "id": "2e228fe8fcd744b4",
-      "type": "text",
-      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
-      "shape": "centered-rectangle",
-      "x": 1124,
-      "y": -523,
-      "width": 310,
-      "height": 143,
-      "color": "3"
-    },
-    {
-      "id": "43bb611974511113",
-      "type": "file",
-      "file": "Media/Äkta Johannes.png",
-      "x": 1124,
-      "y": -747,
-      "width": 310,
-      "height": 208
     },
     {
       "id": "05eef454c60f9c82",
@@ -283,37 +94,6 @@
       "height": 122
     },
     {
-      "id": "6b634c557b9b9bb9",
-      "type": "text",
-      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
-      "shape": "centered-rectangle",
-      "x": 345,
-      "y": 903,
-      "width": 290,
-      "height": 141,
-      "color": "3"
-    },
-    {
-      "id": "3b7de5b1937693d9",
-      "type": "text",
-      "text": "Korgblomma",
-      "shape": "oval",
-      "x": 360,
-      "y": 178,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": 383,
-      "y": 475,
-      "width": 214,
-      "height": 400
-    },
-    {
       "id": "f6414cdab3c4e770",
       "type": "text",
       "text": "Antal gula blad?",
@@ -346,17 +126,6 @@
       "width": 260,
       "height": 50,
       "color": "6"
-    },
-    {
-      "id": "0b2f1b89533f4d75",
-      "type": "text",
-      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
-      "shape": "centered-rectangle",
-      "x": 1289,
-      "y": 1320,
-      "width": 327,
-      "height": 154,
-      "color": "3"
     },
     {
       "id": "3eec569de4370114",
@@ -521,26 +290,6 @@
       "color": "3"
     },
     {
-      "id": "6f3c957870838bc2",
-      "type": "file",
-      "file": "Media/Tussilago.jpg",
-      "x": -620,
-      "y": 482,
-      "width": 264,
-      "height": 198
-    },
-    {
-      "id": "5686d1a636f72b1e",
-      "type": "text",
-      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
-      "shape": "centered-rectangle",
-      "x": -620,
-      "y": 680,
-      "width": 264,
-      "height": 138,
-      "color": "3"
-    },
-    {
       "id": "a33030e1bd35bb0c",
       "type": "file",
       "file": "Media/Solvända.jpg",
@@ -561,24 +310,275 @@
       "color": "3"
     },
     {
+      "id": "6f3c957870838bc2",
+      "type": "file",
+      "file": "Media/Tussilago.jpg",
+      "x": -640,
+      "y": 481,
+      "width": 264,
+      "height": 198
+    },
+    {
+      "id": "5e9c92d87721cc37",
+      "type": "file",
+      "file": "Media/Gråfibbla.png",
+      "x": -228,
+      "y": 480,
+      "width": 200,
+      "height": 200
+    },
+    {
+      "id": "5686d1a636f72b1e",
+      "type": "text",
+      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Gråtrist fjällad stjälk. Växer oftast i grupp.**",
+      "shape": "centered-rectangle",
+      "x": -640,
+      "y": 696,
+      "width": 264,
+      "height": 138,
+      "color": "3"
+    },
+    {
       "id": "c97a99b21cccf7b4",
       "type": "text",
       "text": "**Gråfibbla**\n_Pilosella officinarum_\nAsteraceae",
       "shape": "centered-rectangle",
-      "x": -300,
+      "x": -258,
       "y": 696,
       "width": 260,
       "height": 107,
       "color": "3"
     },
     {
-      "id": "5e9c92d87721cc37",
-      "x": -241,
-      "y": 515,
-      "width": 201,
-      "height": 202,
+      "id": "2e228fe8fcd744b4",
+      "type": "text",
+      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
+      "shape": "centered-rectangle",
+      "x": 1616,
+      "y": -333,
+      "width": 310,
+      "height": 143,
+      "color": "3"
+    },
+    {
+      "id": "c2e1c26e3cac7008",
+      "type": "text",
+      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
+      "shape": "centered-rectangle",
+      "x": 1952,
+      "y": -110,
+      "width": 300,
+      "height": 110,
+      "color": "3"
+    },
+    {
+      "id": "06c10b447e796fa6",
       "type": "file",
-      "file": "Media/Gråfibbla.png"
+      "file": "Media/Fyrkantig Johannes.png",
+      "x": 1952,
+      "y": -522,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "43bb611974511113",
+      "type": "file",
+      "file": "Media/Äkta Johannes.png",
+      "x": 1616,
+      "y": -557,
+      "width": 310,
+      "height": 208
+    },
+    {
+      "id": "3b7de5b1937693d9",
+      "type": "text",
+      "text": "Korgblomma",
+      "shape": "oval",
+      "x": 360,
+      "y": 61,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": 383,
+      "y": 216,
+      "width": 214,
+      "height": 400
+    },
+    {
+      "id": "6b634c557b9b9bb9",
+      "type": "text",
+      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
+      "shape": "centered-rectangle",
+      "x": 345,
+      "y": 644,
+      "width": 290,
+      "height": 141,
+      "color": "3"
+    },
+    {
+      "id": "64ad8c3fb146e295",
+      "type": "text",
+      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
+      "shape": "centered-rectangle",
+      "x": 450,
+      "y": 1440,
+      "width": 260,
+      "height": 128,
+      "color": "3"
+    },
+    {
+      "id": "f91523274481427f",
+      "type": "file",
+      "file": "Media/Femfingerört.jpg",
+      "x": 490,
+      "y": 1200,
+      "width": 180,
+      "height": 240
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": 846,
+      "y": 1223,
+      "width": 192,
+      "height": 399
+    },
+    {
+      "id": "a837c47d3a9b596d",
+      "type": "file",
+      "file": "Media/Nejlikrot2.jpg",
+      "x": 1044,
+      "y": 1228,
+      "width": 332,
+      "height": 230
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
+      "shape": "centered-rectangle",
+      "x": 1049,
+      "y": 1468,
+      "width": 327,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "9862f4144fb29361",
+      "type": "text",
+      "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1179,
+      "y": 899,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "df10e23eae0c97b3",
+      "type": "file",
+      "file": "Media/Smörblomma1.jpg",
+      "x": 1179,
+      "y": 364,
+      "width": 275,
+      "height": 300
+    },
+    {
+      "id": "d269b14d1a79685a",
+      "type": "file",
+      "file": "Media/Revsmörblomma2.jpg",
+      "x": 1608,
+      "y": 364,
+      "width": 243,
+      "height": 400
+    },
+    {
+      "id": "9c720367de56c81b",
+      "type": "file",
+      "file": "Media/Smörblomma2.jpg",
+      "x": 1179,
+      "y": 667,
+      "width": 276,
+      "height": 207
+    },
+    {
+      "id": "4b39d5c1a0bb65ad",
+      "type": "file",
+      "file": "Media/Revsmörblomma1.png",
+      "x": 1566,
+      "y": 764,
+      "width": 327,
+      "height": 217
+    },
+    {
+      "id": "b11e641fb9ed9df7",
+      "type": "text",
+      "text": "Revsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1592,
+      "y": 1006,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "e0a916319005faad",
+      "type": "text",
+      "text": "Smörblomma-likes\n(Ranunkel)",
+      "shape": "oval",
+      "x": 1186,
+      "y": 36,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "d62086087423e3ad",
+      "type": "text",
+      "text": "Hur är stjälkbladen?",
+      "shape": "oval",
+      "x": 1186,
+      "y": 156,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "969b1f906b6c5c21",
+      "type": "text",
+      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 778,
+      "y": 791,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "6d5858daca7a224b",
+      "type": "file",
+      "file": "Media/Lundsmörblomma.png",
+      "x": 782,
+      "y": 364,
+      "width": 267,
+      "height": 400
+    },
+    {
+      "id": "d6f016f13ee26405",
+      "type": "text",
+      "text": "Kronans form?",
+      "shape": "oval",
+      "x": 1186,
+      "y": -410,
+      "width": 260,
+      "height": 60,
+      "color": "6"
     }
   ],
   "edges": [
@@ -606,15 +606,6 @@
       "fromSide": "bottom",
       "toNode": "3f886d8bcb15750b",
       "toSide": "top"
-    },
-    {
-      "id": "561b0c43ebc4e1d6",
-      "fromNode": "d6f016f13ee26405",
-      "fromSide": "right",
-      "toNode": "e0a916319005faad",
-      "toSide": "left",
-      "color": "3",
-      "label": "Skålformad"
     },
     {
       "id": "9895da84d1932639",
@@ -669,15 +660,6 @@
       "label": "Försumbar"
     },
     {
-      "id": "4b9e440523a58500",
-      "fromNode": "d6f016f13ee26405",
-      "fromSide": "left",
-      "toNode": "3b7de5b1937693d9",
-      "toSide": "top",
-      "color": "3",
-      "label": "Korgblommig"
-    },
-    {
       "id": "44cf2cb9e78238a2",
       "fromNode": "3b7de5b1937693d9",
       "fromSide": "bottom",
@@ -702,15 +684,6 @@
       "toSide": "top",
       "color": "4",
       "label": "Grön"
-    },
-    {
-      "id": "ada9914bc4e89672",
-      "fromNode": "3f886d8bcb15750b",
-      "fromSide": "right",
-      "toNode": "d6f016f13ee26405",
-      "toSide": "top",
-      "color": "1",
-      "label": "Nej"
     },
     {
       "id": "2dae1d380d43d983",
@@ -754,7 +727,7 @@
       "toNode": "6f3c957870838bc2",
       "toSide": "top",
       "color": "5",
-      "label": "Gråtrist och fjällig"
+      "label": "Gråtrist\noch fjällig"
     },
     {
       "id": "26e5a213ffb79499",
@@ -795,11 +768,49 @@
       "label": "Ja"
     },
     {
-      "id": "649b2f312cd9f0b7",
+      "id": "03c697d1289340e3",
+      "fromNode": "307de7ae09f16d24",
+      "fromSide": "bottom",
+      "toNode": "5e9c92d87721cc37",
+      "toSide": "top",
+      "color": "5",
+      "label": "Naken och \nfett standard"
+    },
+    {
+      "id": "0eaab317e2ba721d",
       "fromNode": "3507fcefbd97054e",
       "fromSide": "bottom",
       "toNode": "a33030e1bd35bb0c",
-      "toSide": "top"
+      "toSide": "left",
+      "color": "5",
+      "label": "Smörblomsaktig"
+    },
+    {
+      "id": "85f31d64c912cd2c",
+      "fromNode": "3f886d8bcb15750b",
+      "fromSide": "right",
+      "toNode": "d6f016f13ee26405",
+      "toSide": "left",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "5149cfcef03c02b6",
+      "edgePathRoute": "square",
+      "fromNode": "d6f016f13ee26405",
+      "fromSide": "bottom",
+      "toNode": "3b7de5b1937693d9",
+      "toSide": "top",
+      "color": "5",
+      "label": "Korg"
+    },
+    {
+      "id": "e3f4cde6d982e54f",
+      "fromNode": "d6f016f13ee26405",
+      "fromSide": "bottom",
+      "toNode": "e0a916319005faad",
+      "toSide": "bottom",
+      "label": "Skål-lik"
     }
   ],
   "metadata": {

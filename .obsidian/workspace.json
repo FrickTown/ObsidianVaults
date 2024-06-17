@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": -6.971080477709336,
-                  "y": 859.0882335875604,
-                  "zoom": -1
+                  "x": 1503.1786695395733,
+                  "y": 75.87427406291708,
+                  "zoom": -0.5999999999999999
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media/Gråfibbla.png",
+                "file": "Gula Blommor.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Media/Gråfibbla.png",
+                "file": "Gula Blommor.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Media/Gråfibbla.png"
+                "file": "Gula Blommor.canvas"
               }
             }
           }
