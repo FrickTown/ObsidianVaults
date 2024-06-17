@@ -1,6 +1,16 @@
 {
   "nodes": [
     {
+      "id": "330109e163d6b78a",
+      "type": "group",
+      "x": 1100,
+      "y": -820,
+      "width": 680,
+      "height": 643,
+      "color": "3",
+      "label": "Johannesörtsväxter"
+    },
+    {
       "id": "25f982d4bc4e177e",
       "type": "text",
       "text": "Gul Blomma",
@@ -46,12 +56,12 @@
     {
       "id": "64ad8c3fb146e295",
       "type": "text",
-      "text": "Femfingerört",
+      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
       "shape": "centered-rectangle",
       "x": 690,
       "y": 1292,
       "width": 260,
-      "height": 60,
+      "height": 128,
       "color": "3"
     },
     {
@@ -122,7 +132,7 @@
       "x": 1320,
       "y": 1332,
       "width": 260,
-      "height": 60,
+      "height": 108,
       "color": "3"
     },
     {
@@ -244,46 +254,6 @@
       "color": "4"
     },
     {
-      "id": "43bb611974511113",
-      "type": "file",
-      "file": "Media/Äkta Johannes.png",
-      "x": 904,
-      "y": -667,
-      "width": 310,
-      "height": 208
-    },
-    {
-      "id": "2e228fe8fcd744b4",
-      "type": "text",
-      "text": "Äkta Johannesört\n/Hypericacae/ (Johannesörtsväxt)",
-      "shape": "centered-rectangle",
-      "x": 904,
-      "y": -443,
-      "width": 310,
-      "height": 50,
-      "color": "3"
-    },
-    {
-      "id": "06c10b447e796fa6",
-      "type": "file",
-      "file": "Media/Fyrkantig Johannes.png",
-      "x": 1240,
-      "y": -632,
-      "width": 300,
-      "height": 400
-    },
-    {
-      "id": "c2e1c26e3cac7008",
-      "type": "text",
-      "text": "Fyrkantig Johannesört\n/Hypericacae/ (Johannesörtsväxt)",
-      "shape": "centered-rectangle",
-      "x": 1240,
-      "y": -220,
-      "width": 300,
-      "height": 103,
-      "color": "3"
-    },
-    {
       "id": "79003287bb15a051",
       "type": "file",
       "file": "Media/Gåsört.png",
@@ -360,7 +330,7 @@
       "x": -246,
       "y": 568,
       "width": 293,
-      "height": 56,
+      "height": 94,
       "color": "3"
     },
     {
@@ -448,11 +418,62 @@
     {
       "id": "6b634c557b9b9bb9",
       "type": "text",
-      "text": "Ängshaverrot\nAsteraceae (Korgblomma)",
+      "text": "Ängshaverrot\n\nAsteraceae (Korgblomma)",
       "shape": "centered-rectangle",
       "x": 225,
       "y": 805,
       "width": 290,
+      "height": 100,
+      "color": "3"
+    },
+    {
+      "id": "06c10b447e796fa6",
+      "type": "file",
+      "file": "Media/Fyrkantig Johannes.png",
+      "x": 1460,
+      "y": -712,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "c2e1c26e3cac7008",
+      "type": "text",
+      "text": "Fyrkantig Johannesört\n/Hypericacae/ (Johannesörtsväxt)",
+      "shape": "centered-rectangle",
+      "x": 1460,
+      "y": -300,
+      "width": 300,
+      "height": 103,
+      "color": "3"
+    },
+    {
+      "id": "43bb611974511113",
+      "type": "file",
+      "file": "Media/Äkta Johannes.png",
+      "x": 1124,
+      "y": -747,
+      "width": 310,
+      "height": 208
+    },
+    {
+      "id": "2e228fe8fcd744b4",
+      "type": "text",
+      "text": "Äkta Johannesört\n/Hypericacae/ (Johannesörtsväxt)",
+      "shape": "centered-rectangle",
+      "x": 1124,
+      "y": -523,
+      "width": 310,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "4b2c5fc7163f8778",
+      "type": "text",
+      "text": "Kabbleka",
+      "shape": "centered-rectangle",
+      "x": -992,
+      "y": 1117,
+      "width": 260,
       "height": 60,
       "color": "3"
     }
