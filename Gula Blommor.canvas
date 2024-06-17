@@ -1,17 +1,6 @@
 {
   "nodes": [
     {
-      "id": "4b076624de27abcb",
-      "type": "text",
-      "text": "Käringtand\nFabaceae (Ärtväxt)\n**Kölen rakt ut**",
-      "shape": "centered-rectangle",
-      "x": 2677,
-      "y": 1100,
-      "width": 263,
-      "height": 88,
-      "color": "3"
-    },
-    {
       "id": "64ad8c3fb146e295",
       "type": "text",
       "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
@@ -497,6 +486,37 @@
       "y": 800,
       "width": 373,
       "height": 280
+    },
+    {
+      "id": "4b076624de27abcb",
+      "type": "text",
+      "text": "Käringtand\nFabaceae (Ärtväxt)\n**Kölen rakt ut**",
+      "shape": "centered-rectangle",
+      "x": 2677,
+      "y": 1100,
+      "width": 263,
+      "height": 88,
+      "color": "3"
+    },
+    {
+      "id": "72d3fd9194d090ca",
+      "x": -231,
+      "y": 832,
+      "width": 310,
+      "height": 232,
+      "type": "file",
+      "file": "Media/Revfingerört.JPG"
+    },
+    {
+      "id": "e571b5180598863d",
+      "type": "text",
+      "text": "**Revfingerört**\n_Potentilla reptans_\nRosaceae\n**Ofta meterlånga krypande revor med små, sågade blad**",
+      "shape": "centered-rectangle",
+      "x": -231,
+      "y": 1080,
+      "width": 299,
+      "height": 162,
+      "color": "3"
     }
   ],
   "edges": [
@@ -699,7 +719,8 @@
       "fromSide": "bottom",
       "toNode": "caaf4c66e50b602f",
       "toSide": "top",
-      "color": "4"
+      "color": "4",
+      "label": "Ej märkvärdig"
     }
   ],
   "metadata": {
