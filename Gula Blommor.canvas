@@ -882,7 +882,9 @@
       "fromNode": "1fdcbdf5ccbeac19",
       "fromSide": "right",
       "toNode": "41aab41a3f3875c8",
-      "toSide": "left"
+      "toSide": "left",
+      "color": "4",
+      "label": "...ja"
     }
   ],
   "metadata": {
