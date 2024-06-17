@@ -2,5 +2,5 @@
 # Floristics and Faunistics Vault
 
 ## Gula Blommor
-Obviously not exhaustive, only course-relevant flowers.
-
+Självklart inte uttömmande, endast kursrelevanta blommor.
+Jäklar vad jag känner mig trygg på gula blommor nu dock.
