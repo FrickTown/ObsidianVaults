@@ -394,7 +394,7 @@
       "x": -486,
       "y": 646,
       "width": 221,
-      "height": 140,
+      "height": 94,
       "color": "3"
     },
     {
@@ -409,12 +409,12 @@
     {
       "id": "1c6c8bb2f263de4d",
       "type": "text",
-      "text": "Gåsört\nRosaceae (Rosväxt)",
+      "text": "**Gåsört**\n_Argentina anserina_\nRosaceae (Rosväxt)\n**Mångpariga blad med talrika sågtänder**",
       "shape": "centered-rectangle",
       "x": -789,
       "y": 958,
       "width": 290,
-      "height": 57,
+      "height": 142,
       "color": "3"
     },
     {
@@ -425,46 +425,6 @@
       "y": 671,
       "width": 266,
       "height": 265
-    },
-    {
-      "id": "faf954faf8fad4b2",
-      "type": "file",
-      "file": "Media/Tussilago.jpg",
-      "x": -775,
-      "y": 1137,
-      "width": 400,
-      "height": 300
-    },
-    {
-      "id": "caaf4c66e50b602f",
-      "type": "text",
-      "text": "Kronbladsform?",
-      "shape": "oval",
-      "x": -1103,
-      "y": 876,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": -1519,
-      "y": 1137,
-      "width": 333,
-      "height": 250
-    },
-    {
-      "id": "4b2c5fc7163f8778",
-      "type": "text",
-      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
-      "shape": "centered-rectangle",
-      "x": -1501,
-      "y": 1417,
-      "width": 297,
-      "height": 123,
-      "color": "3"
     },
     {
       "id": "65a00075878b245b",
@@ -478,7 +438,7 @@
     {
       "id": "ed4909a2d8a2e0d6",
       "type": "text",
-      "text": "Gul Fetknopp\nCrassulaceae (Korsblad)",
+      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)",
       "shape": "centered-rectangle",
       "x": -1404,
       "y": 920,
@@ -498,12 +458,52 @@
       "color": "6"
     },
     {
+      "id": "caaf4c66e50b602f",
+      "type": "text",
+      "text": "Kronbladsform?",
+      "shape": "oval",
+      "x": -1103,
+      "y": 1015,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "faf954faf8fad4b2",
+      "type": "file",
+      "file": "Media/Tussilago.jpg",
+      "x": -775,
+      "y": 1260,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": -1519,
+      "y": 1260,
+      "width": 333,
+      "height": 250
+    },
+    {
+      "id": "4b2c5fc7163f8778",
+      "type": "text",
+      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
+      "shape": "centered-rectangle",
+      "x": -1501,
+      "y": 1540,
+      "width": 297,
+      "height": 123,
+      "color": "3"
+    },
+    {
       "id": "dcd762c08769dd52",
       "type": "text",
       "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Fjällig stjälk, nära grus och lera**",
       "shape": "centered-rectangle",
       "x": -746,
-      "y": 1472,
+      "y": 1595,
       "width": 342,
       "height": 137,
       "color": "3"
