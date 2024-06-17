@@ -1,0 +1,18 @@
+{
+  "canvas:convert-to-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "canvas:export-as-image": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ]
+}

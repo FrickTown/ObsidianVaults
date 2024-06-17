@@ -9,7 +9,7 @@
   "nodeStylingFeatureEnabled": true,
   "borderStyleFeatureEnabled": true,
   "edgesStylingFeatureEnabled": true,
-  "edgeStylePathfinderGridResolution": 10,
+  "edgeStylePathfinderGridResolution": 15,
   "edgeStylePathfinderPathLiveUpdate": true,
   "edgeStylePathfinderPathRounded": true,
   "commandsFeatureEnabled": true,
