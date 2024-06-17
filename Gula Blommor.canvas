@@ -604,46 +604,6 @@
       "color": "3"
     },
     {
-      "id": "08b93378d0e9c81b",
-      "type": "text",
-      "text": "**Gul Näckros**\n_Nuphar lutea_\n/Nymphaceae/ (Näckrosväxt)\n**Du borde kunna sätta denna utan extra tips**",
-      "shape": "centered-rectangle",
-      "x": -2337,
-      "y": -1653,
-      "width": 294,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "555f63dc94409548",
-      "type": "file",
-      "file": "Media/Gul Näckros.jpg",
-      "x": -2530,
-      "y": -2196,
-      "width": 610,
-      "height": 457
-    },
-    {
-      "id": "e476ba9a860d722b",
-      "type": "text",
-      "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\n**Växer nära vatten**",
-      "shape": "centered-rectangle",
-      "x": -1923,
-      "y": -824,
-      "width": 253,
-      "height": 117,
-      "color": "3"
-    },
-    {
-      "id": "7320063e4633ddd1",
-      "type": "file",
-      "file": "Media/Svärdslilja.jpg",
-      "x": -2001,
-      "y": -1289,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "284e3edd5c9ed91b",
       "type": "text",
       "text": "**Ängsskallra**\n_Rhinanthus minor_\n/Orobanchaceae/ (Snyltros)",
@@ -768,23 +728,75 @@
     {
       "id": "1342aacb5c4a1a43",
       "type": "text",
-      "text": "Växer den precis intill ett vattendrag?\n(Och verkar vara en vattenväxt?)",
+      "text": "Växer den precis intill ett vattendrag?",
       "shape": "oval",
       "x": -550,
       "y": -445,
       "width": 234,
-      "height": 105,
+      "height": 65,
       "color": "6"
     },
     {
       "id": "cf1f5943f134dc6b",
+      "type": "text",
+      "text": "Är det en gul näckros?",
+      "shape": "oval",
       "x": -1657,
       "y": -566,
       "width": 260,
       "height": 60,
-      "color": "4",
+      "color": "6"
+    },
+    {
+      "id": "2ef8106ca344b577",
       "type": "text",
-      "text": ""
+      "text": "...och växer den i princip exklusivt nära vatten?",
+      "shape": "oval",
+      "x": -1096,
+      "y": -453,
+      "width": 228,
+      "height": 82,
+      "color": "6"
+    },
+    {
+      "id": "e476ba9a860d722b",
+      "type": "text",
+      "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\nSvärdlika gröna blad **Växer nära vatten**",
+      "shape": "centered-rectangle",
+      "x": -1397,
+      "y": -1045,
+      "width": 253,
+      "height": 117,
+      "color": "3"
+    },
+    {
+      "id": "7320063e4633ddd1",
+      "type": "file",
+      "file": "Media/Svärdslilja.jpg",
+      "x": -1475,
+      "y": -1510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "08b93378d0e9c81b",
+      "type": "text",
+      "text": "**Gul Näckros**\n_Nuphar lutea_\n/Nymphaceae/ (Näckrosväxt)\n**Näckros, fast den gula sorten**",
+      "shape": "centered-rectangle",
+      "x": -2047,
+      "y": -1066,
+      "width": 294,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "555f63dc94409548",
+      "type": "file",
+      "file": "Media/Gul Näckros.jpg",
+      "x": -2240,
+      "y": -1609,
+      "width": 610,
+      "height": 457
     }
   ],
   "edges": [
@@ -1135,6 +1147,46 @@
       "toSide": "top",
       "color": "1",
       "label": "Nej"
+    },
+    {
+      "id": "6983ae7137933088",
+      "fromNode": "1342aacb5c4a1a43",
+      "fromSide": "left",
+      "toNode": "2ef8106ca344b577",
+      "toSide": "right",
+      "color": "4",
+      "label": "Ja"
+    },
+    {
+      "id": "a7ccdbc6573df847",
+      "edgePathRoute": "a-star",
+      "fromNode": "2ef8106ca344b577",
+      "fromSide": "bottom",
+      "toNode": "3f886d8bcb15750b",
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "37684f1d8981a1fa",
+      "fromNode": "2ef8106ca344b577",
+      "fromSide": "left",
+      "toNode": "cf1f5943f134dc6b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e3e1a69aa823f66b",
+      "fromNode": "cf1f5943f134dc6b",
+      "fromSide": "top",
+      "toNode": "08b93378d0e9c81b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2b7b0a2f684fc939",
+      "fromNode": "cf1f5943f134dc6b",
+      "fromSide": "top",
+      "toNode": "e476ba9a860d722b",
+      "toSide": "bottom"
     }
   ],
   "metadata": {
