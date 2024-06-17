@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f9420aa45f42aa97",
+        "id": "2a9611edf70f1779",
         "type": "tabs",
         "children": [
           {
-            "id": "af9a48b127573b3c",
+            "id": "d520d18de534d34e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 255.74283377714642,
-                  "y": -253.43643942465835,
-                  "zoom": -0.40000000000000013
+                  "x": 863.235630957596,
+                  "y": 520.0044305872716,
+                  "zoom": -0.6431512788178669
                 }
               }
             }
@@ -151,18 +151,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af9a48b127573b3c",
+  "active": "d520d18de534d34e",
   "lastOpenFiles": [
+    "Media/Äkta Johannes.png",
+    "Media/Ängshaverrot.jpg",
+    "Media/Johannesört.png",
+    "Gula Blommor.canvas",
+    "Media/Lundkovall.jpg",
     "Media/Gråfibbla.png",
     "Media/Gråfibla.png",
     "Media/24-06-17(19:01:30).png",
     "Pasted image 20240617190101.png",
     "ReadMe.md.md",
-    "Gula Blommor.canvas",
     "Blomväxtfamiljer.md",
     "Media/Humlelusern.jpeg",
     "Media/Revfingerört.JPG",
-    "Media/Tussilago.jpg",
-    "Media/Tussilago.png"
+    "Media/Tussilago.jpg"
   ]
 }

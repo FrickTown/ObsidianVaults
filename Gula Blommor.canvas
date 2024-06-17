@@ -616,13 +616,22 @@
     {
       "id": "41aab41a3f3875c8",
       "type": "text",
-      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n",
+      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
       "shape": "centered-rectangle",
-      "x": 338,
-      "y": -528,
+      "x": 337,
+      "y": -570,
       "width": 260,
-      "height": 60,
+      "height": 120,
       "color": "3"
+    },
+    {
+      "id": "dc6dbfb547bb5b8c",
+      "x": 345,
+      "y": -824,
+      "width": 244,
+      "height": 244,
+      "type": "file",
+      "file": "Media/Lundkovall.jpg"
     }
   ],
   "edges": [
