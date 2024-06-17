@@ -272,7 +272,7 @@
       "type": "text",
       "text": "Gul Blomma",
       "shape": "predefined-process",
-      "isStartNode": false,
+      "isStartNode": true,
       "x": -583,
       "y": -880,
       "width": 301,
