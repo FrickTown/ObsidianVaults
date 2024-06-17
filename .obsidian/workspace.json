@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 248.12357818264962,
-                  "y": -327.9209664007087,
-                  "zoom": -0.9999999999999999
+                  "x": -124.02866069641233,
+                  "y": 161.5894325981676,
+                  "zoom": -1.4
                 }
               }
             }
@@ -154,8 +154,8 @@
   },
   "active": "d520d18de534d34e",
   "lastOpenFiles": [
-    "Media/Johannesört.png",
     "Gula Blommor.canvas",
+    "Media/Johannesört.png",
     "canvas-export.html.pdf",
     "canvas-export.html",
     "Blomväxtfamiljer.md",
