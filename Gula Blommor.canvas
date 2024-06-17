@@ -1,16 +1,6 @@
 {
   "nodes": [
     {
-      "id": "351f7744c72e2c71",
-      "type": "text",
-      "text": "Avvikande bladformation",
-      "shape": "oval",
-      "x": 2287,
-      "y": -1,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "da7c394962f2b760",
       "type": "text",
       "text": "Gulvial\nFabaceae (Ärtväxt)\n**Kölen längsmed**",
@@ -350,46 +340,6 @@
       "color": "3"
     },
     {
-      "id": "2e228fe8fcd744b4",
-      "type": "text",
-      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
-      "shape": "centered-rectangle",
-      "x": 1616,
-      "y": -333,
-      "width": 310,
-      "height": 143,
-      "color": "3"
-    },
-    {
-      "id": "c2e1c26e3cac7008",
-      "type": "text",
-      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
-      "shape": "centered-rectangle",
-      "x": 1952,
-      "y": -110,
-      "width": 300,
-      "height": 110,
-      "color": "3"
-    },
-    {
-      "id": "06c10b447e796fa6",
-      "type": "file",
-      "file": "Media/Fyrkantig Johannes.png",
-      "x": 1952,
-      "y": -522,
-      "width": 300,
-      "height": 400
-    },
-    {
-      "id": "43bb611974511113",
-      "type": "file",
-      "file": "Media/Äkta Johannes.png",
-      "x": 1616,
-      "y": -557,
-      "width": 310,
-      "height": 208
-    },
-    {
       "id": "3b7de5b1937693d9",
       "type": "text",
       "text": "Korgblomma",
@@ -559,26 +509,76 @@
       "height": 399
     },
     {
+      "id": "e0a916319005faad",
+      "type": "text",
+      "text": "Smörblomma-likes\n(Ranunkel)",
+      "shape": "oval",
+      "x": 1187,
+      "y": 61,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
       "id": "d62086087423e3ad",
       "type": "text",
       "text": "Hur är stjälkbladen?",
       "shape": "oval",
-      "x": 1179,
+      "x": 1187,
       "y": 186,
       "width": 260,
       "height": 60,
       "color": "6"
     },
     {
-      "id": "e0a916319005faad",
+      "id": "351f7744c72e2c71",
       "type": "text",
-      "text": "Smörblomma-likes\n(Ranunkel)",
+      "text": "Avvikande bladformation",
       "shape": "oval",
-      "x": 1186,
-      "y": 91,
+      "x": 2874,
+      "y": 537,
       "width": 260,
-      "height": 60,
-      "color": "4"
+      "height": 60
+    },
+    {
+      "id": "2e228fe8fcd744b4",
+      "type": "text",
+      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
+      "shape": "centered-rectangle",
+      "x": 2203,
+      "y": 205,
+      "width": 310,
+      "height": 143,
+      "color": "3"
+    },
+    {
+      "id": "c2e1c26e3cac7008",
+      "type": "text",
+      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
+      "shape": "centered-rectangle",
+      "x": 2539,
+      "y": 428,
+      "width": 300,
+      "height": 110,
+      "color": "3"
+    },
+    {
+      "id": "06c10b447e796fa6",
+      "type": "file",
+      "file": "Media/Fyrkantig Johannes.png",
+      "x": 2539,
+      "y": 16,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "43bb611974511113",
+      "type": "file",
+      "file": "Media/Äkta Johannes.png",
+      "x": 2203,
+      "y": -19,
+      "width": 310,
+      "height": 208
     }
   ],
   "edges": [
@@ -795,23 +795,24 @@
       "label": "Nej"
     },
     {
-      "id": "5149cfcef03c02b6",
-      "edgePathRoute": "square",
-      "fromNode": "d6f016f13ee26405",
-      "fromSide": "bottom",
-      "toNode": "3b7de5b1937693d9",
-      "toSide": "top",
-      "color": "5",
-      "label": "Korg"
-    },
-    {
       "id": "db42f05c8f9bf708",
       "edgePathRoute": "square",
       "fromNode": "d6f016f13ee26405",
       "fromSide": "bottom",
       "toNode": "e0a916319005faad",
       "toSide": "top",
+      "color": "5",
       "label": "Skål"
+    },
+    {
+      "id": "e10a1e261cbbd206",
+      "edgePathRoute": "a-star",
+      "fromNode": "d6f016f13ee26405",
+      "fromSide": "bottom",
+      "toNode": "3b7de5b1937693d9",
+      "toSide": "right",
+      "color": "5",
+      "label": "Korg"
     }
   ],
   "metadata": {
