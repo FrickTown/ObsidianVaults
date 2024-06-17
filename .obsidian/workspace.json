@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": -276.40485262297307,
-                  "y": 528.2668932365282,
-                  "zoom": -0.9999999999999999
+                  "x": -6.971080477709336,
+                  "y": 859.0882335875604,
+                  "zoom": -1
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Media/Gråfibbla.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Media/Gråfibbla.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gula Blommor.canvas"
+                "file": "Media/Gråfibbla.png"
               }
             }
           }
@@ -153,6 +153,10 @@
   },
   "active": "af9a48b127573b3c",
   "lastOpenFiles": [
+    "Media/Gråfibbla.png",
+    "Media/Gråfibla.png",
+    "Media/24-06-17(19:01:30).png",
+    "Pasted image 20240617190101.png",
     "ReadMe.md.md",
     "Gula Blommor.canvas",
     "Blomväxtfamiljer.md",

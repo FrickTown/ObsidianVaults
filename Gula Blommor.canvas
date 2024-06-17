@@ -565,11 +565,20 @@
       "type": "text",
       "text": "**Gråfibbla**\n_Pilosella officinarum_\nAsteraceae",
       "shape": "centered-rectangle",
-      "x": -276,
-      "y": 684,
+      "x": -300,
+      "y": 696,
       "width": 260,
       "height": 107,
       "color": "3"
+    },
+    {
+      "id": "5e9c92d87721cc37",
+      "x": -241,
+      "y": 515,
+      "width": 201,
+      "height": 202,
+      "type": "file",
+      "file": "Media/Gråfibbla.png"
     }
   ],
   "edges": [
