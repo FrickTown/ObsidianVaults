@@ -657,12 +657,23 @@
     {
       "id": "6bcc286a8597bbb2",
       "type": "text",
-      "text": "**Sommargyllen**\n_Barbarea vulgaris_\n",
+      "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)",
       "shape": "centered-rectangle",
       "x": 32,
       "y": -1029,
-      "width": 260,
-      "height": 60,
+      "width": 273,
+      "height": 126,
+      "color": "3"
+    },
+    {
+      "id": "f9f68933834bcf84",
+      "type": "text",
+      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
+      "shape": "centered-rectangle",
+      "x": 1047,
+      "y": -593,
+      "width": 280,
+      "height": 113,
       "color": "3"
     }
   ],
