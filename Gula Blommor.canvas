@@ -421,55 +421,6 @@
       "color": "3"
     },
     {
-      "id": "64ad8c3fb146e295",
-      "type": "text",
-      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
-      "shape": "centered-rectangle",
-      "x": 450,
-      "y": 1440,
-      "width": 260,
-      "height": 128,
-      "color": "3"
-    },
-    {
-      "id": "f91523274481427f",
-      "type": "file",
-      "file": "Media/Femfingerört.jpg",
-      "x": 490,
-      "y": 1200,
-      "width": 180,
-      "height": 240
-    },
-    {
-      "id": "92e5ce10e457725d",
-      "type": "file",
-      "file": "Media/Nejlikrot1.jpg",
-      "x": 846,
-      "y": 1223,
-      "width": 192,
-      "height": 399
-    },
-    {
-      "id": "a837c47d3a9b596d",
-      "type": "file",
-      "file": "Media/Nejlikrot2.jpg",
-      "x": 1044,
-      "y": 1228,
-      "width": 332,
-      "height": 230
-    },
-    {
-      "id": "0b2f1b89533f4d75",
-      "type": "text",
-      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
-      "shape": "centered-rectangle",
-      "x": 1049,
-      "y": 1468,
-      "width": 327,
-      "height": 154,
-      "color": "3"
-    },
-    {
       "id": "9862f4144fb29361",
       "type": "text",
       "text": "Vanlig Smörblomma\nRanunculaceae (Ranunkel)",
@@ -539,17 +490,6 @@
       "color": "4"
     },
     {
-      "id": "d62086087423e3ad",
-      "type": "text",
-      "text": "Hur är stjälkbladen?",
-      "shape": "oval",
-      "x": 1186,
-      "y": 156,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "969b1f906b6c5c21",
       "type": "text",
       "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
@@ -576,6 +516,66 @@
       "shape": "oval",
       "x": 1186,
       "y": -410,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "a837c47d3a9b596d",
+      "type": "file",
+      "file": "Media/Nejlikrot2.jpg",
+      "x": 1888,
+      "y": 1200,
+      "width": 332,
+      "height": 230
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
+      "shape": "centered-rectangle",
+      "x": 1893,
+      "y": 1440,
+      "width": 327,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "64ad8c3fb146e295",
+      "type": "text",
+      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
+      "shape": "centered-rectangle",
+      "x": 1294,
+      "y": 1412,
+      "width": 260,
+      "height": 128,
+      "color": "3"
+    },
+    {
+      "id": "f91523274481427f",
+      "type": "file",
+      "file": "Media/Femfingerört.jpg",
+      "x": 1334,
+      "y": 1172,
+      "width": 180,
+      "height": 240
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": 1690,
+      "y": 1195,
+      "width": 192,
+      "height": 399
+    },
+    {
+      "id": "d62086087423e3ad",
+      "type": "text",
+      "text": "Hur är stjälkbladen?",
+      "shape": "oval",
+      "x": 794,
+      "y": 121,
       "width": 260,
       "height": 60,
       "color": "6"
