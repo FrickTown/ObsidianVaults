@@ -325,12 +325,12 @@
     {
       "id": "066e0f409b4c207e",
       "type": "text",
-      "text": "Solvända\n/Cistaceae/ (Solvändeväxter)\n",
+      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
       "shape": "centered-rectangle",
       "x": -246,
       "y": 568,
       "width": 293,
-      "height": 94,
+      "height": 112,
       "color": "3"
     },
     {
@@ -469,7 +469,7 @@
     {
       "id": "6b634c557b9b9bb9",
       "type": "text",
-      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n****",
+      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
       "shape": "centered-rectangle",
       "x": 225,
       "y": 819,
@@ -636,15 +636,6 @@
       "toSide": "top",
       "color": "4",
       "label": "Ja"
-    },
-    {
-      "id": "e107faeb080d1a5c",
-      "fromNode": "6e1ad954296e2b14",
-      "fromSide": "bottom",
-      "toNode": "59ec22f181e80282",
-      "toSide": "top",
-      "color": "4",
-      "label": "Grön"
     },
     {
       "id": "4b9e440523a58500",
