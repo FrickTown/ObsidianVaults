@@ -11,28 +11,6 @@
       "height": 122
     },
     {
-      "id": "25f982d4bc4e177e",
-      "type": "text",
-      "text": "Gul Blomma",
-      "shape": "oval",
-      "x": -527,
-      "y": -640,
-      "width": 207,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "1fdcbdf5ccbeac19",
-      "type": "text",
-      "text": "... har den ett lila huvud ovanför de gula bladen?",
-      "shape": "oval",
-      "x": -527,
-      "y": -540,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "f91523274481427f",
       "type": "file",
       "file": "Media/Femfingerört.jpg",
@@ -57,8 +35,8 @@
       "shape": "centered-rectangle",
       "x": 311,
       "y": -845,
-      "width": 207,
-      "height": 128,
+      "width": 223,
+      "height": 159,
       "color": "3"
     },
     {
@@ -349,54 +327,14 @@
       "color": "6"
     },
     {
-      "id": "da7c394962f2b760",
-      "type": "text",
-      "text": "**Gulvial**\n_Lathyrus pratensis_\nFabaceae (Ärtväxt)\n**Kölen ligger längsmed**\n**Växer ofta lite högre än käringtand**\n**Parbladiga \\*utan\\* uddblad**",
-      "shape": "centered-rectangle",
-      "x": 1122,
-      "y": -85,
-      "width": 247,
-      "height": 200,
-      "color": "3"
-    },
-    {
-      "id": "9603c55aaa0fb9a3",
-      "type": "file",
-      "file": "Media/Gulvial.jpg",
-      "x": 1167,
-      "y": -321,
-      "width": 157,
-      "height": 224
-    },
-    {
-      "id": "410cd639034a0f4a",
-      "type": "file",
-      "file": "Media/Käringtand.jpg",
-      "x": 1409,
-      "y": -321,
-      "width": 296,
-      "height": 222
-    },
-    {
-      "id": "4b076624de27abcb",
-      "type": "text",
-      "text": "**Käringtand**\n_Lotus corniculatus_\nFabaceae (Ärtväxt)\n**Kölen rakt ut**\n**Ibland lite röd**\n**Parbladiga \\*med\\* uddblad**",
-      "shape": "centered-rectangle",
-      "x": 1409,
-      "y": -71,
-      "width": 296,
-      "height": 171,
-      "color": "3"
-    },
-    {
       "id": "05eef454c60f9c82",
       "type": "text",
-      "text": "Ligger kölen platt längsmed kronan?",
+      "text": "Hur ligger kölen mot hyllet?",
       "shape": "oval",
       "x": 919,
       "y": -246,
       "width": 207,
-      "height": 72,
+      "height": 58,
       "color": "6"
     },
     {
@@ -604,12 +542,34 @@
       "color": "6"
     },
     {
+      "id": "1fdcbdf5ccbeac19",
+      "type": "text",
+      "text": "... har den ett lila huvud ovanför de gula bladen?",
+      "shape": "oval",
+      "x": -565,
+      "y": -510,
+      "width": 264,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "25f982d4bc4e177e",
+      "type": "text",
+      "text": "Gul Blomma",
+      "shape": "oval",
+      "x": -537,
+      "y": -632,
+      "width": 207,
+      "height": 60,
+      "color": "3"
+    },
+    {
       "id": "41aab41a3f3875c8",
       "type": "text",
       "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
       "shape": "centered-rectangle",
       "x": -931,
-      "y": -590,
+      "y": -550,
       "width": 207,
       "height": 160,
       "color": "3"
@@ -619,9 +579,49 @@
       "type": "file",
       "file": "Media/Lundkovall.jpg",
       "x": -942,
-      "y": -832,
+      "y": -801,
       "width": 230,
       "height": 230
+    },
+    {
+      "id": "410cd639034a0f4a",
+      "type": "file",
+      "file": "Media/Käringtand.jpg",
+      "x": 1307,
+      "y": -468,
+      "width": 296,
+      "height": 222
+    },
+    {
+      "id": "4b076624de27abcb",
+      "type": "text",
+      "text": "**Käringtand**\n_Lotus corniculatus_\nFabaceae (Ärtväxt)\n**Kölen rakt ut**\n**Ibland lite röd**\n**Parbladiga \\*med\\* uddblad**",
+      "shape": "centered-rectangle",
+      "x": 1630,
+      "y": -452,
+      "width": 296,
+      "height": 191,
+      "color": "3"
+    },
+    {
+      "id": "9603c55aaa0fb9a3",
+      "type": "file",
+      "file": "Media/Gulvial.jpg",
+      "x": 1298,
+      "y": -198,
+      "width": 157,
+      "height": 224
+    },
+    {
+      "id": "da7c394962f2b760",
+      "type": "text",
+      "text": "**Gulvial**\n_Lathyrus pratensis_\nFabaceae (Ärtväxt)\n**Kölen ligger längsmed**\n**Växer ofta lite högre än käringtand**\n**Parbladiga \\*utan\\* uddblad**",
+      "shape": "centered-rectangle",
+      "x": 1489,
+      "y": -188,
+      "width": 301,
+      "height": 205,
+      "color": "3"
     }
   ],
   "edges": [
@@ -902,6 +902,23 @@
       "toSide": "right",
       "color": "4",
       "label": "...ja"
+    },
+    {
+      "id": "ea67dfe6b39101c8",
+      "fromNode": "05eef454c60f9c82",
+      "fromSide": "right",
+      "toNode": "9603c55aaa0fb9a3",
+      "toSide": "left",
+      "label": "Invikt"
+    },
+    {
+      "id": "19e3863683a3f8c1",
+      "fromNode": "05eef454c60f9c82",
+      "fromSide": "right",
+      "toNode": "410cd639034a0f4a",
+      "toSide": "left",
+      "color": "1",
+      "label": "Utstickande"
     }
   ],
   "metadata": {
