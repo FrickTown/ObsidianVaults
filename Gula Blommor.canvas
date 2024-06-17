@@ -1,17 +1,6 @@
 {
   "nodes": [
     {
-      "id": "25f982d4bc4e177e",
-      "type": "text",
-      "text": "Gul Blomma",
-      "shape": "oval",
-      "x": -146,
-      "y": -599,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
       "id": "3f886d8bcb15750b",
       "type": "text",
       "text": "Nära marken?",
@@ -601,6 +590,39 @@
       "width": 260,
       "height": 60,
       "color": "6"
+    },
+    {
+      "id": "25f982d4bc4e177e",
+      "type": "text",
+      "text": "Gul Blomma",
+      "shape": "oval",
+      "x": -146,
+      "y": -640,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "1fdcbdf5ccbeac19",
+      "type": "text",
+      "text": "... har den ett lila huvud ovanför de gula bladen?",
+      "shape": "oval",
+      "x": -146,
+      "y": -540,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "41aab41a3f3875c8",
+      "type": "text",
+      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n",
+      "shape": "centered-rectangle",
+      "x": 338,
+      "y": -528,
+      "width": 260,
+      "height": 60,
+      "color": "3"
     }
   ],
   "edges": [
@@ -621,13 +643,6 @@
       "toSide": "top",
       "color": "1",
       "label": "Nej"
-    },
-    {
-      "id": "0db107f09356b4b4",
-      "fromNode": "25f982d4bc4e177e",
-      "fromSide": "bottom",
-      "toNode": "3f886d8bcb15750b",
-      "toSide": "top"
     },
     {
       "id": "9895da84d1932639",
@@ -844,6 +859,30 @@
       "toNode": "57a24f8eb47e6f05",
       "toSide": "left",
       "color": "5"
+    },
+    {
+      "id": "29a873b9de873203",
+      "fromNode": "1fdcbdf5ccbeac19",
+      "fromSide": "bottom",
+      "toNode": "3f886d8bcb15750b",
+      "toSide": "top",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "8d81922f64ddcb9e",
+      "fromNode": "25f982d4bc4e177e",
+      "fromSide": "bottom",
+      "toNode": "1fdcbdf5ccbeac19",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "a0e92040caa8b9f9",
+      "fromNode": "1fdcbdf5ccbeac19",
+      "fromSide": "right",
+      "toNode": "41aab41a3f3875c8",
+      "toSide": "left"
     }
   ],
   "metadata": {
