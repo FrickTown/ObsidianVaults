@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d39db42e27f0b85",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": 1052,
-                  "y": 567,
-                  "zoom": -2.7979930810934195
-                }
-              }
-            }
-          },
-          {
             "id": "af9a48b127573b3c",
             "type": "leaf",
             "state": {
@@ -30,15 +15,14 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": -498.34507326691937,
-                  "y": 893.414163031281,
-                  "zoom": -0.3979930810934198
+                  "x": -763.4802201370438,
+                  "y": 1083.5171815156405,
+                  "zoom": -0.3833728887002208
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,8 +153,10 @@
   },
   "active": "af9a48b127573b3c",
   "lastOpenFiles": [
+    "Media/Tussilago.jpg",
+    "Gula Blommor.canvas",
+    "Media/Tussilago.png",
     "ReadMe.md.md",
-    "Blomväxtfamiljer.md",
-    "Gula Blommor.canvas"
+    "Blomväxtfamiljer.md"
   ]
 }

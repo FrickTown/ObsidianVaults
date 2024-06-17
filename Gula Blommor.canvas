@@ -54,26 +54,6 @@
       "height": 60
     },
     {
-      "id": "64ad8c3fb146e295",
-      "type": "text",
-      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
-      "shape": "centered-rectangle",
-      "x": 690,
-      "y": 1292,
-      "width": 260,
-      "height": 128,
-      "color": "3"
-    },
-    {
-      "id": "f91523274481427f",
-      "type": "file",
-      "file": "Media/Femfingerört.jpg",
-      "x": 730,
-      "y": 1052,
-      "width": 180,
-      "height": 240
-    },
-    {
       "id": "da7c394962f2b760",
       "type": "text",
       "text": "Gulvial\nFabaceae (Ärtväxt)\n**Kölen längsmed**",
@@ -134,15 +114,6 @@
       "width": 260,
       "height": 108,
       "color": "3"
-    },
-    {
-      "id": "92e5ce10e457725d",
-      "type": "file",
-      "file": "Media/Nejlikrot1.jpg",
-      "x": 1086,
-      "y": 1075,
-      "width": 192,
-      "height": 399
     },
     {
       "id": "a837c47d3a9b596d",
@@ -223,26 +194,6 @@
       "height": 400
     },
     {
-      "id": "969b1f906b6c5c21",
-      "type": "text",
-      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
-      "shape": "centered-rectangle",
-      "x": 1179,
-      "y": 875,
-      "width": 276,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "6d5858daca7a224b",
-      "type": "file",
-      "file": "Media/Lundsmörblomma.png",
-      "x": 1183,
-      "y": 448,
-      "width": 267,
-      "height": 400
-    },
-    {
       "id": "e0a916319005faad",
       "type": "text",
       "text": "Smörblomma-likes\n(Ranunkel)",
@@ -254,55 +205,6 @@
       "color": "4"
     },
     {
-      "id": "79003287bb15a051",
-      "type": "file",
-      "file": "Media/Gåsört.png",
-      "x": -666,
-      "y": 774,
-      "width": 290,
-      "height": 289
-    },
-    {
-      "id": "65a00075878b245b",
-      "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": -1295,
-      "y": 779,
-      "width": 220,
-      "height": 220
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": -1028,
-      "y": 849,
-      "width": 333,
-      "height": 250
-    },
-    {
-      "id": "ed4909a2d8a2e0d6",
-      "type": "text",
-      "text": "Gul Fetknopp\nCrassulaceae (Korsblad)",
-      "shape": "centered-rectangle",
-      "x": -1293,
-      "y": 1023,
-      "width": 218,
-      "height": 76,
-      "color": "3"
-    },
-    {
-      "id": "1c6c8bb2f263de4d",
-      "type": "text",
-      "text": "Gåsört\nRosaceae (Rosväxt)",
-      "shape": "centered-rectangle",
-      "x": -666,
-      "y": 1090,
-      "width": 290,
-      "height": 57,
-      "color": "3"
-    },
-    {
       "id": "3507fcefbd97054e",
       "type": "text",
       "text": "Har blomman pip?",
@@ -312,35 +214,6 @@
       "width": 260,
       "height": 60,
       "color": "6"
-    },
-    {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": -246,
-      "y": 334,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "066e0f409b4c207e",
-      "type": "text",
-      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
-      "shape": "centered-rectangle",
-      "x": -246,
-      "y": 568,
-      "width": 293,
-      "height": 112,
-      "color": "3"
-    },
-    {
-      "id": "b42f6209b80afada",
-      "type": "file",
-      "file": "Media/Gullviva.jpg",
-      "x": -664,
-      "y": 335,
-      "width": 221,
-      "height": 256
     },
     {
       "id": "f6414cdab3c4e770",
@@ -365,37 +238,6 @@
       "color": "6"
     },
     {
-      "id": "b2ad8691d17a6b54",
-      "type": "file",
-      "file": "Media/Blodrot.jpg",
-      "x": -1293,
-      "y": 119,
-      "width": 259,
-      "height": 344
-    },
-    {
-      "id": "6e1ad954296e2b14",
-      "type": "text",
-      "text": "Hur är växtbasen?",
-      "shape": "oval",
-      "x": -992,
-      "y": 586,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "63bce2b4c5a46282",
-      "type": "text",
-      "text": "Gullviva\n/Primulaceae/ (Viveväxt)",
-      "shape": "centered-rectangle",
-      "x": -664,
-      "y": 602,
-      "width": 221,
-      "height": 60,
-      "color": "3"
-    },
-    {
       "id": "3b7de5b1937693d9",
       "type": "text",
       "text": "Korgblomma",
@@ -405,15 +247,6 @@
       "width": 260,
       "height": 60,
       "color": "4"
-    },
-    {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": 263,
-      "y": 391,
-      "width": 214,
-      "height": 400
     },
     {
       "id": "06c10b447e796fa6",
@@ -456,15 +289,82 @@
       "color": "3"
     },
     {
-      "id": "4b2c5fc7163f8778",
+      "id": "64ad8c3fb146e295",
       "type": "text",
-      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
+      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
       "shape": "centered-rectangle",
-      "x": -1010,
-      "y": 1099,
-      "width": 297,
-      "height": 123,
+      "x": 690,
+      "y": 1292,
+      "width": 260,
+      "height": 128,
       "color": "3"
+    },
+    {
+      "id": "f91523274481427f",
+      "type": "file",
+      "file": "Media/Femfingerört.jpg",
+      "x": 730,
+      "y": 1052,
+      "width": 180,
+      "height": 240
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": 1086,
+      "y": 1075,
+      "width": 192,
+      "height": 399
+    },
+    {
+      "id": "969b1f906b6c5c21",
+      "type": "text",
+      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
+      "shape": "centered-rectangle",
+      "x": 1179,
+      "y": 875,
+      "width": 276,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "79003287bb15a051",
+      "type": "file",
+      "file": "Media/Gåsört.png",
+      "x": -666,
+      "y": 774,
+      "width": 266,
+      "height": 265
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -246,
+      "y": 334,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "066e0f409b4c207e",
+      "type": "text",
+      "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
+      "shape": "centered-rectangle",
+      "x": -246,
+      "y": 568,
+      "width": 293,
+      "height": 112,
+      "color": "3"
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": 263,
+      "y": 391,
+      "width": 214,
+      "height": 400
     },
     {
       "id": "6b634c557b9b9bb9",
@@ -476,6 +376,137 @@
       "width": 290,
       "height": 141,
       "color": "3"
+    },
+    {
+      "id": "6d5858daca7a224b",
+      "type": "file",
+      "file": "Media/Lundsmörblomma.png",
+      "x": 1183,
+      "y": 448,
+      "width": 267,
+      "height": 400
+    },
+    {
+      "id": "b42f6209b80afada",
+      "type": "file",
+      "file": "Media/Gullviva.jpg",
+      "x": -664,
+      "y": 335,
+      "width": 221,
+      "height": 256
+    },
+    {
+      "id": "6e1ad954296e2b14",
+      "type": "text",
+      "text": "Hur är växtbasen?",
+      "shape": "oval",
+      "x": -992,
+      "y": 586,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "63bce2b4c5a46282",
+      "type": "text",
+      "text": "Gullviva\n/Primulaceae/ (Viveväxt)",
+      "shape": "centered-rectangle",
+      "x": -664,
+      "y": 602,
+      "width": 221,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "faf954faf8fad4b2",
+      "x": -664,
+      "y": 1240,
+      "width": 400,
+      "height": 300,
+      "type": "file",
+      "file": "Media/Tussilago.jpg"
+    },
+    {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": -1295,
+      "y": 779,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "ed4909a2d8a2e0d6",
+      "type": "text",
+      "text": "Gul Fetknopp\nCrassulaceae (Korsblad)",
+      "shape": "centered-rectangle",
+      "x": -1293,
+      "y": 1023,
+      "width": 218,
+      "height": 76,
+      "color": "3"
+    },
+    {
+      "id": "dcd762c08769dd52",
+      "type": "text",
+      "text": "**Tussilago**\n_Tussilago farfara_\nAsteraceae\n**Fjällig stjälk, nära grus och lera**",
+      "shape": "centered-rectangle",
+      "x": -635,
+      "y": 1563,
+      "width": 342,
+      "height": 137,
+      "color": "3"
+    },
+    {
+      "id": "b2ad8691d17a6b54",
+      "type": "file",
+      "file": "Media/Blodrot.jpg",
+      "x": -1293,
+      "y": 119,
+      "width": 259,
+      "height": 344
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": -1351,
+      "y": 1260,
+      "width": 333,
+      "height": 250
+    },
+    {
+      "id": "4b2c5fc7163f8778",
+      "type": "text",
+      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
+      "shape": "centered-rectangle",
+      "x": -1333,
+      "y": 1540,
+      "width": 297,
+      "height": 123,
+      "color": "3"
+    },
+    {
+      "id": "1c6c8bb2f263de4d",
+      "type": "text",
+      "text": "Gåsört\nRosaceae (Rosväxt)",
+      "shape": "centered-rectangle",
+      "x": -678,
+      "y": 1061,
+      "width": 290,
+      "height": 57,
+      "color": "3"
+    },
+    {
+      "id": "caaf4c66e50b602f",
+      "type": "text",
+      "text": "Blomformation",
+      "shape": "oval",
+      "x": -873,
+      "y": 1005,
+      "width": 260,
+      "height": 60,
+      "color": "4"
     }
   ],
   "edges": [
