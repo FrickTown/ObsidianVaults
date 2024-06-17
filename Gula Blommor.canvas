@@ -11,15 +11,6 @@
       "height": 122
     },
     {
-      "id": "f91523274481427f",
-      "type": "file",
-      "file": "Media/Femfingerört.jpg",
-      "x": 343,
-      "y": -1085,
-      "width": 143,
-      "height": 191
-    },
-    {
       "id": "a837c47d3a9b596d",
       "type": "file",
       "file": "Media/Nejlikrot2.jpg",
@@ -27,28 +18,6 @@
       "y": -1057,
       "width": 264,
       "height": 183
-    },
-    {
-      "id": "64ad8c3fb146e295",
-      "type": "text",
-      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
-      "shape": "centered-rectangle",
-      "x": 311,
-      "y": -845,
-      "width": 223,
-      "height": 159,
-      "color": "3"
-    },
-    {
-      "id": "0b2f1b89533f4d75",
-      "type": "text",
-      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
-      "shape": "centered-rectangle",
-      "x": 787,
-      "y": -817,
-      "width": 260,
-      "height": 154,
-      "color": "3"
     },
     {
       "id": "92e5ce10e457725d",
@@ -311,7 +280,7 @@
     {
       "id": "e8a09464606014a6",
       "type": "text",
-      "text": "Är växten en samling av långa, smala stjälkar?",
+      "text": "Är växten en samling av långa, smala, hårda stjälkar?",
       "shape": "oval",
       "x": 45,
       "y": -248,
@@ -595,31 +564,11 @@
       "color": "6"
     },
     {
-      "id": "06c10b447e796fa6",
-      "type": "file",
-      "file": "Media/Fyrkantig Johannes.png",
-      "x": 1900,
-      "y": 171,
-      "width": 238,
-      "height": 318
-    },
-    {
-      "id": "c2e1c26e3cac7008",
-      "type": "text",
-      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
-      "shape": "centered-rectangle",
-      "x": 1900,
-      "y": 512,
-      "width": 238,
-      "height": 173,
-      "color": "3"
-    },
-    {
       "id": "43bb611974511113",
       "type": "file",
       "file": "Media/Äkta Johannes.png",
-      "x": 1434,
-      "y": 400,
+      "x": 1860,
+      "y": 84,
       "width": 350,
       "height": 235
     },
@@ -628,10 +577,92 @@
       "type": "text",
       "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
       "shape": "centered-rectangle",
-      "x": 1467,
-      "y": 648,
+      "x": 1893,
+      "y": 332,
       "width": 285,
       "height": 156,
+      "color": "3"
+    },
+    {
+      "id": "c2e1c26e3cac7008",
+      "type": "text",
+      "text": "**Fyrkantig Johannesört**\n*Hypericum Maculatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Föga grenad, har tydligt kantig stjälk**",
+      "shape": "centered-rectangle",
+      "x": 1480,
+      "y": 696,
+      "width": 238,
+      "height": 173,
+      "color": "3"
+    },
+    {
+      "id": "06c10b447e796fa6",
+      "type": "file",
+      "file": "Media/Fyrkantig Johannes.png",
+      "x": 1480,
+      "y": 355,
+      "width": 238,
+      "height": 318
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
+      "shape": "centered-rectangle",
+      "x": 787,
+      "y": -874,
+      "width": 260,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "e13cb508fafea497",
+      "type": "text",
+      "text": "sdfsdf",
+      "shape": "oval",
+      "x": 45,
+      "y": -797,
+      "width": 260,
+      "height": 77,
+      "color": "6"
+    },
+    {
+      "id": "f91523274481427f",
+      "type": "file",
+      "file": "Media/Femfingerört.jpg",
+      "x": 408,
+      "y": -655,
+      "width": 217,
+      "height": 290
+    },
+    {
+      "id": "64ad8c3fb146e295",
+      "type": "text",
+      "text": "**Femfingerört**\n*Potentilla argentea*\nRosaceae (Rosväxter)\n**Silverfärgade hår på undersidan**",
+      "shape": "centered-rectangle",
+      "x": 667,
+      "y": -589,
+      "width": 223,
+      "height": 159,
+      "color": "3"
+    },
+    {
+      "id": "4183daf7adc38741",
+      "x": 360,
+      "y": -1185,
+      "width": 231,
+      "height": 465,
+      "type": "file",
+      "file": "Media/Sommargyllen.jpg"
+    },
+    {
+      "id": "6bcc286a8597bbb2",
+      "type": "text",
+      "text": "**Sommargyllen**\n_Barbarea vulgaris_\n",
+      "shape": "centered-rectangle",
+      "x": 32,
+      "y": -1029,
+      "width": 260,
+      "height": 60,
       "color": "3"
     }
   ],
@@ -923,6 +954,31 @@
       "toNode": "9d8e821f4308f283",
       "toSide": "left",
       "color": "5"
+    },
+    {
+      "id": "8c2c702ef977d9c0",
+      "fromNode": "9d8e821f4308f283",
+      "fromSide": "right",
+      "toNode": "43bb611974511113",
+      "toSide": "left",
+      "color": "1",
+      "label": "Nej"
+    },
+    {
+      "id": "9f6dd6ded1d54772",
+      "fromNode": "9d8e821f4308f283",
+      "fromSide": "bottom",
+      "toNode": "06c10b447e796fa6",
+      "toSide": "top",
+      "color": "4",
+      "label": "Ja"
+    },
+    {
+      "id": "d66728d0c0219b90",
+      "fromNode": "e8a09464606014a6",
+      "fromSide": "top",
+      "toNode": "e13cb508fafea497",
+      "toSide": "bottom"
     }
   ],
   "metadata": {
