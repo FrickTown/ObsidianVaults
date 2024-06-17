@@ -26,7 +26,7 @@
   "addGraphView": false,
   "addTitle": true,
   "addRSSFeed": true,
-  "siteURL": "",
+  "siteURL": "https://imfalling.github.io/ObsidianVaults/",
   "authorName": "Frick",
   "vaultTitle": "Obsidian",
   "exportPreset": "website",
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/frick/Desktop/GulaBlommor",
+  "exportPath": "/home/frick/Documents/FoF_Public",
   "filesToExport": [
     []
   ]
