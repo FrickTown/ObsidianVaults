@@ -646,37 +646,6 @@
       "color": "3"
     },
     {
-      "id": "4183daf7adc38741",
-      "x": 360,
-      "y": -1185,
-      "width": 231,
-      "height": 465,
-      "type": "file",
-      "file": "Media/Sommargyllen.jpg"
-    },
-    {
-      "id": "6bcc286a8597bbb2",
-      "type": "text",
-      "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)",
-      "shape": "centered-rectangle",
-      "x": 32,
-      "y": -1029,
-      "width": 273,
-      "height": 126,
-      "color": "3"
-    },
-    {
-      "id": "f9f68933834bcf84",
-      "type": "text",
-      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
-      "shape": "centered-rectangle",
-      "x": 1047,
-      "y": -593,
-      "width": 280,
-      "height": 113,
-      "color": "3"
-    },
-    {
       "id": "e476ba9a860d722b",
       "type": "text",
       "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\n**Växer nära vatten**",
@@ -685,6 +654,64 @@
       "y": -797,
       "width": 253,
       "height": 117,
+      "color": "3"
+    },
+    {
+      "id": "7320063e4633ddd1",
+      "type": "file",
+      "file": "Media/Svärdslilja.jpg",
+      "x": 1249,
+      "y": -1262,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "af9dde609e6ec265",
+      "type": "file",
+      "file": "Media/Ryssgubbe2.jpg",
+      "x": -251,
+      "y": -1600,
+      "width": 400,
+      "height": 268
+    },
+    {
+      "id": "f9f68933834bcf84",
+      "type": "text",
+      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
+      "shape": "centered-rectangle",
+      "x": -191,
+      "y": -1298,
+      "width": 280,
+      "height": 113,
+      "color": "3"
+    },
+    {
+      "id": "dbdab4221257897e",
+      "type": "file",
+      "file": "Media/Ryssgubbe1.jpg",
+      "x": -251,
+      "y": -1825,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "4183daf7adc38741",
+      "type": "file",
+      "file": "Media/Sommargyllen.jpg",
+      "x": 360,
+      "y": -1680,
+      "width": 231,
+      "height": 465
+    },
+    {
+      "id": "6bcc286a8597bbb2",
+      "type": "text",
+      "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)",
+      "shape": "centered-rectangle",
+      "x": 339,
+      "y": -1215,
+      "width": 273,
+      "height": 126,
       "color": "3"
     }
   ],
