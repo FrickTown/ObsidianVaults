@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "437789c5afc03054",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa0cae4635b07b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf483433d4a4ffa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Gula Blommor.canvas",
+                "viewState": {
+                  "x": 834.2549328906443,
+                  "y": 187.8297689418847,
+                  "zoom": -0.9837743855568909
+                }
+              }
+            }
+          },
+          {
+            "id": "ac3fae20df0c34d1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Gula Blommor.canvas",
+                "viewState": {
+                  "x": 92.3680802819713,
+                  "y": 644.4205757569905,
+                  "zoom": -1.3464481500346903
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3713967e7239da43",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "03f2dd7645f63fc8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4e80ed8966c92be1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "540913f785f7045f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "50b15cbb88778116",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f7a247d22c92d0d6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "228d6c171040792b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Gula Blommor.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fb0cf5e01d5ffd6f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Gula Blommor.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "afd946f6fc8b3d6e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Gula Blommor.canvas"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "ac3fae20df0c34d1",
+  "lastOpenFiles": [
+    "ReadMe.md.md",
+    "Gula Blommor.canvas",
+    "Media/Ängshaverrot.jpg",
+    "Media/Äkta Johannes.png",
+    "Media/Solvända.jpg",
+    "Media/Smörblomma2.jpg",
+    "Media/Smörblomma1.jpg",
+    "Media/Revsmörblomma2.jpg",
+    "Media/Revsmörblomma1.png",
+    "Media/Nejlikrot2.jpg",
+    "Media/Nejlikrot1.jpg",
+    "Media/Lundsmörblomma.png",
+    "Franska/Welcome.md",
+    "FloraFauna/Welcome.md",
+    "FloraFauna/Gula Blommor.canvas",
+    "/Gula Blommor.canvas",
+    "/Franska/Welcome.md",
+    "/FloraFauna/Welcome.md",
+    "/FloraFauna/Gula Blommor.canvas",
+    "ReadMe.md",
+    "Media",
+    "Franska",
+    "FloraFauna/Media",
+    "FloraFauna",
+    "/Media",
+    "/Franska",
+    "/FloraFauna/Media",
+    "/FloraFauna"
+  ]
+}

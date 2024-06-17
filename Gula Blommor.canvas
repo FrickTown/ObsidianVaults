@@ -97,12 +97,12 @@
     {
       "id": "da7c394962f2b760",
       "type": "text",
-      "text": "Gulvial\nFabaceae (Ärtväxt)",
+      "text": "Gulvial\nFabaceae (Ärtväxt)\nKölen längsmed",
       "shape": "centered-rectangle",
       "x": 2284,
       "y": 1100,
-      "width": 260,
-      "height": 60,
+      "width": 256,
+      "height": 100,
       "color": "3"
     },
     {
@@ -126,12 +126,12 @@
     {
       "id": "4b076624de27abcb",
       "type": "text",
-      "text": "Käringtand\nFabaceae (Ärtväxt)",
+      "text": "Käringtand\nFabaceae (Ärtväxt)\nKölen rakt ut",
       "shape": "centered-rectangle",
       "x": 2677,
       "y": 1100,
-      "width": 260,
-      "height": 60,
+      "width": 263,
+      "height": 100,
       "color": "3"
     },
     {
@@ -261,8 +261,8 @@
       "shape": "centered-rectangle",
       "x": -887,
       "y": 1009,
-      "width": 220,
-      "height": 50,
+      "width": 218,
+      "height": 76,
       "color": "3"
     },
     {
@@ -288,7 +288,7 @@
     {
       "id": "43bb611974511113",
       "type": "file",
-      "file": "Äkta Johannes.png",
+      "file": "Media/Äkta Johannes.png",
       "x": 66,
       "y": 725,
       "width": 310,
