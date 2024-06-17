@@ -724,7 +724,7 @@
       "file": "Media/Gul Näckros.jpg",
       "x": -2240,
       "y": -1609,
-      "width": 610,
+      "width": 609,
       "height": 457
     },
     {
@@ -769,12 +769,12 @@
     },
     {
       "id": "b2026690d655d76e",
+      "type": "file",
+      "file": "Media/Ängsskallra.JPG",
       "x": 471,
       "y": -711,
       "width": 499,
-      "height": 331,
-      "type": "file",
-      "file": "Media/Ängsskallra.JPG"
+      "height": 331
     },
     {
       "id": "284e3edd5c9ed91b",

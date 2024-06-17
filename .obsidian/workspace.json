@@ -152,12 +152,52 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "671452da5916a267",
+  "floating": {
+    "id": "36cd2cc01b68d1e3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ff2cb51badfed609",
+        "type": "window",
+        "children": [
+          {
+            "id": "f3b0591420a8f46e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "92a938c318370fb4",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Gula Blommor.canvas",
+                    "viewState": {
+                      "x": 0,
+                      "y": 0,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2881,
+        "y": 35,
+        "width": 958,
+        "height": 1044,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "92a938c318370fb4",
   "lastOpenFiles": [
+    "Gula Blommor.canvas",
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
     "Media/Sommargyllen1.jpg",
-    "Gula Blommor.canvas",
     "Media/Sommargyllen2.jpg",
     "Pasted image 20240617224154.png",
     "Snabbnyckel (Familj).canvas",
@@ -169,7 +209,6 @@
     "Media/Svärdslilja.jpg",
     "Media/Ryssgubbe2.jpg",
     "Media/Ryssgubbe.jpg",
-    "Media/Sommargyllen.jpg",
     "ReadMe.md.md",
     "canvas-export.html.pdf",
     "canvas-export.html"
