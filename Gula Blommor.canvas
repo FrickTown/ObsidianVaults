@@ -900,7 +900,8 @@
       "fromSide": "right",
       "toNode": "05eef454c60f9c82",
       "toSide": "left",
-      "label": "Ihopvikta"
+      "color": "5",
+      "label": "Intrikat vikta"
     }
   ],
   "metadata": {
