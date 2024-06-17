@@ -10,7 +10,8 @@
   "canvas:export-as-image": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "X"
     }

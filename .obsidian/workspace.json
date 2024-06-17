@@ -15,9 +15,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 391.1914866581956,
-                  "y": 571.5722998729352,
-                  "zoom": -1.843151278817867
+                  "x": 273.07287069080434,
+                  "y": 206.58923804246035,
+                  "zoom": -0.40127625895517416
                 }
               }
             }
@@ -153,6 +153,7 @@
   },
   "active": "d520d18de534d34e",
   "lastOpenFiles": [
+    "canvas-export.html",
     "Blomväxtfamiljer.md",
     "Media/Gråfibbla.png",
     "Pasted image 20240617190101.png",
