@@ -204,7 +204,7 @@
     {
       "id": "969b1f906b6c5c21",
       "type": "text",
-      "text": "Lundsmörblomma\nRanunculaceae (Ranunkel)",
+      "text": "**Lundsmörblomma**\n_Ranunculus cassubicus_\nRanunculaceae (Ranunkel)\nFetingbladen längst ned ",
       "shape": "centered-rectangle",
       "x": 257,
       "y": 767,
@@ -288,35 +288,6 @@
       "width": 207,
       "height": 68,
       "color": "6"
-    },
-    {
-      "id": "0b2f1b89533f4d75",
-      "type": "text",
-      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)",
-      "shape": "centered-rectangle",
-      "x": 1198,
-      "y": -615,
-      "width": 260,
-      "height": 154,
-      "color": "3"
-    },
-    {
-      "id": "a837c47d3a9b596d",
-      "type": "file",
-      "file": "Media/Nejlikrot2.jpg",
-      "x": 1194,
-      "y": -798,
-      "width": 264,
-      "height": 183
-    },
-    {
-      "id": "92e5ce10e457725d",
-      "type": "file",
-      "file": "Media/Nejlikrot1.jpg",
-      "x": 1036,
-      "y": -803,
-      "width": 153,
-      "height": 318
     },
     {
       "id": "1fdcbdf5ccbeac19",
@@ -532,28 +503,6 @@
       "y": -1929,
       "width": 400,
       "height": 268
-    },
-    {
-      "id": "f9f68933834bcf84",
-      "type": "text",
-      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
-      "shape": "centered-rectangle",
-      "x": -240,
-      "y": -1627,
-      "width": 280,
-      "height": 113,
-      "color": "3"
-    },
-    {
-      "id": "6bcc286a8597bbb2",
-      "type": "text",
-      "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)",
-      "shape": "centered-rectangle",
-      "x": 316,
-      "y": -1640,
-      "width": 273,
-      "height": 126,
-      "color": "3"
     },
     {
       "id": "643ddad8130b6209",
@@ -892,6 +841,57 @@
       "y": -1553,
       "width": 609,
       "height": 457
+    },
+    {
+      "id": "6bcc286a8597bbb2",
+      "type": "text",
+      "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)\n**Ganska lätt förväxlad med ryssgubbe på avstånd. Men hyllena är tydligt annorlunda.**",
+      "shape": "centered-rectangle",
+      "x": 233,
+      "y": -1660,
+      "width": 369,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "f9f68933834bcf84",
+      "type": "text",
+      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
+      "shape": "centered-rectangle",
+      "x": -250,
+      "y": -1643,
+      "width": 300,
+      "height": 147,
+      "color": "3"
+    },
+    {
+      "id": "0b2f1b89533f4d75",
+      "type": "text",
+      "text": "**Nejlikrot**\n_Medicago lupulina_\nRosaceae (Rosväxter)\n**Kan ibland likna revsmörblomma, men notera de väldigt strödda bladen och gröna foderbladen.**",
+      "shape": "centered-rectangle",
+      "x": 1016,
+      "y": -593,
+      "width": 278,
+      "height": 176,
+      "color": "3"
+    },
+    {
+      "id": "a837c47d3a9b596d",
+      "type": "file",
+      "file": "Media/Nejlikrot2.jpg",
+      "x": 1016,
+      "y": -808,
+      "width": 278,
+      "height": 192
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": 1319,
+      "y": -808,
+      "width": 148,
+      "height": 308
     }
   ],
   "edges": [
