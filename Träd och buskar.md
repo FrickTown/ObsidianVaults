@@ -8,3 +8,7 @@ Akn
 Slån
 Hallon
 Hagtorn
+Klibbal
+Sälg
+Ek
+Lönn

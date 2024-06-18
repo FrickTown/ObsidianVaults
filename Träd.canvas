@@ -14,21 +14,21 @@
     },
     {
       "id": "3e01d9c83f17f50e",
+      "type": "text",
+      "text": "Stam",
       "x": -910,
       "y": 24,
       "width": 260,
-      "height": 60,
-      "type": "text",
-      "text": "Stam"
+      "height": 60
     },
     {
       "id": "de143bd933da0938",
+      "type": "text",
+      "text": "Stam",
       "x": 160,
       "y": 24,
       "width": 260,
-      "height": 60,
-      "type": "text",
-      "text": "Stam"
+      "height": 60
     }
   ],
   "edges": [

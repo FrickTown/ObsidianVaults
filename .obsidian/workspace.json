@@ -11,14 +11,11 @@
             "id": "671452da5916a267",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": -1673.315244607302,
-                  "y": 1089.556389361625,
-                  "zoom": -0.33102742821935194
-                }
+                "file": "Träd och buskar.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Träd och buskar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Träd och buskar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gula Blommor.canvas"
+                "file": "Träd och buskar.md"
               }
             }
           }
@@ -154,16 +151,18 @@
   },
   "active": "671452da5916a267",
   "lastOpenFiles": [
-    "Träd och buskar.md",
     "Träd.canvas",
+    "Snabbnyckel (Familj).canvas",
+    "Lätta disktinktioner.canvas",
+    "Lätta distinktioner.md",
     "Gula Blommor.canvas",
+    "Träd och buskar.md",
     "Untitled Kanban.md",
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
     "Media/Sommargyllen1.jpg",
     "Media/Sommargyllen2.jpg",
     "Pasted image 20240617224154.png",
-    "Snabbnyckel (Familj).canvas",
     "Blomväxtfamiljer.md",
     "Untitled 1.md",
     "Pasted image 20240617222854.png",
