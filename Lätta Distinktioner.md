@@ -7,6 +7,12 @@
 - Stormåra har 5+ gröna blad i kransar
 # Vickrar
 
+# Klövrar
+- Skogsklöver: Rödlik, blomman är stjälkad från foderbladen
+- Rödklöver: Rödlik, blomman sitter ihop med foderbladen
+- Vitklöver: Klöverlik, men vit
+- Backskärvfrö (Ej klöver, men liknar vitklöver) Brun stjälk dock
+
 # Tolv familjer
 - Apiaceae (Flock)
 - Asteraceae (Korg)
