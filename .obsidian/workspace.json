@@ -11,31 +11,15 @@
             "id": "671452da5916a267",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": 427.6362984109603,
-                  "y": -1765.8110667553944,
-                  "zoom": -0.9999999999999999
-                }
-              }
-            }
-          },
-          {
-            "id": "d89d8448a587557b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Träd.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Träd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Träd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Träd.md"
               }
             }
           }
@@ -165,10 +149,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d89d8448a587557b",
+  "active": "671452da5916a267",
   "lastOpenFiles": [
+    "Träd.canvas",
     "Gula Blommor.canvas",
-    "Untitled.md",
+    "Untitled Kanban.md",
+    "Träd.md",
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
     "Media/Sommargyllen1.jpg",

@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "993e8b09a2f2897c",
+      "type": "text",
+      "text": "Träd",
+      "isStartNode": true,
+      "shape": "centered-rectangle",
+      "x": -352,
+      "y": -199,
+      "width": 212,
+      "height": 59,
+      "color": "4"
+    },
+    {
+      "id": "3e01d9c83f17f50e",
+      "x": -910,
+      "y": 24,
+      "width": 260,
+      "height": 60,
+      "type": "text",
+      "text": "Stam"
+    },
+    {
+      "id": "de143bd933da0938",
+      "x": 160,
+      "y": 24,
+      "width": 260,
+      "height": 60,
+      "type": "text",
+      "text": "Stam"
+    }
+  ],
+  "edges": [
+    {
+      "id": "c72618572320f089",
+      "fromNode": "993e8b09a2f2897c",
+      "fromSide": "left",
+      "toNode": "3e01d9c83f17f50e",
+      "toSide": "right",
+      "label": "Barr"
+    },
+    {
+      "id": "a64c8d2b3b057db8",
+      "fromNode": "993e8b09a2f2897c",
+      "fromSide": "right",
+      "toNode": "de143bd933da0938",
+      "toSide": "left",
+      "label": "Blad"
+    }
+  ],
+  "metadata": {}
+}
