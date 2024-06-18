@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Träd.md",
+                "file": "Träd och buskar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Träd.md",
+                "file": "Träd och buskar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Träd.md",
+                "file": "Träd och buskar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Träd.md"
+                "file": "Träd och buskar.md"
               }
             }
           }
@@ -154,7 +154,7 @@
     "Träd.canvas",
     "Gula Blommor.canvas",
     "Untitled Kanban.md",
-    "Träd.md",
+    "Träd och buskar.md",
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
     "Media/Sommargyllen1.jpg",

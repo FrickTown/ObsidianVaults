@@ -5,3 +5,6 @@ Getapel
 Hägg
 Asp
 Akn
+Slån
+Hallon
+Hagtorn
