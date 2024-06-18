@@ -27,3 +27,5 @@ Uddblad väldigt stort och ej vedartad => Hallon
 Måror har kransar 
 
 Daggkopp
+
+Rönn är sågade asp inte
