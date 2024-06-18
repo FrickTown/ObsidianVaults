@@ -11,315 +11,6 @@
       "label": "Börja Här"
     },
     {
-      "id": "dc6dbfb547bb5b8c",
-      "type": "file",
-      "file": "Media/Lundkovall.jpg",
-      "x": -1012,
-      "y": -1045,
-      "width": 288,
-      "height": 288
-    },
-    {
-      "id": "2ef8106ca344b577",
-      "type": "text",
-      "text": "...och växer den i princip exklusivt nära vatten?",
-      "shape": "oval",
-      "x": -1096,
-      "y": -453,
-      "width": 228,
-      "height": 82,
-      "color": "6"
-    },
-    {
-      "id": "307de7ae09f16d24",
-      "type": "text",
-      "text": "Hur är stjälken?",
-      "shape": "oval",
-      "x": -1017,
-      "y": 598,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "b42f6209b80afada",
-      "type": "file",
-      "file": "Media/Gullviva.jpg",
-      "x": -1320,
-      "y": 324,
-      "width": 197,
-      "height": 228
-    },
-    {
-      "id": "732d090c86ba7d70",
-      "type": "text",
-      "text": "Kronblad särade?",
-      "shape": "oval",
-      "isStartNode": false,
-      "x": -1576,
-      "y": 223,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "63bce2b4c5a46282",
-      "type": "text",
-      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
-      "shape": "centered-rectangle",
-      "x": -1541,
-      "y": 356,
-      "width": 176,
-      "height": 167,
-      "color": "3"
-    },
-    {
-      "id": "3507fcefbd97054e",
-      "type": "text",
-      "text": "Hyllets form?",
-      "shape": "oval",
-      "x": -999,
-      "y": 228,
-      "width": 207,
-      "height": 50,
-      "color": "6"
-    },
-    {
-      "id": "cf1f5943f134dc6b",
-      "type": "text",
-      "text": "Är det en gul näckros?",
-      "shape": "oval",
-      "x": -1640,
-      "y": -627,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "08b93378d0e9c81b",
-      "type": "text",
-      "text": "**Gul Näckros**\n_Nuphar lutea_\n/Nymphaceae/ (Näckrosväxt)\n**Näckros, fast den gula sorten**",
-      "shape": "centered-rectangle",
-      "x": -2047,
-      "y": -1066,
-      "width": 294,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "555f63dc94409548",
-      "type": "file",
-      "file": "Media/Gul Näckros.jpg",
-      "x": -2240,
-      "y": -1553,
-      "width": 609,
-      "height": 457
-    },
-    {
-      "id": "41aab41a3f3875c8",
-      "type": "text",
-      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
-      "shape": "centered-rectangle",
-      "x": -1006,
-      "y": -742,
-      "width": 276,
-      "height": 175,
-      "color": "3"
-    },
-    {
-      "id": "1c6c8bb2f263de4d",
-      "type": "text",
-      "text": "**Gåsört**\n_Argentina anserina_\nRosaceae (Rosväxt)\n**Mångpariga blad med talrika sågtänder**",
-      "shape": "centered-rectangle",
-      "x": -1533,
-      "y": 1213,
-      "width": 263,
-      "height": 147,
-      "color": "3"
-    },
-    {
-      "id": "59ec22f181e80282",
-      "type": "file",
-      "file": "Media/Kabbleka.jpg",
-      "x": -1721,
-      "y": 1414,
-      "width": 264,
-      "height": 198
-    },
-    {
-      "id": "4b2c5fc7163f8778",
-      "type": "text",
-      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
-      "shape": "centered-rectangle",
-      "x": -1721,
-      "y": 1624,
-      "width": 268,
-      "height": 154,
-      "color": "3"
-    },
-    {
-      "id": "ff0e0aff97282000",
-      "type": "file",
-      "file": "Media/Färgkulla.jpg",
-      "x": -2035,
-      "y": 1315,
-      "width": 252,
-      "height": 297
-    },
-    {
-      "id": "dd34ce27da7961fb",
-      "type": "text",
-      "text": "**Färgkulla**\n_Anthemis tinctoria_\nAsteraceae\n**Dill-liknande blad strödda längs stjälken. Neongul färg.**",
-      "shape": "centered-rectangle",
-      "x": -2071,
-      "y": 1624,
-      "width": 301,
-      "height": 167,
-      "color": "3"
-    },
-    {
-      "id": "65a00075878b245b",
-      "type": "file",
-      "file": "Media/Gul Fetknopp.png",
-      "x": -2033,
-      "y": 790,
-      "width": 198,
-      "height": 198
-    },
-    {
-      "id": "e571b5180598863d",
-      "type": "text",
-      "text": "**Revfingerört**\n_Potentilla reptans_\nRosaceae\n**Ofta meterlånga krypande revor med små, sågade blad**",
-      "shape": "centered-rectangle",
-      "x": -2330,
-      "y": 1198,
-      "width": 238,
-      "height": 182,
-      "color": "3"
-    },
-    {
-      "id": "7320063e4633ddd1",
-      "type": "file",
-      "file": "Media/Svärdslilja.jpg",
-      "x": -1475,
-      "y": -1510,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e476ba9a860d722b",
-      "type": "text",
-      "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\n**Svärdlika gröna blad omrking en gul, fladdrig blomma. **\n**Växer nära vatten**",
-      "shape": "centered-rectangle",
-      "x": -1440,
-      "y": -1088,
-      "width": 331,
-      "height": 182,
-      "color": "3"
-    },
-    {
-      "id": "79003287bb15a051",
-      "type": "file",
-      "file": "Media/Gåsört.png",
-      "x": -1508,
-      "y": 988,
-      "width": 211,
-      "height": 210
-    },
-    {
-      "id": "7affd75ddff49e2d",
-      "type": "text",
-      "text": "Korgblomma?",
-      "shape": "oval",
-      "x": -1801,
-      "y": 988,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "ed4909a2d8a2e0d6",
-      "type": "text",
-      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)\n**Borde nog egentligen uppmärksamma sin vikt mer.**",
-      "shape": "centered-rectangle",
-      "x": -2059,
-      "y": 1003,
-      "width": 251,
-      "height": 154,
-      "color": "3"
-    },
-    {
-      "id": "6e1ad954296e2b14",
-      "type": "text",
-      "text": "Hur är växtbasen?",
-      "shape": "oval",
-      "x": -1898,
-      "y": 550,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "dced1bc2a4a86c17",
-      "type": "file",
-      "file": "Media/Blodrot2.jpg",
-      "x": -2360,
-      "y": 223,
-      "width": 400,
-      "height": 300
-    },
-    {
-      "id": "72d3fd9194d090ca",
-      "type": "file",
-      "file": "Media/Revfingerört.jpg",
-      "x": -2338,
-      "y": 988,
-      "width": 246,
-      "height": 184
-    },
-    {
-      "id": "84421b6648dbdd96",
-      "type": "file",
-      "file": "Media/Ängsskallra.jpg",
-      "x": -2680,
-      "y": -371,
-      "width": 486,
-      "height": 323
-    },
-    {
-      "id": "284e3edd5c9ed91b",
-      "type": "text",
-      "text": "**Ängsskallra**\n_Rhinanthus minor_\n/Orobanchaceae/ (Snyltros)\n**Ganska lik Pacman utan ögon.**\n**Enligt legenden ska den nästan skallra lite om man skakar den.**",
-      "shape": "centered-rectangle",
-      "x": -2625,
-      "y": -615,
-      "width": 431,
-      "height": 234,
-      "color": "3"
-    },
-    {
-      "id": "f6414cdab3c4e770",
-      "type": "text",
-      "text": "Antal gula blad?",
-      "shape": "oval",
-      "x": -1774,
-      "y": -240,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "d37b99d4d0b14af0",
-      "type": "text",
-      "text": "**Blodrot**\n_Potentilla erecta_\nRosaceae\n**En av få 4-bladiga  gula blommor, typ den enda av dessa som är så kort också. **\n**Rätt snarlik Skelört på distans**",
-      "shape": "centered-rectangle",
-      "x": -2720,
-      "y": 222,
-      "width": 340,
-      "height": 303,
-      "color": "3"
-    },
-    {
       "id": "a837c47d3a9b596d",
       "type": "file",
       "file": "Media/Nejlikrot2.jpg",
@@ -347,15 +38,6 @@
       "width": 207,
       "height": 60,
       "color": "6"
-    },
-    {
-      "id": "6032d3c15c0704d2",
-      "type": "file",
-      "file": "Media/Skelört.jpg",
-      "x": 520,
-      "y": -771,
-      "width": 400,
-      "height": 310
     },
     {
       "id": "0b2f1b89533f4d75",
@@ -498,17 +180,6 @@
       "color": "4"
     },
     {
-      "id": "0a975478f7220012",
-      "type": "text",
-      "text": "**Skelört**\n_Chelidónium majus_\n/Papaveraceae/ (Vallmo)\n**Glest hårig, och stjälken är fylld med gult äckelpäckel.**\n**Lite lik blodrot men blir större och har rejälare blad.**",
-      "shape": "centered-rectangle",
-      "x": 320,
-      "y": -752,
-      "width": 189,
-      "height": 275,
-      "color": "3"
-    },
-    {
       "id": "e8a09464606014a6",
       "type": "text",
       "text": "Är växten en samling av långa, smala, hårda stjälkar?",
@@ -622,74 +293,6 @@
       "height": 235
     },
     {
-      "id": "25f982d4bc4e177e",
-      "type": "text",
-      "text": "Gul Blomma",
-      "shape": "predefined-process",
-      "isStartNode": true,
-      "x": -583,
-      "y": -880,
-      "width": 301,
-      "height": 109,
-      "color": "3"
-    },
-    {
-      "id": "f27cfad9eebce4f7",
-      "type": "file",
-      "file": "ReadMe.md.md",
-      "subpath": "#Gula Blommor",
-      "isStartNode": false,
-      "x": -630,
-      "y": -1075,
-      "width": 394,
-      "height": 174,
-      "color": "4"
-    },
-    {
-      "id": "1fdcbdf5ccbeac19",
-      "type": "text",
-      "text": "... har den ett lila huvud ovanför de gula bladen?",
-      "shape": "oval",
-      "x": -565,
-      "y": -695,
-      "width": 264,
-      "height": 80,
-      "color": "6"
-    },
-    {
-      "id": "58d32939c67374f7",
-      "type": "text",
-      "text": "Är den lite silvrig till färgen?",
-      "shape": "oval",
-      "x": 589,
-      "y": -1057,
-      "width": 234,
-      "height": 77,
-      "color": "6"
-    },
-    {
-      "id": "e13cb508fafea497",
-      "type": "text",
-      "text": "Syns dessa oftast i flockar?",
-      "shape": "oval",
-      "x": 19,
-      "y": -1057,
-      "width": 260,
-      "height": 77,
-      "color": "6"
-    },
-    {
-      "id": "0212183bb2c89311",
-      "type": "text",
-      "text": "Hyllets form?",
-      "shape": "oval",
-      "x": 19,
-      "y": -1278,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "6bcc286a8597bbb2",
       "type": "text",
       "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)\n**Ganska lätt förväxlad med ryssgubbe på avstånd. Men hyllena är tydligt annorlunda.**",
@@ -719,6 +322,121 @@
       "y": -1969,
       "width": 344,
       "height": 303
+    },
+    {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": -185,
+      "y": 326,
+      "width": 254,
+      "height": 475
+    },
+    {
+      "id": "3b7de5b1937693d9",
+      "type": "text",
+      "text": "Korgblomma",
+      "shape": "oval",
+      "x": -162,
+      "y": 171,
+      "width": 207,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "af9dde609e6ec265",
+      "type": "file",
+      "file": "Media/Ryssgubbe2.jpg",
+      "x": -300,
+      "y": -1934,
+      "width": 400,
+      "height": 268
+    },
+    {
+      "id": "dbdab4221257897e",
+      "type": "file",
+      "file": "Media/Ryssgubbe1.jpg",
+      "x": -300,
+      "y": -2154,
+      "width": 400,
+      "height": 225
+    },
+    {
+      "id": "6b634c557b9b9bb9",
+      "type": "text",
+      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
+      "shape": "centered-rectangle",
+      "x": -173,
+      "y": 813,
+      "width": 242,
+      "height": 141,
+      "color": "3"
+    },
+    {
+      "id": "969b1f906b6c5c21",
+      "type": "text",
+      "text": "**Lundsmörblomma**\n_Ranunculus cassubicus_\nRanunculaceae (Ranunkel)\n**Fetingbladen längst ned bästa avgöraren.**",
+      "shape": "centered-rectangle",
+      "x": 235,
+      "y": 759,
+      "width": 263,
+      "height": 153,
+      "color": "3"
+    },
+    {
+      "id": "dc6dbfb547bb5b8c",
+      "type": "file",
+      "file": "Media/Lundkovall.jpg",
+      "x": -1012,
+      "y": -1045,
+      "width": 288,
+      "height": 288
+    },
+    {
+      "id": "2ef8106ca344b577",
+      "type": "text",
+      "text": "...och växer den i princip exklusivt nära vatten?",
+      "shape": "oval",
+      "x": -1096,
+      "y": -453,
+      "width": 228,
+      "height": 82,
+      "color": "6"
+    },
+    {
+      "id": "41aab41a3f3875c8",
+      "type": "text",
+      "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
+      "shape": "centered-rectangle",
+      "x": -1006,
+      "y": -742,
+      "width": 276,
+      "height": 175,
+      "color": "3"
+    },
+    {
+      "id": "25f982d4bc4e177e",
+      "type": "text",
+      "text": "Gul Blomma",
+      "shape": "predefined-process",
+      "isStartNode": true,
+      "x": -583,
+      "y": -880,
+      "width": 301,
+      "height": 109,
+      "color": "3"
+    },
+    {
+      "id": "f27cfad9eebce4f7",
+      "type": "file",
+      "file": "ReadMe.md.md",
+      "subpath": "#Gula Blommor",
+      "isStartNode": false,
+      "x": -630,
+      "y": -1075,
+      "width": 394,
+      "height": 174,
+      "color": "4"
     },
     {
       "id": "3f886d8bcb15750b",
@@ -765,6 +483,82 @@
       "color": "3"
     },
     {
+      "id": "307de7ae09f16d24",
+      "type": "text",
+      "text": "Hur är stjälken?",
+      "shape": "oval",
+      "x": -1017,
+      "y": 598,
+      "width": 207,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "b42f6209b80afada",
+      "type": "file",
+      "file": "Media/Gullviva.jpg",
+      "x": -1320,
+      "y": 324,
+      "width": 197,
+      "height": 228
+    },
+    {
+      "id": "732d090c86ba7d70",
+      "type": "text",
+      "text": "Kronblad särade?",
+      "shape": "oval",
+      "isStartNode": false,
+      "x": -1576,
+      "y": 223,
+      "width": 207,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "63bce2b4c5a46282",
+      "type": "text",
+      "text": "**Gullviva**\n_Primula veris_\n/Primulaceae/ (Viveväxt)\n",
+      "shape": "centered-rectangle",
+      "x": -1541,
+      "y": 356,
+      "width": 176,
+      "height": 167,
+      "color": "3"
+    },
+    {
+      "id": "3507fcefbd97054e",
+      "type": "text",
+      "text": "Hyllets form?",
+      "shape": "oval",
+      "x": -999,
+      "y": 228,
+      "width": 207,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "e571b5180598863d",
+      "type": "text",
+      "text": "**Revfingerört**\n_Potentilla reptans_\nRosaceae\n**Ofta meterlånga krypande revor med små, sågade blad**",
+      "shape": "centered-rectangle",
+      "x": -2330,
+      "y": 1198,
+      "width": 238,
+      "height": 182,
+      "color": "3"
+    },
+    {
+      "id": "1fdcbdf5ccbeac19",
+      "type": "text",
+      "text": "... har den ett lila huvud ovanför de gula bladen?",
+      "shape": "oval",
+      "x": -565,
+      "y": -695,
+      "width": 264,
+      "height": 80,
+      "color": "6"
+    },
+    {
       "id": "066e0f409b4c207e",
       "type": "text",
       "text": "**Solvända**\n_Helianthemum nummularium_\n/Cistaceae/ (Solvändeväxter)\n**Förvedad stambotten**",
@@ -776,15 +570,6 @@
       "color": "3"
     },
     {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": -185,
-      "y": 326,
-      "width": 254,
-      "height": 475
-    },
-    {
       "id": "a33030e1bd35bb0c",
       "type": "file",
       "file": "Media/Solvända.jpg",
@@ -794,43 +579,174 @@
       "height": 230
     },
     {
-      "id": "3b7de5b1937693d9",
-      "type": "text",
-      "text": "Korgblomma",
-      "shape": "oval",
-      "x": -162,
-      "y": 171,
-      "width": 207,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "af9dde609e6ec265",
+      "id": "bde87e4c55689c24",
       "type": "file",
-      "file": "Media/Ryssgubbe2.jpg",
-      "x": -300,
-      "y": -1934,
-      "width": 400,
-      "height": 268
+      "file": "Media/Humlelusern.jpg",
+      "x": -648,
+      "y": 148,
+      "width": 280,
+      "height": 210
     },
     {
-      "id": "dbdab4221257897e",
-      "type": "file",
-      "file": "Media/Ryssgubbe1.jpg",
-      "x": -300,
-      "y": -2154,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "6b634c557b9b9bb9",
+      "id": "1c6c8bb2f263de4d",
       "type": "text",
-      "text": "**Ängshaverrot**\n*Tragopogon pratensis*\nAsteraceae (Korgblomma)\n**Tänk enorm maskros. \nOftast på ängar.**",
+      "text": "**Gåsört**\n_Argentina anserina_\nRosaceae (Rosväxt)\n**Mångpariga blad med talrika sågtänder**",
       "shape": "centered-rectangle",
-      "x": -173,
-      "y": 813,
-      "width": 242,
-      "height": 141,
+      "x": -1533,
+      "y": 1213,
+      "width": 263,
+      "height": 147,
+      "color": "3"
+    },
+    {
+      "id": "59ec22f181e80282",
+      "type": "file",
+      "file": "Media/Kabbleka.jpg",
+      "x": -1721,
+      "y": 1414,
+      "width": 264,
+      "height": 198
+    },
+    {
+      "id": "4b2c5fc7163f8778",
+      "type": "text",
+      "text": "**Kabbleka**\n*Caltha palustris*\nRanunculaceae (Ranunkel)\n**Fria foderblad, saknar kronblad**",
+      "shape": "centered-rectangle",
+      "x": -1721,
+      "y": 1624,
+      "width": 268,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "ff0e0aff97282000",
+      "type": "file",
+      "file": "Media/Färgkulla.jpg",
+      "x": -2035,
+      "y": 1315,
+      "width": 252,
+      "height": 297
+    },
+    {
+      "id": "dd34ce27da7961fb",
+      "type": "text",
+      "text": "**Färgkulla**\n_Anthemis tinctoria_\nAsteraceae\n**Dill-liknande blad strödda längs stjälken. Neongul färg.**",
+      "shape": "centered-rectangle",
+      "x": -2071,
+      "y": 1624,
+      "width": 301,
+      "height": 167,
+      "color": "3"
+    },
+    {
+      "id": "65a00075878b245b",
+      "type": "file",
+      "file": "Media/Gul Fetknopp.png",
+      "x": -2033,
+      "y": 790,
+      "width": 198,
+      "height": 198
+    },
+    {
+      "id": "79003287bb15a051",
+      "type": "file",
+      "file": "Media/Gåsört.png",
+      "x": -1508,
+      "y": 988,
+      "width": 211,
+      "height": 210
+    },
+    {
+      "id": "7affd75ddff49e2d",
+      "type": "text",
+      "text": "Korgblomma?",
+      "shape": "oval",
+      "x": -1801,
+      "y": 988,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "ed4909a2d8a2e0d6",
+      "type": "text",
+      "text": "**Gul Fetknopp**\n_Sedum acre_\nCrassulaceae (Korsblad)\n**Borde nog egentligen uppmärksamma sin vikt mer.**",
+      "shape": "centered-rectangle",
+      "x": -2059,
+      "y": 1003,
+      "width": 251,
+      "height": 154,
+      "color": "3"
+    },
+    {
+      "id": "72d3fd9194d090ca",
+      "type": "file",
+      "file": "Media/Revfingerört.jpg",
+      "x": -2338,
+      "y": 988,
+      "width": 246,
+      "height": 184
+    },
+    {
+      "id": "cf1f5943f134dc6b",
+      "type": "text",
+      "text": "Är det en gul näckros?",
+      "shape": "oval",
+      "x": -1640,
+      "y": -627,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "08b93378d0e9c81b",
+      "type": "text",
+      "text": "**Gul Näckros**\n_Nuphar lutea_\n/Nymphaceae/ (Näckrosväxt)\n**Näckros, fast den gula sorten**",
+      "shape": "centered-rectangle",
+      "x": -2047,
+      "y": -1066,
+      "width": 294,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "555f63dc94409548",
+      "type": "file",
+      "file": "Media/Gul Näckros.jpg",
+      "x": -2240,
+      "y": -1553,
+      "width": 609,
+      "height": 457
+    },
+    {
+      "id": "7320063e4633ddd1",
+      "type": "file",
+      "file": "Media/Svärdslilja.jpg",
+      "x": -1475,
+      "y": -1510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e476ba9a860d722b",
+      "type": "text",
+      "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\n**Svärdlika gröna blad omrking en gul, fladdrig blomma. **\n**Växer nära vatten**",
+      "shape": "centered-rectangle",
+      "x": -1440,
+      "y": -1088,
+      "width": 331,
+      "height": 182,
+      "color": "3"
+    },
+    {
+      "id": "284e3edd5c9ed91b",
+      "type": "text",
+      "text": "**Ängsskallra**\n_Rhinanthus minor_\n/Orobanchaceae/ (Snyltros)\n**Ganska lik Pacman utan ögon.**\n**Enligt legenden ska den nästan skallra lite om man skakar den.**",
+      "shape": "centered-rectangle",
+      "x": -2625,
+      "y": -615,
+      "width": 431,
+      "height": 234,
       "color": "3"
     },
     {
@@ -854,15 +770,6 @@
       "height": 216
     },
     {
-      "id": "bde87e4c55689c24",
-      "type": "file",
-      "file": "Media/Humlelusern.jpg",
-      "x": -648,
-      "y": 148,
-      "width": 280,
-      "height": 210
-    },
-    {
       "id": "6f3c957870838bc2",
       "type": "file",
       "file": "Media/Tussilago.jpg",
@@ -883,15 +790,108 @@
       "color": "3"
     },
     {
-      "id": "969b1f906b6c5c21",
+      "id": "6e1ad954296e2b14",
       "type": "text",
-      "text": "**Lundsmörblomma**\n_Ranunculus cassubicus_\nRanunculaceae (Ranunkel)\n**Fetingbladen längst ned bästa avgöraren.**",
+      "text": "Hur är växtbasen?",
+      "shape": "oval",
+      "x": -1898,
+      "y": 550,
+      "width": 207,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "dced1bc2a4a86c17",
+      "type": "file",
+      "file": "Media/Blodrot2.jpg",
+      "x": -2360,
+      "y": 223,
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": "84421b6648dbdd96",
+      "type": "file",
+      "file": "Media/Ängsskallra.jpg",
+      "x": -2680,
+      "y": -371,
+      "width": 486,
+      "height": 323
+    },
+    {
+      "id": "f6414cdab3c4e770",
+      "type": "text",
+      "text": "Antal gula blad?",
+      "shape": "oval",
+      "x": -1774,
+      "y": -240,
+      "width": 207,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "d37b99d4d0b14af0",
+      "type": "text",
+      "text": "**Blodrot**\n_Potentilla erecta_\nRosaceae\n**En av få 4-bladiga  gula blommor, typ den enda av dessa som är så kort också. **\n**Rätt snarlik Skelört på distans**",
       "shape": "centered-rectangle",
-      "x": 235,
-      "y": 759,
-      "width": 263,
-      "height": 153,
+      "x": -2720,
+      "y": 222,
+      "width": 340,
+      "height": 303,
       "color": "3"
+    },
+    {
+      "id": "6032d3c15c0704d2",
+      "type": "file",
+      "file": "Media/Skelört.jpg",
+      "x": 520,
+      "y": -771,
+      "width": 400,
+      "height": 310
+    },
+    {
+      "id": "0a975478f7220012",
+      "type": "text",
+      "text": "**Skelört**\n_Chelidónium majus_\n/Papaveraceae/ (Vallmo)\n**Glest hårig, och stjälken är fylld med gult äckelpäckel.**\n**Lite lik blodrot men blir större och har rejälare blad.**",
+      "shape": "centered-rectangle",
+      "x": 320,
+      "y": -752,
+      "width": 189,
+      "height": 275,
+      "color": "3"
+    },
+    {
+      "id": "58d32939c67374f7",
+      "type": "text",
+      "text": "Är den lite silvrig till färgen?",
+      "shape": "oval",
+      "x": 589,
+      "y": -1057,
+      "width": 234,
+      "height": 77,
+      "color": "6"
+    },
+    {
+      "id": "e13cb508fafea497",
+      "type": "text",
+      "text": "Syns dessa oftast i flockar?",
+      "shape": "oval",
+      "x": 19,
+      "y": -1057,
+      "width": 260,
+      "height": 77,
+      "color": "6"
+    },
+    {
+      "id": "0212183bb2c89311",
+      "type": "text",
+      "text": "Hyllets form?",
+      "shape": "oval",
+      "x": 19,
+      "y": -1278,
+      "width": 260,
+      "height": 60,
+      "color": "6"
     }
   ],
   "edges": [

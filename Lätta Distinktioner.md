@@ -18,30 +18,34 @@
 - Backskärvfrö (Ej klöver, men liknar vitklöver) Brun stjälk dock
 
 # Tolv familjer
-- Apiaceae (Flock)
-- Asteraceae (Korg)
-- Boriginaceae (Sträv)
+- **Apiaceae (Flock)**
+	- Stjälk ofta "fårad" och ihålig
+- **Asteraceae (Korg)**
+- **Boriginaceae (Sträv)**
 	- Oftast håriga hela växten
-- Brassicaceae (Kors)
+- **Brassicaceae (Kors)**
 	- 6 ståndare, varav två är kortare
-- Caryophyllaceae (Nejlik)
+- **Caryophyllaceae (Nejlik)**
 	- Korsvis motsatta blad
 	- 5-talig krona, oftast 10 ståndare
 	- Enrummig frukt
-- Cyperiaceae (Halvgräs)
+- **Cyperiaceae (Halvgräs)**
 	- Ej ihåliga
 	- Har aldrig ledknutar
-- Fabaceae (Ärt)
+- **Fabaceae (Ärt)**
 	- Har stipler och baljor
-- Juncaceae (Tåg)
+- **Juncaceae (Tåg)**
 	- Gräsliknande, men brun och med svarta bollar
-- Lamaceae (Krans)
-- Poaceae (Gräs)
+- **Lamiaceae (Krans)**
+	- Korsvis motsatta blad på fyrkantig stam
+	- Fyrdelad klyvfrukt
+	- Ofta en över- och underläpp (ihopväxta kronblad)
+- **Poaceae (Gräs)**
 	- Ihåliga
 	- Kan ha ledknutar
-- Ranunculaceae (Ranunkel)
+- **Ranunculaceae (Ranunkel)**
 	- Kalkblad, ingen eller liten skillnad på foder- och kronblad
-- Rosaceae (Ros)
+- **Rosaceae (Ros)**
 	- Har stipler, men ej baljor
 	- Fem kron- och fem foderblad
-	- Ståndare i ring kring pistillfäste
+	- Ståndare i ringfäste kring center med många pistiller
