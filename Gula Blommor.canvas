@@ -409,6 +409,71 @@
       "color": "6"
     },
     {
+      "id": "37f46ee6099f2316",
+      "type": "file",
+      "file": "Media/Ängshaverrot.jpg",
+      "x": -185,
+      "y": 326,
+      "width": 254,
+      "height": 475
+    },
+    {
+      "id": "2e228fe8fcd744b4",
+      "type": "text",
+      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
+      "shape": "centered-rectangle",
+      "x": 1893,
+      "y": 332,
+      "width": 285,
+      "height": 156,
+      "color": "3"
+    },
+    {
+      "id": "06c10b447e796fa6",
+      "type": "file",
+      "file": "Media/Fyrkantig Johannes.png",
+      "x": 1480,
+      "y": 355,
+      "width": 238,
+      "height": 318
+    },
+    {
+      "id": "6d5858daca7a224b",
+      "type": "file",
+      "file": "Media/Lundsmörblomma.png",
+      "x": 240,
+      "y": 378,
+      "width": 253,
+      "height": 379
+    },
+    {
+      "id": "a33030e1bd35bb0c",
+      "type": "file",
+      "file": "Media/Solvända.jpg",
+      "x": -661,
+      "y": 380,
+      "width": 307,
+      "height": 230
+    },
+    {
+      "id": "d269b14d1a79685a",
+      "type": "file",
+      "file": "Media/Revsmörblomma2.jpg",
+      "x": 952,
+      "y": 405,
+      "width": 193,
+      "height": 318
+    },
+    {
+      "id": "df10e23eae0c97b3",
+      "type": "file",
+      "file": "Media/Smörblomma1.jpg",
+      "x": 611,
+      "y": 405,
+      "width": 219,
+      "height": 239
+    },
+    {
       "id": "0a975478f7220012",
       "type": "text",
       "text": "**Skelört**\n_Chelidónium majus_\n/Papaveraceae/ (Vallmo)\n**Glest hårig, och stjälken är fylld med gult äckelpäckel.**\n**Lite lik blodrot men blir större och har rejälare blad.**",
@@ -473,44 +538,26 @@
       "color": "6"
     },
     {
-      "id": "0212183bb2c89311",
+      "id": "d62086087423e3ad",
       "type": "text",
-      "text": "Hyllets form?",
+      "text": "Hur är stjälkbladen?",
       "shape": "oval",
-      "x": 19,
-      "y": -1278,
-      "width": 260,
+      "x": 618,
+      "y": 227,
+      "width": 207,
       "height": 60,
       "color": "6"
     },
     {
-      "id": "410cd639034a0f4a",
-      "type": "file",
-      "file": "Media/Käringtand.jpg",
-      "x": 1467,
-      "y": -460,
-      "width": 296,
-      "height": 222
-    },
-    {
-      "id": "9603c55aaa0fb9a3",
-      "type": "file",
-      "file": "Media/Gulvial.jpg",
-      "x": 1458,
-      "y": -190,
-      "width": 157,
-      "height": 224
-    },
-    {
-      "id": "05eef454c60f9c82",
+      "id": "e0a916319005faad",
       "type": "text",
-      "text": "Hur ligger kölen mot hyllet?",
+      "text": "Smörblomma-likes\n(Ranunkel)",
       "shape": "oval",
-      "x": 1103,
-      "y": -244,
+      "x": 617,
+      "y": 102,
       "width": 207,
-      "height": 68,
-      "color": "6"
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "0b2f1b89533f4d75",
@@ -533,37 +580,6 @@
       "height": 192
     },
     {
-      "id": "92e5ce10e457725d",
-      "type": "file",
-      "file": "Media/Nejlikrot1.jpg",
-      "x": 1319,
-      "y": -808,
-      "width": 148,
-      "height": 308
-    },
-    {
-      "id": "3f886d8bcb15750b",
-      "type": "text",
-      "text": "Nära marken?",
-      "shape": "oval",
-      "x": -537,
-      "y": -240,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "d90df7b36aaa6a5c",
-      "type": "text",
-      "text": "Drar höjdgränsen vid ungefär knähöjd. Naturligtvis lättare att bedöma med shorts på sig. [40 cm]",
-      "shape": "centered-rectangle",
-      "x": -581,
-      "y": -170,
-      "width": 296,
-      "height": 100,
-      "color": "2"
-    },
-    {
       "id": "f91523274481427f",
       "type": "file",
       "file": "Media/Femfingerört.jpg",
@@ -571,6 +587,77 @@
       "y": -1627,
       "width": 346,
       "height": 462
+    },
+    {
+      "id": "0212183bb2c89311",
+      "type": "text",
+      "text": "Hyllets form?",
+      "shape": "oval",
+      "x": 19,
+      "y": -1278,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "643ddad8130b6209",
+      "type": "file",
+      "file": "Media/Sommargyllen1.jpg",
+      "x": 620,
+      "y": -1969,
+      "width": 268,
+      "height": 540
+    },
+    {
+      "id": "3b7de5b1937693d9",
+      "type": "text",
+      "text": "Korgblomma",
+      "shape": "oval",
+      "x": -162,
+      "y": 171,
+      "width": 207,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "6bcc286a8597bbb2",
+      "type": "text",
+      "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)\n**Ganska lätt förväxlad med ryssgubbe på avstånd. Men hyllena är tydligt annorlunda.**",
+      "shape": "centered-rectangle",
+      "x": 233,
+      "y": -1660,
+      "width": 369,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "f9f68933834bcf84",
+      "type": "text",
+      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
+      "shape": "centered-rectangle",
+      "x": -255,
+      "y": -1660,
+      "width": 310,
+      "height": 183,
+      "color": "3"
+    },
+    {
+      "id": "9603c55aaa0fb9a3",
+      "type": "file",
+      "file": "Media/Gulvial.jpg",
+      "x": 1458,
+      "y": -190,
+      "width": 157,
+      "height": 224
+    },
+    {
+      "id": "92e5ce10e457725d",
+      "type": "file",
+      "file": "Media/Nejlikrot1.jpg",
+      "x": 1319,
+      "y": -808,
+      "width": 148,
+      "height": 308
     },
     {
       "id": "64ad8c3fb146e295",
@@ -584,28 +671,6 @@
       "color": "3"
     },
     {
-      "id": "1fdcbdf5ccbeac19",
-      "type": "text",
-      "text": "... har den ett lila huvud ovanför de gula bladen?",
-      "shape": "oval",
-      "x": -565,
-      "y": -695,
-      "width": 264,
-      "height": 80,
-      "color": "6"
-    },
-    {
-      "id": "1342aacb5c4a1a43",
-      "type": "text",
-      "text": "Växer den precis intill ett vattendrag?",
-      "shape": "oval",
-      "x": -557,
-      "y": -449,
-      "width": 249,
-      "height": 74,
-      "color": "6"
-    },
-    {
       "id": "25f982d4bc4e177e",
       "type": "text",
       "text": "Gul Blomma",
@@ -615,17 +680,6 @@
       "y": -880,
       "width": 301,
       "height": 109,
-      "color": "3"
-    },
-    {
-      "id": "3eec569de4370114",
-      "type": "text",
-      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
-      "shape": "centered-rectangle",
-      "x": -634,
-      "y": -40,
-      "width": 253,
-      "height": 170,
       "color": "3"
     },
     {
@@ -674,28 +728,6 @@
       "color": "3"
     },
     {
-      "id": "d62086087423e3ad",
-      "type": "text",
-      "text": "Hur är stjälkbladen?",
-      "shape": "oval",
-      "x": 618,
-      "y": 227,
-      "width": 207,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "e0a916319005faad",
-      "type": "text",
-      "text": "Smörblomma-likes\n(Ranunkel)",
-      "shape": "oval",
-      "x": 617,
-      "y": 102,
-      "width": 207,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "43bb611974511113",
       "type": "file",
       "file": "Media/Äkta Johannes.png",
@@ -703,6 +735,81 @@
       "y": 84,
       "width": 350,
       "height": 235
+    },
+    {
+      "id": "410cd639034a0f4a",
+      "type": "file",
+      "file": "Media/Käringtand.jpg",
+      "x": 1467,
+      "y": -460,
+      "width": 296,
+      "height": 222
+    },
+    {
+      "id": "05eef454c60f9c82",
+      "type": "text",
+      "text": "Hur ligger kölen mot hyllet?",
+      "shape": "oval",
+      "x": 1103,
+      "y": -244,
+      "width": 207,
+      "height": 68,
+      "color": "6"
+    },
+    {
+      "id": "3f886d8bcb15750b",
+      "type": "text",
+      "text": "Nära marken?",
+      "shape": "oval",
+      "x": -537,
+      "y": -240,
+      "width": 207,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "d90df7b36aaa6a5c",
+      "type": "text",
+      "text": "Drar höjdgränsen vid ungefär knähöjd. Naturligtvis lättare att bedöma med shorts på sig. [40 cm]",
+      "shape": "centered-rectangle",
+      "x": -581,
+      "y": -170,
+      "width": 296,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "1fdcbdf5ccbeac19",
+      "type": "text",
+      "text": "... har den ett lila huvud ovanför de gula bladen?",
+      "shape": "oval",
+      "x": -565,
+      "y": -695,
+      "width": 264,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "1342aacb5c4a1a43",
+      "type": "text",
+      "text": "Växer den precis intill ett vattendrag?",
+      "shape": "oval",
+      "x": -557,
+      "y": -449,
+      "width": 249,
+      "height": 74,
+      "color": "6"
+    },
+    {
+      "id": "3eec569de4370114",
+      "type": "text",
+      "text": "**Humlelusern**\n_Medicago lupulina_\nFabaceae (Ärtväxter)\n**Växer på företrädesvis torr mark.**",
+      "shape": "centered-rectangle",
+      "x": -634,
+      "y": -40,
+      "width": 253,
+      "height": 170,
+      "color": "3"
     },
     {
       "id": "4b076624de27abcb",
@@ -716,35 +823,6 @@
       "color": "3"
     },
     {
-      "id": "dc6dbfb547bb5b8c",
-      "type": "file",
-      "file": "Media/Lundkovall.jpg",
-      "x": -1012,
-      "y": -1045,
-      "width": 288,
-      "height": 288
-    },
-    {
-      "id": "643ddad8130b6209",
-      "type": "file",
-      "file": "Media/Sommargyllen1.jpg",
-      "x": 620,
-      "y": -1969,
-      "width": 268,
-      "height": 540
-    },
-    {
-      "id": "6bcc286a8597bbb2",
-      "type": "text",
-      "text": "**Sommargyllen**\n_Barbarea vulgaris_\nBrassicaceae (Korsblommig)\n**Ganska lätt förväxlad med ryssgubbe på avstånd. Men hyllena är tydligt annorlunda.**",
-      "shape": "centered-rectangle",
-      "x": 233,
-      "y": -1660,
-      "width": 369,
-      "height": 180,
-      "color": "3"
-    },
-    {
       "id": "bde87e4c55689c24",
       "type": "file",
       "file": "Media/Humlelusern.jpg",
@@ -754,15 +832,22 @@
       "height": 210
     },
     {
-      "id": "3b7de5b1937693d9",
-      "type": "text",
-      "text": "Korgblomma",
-      "shape": "oval",
-      "x": -162,
-      "y": 171,
-      "width": 207,
-      "height": 60,
-      "color": "4"
+      "id": "7320063e4633ddd1",
+      "type": "file",
+      "file": "Media/Svärdslilja.jpg",
+      "x": -1475,
+      "y": -1510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dc6dbfb547bb5b8c",
+      "type": "file",
+      "file": "Media/Lundkovall.jpg",
+      "x": -1012,
+      "y": -1045,
+      "width": 288,
+      "height": 288
     },
     {
       "id": "41aab41a3f3875c8",
@@ -798,26 +883,6 @@
       "color": "6"
     },
     {
-      "id": "f9f68933834bcf84",
-      "type": "text",
-      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
-      "shape": "centered-rectangle",
-      "x": -255,
-      "y": -1660,
-      "width": 310,
-      "height": 183,
-      "color": "3"
-    },
-    {
-      "id": "7320063e4633ddd1",
-      "type": "file",
-      "file": "Media/Svärdslilja.jpg",
-      "x": -1475,
-      "y": -1510,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "e476ba9a860d722b",
       "type": "text",
       "text": "**Svärdslilja**\n_Iris pseudacorus_\n/Iridaceae/ (Irisväxt)\n**Svärdlika gröna blad omrking en gul, fladdrig blomma. **\n**Växer nära vatten**",
@@ -827,71 +892,6 @@
       "width": 331,
       "height": 182,
       "color": "3"
-    },
-    {
-      "id": "37f46ee6099f2316",
-      "type": "file",
-      "file": "Media/Ängshaverrot.jpg",
-      "x": -185,
-      "y": 326,
-      "width": 254,
-      "height": 475
-    },
-    {
-      "id": "2e228fe8fcd744b4",
-      "type": "text",
-      "text": "**Äkta Johannesört**\n*Hypericum perforatum*\n/Hypericacae/ (Johannesörtsväxt)\n**Smågrenig, småbladig, blir röd om man gnuggar blomman**",
-      "shape": "centered-rectangle",
-      "x": 1893,
-      "y": 332,
-      "width": 285,
-      "height": 156,
-      "color": "3"
-    },
-    {
-      "id": "06c10b447e796fa6",
-      "type": "file",
-      "file": "Media/Fyrkantig Johannes.png",
-      "x": 1480,
-      "y": 355,
-      "width": 238,
-      "height": 318
-    },
-    {
-      "id": "6d5858daca7a224b",
-      "type": "file",
-      "file": "Media/Lundsmörblomma.png",
-      "x": 240,
-      "y": 378,
-      "width": 253,
-      "height": 379
-    },
-    {
-      "id": "a33030e1bd35bb0c",
-      "type": "file",
-      "file": "Media/Solvända.jpg",
-      "x": -661,
-      "y": 380,
-      "width": 307,
-      "height": 230
-    },
-    {
-      "id": "d269b14d1a79685a",
-      "type": "file",
-      "file": "Media/Revsmörblomma2.jpg",
-      "x": 952,
-      "y": 405,
-      "width": 193,
-      "height": 318
-    },
-    {
-      "id": "df10e23eae0c97b3",
-      "type": "file",
-      "file": "Media/Smörblomma1.jpg",
-      "x": 611,
-      "y": 405,
-      "width": 219,
-      "height": 239
     }
   ],
   "edges": [

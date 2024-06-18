@@ -152,47 +152,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "36cd2cc01b68d1e3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7e2e52822f5dfa77",
-        "type": "window",
-        "children": [
-          {
-            "id": "f899fd7939246364",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "78e0ec0a29979d98",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Gula Blommor.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1921,
-        "y": 35,
-        "width": 958,
-        "height": 1044,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "78e0ec0a29979d98",
+  "active": "671452da5916a267",
   "lastOpenFiles": [
     "Gula Blommor.canvas",
     "Media/Ängsskallra.JPG",
