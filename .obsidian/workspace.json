@@ -11,14 +11,11 @@
             "id": "671452da5916a267",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lätta disktinktioner.canvas",
-                "viewState": {
-                  "x": 132.68030515105008,
-                  "y": -91.1644441323566,
-                  "zoom": -0.5999999999999999
-                }
+                "file": "Små anteckningar.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lätta disktinktioner.canvas",
+                "file": "Små anteckningar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lätta disktinktioner.canvas",
+                "file": "Små anteckningar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lätta disktinktioner.canvas"
+                "file": "Små anteckningar.md"
               }
             }
           }
@@ -166,11 +163,11 @@
   },
   "active": "671452da5916a267",
   "lastOpenFiles": [
+    "Lätta disktinktioner.canvas",
     "Media/Hundkäxlika/sstormåra.jpg",
     "Media/Hundkäxlika/vitmåra.jpg",
     "Media/Hundkäxlika/rilleka-800x600.jpg",
     "Media/Hundkäxlika/rölika.jpg",
-    "Lätta disktinktioner.canvas",
     "Media/Hundkäxlika/kirskål.jpg",
     "Media/Hundkäxlika/kummin.jpg",
     "Media/Hundkäxlika/hundkäx.jpg",
@@ -189,7 +186,6 @@
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
     "Media/Sommargyllen1.jpg",
-    "Media/Sommargyllen2.jpg",
     "Blomväxtfamiljer.md",
     "Untitled 1.md",
     "canvas-export.html.pdf",
