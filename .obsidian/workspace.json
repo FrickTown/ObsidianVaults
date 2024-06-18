@@ -11,11 +11,14 @@
             "id": "671452da5916a267",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Små anteckningar.md",
-                "mode": "source",
-                "source": false
+                "file": "Lätta disktinktioner.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -23,15 +26,19 @@
             "id": "9ec9bc25812e39ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lätta Distinktioner.md",
-                "mode": "source",
-                "source": false
+                "file": "Gula Blommor.canvas",
+                "viewState": {
+                  "x": -969.984356812573,
+                  "y": 597.4480990012407,
+                  "zoom": -0.34278060964502965
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Små anteckningar.md",
+                "file": "Gula Blommor.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Små anteckningar.md",
+                "file": "Gula Blommor.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Små anteckningar.md"
+                "file": "Gula Blommor.canvas"
               }
             }
           }
@@ -161,33 +168,31 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "671452da5916a267",
+  "active": "9ec9bc25812e39ad",
   "lastOpenFiles": [
-    "Lätta disktinktioner.canvas",
-    "Media/Hundkäxlika/sstormåra.jpg",
-    "Media/Hundkäxlika/vitmåra.jpg",
-    "Media/Hundkäxlika/rilleka-800x600.jpg",
-    "Media/Hundkäxlika/rölika.jpg",
-    "Media/Hundkäxlika/kirskål.jpg",
-    "Media/Hundkäxlika/kummin.jpg",
-    "Media/Hundkäxlika/hundkäx.jpg",
-    "Media/Hundkäxlika/hundkäx",
-    "Media/Hundkäxlika",
-    "Träd.canvas",
-    "ReadMe.md.md",
-    "Små anteckningar.md",
     "Lätta Distinktioner.md",
-    "Gula Blommor.canvas",
+    "Små anteckningar.md",
     "gitclean",
+    "Lätta disktinktioner.canvas",
     "Träd och buskar.md",
+    "Träd.canvas",
     "Snabbnyckel (Familj).canvas",
     "Lätta distinktioner.md",
+    "Gula Blommor.canvas",
     "Untitled Kanban.md",
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
     "Media/Sommargyllen1.jpg",
+    "Media/Sommargyllen2.jpg",
+    "Pasted image 20240617224154.png",
     "Blomväxtfamiljer.md",
     "Untitled 1.md",
+    "Pasted image 20240617222854.png",
+    "Media/Ryssgubbe1.jpg",
+    "Media/Svärdslilja.jpg",
+    "Media/Ryssgubbe2.jpg",
+    "Media/Ryssgubbe.jpg",
+    "ReadMe.md.md",
     "canvas-export.html.pdf",
     "canvas-export.html"
   ]
