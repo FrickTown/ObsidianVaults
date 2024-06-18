@@ -15,8 +15,8 @@
               "state": {
                 "file": "Lätta disktinktioner.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -64,
+                  "y": 53,
                   "zoom": 0
                 }
               }
@@ -26,19 +26,15 @@
             "id": "9ec9bc25812e39ad",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": -969.984356812573,
-                  "y": 597.4480990012407,
-                  "zoom": -0.34278060964502965
-                }
+                "file": "Lätta Distinktioner.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Lätta disktinktioner.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Lätta disktinktioner.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gula Blommor.canvas"
+                "file": "Lätta disktinktioner.canvas"
               }
             }
           }
@@ -168,17 +164,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9ec9bc25812e39ad",
+  "active": "671452da5916a267",
   "lastOpenFiles": [
-    "Lätta Distinktioner.md",
-    "Små anteckningar.md",
-    "gitclean",
-    "Lätta disktinktioner.canvas",
-    "Träd och buskar.md",
+    "Media/Hundkäxlika/hundkäx.jpg",
+    "Media/Hundkäxlika/hundkäx",
+    "Media/Hundkäxlika",
     "Träd.canvas",
+    "ReadMe.md.md",
+    "Små anteckningar.md",
+    "Lätta disktinktioner.canvas",
+    "Lätta Distinktioner.md",
+    "Gula Blommor.canvas",
+    "gitclean",
+    "Träd och buskar.md",
     "Snabbnyckel (Familj).canvas",
     "Lätta distinktioner.md",
-    "Gula Blommor.canvas",
     "Untitled Kanban.md",
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
@@ -192,7 +192,6 @@
     "Media/Svärdslilja.jpg",
     "Media/Ryssgubbe2.jpg",
     "Media/Ryssgubbe.jpg",
-    "ReadMe.md.md",
     "canvas-export.html.pdf",
     "canvas-export.html"
   ]

@@ -1,5 +1,16 @@
 {
-  "nodes": [],
+  "nodes": [
+    {
+      "id": "59a7e1f1022dc6dd",
+      "type": "file",
+      "file": "Lätta Distinktioner.md",
+      "subpath": "#Hundkäx-lika blommor",
+      "x": -319,
+      "y": -246,
+      "width": 400,
+      "height": 226
+    }
+  ],
   "edges": [],
   "metadata": {}
 }
