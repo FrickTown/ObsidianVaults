@@ -20,6 +20,8 @@
 # Tolv familjer
 - **Apiaceae (Flock)**
 	- Stjälk ofta "fårad" och ihålig
+	- Blad flikiga
+	- Har bladslida
 - **Asteraceae (Korg)**
 - **Boriginaceae (Sträv)**
 	- Oftast håriga hela växten
