@@ -1,22 +1,23 @@
 # Träd
 ## Blad
-Rönn
-En
-Ask
+Rönn (Sågade parvis motsatta blad i V-formation) och Oxel (Snarlika)
+Alm och Hassel (Hassel rundare, mindre sträv)
+Asp (Darrar som asplöv)
+
+Ask (minst 9 blad) och Druvfläder (max 7 blad)
 Getapel
 Hägg
-Asp
 Akn
 Slån
 Hagtorn
 Klibbal
 Sälg
 Ek
-Lönn
+Lönn (kanada)
 Gråvide
-Oxel
 Lind
-
+## Barr
+En (Enda barrträdet i kursen)
 # Buskar
 Hallon
 Vildapel

@@ -30,9 +30,6 @@ Rönn är sågade asp inte
 
 Tuvtåtel dunderfriktion
 
-Lägg till skogskovall gul blomma
-Lägg till gatkamomill
-
 Darrar som asp
 
 Rönn sågad motsatt parblad

@@ -21,12 +21,27 @@
 - Apiaceae (Flock)
 - Asteraceae (Korg)
 - Boriginaceae (Sträv)
+	- Oftast håriga hela växten
 - Brassicaceae (Kors)
+	- 6 ståndare, varav två är kortare
 - Caryophyllaceae (Nejlik)
+	- Korsvis motsatta blad
+	- 5-talig krona, oftast 10 ståndare
+	- Enrummig frukt
 - Cyperiaceae (Halvgräs)
+	- Ej ihåliga
+	- Har aldrig ledknutar
 - Fabaceae (Ärt)
+	- Har stipler och baljor
 - Juncaceae (Tåg)
+	- Gräsliknande, men brun och med svarta bollar
 - Lamaceae (Krans)
 - Poaceae (Gräs)
+	- Ihåliga
+	- Kan ha ledknutar
 - Ranunculaceae (Ranunkel)
+	- Kalkblad, ingen eller liten skillnad på foder- och kronblad
 - Rosaceae (Ros)
+	- Har stipler, men ej baljor
+	- Fem kron- och fem foderblad
+	- Ståndare i ring kring pistillfäste

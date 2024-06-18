@@ -112,12 +112,12 @@
     },
     {
       "id": "c0154692eecfd9e8",
+      "type": "file",
+      "file": "Media/Klöver/vitklöver.jpg",
       "x": -1480,
       "y": -588,
       "width": 400,
-      "height": 359,
-      "type": "file",
-      "file": "Media/Klöver/vitklöver.jpg"
+      "height": 359
     },
     {
       "id": "39815b43feee5326",
@@ -149,21 +149,21 @@
     },
     {
       "id": "e63a694033f59f7c",
+      "type": "file",
+      "file": "Media/Vicker/blålusern2.jpg",
       "x": 1692,
       "y": -160,
       "width": 504,
-      "height": 333,
-      "type": "file",
-      "file": "Media/Vicker/blålusern2.jpg"
+      "height": 333
     },
     {
       "id": "d74c0d7ff2bca1b9",
+      "type": "file",
+      "file": "Media/Vicker/blålusern.jpg",
       "x": 2220,
       "y": -156,
       "width": 400,
-      "height": 291,
-      "type": "file",
-      "file": "Media/Vicker/blålusern.jpg"
+      "height": 291
     }
   ],
   "edges": [],
