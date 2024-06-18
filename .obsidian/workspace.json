@@ -26,11 +26,14 @@
             "id": "9ec9bc25812e39ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lätta Distinktioner.md",
-                "mode": "source",
-                "source": false
+                "file": "Gula Blommor.canvas",
+                "viewState": {
+                  "x": -969.984356812573,
+                  "y": 597.4480990012407,
+                  "zoom": -0.34278060964502965
+                }
               }
             }
           }
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lätta Distinktioner.md",
+                "file": "Gula Blommor.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lätta Distinktioner.md",
+                "file": "Gula Blommor.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lätta Distinktioner.md"
+                "file": "Gula Blommor.canvas"
               }
             }
           }
@@ -165,12 +168,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04977d68e7df48eb",
+  "active": "9ec9bc25812e39ad",
   "lastOpenFiles": [
+    "Lätta Distinktioner.md",
     "Små anteckningar.md",
     "gitclean",
     "Lätta disktinktioner.canvas",
-    "Lätta Distinktioner.md",
     "Träd och buskar.md",
     "Träd.canvas",
     "Snabbnyckel (Familj).canvas",
