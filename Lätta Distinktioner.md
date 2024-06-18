@@ -10,14 +10,13 @@
 # Tolv familjer
 - Apiaceae (Flock)
 - Asteraceae (Korg)
-- Boriginaceae (Flock)
+- Boriginaceae (Sträv)
 - Brassicaceae (Kors)
 - Caryophyllaceae (Nejlik)
+- Cyperiaceae (Halvgräs)
 - Fabaceae (Ärt)
+- Juncaceae (Tåg)
 - Lamaceae (Krans)
+- Poaceae (Gräs)
 - Ranunculaceae (Ranunkel)
 - Rosaceae (Ros)
--- Cyperiaceae (Halvgräs)
-- Poaceae (Gräs)
-
-- Juncaceae (Tåg)
