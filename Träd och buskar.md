@@ -1,3 +1,5 @@
+# Träd
+## Blad
 Rönn
 En
 Ask
@@ -12,10 +14,15 @@ Sälg
 Ek
 Lönn
 Gråvide
+Oxel
+Lind
 
+# Buskar
 Hallon
 Vildapel
 Brakved
 Nyponros
 Druvfläder
 Vresros
+Havtorn
+Måbär

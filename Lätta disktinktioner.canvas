@@ -65,34 +65,6 @@
       "height": 307
     },
     {
-      "id": "b009a989e51c0a84",
-      "type": "file",
-      "file": "Lätta Distinktioner.md",
-      "subpath": "#Vickrar",
-      "x": 1340,
-      "y": -414,
-      "width": 400,
-      "height": 334
-    },
-    {
-      "id": "7772ea9ad23db32b",
-      "type": "file",
-      "file": "Media/Vicker/kråkvicker.jpg",
-      "x": 1840,
-      "y": -472,
-      "width": 400,
-      "height": 340
-    },
-    {
-      "id": "39815b43feee5326",
-      "type": "file",
-      "file": "Media/Vicker/skogsvicker.jpg",
-      "x": 1400,
-      "y": 65,
-      "width": 400,
-      "height": 350
-    },
-    {
       "id": "b41b31187136e473",
       "type": "file",
       "file": "Media/Vicker/häckvicker.jpg",
@@ -146,6 +118,52 @@
       "height": 359,
       "type": "file",
       "file": "Media/Klöver/vitklöver.jpg"
+    },
+    {
+      "id": "39815b43feee5326",
+      "type": "file",
+      "file": "Media/Vicker/skogsvicker.jpg",
+      "x": 980,
+      "y": -40,
+      "width": 400,
+      "height": 350
+    },
+    {
+      "id": "b009a989e51c0a84",
+      "type": "file",
+      "file": "Lätta Distinktioner.md",
+      "subpath": "#Vickrar",
+      "x": 1280,
+      "y": -522,
+      "width": 400,
+      "height": 334
+    },
+    {
+      "id": "7772ea9ad23db32b",
+      "type": "file",
+      "file": "Media/Vicker/kråkvicker.jpg",
+      "x": 1692,
+      "y": -522,
+      "width": 400,
+      "height": 340
+    },
+    {
+      "id": "e63a694033f59f7c",
+      "x": 1692,
+      "y": -160,
+      "width": 504,
+      "height": 333,
+      "type": "file",
+      "file": "Media/Vicker/blålusern2.jpg"
+    },
+    {
+      "id": "d74c0d7ff2bca1b9",
+      "x": 2220,
+      "y": -156,
+      "width": 400,
+      "height": 291,
+      "type": "file",
+      "file": "Media/Vicker/blålusern.jpg"
     }
   ],
   "edges": [],

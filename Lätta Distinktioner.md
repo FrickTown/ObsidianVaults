@@ -6,6 +6,10 @@
 - Vitmåra har 4 gröna blad i kransar längsmed stjälken,
 - Stormåra har 5+ gröna blad i kransar
 # Vickrar
+- Skogsvicker kan du
+- Häckvicker är färre blommor och ljusare lila
+- Skogsvicker är vita
+- Blålusern är inte ensidig
 
 # Klövrar
 - Skogsklöver: Rödlik, blomman är stjälkad från foderbladen
