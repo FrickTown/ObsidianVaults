@@ -18,8 +18,10 @@ Halvgräs = Cyperaceae => Cyperus => Kuiperon <=> Zerna <= (hebreiska) Zera == F
 
 Askar har alltid minst 9 blad per knippe, druvfläder lik men 7st max
 
-Lär dig skillnad på hundkäx, kummin, rölika, kirskål
+Lär dig skillnad på hundkäx, kummin, rölika, kirskål, vitmåra, stormåra
 
 Lär dig vickrarna
 
 Uddblad väldigt stort och ej vedartad => Hallon
+
+Måror har kransar 
