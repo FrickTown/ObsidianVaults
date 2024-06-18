@@ -25,3 +25,5 @@ Lär dig vickrarna
 Uddblad väldigt stort och ej vedartad => Hallon
 
 Måror har kransar 
+
+Daggkopp
