@@ -15,8 +15,8 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 1125.6362984109603,
-                  "y": 104.18893324460572,
+                  "x": 427.6362984109603,
+                  "y": -649.8110667553942,
                   "zoom": -0.9999999999999999
                 }
               }
@@ -157,15 +157,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "ff2cb51badfed609",
+        "id": "b4cbdad0b18cacec",
         "type": "window",
         "children": [
           {
-            "id": "f3b0591420a8f46e",
+            "id": "1cd0634744f70026",
             "type": "tabs",
             "children": [
               {
-                "id": "92a938c318370fb4",
+                "id": "7aec1bbf4c2a398c",
                 "type": "leaf",
                 "state": {
                   "type": "canvas",
@@ -192,7 +192,7 @@
       }
     ]
   },
-  "active": "92a938c318370fb4",
+  "active": "7aec1bbf4c2a398c",
   "lastOpenFiles": [
     "Gula Blommor.canvas",
     "Media/Ängsskallra.JPG",
