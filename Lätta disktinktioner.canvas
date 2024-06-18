@@ -1,47 +1,11 @@
 {
   "nodes": [
     {
-      "id": "d313db01f7c5b5a9",
-      "type": "file",
-      "file": "Lätta Distinktioner.md",
-      "x": -217,
-      "y": -227,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "85aa620b653b5ba0",
-      "x": -596,
-      "y": -351,
-      "width": 400,
-      "height": 327,
-      "type": "file",
-      "file": "Media/Hundkäxlika/hundkäx.jpg"
-    },
-    {
-      "id": "4a508f151e9d2464",
-      "x": -145,
-      "y": -526,
-      "width": 400,
-      "height": 300,
-      "type": "file",
-      "file": "Media/Hundkäxlika/stormåra.jpg"
-    },
-    {
-      "id": "7c7cfa0f470230ca",
-      "x": -516,
-      "y": -512,
-      "width": 291,
-      "height": 400,
-      "type": "file",
-      "file": "Media/Hundkäxlika/vitmåra.jpg"
-    },
-    {
       "id": "5d5c47f266be0b37",
       "x": 240,
-      "y": -224,
-      "width": 381,
-      "height": 400,
+      "y": -244,
+      "width": 400,
+      "height": 420,
       "type": "file",
       "file": "Media/Hundkäxlika/kirskål.jpg"
     },
@@ -62,6 +26,43 @@
       "height": 471,
       "type": "file",
       "file": "Media/Hundkäxlika/kummin.jpg"
+    },
+    {
+      "id": "85aa620b653b5ba0",
+      "x": -780,
+      "y": -228,
+      "width": 491,
+      "height": 401,
+      "type": "file",
+      "file": "Media/Hundkäxlika/hundkäx.jpg"
+    },
+    {
+      "id": "7c7cfa0f470230ca",
+      "x": -616,
+      "y": -820,
+      "width": 399,
+      "height": 548,
+      "type": "file",
+      "file": "Media/Hundkäxlika/vitmåra.jpg"
+    },
+    {
+      "id": "4a508f151e9d2464",
+      "x": 20,
+      "y": -672,
+      "width": 533,
+      "height": 400,
+      "type": "file",
+      "file": "Media/Hundkäxlika/stormåra.jpg"
+    },
+    {
+      "id": "d313db01f7c5b5a9",
+      "type": "file",
+      "file": "Lätta Distinktioner.md",
+      "x": -217,
+      "y": -187,
+      "width": 400,
+      "height": 307,
+      "subpath": "#Hundkäx-liknande"
     }
   ],
   "edges": [],
