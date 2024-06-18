@@ -9,6 +9,60 @@
       "y": -246,
       "width": 400,
       "height": 226
+    },
+    {
+      "id": "1672728ffd342f1d",
+      "type": "file",
+      "file": "Media/Hundkäxlika/kummin.jpg",
+      "x": 123,
+      "y": -360,
+      "width": 715,
+      "height": 420
+    },
+    {
+      "id": "58594110a35f9d1d",
+      "type": "file",
+      "file": "Media/Hundkäxlika/hundkäx.jpg",
+      "x": -880,
+      "y": -371,
+      "width": 528,
+      "height": 431
+    },
+    {
+      "id": "96d7b0e2be9bc56c",
+      "type": "file",
+      "file": "Media/Hundkäxlika/kirskål.jpg",
+      "x": -660,
+      "y": 80,
+      "width": 400,
+      "height": 420
+    },
+    {
+      "id": "46f15a072cd82f5e",
+      "x": 0,
+      "y": 80,
+      "width": 560,
+      "height": 420,
+      "type": "file",
+      "file": "Media/Hundkäxlika/rölika.jpg"
+    },
+    {
+      "id": "a5068d7a2eac68d9",
+      "x": 0,
+      "y": -1024,
+      "width": 700,
+      "height": 525,
+      "type": "file",
+      "file": "Media/Hundkäxlika/sstormåra.jpg"
+    },
+    {
+      "id": "14d5a0b681ec4ed6",
+      "x": -640,
+      "y": -1024,
+      "width": 410,
+      "height": 563,
+      "type": "file",
+      "file": "Media/Hundkäxlika/vitmåra.jpg"
     }
   ],
   "edges": [],
