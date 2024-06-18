@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/frick/Documents/FoF_Public",
+  "exportPath": "/home/frick/Documents/FoF-Public",
   "filesToExport": [
     [
       "Media",
