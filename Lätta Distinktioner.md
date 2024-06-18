@@ -6,4 +6,16 @@
 - Vitmåra har 4 gröna blad i kransar längsmed stjälken,
 - Stormåra har 5+ gröna blad i kransar
 # Vickrar
-- 
+
+# Tolv familjer
+- Asteraceae (Korg)
+- Fabaceae (Ärt)
+- Rosaceae (Ros)
+- Brassicaceae (Kors)
+- Lamaceae (Sträv)
+- Ranunculaceae (Ranunkel)
+- Caryophyllaceae (Nejlik)
+- Boriginaceae (Flock)
+- Poaceae (Gräs)
+- Cyperiaceae (Halvgräs)
+- Juncaceae (Tåg)
