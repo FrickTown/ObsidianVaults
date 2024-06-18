@@ -41,14 +41,11 @@
             "id": "b050f2c9851730e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": -587.6605494111277,
-                  "y": -389.35119829760714,
-                  "zoom": -0.9846126907389539
-                }
+                "file": "Små anteckningar.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gula Blommor.canvas",
+            "file": "Små anteckningar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gula Blommor.canvas",
+            "file": "Små anteckningar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gula Blommor.canvas"
+            "file": "Små anteckningar.md"
           }
         }
       },
@@ -177,8 +174,9 @@
   },
   "active": "b050f2c9851730e6",
   "lastOpenFiles": [
-    "Små anteckningar.md",
+    "Träd och buskar.md",
     "Gula Blommor.canvas",
+    "Små anteckningar.md",
     "/Gula Blommor.canvas",
     "gitclean",
     "/gitclean",
