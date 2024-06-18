@@ -8,14 +8,16 @@
 # Vickrar
 
 # Tolv familjer
+- Apiaceae (Flock)
 - Asteraceae (Korg)
-- Fabaceae (Ärt)
-- Rosaceae (Ros)
-- Brassicaceae (Kors)
-- Lamaceae (Sträv)
-- Ranunculaceae (Ranunkel)
-- Caryophyllaceae (Nejlik)
 - Boriginaceae (Flock)
+- Brassicaceae (Kors)
+- Caryophyllaceae (Nejlik)
+- Fabaceae (Ärt)
+- Lamaceae (Krans)
+- Ranunculaceae (Ranunkel)
+- Rosaceae (Ros)
+-- Cyperiaceae (Halvgräs)
 - Poaceae (Gräs)
-- Cyperiaceae (Halvgräs)
+
 - Juncaceae (Tåg)
