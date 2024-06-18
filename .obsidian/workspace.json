@@ -11,15 +11,31 @@
             "id": "671452da5916a267",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lätta disktinktioner.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "9ec9bc25812e39ad",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Träd och buskar.md",
+                "file": "Lätta Distinktioner.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Träd och buskar.md",
+                "file": "Lätta Distinktioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Träd och buskar.md",
+                "file": "Lätta Distinktioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Träd och buskar.md"
+                "file": "Lätta Distinktioner.md"
               }
             }
           }
@@ -149,14 +165,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "671452da5916a267",
+  "active": "04977d68e7df48eb",
   "lastOpenFiles": [
+    "Lätta disktinktioner.canvas",
+    "Lätta Distinktioner.md",
+    "Träd och buskar.md",
     "Träd.canvas",
     "Snabbnyckel (Familj).canvas",
-    "Lätta disktinktioner.canvas",
     "Lätta distinktioner.md",
     "Gula Blommor.canvas",
-    "Träd och buskar.md",
     "Untitled Kanban.md",
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
