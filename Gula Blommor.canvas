@@ -22,24 +22,6 @@
       "color": "6"
     },
     {
-      "id": "dbdab4221257897e",
-      "type": "file",
-      "file": "Media/Ryssgubbe1.jpg",
-      "x": -300,
-      "y": -2154,
-      "width": 400,
-      "height": 225
-    },
-    {
-      "id": "731bf1b6ea060c84",
-      "type": "file",
-      "file": "Media/Sommargyllen2.jpg",
-      "x": 245,
-      "y": -1969,
-      "width": 344,
-      "height": 303
-    },
-    {
       "id": "08b93378d0e9c81b",
       "type": "text",
       "text": "**Gul Näckros**\n_Nuphar lutea_\n/Nymphaceae/ (Näckrosväxt)\n**Näckros, fast den gula sorten**",
@@ -78,15 +60,6 @@
       "y": -1553,
       "width": 609,
       "height": 457
-    },
-    {
-      "id": "af9dde609e6ec265",
-      "type": "file",
-      "file": "Media/Ryssgubbe2.jpg",
-      "x": -300,
-      "y": -1934,
-      "width": 400,
-      "height": 268
     },
     {
       "id": "c2e1c26e3cac7008",
@@ -892,6 +865,33 @@
       "width": 331,
       "height": 182,
       "color": "3"
+    },
+    {
+      "id": "731bf1b6ea060c84",
+      "type": "file",
+      "file": "Media/Sommargyllen2.jpg",
+      "x": 245,
+      "y": -1969,
+      "width": 344,
+      "height": 303
+    },
+    {
+      "id": "af9dde609e6ec265",
+      "type": "file",
+      "file": "Media/Ryssgubbe2.jpg",
+      "x": -300,
+      "y": -1934,
+      "width": 400,
+      "height": 268
+    },
+    {
+      "id": "dbdab4221257897e",
+      "type": "file",
+      "file": "Media/Ryssgubbe1.jpg",
+      "x": -300,
+      "y": -2154,
+      "width": 400,
+      "height": 225
     }
   ],
   "edges": [

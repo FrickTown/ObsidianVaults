@@ -16,13 +16,26 @@
                 "file": "Gula Blommor.canvas",
                 "viewState": {
                   "x": 427.6362984109603,
-                  "y": -649.8110667553942,
+                  "y": -1765.8110667553944,
                   "zoom": -0.9999999999999999
                 }
               }
             }
+          },
+          {
+            "id": "d89d8448a587557b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gula Blommor.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gula Blommor.canvas"
+                "file": "Untitled.md"
               }
             }
           }
@@ -152,9 +165,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "671452da5916a267",
+  "active": "d89d8448a587557b",
   "lastOpenFiles": [
     "Gula Blommor.canvas",
+    "Untitled.md",
     "Media/Ängsskallra.JPG",
     "Media/Gul Näckros.jpg",
     "Media/Sommargyllen1.jpg",
@@ -163,7 +177,6 @@
     "Snabbnyckel (Familj).canvas",
     "Blomväxtfamiljer.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Pasted image 20240617222854.png",
     "Media/Ryssgubbe1.jpg",
     "Media/Svärdslilja.jpg",
