@@ -23,7 +23,9 @@ Lär dig skillnad på hundkäx, kummin, rölika, kirskål, vitmåra, stormåra
 Hundkäx triangel blad som ormbunke
 Kummin har dill
 Rölika har typ värstingdill
-Kirschkål har standard blad 
+Kirskål har rätt standard blad, i 5-enighet
+Vitmåra har 4 gröna blad i krans,
+Stormåra har 5+
 
 Lär dig vickrarna
 
