@@ -3,11 +3,10 @@
 Rönn (Sågade parvis motsatta blad i V-formation) och Oxel (Snarlika)
 Alm och Hassel (Hassel rundare, mindre sträv) (Hannes Alm)
 Asp (Darrar som asplöv)
+Hägg (Kasta hägg på fönster)
 
 Ask (minst 9 blad) och Druvfläder (max 7 blad)
 Getapel
-Hägg (Kasta hägg på fönster)
-Aln
 Slån (Ser ut som blåbär)
 Hagtorn
 Klibbal
@@ -24,6 +23,6 @@ Vildapel
 Brakved
 Nyponros
 Druvfläder
-Vresros
+Vresros 
 Havtorn
 Måbär
