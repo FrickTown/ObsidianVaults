@@ -22,7 +22,7 @@
 	- Stjälk ofta "fårad" och ihålig
 	- Blad flikiga
 	- Har bladslida
-- **Asteraceae (Korg)**
+- **Asteraceae (Korg)** 
 - **Boriginaceae (Sträv)**
 	- Oftast håriga hela växten
 - **Brassicaceae (Kors)**
