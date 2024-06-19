@@ -6,7 +6,7 @@ Asp (Darrar som asplöv)
 
 Ask (minst 9 blad) och Druvfläder (max 7 blad)
 Getapel
-Hägg ()
+Hägg (Kasta hägg på fönster)
 Aln
 Slån (Ser ut som blåbär)
 Hagtorn
@@ -19,7 +19,7 @@ Lind
 ## Barr
 En (Enda barrträdet i kursen)
 # Buskar
-Hallon
+Hallon (Taggar, vita blommor, treflikig - mellanflik skaftad)
 Vildapel
 Brakved
 Nyponros
