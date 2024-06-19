@@ -41,14 +41,11 @@
             "id": "b050f2c9851730e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": -2521.589545155773,
-                  "y": -29.29876220680461,
-                  "zoom": -1.446295824540734
-                }
+                "file": "Små anteckningar.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gula Blommor.canvas",
+            "file": "Små anteckningar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gula Blommor.canvas",
+            "file": "Små anteckningar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gula Blommor.canvas"
+            "file": "Små anteckningar.md"
           }
         }
       },
@@ -177,24 +174,37 @@
   },
   "active": "b050f2c9851730e6",
   "lastOpenFiles": [
-    "Små anteckningar.md",
-    "Gula Blommor.canvas",
-    "Träd och buskar.md",
+    "Media/Vicker/kråkvicker.jpg",
+    "Media/Vicker/häckvicker.jpg",
+    "Media/Vicker/skogsvicker.jpg",
+    "/Media/Vicker/kråkvicker.jpg",
+    "/Media/Vicker/häckvicker.jpg",
+    "Media/Vicker/blålusern2.jpg",
+    "Media/Vicker/blålusern.jpg",
+    "Media/Klöver/vitklöver.jpg",
+    "Media/Klöver/skogsklöver.jpg",
+    "Media/Klöver/rödklöver.jpg",
+    "Media/Klöver/backskärvfrö.jpg",
+    "/Träd och buskar.md",
+    "/Små anteckningar.md",
+    "/Lätta disktinktioner.canvas",
+    "/Lätta Distinktioner.md",
     "/Gula Blommor.canvas",
+    "/Att göra.md",
+    "Media/Vicker",
+    "Media/Klöver",
+    "/Media/Vicker",
+    "/Media/Klöver",
+    "Att göra.md",
+    "Media/Hundkäxlika",
+    "/Media/Hundkäxlika",
+    "Gula Blommor.canvas",
+    "Små anteckningar.md",
+    "Träd och buskar.md",
     "gitclean",
     "/gitclean",
     "Untitled Kanban.md",
     "ReadMe.md.md",
-    "Media/Ängshaverrot.jpg",
-    "Media/Äkta Johannes.png",
-    "Media/Solvända.jpg",
-    "Media/Smörblomma2.jpg",
-    "Media/Smörblomma1.jpg",
-    "Media/Revsmörblomma2.jpg",
-    "Media/Revsmörblomma1.png",
-    "Media/Nejlikrot2.jpg",
-    "Media/Nejlikrot1.jpg",
-    "Media/Lundsmörblomma.png",
     "Franska/Welcome.md",
     "FloraFauna/Welcome.md",
     "FloraFauna/Gula Blommor.canvas",
@@ -203,12 +213,6 @@
     "/FloraFauna/Gula Blommor.canvas",
     "ReadMe.md",
     "Media",
-    "Franska",
-    "FloraFauna/Media",
-    "FloraFauna",
-    "/Media",
-    "/Franska",
-    "/FloraFauna/Media",
-    "/FloraFauna"
+    "Franska"
   ]
 }
