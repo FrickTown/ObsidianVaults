@@ -263,3 +263,64 @@ Fuktiga miljöer, vassar längs med åar, fuktiga buskar längsmed en bäck
 Bruna översidan, ljusa undersidan
 Insektsätare
 Skiljs åt med sången, härmar dock massa andra. Lär sig sin lokala fauna.
+
+# Sylvior (Passeriformes) Sylviidae
+5/10/70
+Öppna marker med buskar  eller skog
+Långflyttare
+Gråbruna ovan, ljusa under, utmärkande huvudtäckningar
+
+## Kungsfågel (Passeriformes) Reguliae
+2/2/6
+Bygger skålformat bo högst upp på granar
+Stannar i sverige på vintern, hittar puppor och insekter härochvar mellan barr- och lövgrenarna
+Väger 5 g, minsta fågeln i Sverige
+
+## Gärdsmygar Troglodytidae
+1/1/88
+Riktig liten tuffing
+Size-to-volume sjuk i Sverige
+
+## Nötväckor #Passeriformes  Sittidae
+1/1/28
+Klättrar med huvudet nedåt
+Lite nedtonad blågrå ovansida, gul undertill, svart streck genom ögat
+Häckar i hål
+
+## Trädkrypare #Passeriformes  Certhiidae
+2/2/11
+Lätt att känna igen på brunvit-mullerade ovansidan, kritvit undertill
+Lång lite kurvad spetsig näbb utmärkt för att plocka ut insekter från små hål
+Medellång stjärt för balans
+
+## Starar #Passeriformes Sturnidae
+1/2/123
+Medelstor
+Öppna marker
+Kortstjärtad
+Svart fjäderdräkt med metallic sheen, ljusa prickar. Spetsig gul näbb.
+Ofta i stora flockar. Även utanför häckningstid.
+Flyttar inte långt
+
+## Strömstatat  #Passeriformes Cinclidae
+1/1/5
+Brunt huvud, svart kropp, vitt neckbeard
+ANpassad till liv i mvattnet. Hänger vid rinnande vattendrag. Bäckar, floder. Födosöker under vattnet, simmar med vingarna, springer på botten, plockar larver (för e.g. nattsländor)
+
+## Trastar #Passeriformes Turididae
+6/16/170
+Alla trastar ungefär likadana i form, skiljer sig i färger. Käkar evertebrater.
+Hoppar jämfota på marken. Skog eller parker. Öppna bon i buskar. 
+Stor eller ingen skillnad mellan könen.
+
+## Flugsnappare #Passeriformes Muscicapidae
+13/29/328
+Flyttar sydost, rätt ovanligt
+Varierar i könsvariation, bosättning
+
+## Sparvfinkar #Passeriformes Passeridae
+Gråsparv
+- Gul undertill, brun ljusbrun, kön lika
+Pilfinkar
+- Gråsparv
+Fröätare
