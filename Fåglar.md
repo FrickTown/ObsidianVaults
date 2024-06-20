@@ -108,3 +108,47 @@ Ganska lika eller helt lika kön
 E.g. Enkelbeckasin
 Våtmarksarter
 Beckasiner i tät vegetation, fuktigt som fan
+Sexuell funktion som pådriver färgvariabilitet
+
+## Måsfåglar (Charadriiformes) Laridae
+19/34/100
+Monophylletisk grupper
+Könen lika
+Nyfödda dunlika och öppna ögon men ligger kvar i boet och matas av föräldrar ett bra tag
+Trutar
+	Alla trutar har gul näpp med röd fläck
+	Stannfåglar eller kort flyttande
+Måsar
+	Ingen mås har det
+	Stannfåglar eller kort flyttande
+
+Tärnor
+	Tärnorna skiljer sig genom längre spetsigare smala vingar och längre stjärtspröd
+	Ryttlar över vattnnet och störtdyker
+	Flyttar långt som fan (silvertärnan #1)
+	Tärnor taggar direkt efter värpning till varma länder, nya zealand
+
+## Labbar (Charadriiformes) Stercorariidae
+4/4/7
+Mås-/trutlika
+Utstickadnde pick mitt i stjärten
+Stjäl föda från måsar och tärnor, opportunistiska.
+Fjälllabben käkar mycket gnagare i fjällen
+
+## Alkor (Charadriiformes) Alcidae
+5/8/25
+Marinarter, häckar vid havet.
+Medelstora
+Dyker efter föda mest pisk
+Simmar med vingarna, fötter roder
+Ett ägg, ruvas till det kläcks. 1-2 veckor efter födsel direkt redo att dyka från stupet där de häckades
+
+## Duvor (Columbiformes) Columbidae
+6/7/344
+- Tamduva standard i städer
+- Kompakt kropp, bor i grenar i träd eller hål i byggnad
+- Stannare eller kortflyttare
+- Lika kön
+
+## Gök (Cuculiformes) Cuculidae
+- Boparasit, lägger sina ägg i andras bon, käkar ett.
