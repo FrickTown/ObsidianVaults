@@ -178,3 +178,11 @@ Flyttar långt ned i afrika på vintern
 - Närmsta släktingar kolibri
 - Stela vingslag, snabbaste fågeln i sverige (i aktiv normal flykt)
 - Landar typ bara för att häcka, i takpannor.
+- Lång innerdel på vinge, lång ytterdel på vinge
+
+## Kungsfiskare (Coraciiformes) Alcedinidae
+1/1/114
+Omisskännlig i Sverige, endast en art här.
+Magiskt blå, gul på undersidan, vass näbb
+Kön lika utom färg på undersidan av näbben
+Beroende av vatten
