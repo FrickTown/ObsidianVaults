@@ -47,14 +47,14 @@ Skäggdoppingen vanligast
 	- Kan springa på vattenytan och demonstrera byggmaterial
 
 ## Hägrar *(Pelecaniformes) Ardeidae*
-3/10/72
+**3**/10/72
 - Stora fåglar m. långa halsar.
 - Kön lika
 - Står ofta stilla i vatten med hals indragen och väntar på byte 
 - Häckar generellt i kononier (Förutom rördrom, ny svenska art)
 
 ## Skarv (Pelecaniformes) Phalacrocoracidae
-2/3/42
+**2**/3/42
 - Väldigt lik hägrar, men mörk fjäderdräkt och kapabel att dyka
 - Häckar i träd eller på klippor* (mer atlantiska, i norge)
 - Fjäderdräkten blir blöt så de måste torka sina vingar.
@@ -62,11 +62,11 @@ Skäggdoppingen vanligast
 - Kan totalt annihilera öar med sjukt bajs (guano)
 
 ## Fiskgjusar (Accipitriformes) Pandiondae
-1/1/2
+**1**/1/2
 - Äter bara fisk, flyger långsamt över vatten, störtar ned och tar dem
 
 ## Hökartade rovfåglar (Accipitriformes) Accipitridae
-15/24/256
+**15**/24/256
 - Hos de flesta så är de lika förutom att honorna är lite större
 	- Potentiellt för minskad konkurrens i byten
 - Äter i huvudsak vertebrater
@@ -78,12 +78,12 @@ Skäggdoppingen vanligast
 	- Duvhök
 
 ## Rallar (Gruiformes) Rallidae
-5/8/155
+**5**/8/155
 (e.g. sothöna, vattenrall)
 Tillbakadragna, hänger ofta i vegetation (vatten eller land)
 
 ## Tranor (Gruiformes) Gruidae
-1/3/15
+**1**/3/15
 Häckade främst i norr förut, har spridit sig i sverige
 Tranan är stor, lång hals långa ben
 Könen är lika.
@@ -94,24 +94,24 @@ Ofta i flockar
 Vertebrater, evertebrater, vegatbilisk. Lite allt.
 
 ## Strandskator (Charadriiformes) Haematopodiae
-1/1/12
+**1**/1/12
 Strandskata
 	- Svart vit lång röd näbb
 
 ## Vipor och pipiare (Charadriiformes) Charadriidae
-7/15/67
+**7**/15/67
 Ofta lite torrare områden, åkrar ängar intill vatten
 Ganska lika eller helt lika kön
 
 ## Snäppor (Charadriiformes) Scolopacidae
-29/51/96
+**29**/51/96
 E.g. Enkelbeckasin
 Våtmarksarter
 Beckasiner i tät vegetation, fuktigt som fan
 Sexuell funktion som pådriver färgvariabilitet
 
 ## Måsfåglar (Charadriiformes) Laridae
-19/34/100
+**19**/34/100
 Monophylletisk grupper
 Könen lika
 Nyfödda dunlika och öppna ögon men ligger kvar i boet och matas av föräldrar ett bra tag
@@ -129,14 +129,14 @@ Tärnor
 	Tärnor taggar direkt efter värpning till varma länder, nya zealand
 
 ## Labbar (Charadriiformes) Stercorariidae
-4/4/7
+**4**/4/7
 Mås-/trutlika
 Utstickadnde pick mitt i stjärten
 Stjäl föda från måsar och tärnor, opportunistiska.
 Fjälllabben käkar mycket gnagare i fjällen
 
 ## Alkor (Charadriiformes) Alcidae
-5/8/25
+**5**/8/25
 Marinarter, häckar vid havet.
 Medelstora
 Dyker efter föda mest pisk
@@ -144,11 +144,37 @@ Simmar med vingarna, fötter roder
 Ett ägg, ruvas till det kläcks. 1-2 veckor efter födsel direkt redo att dyka från stupet där de häckades
 
 ## Duvor (Columbiformes) Columbidae
-6/7/344
+**6**/7/344
 - Tamduva standard i städer
 - Kompakt kropp, bor i grenar i träd eller hål i byggnad
 - Stannare eller kortflyttare
 - Lika kön
 
 ## Gök (Cuculiformes) Cuculidae
-- Boparasit, lägger sina ägg i andras bon, käkar ett.
+**1**/2/149
+- Boparasit, lägger sina för-urvade ägg i andras bon, käkar ett.
+- Kläckta göken sparkar ut de andra äggen
+- Kläckta göken växer fort, skitjobbigt för fosterföräldrarna
+- Äggen färgade precis som de som de parasiterar
+
+## Ugglor *(Strigiformes) Strigidae*
+**10**/12/226
+	Antingen extrema stannarter eller flyttar kort (några lämnar sverige)
+	Kamouflerade för att inte bli upptäckta när de chillar på dagen, småfåglar mobbar dem och rovfåglar kan utnyttja det
+	Många halskotor, tillåter rotation av nacken, bra för sonisk lokalisering av byte 
+	Bygger inga egna bon, använder andras gamla
+	Könen lika, honor större
+
+## Nattskärror (Caprimulgiformes) Caprimulgidae
+1/2/98
+Svåra att se på dagen, söker föda på natten (insekter)
+Flyttar långt ned i afrika på vintern
+
+## Seglare (Caprimulgiformes) Apodidae
+1/8/113
+**TORNSEGLARE**
+- Flyger alltid i princip
+- Dricker, äter, sover, parar sig i luften
+- Närmsta släktingar kolibri
+- Stela vingslag, snabbaste fågeln i sverige (i aktiv normal flykt)
+- Landar typ bara för att häcka, i takpannor.
