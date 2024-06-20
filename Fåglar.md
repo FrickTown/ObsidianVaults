@@ -15,7 +15,8 @@
 		- Tid på året
 		- Sällssynthet?
 	-
-	
+# Fyra Huvudtyper av ljud
+- Sång: komplex (bara hanar), under häckningstid. Lockar honor och försvarar revir
 ## Andfåglar
 - 38 (63) {173}
 - ### Svanar
@@ -219,6 +220,9 @@ Kommer ofta i stora flockar om somrar, landar i rönn, äter rönnbär.
 Sidensvansen har orange mask och små färgtäckningar på vingar
 
 ## Mesar (Passeriformes) Paridae
+
+^933030
+
 7/8/64
 Små, korta knubbiga näbbar
 Kan betraktas som allätare, främst frön under vintrar, insekter på sommaren
@@ -229,4 +233,33 @@ Fröätande tättingar matar barn med insekter, pga protein
 Sånglärka vanligast i sverige
 - Kamoufärgad på marken
 Typ allätare
-Sånglärkan s
+Sånglärkan flyger högt och stilla och sjunger i luften
+
+## Svalor (Passeriformes) Hirundinidae
+- Kluven stjärt
+- Medelsmå
+- Vit på magen, mörk ovansida
+- Flyttar långt pga brist på inseter
+
+## Stjärtmes (Passeriformes) Aegithalidae
+1/1/13
+Ej mes, konvagent evolutioner
+Bygger stort klotformat bo med ingång 
+Unik dräkt med vitt huvud
+Ses nästan alltid i små grupper
+
+## Lövsångare (Passeriformes) Phylloscopidae
+7/16/78
+Svåridentifierade, tänk på miljön
+Små
+Lövsångare vanligast i sverige, hänger i skogsmiljöer
+Ofta högt upp i trädkronor, åtskiljes på sången
+Långflyttare
+Ljusa ögonbrynnsstreck
+Kan fördubbla sin vikt innan exkursion till söder mha fettreserver
+
+## Rörsångare (Passeriformes) Acrocephalidae
+Fuktiga miljöer, vassar längs med åar, fuktiga buskar längsmed en bäck
+Bruna översidan, ljusa undersidan
+Insektsätare
+Skiljs åt med sången, härmar dock massa andra. Lär sig sin lokala fauna.
