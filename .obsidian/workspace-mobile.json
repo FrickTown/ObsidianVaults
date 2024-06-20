@@ -41,11 +41,14 @@
             "id": "b050f2c9851730e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lätta Distinktioner.md",
-                "mode": "source",
-                "source": false
+                "file": "Lätta disktinktioner.canvas",
+                "viewState": {
+                  "x": -1659.5537171954247,
+                  "y": -336.86752933475657,
+                  "zoom": 0.04505180807166329
+                }
               }
             }
           }
@@ -116,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lätta Distinktioner.md",
+            "file": "Lätta disktinktioner.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lätta Distinktioner.md",
+            "file": "Lätta disktinktioner.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lätta Distinktioner.md"
+            "file": "Lätta disktinktioner.canvas"
           }
         }
       },
@@ -174,9 +177,12 @@
   },
   "active": "b050f2c9851730e6",
   "lastOpenFiles": [
+    "Fåglar.md",
+    "/Fåglar.md",
+    "Gula Blommor.canvas",
+    "Lätta Distinktioner.md",
     "Lätta disktinktioner.canvas",
     "Träd och buskar.md",
-    "Lätta Distinktioner.md",
     "Små anteckningar.md",
     "Media/Vicker/kråkvicker.jpg",
     "Media/Vicker/häckvicker.jpg",
@@ -201,7 +207,6 @@
     "Att göra.md",
     "Media/Hundkäxlika",
     "/Media/Hundkäxlika",
-    "Gula Blommor.canvas",
     "gitclean",
     "/gitclean",
     "Untitled Kanban.md",
