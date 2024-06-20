@@ -186,3 +186,47 @@ Omisskännlig i Sverige, endast en art här.
 Magiskt blå, gul på undersidan, vass näbb
 Kön lika utom färg på undersidan av näbben
 Beroende av vatten
+
+## Hackspettar (Piciformes) Picidae
+**8**/9/236
+Hackar ur frön ur kottar eller larver och maskar i träd
+Stannfåglar
+Har stötdämpare
+Långa tungor lite kladdiga, stickar in den i hålet, spiralerat i baksidan av kraniet
+Stannfåglar (förutom göktytan som flyttar långt)
+***MINDRE HACKSPETT MYCKET FIN
+
+## Falkar (Falconiformes) Falconidae
+6/10/67
+Ej nära släkt med andra rovfåglar, närmre med papegojjor och tättingar
+VIsuellt lik hökar och andra rovfåglar, pga liknande livsstil
+(Konvagent evolution)
+
+## Törnskator (Passeriformes 6k) Laniidae
+2/9/33
+Törnskata flyttar långt, Varfågel flyttar kort
+Näbb som en rovfågel, äter stora insekter, t.o.m. ödlor och andra småfåglar
+
+## Kråkfåglar (Passeriformes) Corvidae
+9/11/134
+Varierad föda mellan arter, men allätare, vissa mer specialiserade
+Könen lika
+Häckar på lite andra sätt. 
+
+## Sidensvansar 
+1/1/3
+Kommer ofta i stora flockar om somrar, landar i rönn, äter rönnbär.
+Sidensvansen har orange mask och små färgtäckningar på vingar
+
+## Mesar (Passeriformes) Paridae
+7/8/64
+Små, korta knubbiga näbbar
+Kan betraktas som allätare, främst frön under vintrar, insekter på sommaren
+Fröätande tättingar matar barn med insekter, pga protein
+
+## Lärkor (Passeriformes) ALaudidae
+3/10/98
+Sånglärka vanligast i sverige
+- Kamoufärgad på marken
+Typ allätare
+Sånglärkan s
