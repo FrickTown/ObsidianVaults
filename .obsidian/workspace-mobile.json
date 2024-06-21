@@ -43,11 +43,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lätta disktinktioner.canvas",
+                "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 1238.0330954402366,
-                  "y": 223.20402231485133,
-                  "zoom": -2.3986168749429915
+                  "x": -404.87905338917966,
+                  "y": -819.317311195977,
+                  "zoom": -0.9365748291548409
                 }
               }
             }
@@ -119,7 +119,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lätta disktinktioner.canvas",
+            "file": "Gula Blommor.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lätta disktinktioner.canvas",
+            "file": "Gula Blommor.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +148,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lätta disktinktioner.canvas"
+            "file": "Gula Blommor.canvas"
           }
         }
       },
@@ -177,11 +177,11 @@
   },
   "active": "b050f2c9851730e6",
   "lastOpenFiles": [
+    "Lätta disktinktioner.canvas",
     "/Fåglar.md",
     "Fåglar.md",
     "Gula Blommor.canvas",
     "Lätta Distinktioner.md",
-    "Lätta disktinktioner.canvas",
     "Träd och buskar.md",
     "Små anteckningar.md",
     "Media/Vicker/kråkvicker.jpg",
