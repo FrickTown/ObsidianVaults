@@ -49,3 +49,44 @@
 ## Karpfiskar
 Kropp ofta sammantryckt från sidorna, lösa fjäll
 Lättskiljda fenorna
+### Karp
+- Mustasch
+- Lång ryggfena, lite konkav
+### Ruda
+- Lång ryggfena, mer konvex
+- Hög kroppsform med kort analfena
+### Björkna
+### Brax
+
+### Mört
+- Röd på alla fenor
+- Ryggfenan i mitten, börjar i linje med bukfenan
+- Rött öga
+- Sött vatten
+### Sarv
+- Gult öga (Eller ba inte röd lol)
+- Ryggfenan börjar långt bak, bakom bukfena
+- Ofta lite guldaktig
+### Asp 
+- Upplands landskapsfisk
+- Ingen fettfena
+- Gråbruna fjäll, med spetsiga fenor
+- Stor mun med underbett
+### Löja
+- Ser ut som sill, men har en tydlig sidolinje som kurvar nedåt
+### Sutare
+- Kort ryggfena
+- Har skäggtömmar (ej karp pga ryggfena)
+- Rödaktigt öga
+- Lite mässings
+- Bred sjärtspole
+### Mal
+- Lång, klumpig kropp
+- Två rejäla mustacher, 4 skäggstrån
+- Väldigt kort ryggfena
+- Små ögon
+## Gädd- och laxfiskar
+### Gädda
+- Lång nos, skarpa tänder, kraftigt byggd
+- Rygg och analfenan långt bak 
+- Grönprickig typ camouflage
