@@ -79,7 +79,7 @@ Lättskiljda fenorna
 - Har skäggtömmar (ej karp pga ryggfena)
 - Rödaktigt öga
 - Lite mässings
-- Bred sjärtspole
+- Bred stjärtspole
 ### Mal
 - Lång, klumpig kropp
 - Två rejäla mustacher, 4 skäggstrån
@@ -129,4 +129,45 @@ Lättskiljda fenorna
 - Stora bröstfenor
 - Två ryggfenor, första kraftig, mjukare i andra
 - Analfenan speglar andra ryggfenan rätt väl
-- 
+
+## Abborrartade fiskar
+### Abborre
+- Kraftiga taggstrålar första ryggfena, mjukare fenstrålar bakre ryggfena. Litet utrymme mellan ryggfenorna.
+- Tenderar att ha en gröngul ton, röda fenor undertill, och mörka svarta ränder
+### Gös
+- Ryggfenor fristående
+- Liknar abborre, men långsträkt och mer svarta prickar än ränder
+
+### Gärs
+- Ryggfenorna är sammankopplade
+- Lite gulaktig och svartprickig.
+- Lite pearlescent oliv/bärnstensfärg med små prickar
+
+### Fjärsing
+- Snedstreckad, gul blå svart.
+- Gifttaggar framför ryggfena 
+
+### Makrill
+- 5-7 småfenor mellan rygg- och stjärtfena
+### Tobis
+- Havstobis, Kusttobis, Tobiskung
+- Långsmala med underbett, simmar likt en ål. Har ingen bukfena.
+### Havskatt
+- Svår att missta
+- Blåskimrande
+
+### Berggylta
+#Läppfisk 
+- Lång ryggfena
+- Vanliga på några meters djup längs med kusten
+### Stensnultra
+#Läppfisk
+- Variabel i färg men tydligt orange ibland
+### Sjustrålig smörbult
+- Mörk fläck bak, mörk fläck fram
+- Ser ofta ut som den ba hänger
+
+## Torskfiskar
+- Bukfenor framför bröstfenor
+- Alltid tre ryggfenor
+#
