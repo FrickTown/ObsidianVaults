@@ -47,14 +47,14 @@ Skäggdoppingen vanligast
 - Viftar mycket på huvud och hals för "spel"
 	- Kan springa på vattenytan och demonstrera byggmaterial
 
-## Hägrar *(Pelecaniformes) Ardeidae*
+## Hägrar #Pelecaniformes *Ardeidae*
 **3**/10/72
 - Stora fåglar m. långa halsar.
 - Kön lika
 - Står ofta stilla i vatten med hals indragen och väntar på byte 
 - Häckar generellt i kononier (Förutom rördrom, ny svenska art)
 
-## Skarv (Pelecaniformes) Phalacrocoracidae
+## Skarv #Pelecaniformes Phalacrocoracidae
 **2**/3/42
 - Väldigt lik hägrar, men mörk fjäderdräkt och kapabel att dyka
 - Häckar i träd eller på klippor* (mer atlantiska, i norge)

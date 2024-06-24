@@ -53,10 +53,11 @@
             "id": "c9f50b07d72c6843",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Fåglar.md",
-                "staged": false
+                "file": "Fåglar - Översikt.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -86,7 +87,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Trast",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -115,7 +116,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f7a247d22c92d0d6",
@@ -127,6 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Fåglar - Översikt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,6 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Fåglar - Översikt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +156,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Fåglar - Översikt.md"
+          }
         }
       },
       {
@@ -181,8 +186,8 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
-    "Fåglar - Översikt.md",
     "Fåglar - Observerade.md",
+    "Fåglar - Översikt.md",
     "Gula Blommor.canvas",
     "Lätta disktinktioner.canvas",
     "/Fåglar.md",
