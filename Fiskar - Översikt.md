@@ -170,4 +170,18 @@ Lättskiljda fenorna
 ## Torskfiskar
 - Bukfenor framför bröstfenor
 - Alltid tre ryggfenor
-#
+### Torsk
+- Tre ryggfenor
+- Spräckligt m
+### Kolja
+
+### Vitling
+- Svart fläck i fenvecket
+- SMåttingar hänger ofta med brännmater
+### Långa
+- Grön
+### Lake
+- Marmorerad 
+
+### Kummel
+Svart i munnen, kra
