@@ -208,7 +208,7 @@ VIsuellt lik hökar och andra rovfåglar, pga liknande livsstil
 Törnskata flyttar långt, Varfågel flyttar kort
 Näbb som en rovfågel, äter stora insekter, t.o.m. ödlor och andra småfåglar
 
-## Kråkfåglar (Passeriformes) Corvidae
+## Kråkfåglar #Passeriformes Corvidae
 9/11/134
 Varierad föda mellan arter, men allätare, vissa mer specialiserade
 Könen lika
@@ -219,29 +219,26 @@ Häckar på lite andra sätt.
 Kommer ofta i stora flockar om somrar, landar i rönn, äter rönnbär.
 Sidensvansen har orange mask och små färgtäckningar på vingar
 
-## Mesar (Passeriformes) Paridae
-
-^933030
-
+## Mesar #Passeriformes Paridae
 7/8/64
 Små, korta knubbiga näbbar
 Kan betraktas som allätare, främst frön under vintrar, insekter på sommaren
 Fröätande tättingar matar barn med insekter, pga protein
 
-## Lärkor (Passeriformes) ALaudidae
+## Lärkor #Passeriformes Alaudidae
 3/10/98
 Sånglärka vanligast i sverige
 - Kamoufärgad på marken
 Typ allätare
 Sånglärkan flyger högt och stilla och sjunger i luften
 
-## Svalor (Passeriformes) Hirundinidae
+## Svalor #Passeriformes Hirundinidae
 - Kluven stjärt
 - Medelsmå
 - Vit på magen, mörk ovansida
 - Flyttar långt pga brist på inseter
 
-## Stjärtmes (Passeriformes) Aegithalidae
+## Stjärtmes #Passeriformes Aegithalidae
 1/1/13
 Ej mes, konvagent evolutioner
 Bygger stort klotformat bo med ingång 

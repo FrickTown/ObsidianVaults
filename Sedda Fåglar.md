@@ -21,4 +21,9 @@ Grönsångare #Sångare
 + Mynt på glasskiva
 + Smalt streck över ögat
 + Vitgul mage, olivgrön/gul kropp
-Sävsångare #
+Sävsångare #Sångare 
+- Aerodynamisk huvud+näbb form
+- Smal spetsig näbb
+- Streck över ögat
+- Sångflykt
+Grönfink
