@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sedda Fåglar.md",
+                "file": "Fåglar.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sedda Fåglar.md",
+            "file": "Fåglar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Sedda Fåglar.md",
+            "file": "Fåglar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sedda Fåglar.md"
+            "file": "Fåglar.md"
           }
         }
       },
@@ -186,8 +186,8 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
-    "Fåglar.md",
     "Sedda Fåglar.md",
+    "Fåglar.md",
     "Gula Blommor.canvas",
     "Lätta disktinktioner.canvas",
     "/Fåglar.md",

@@ -33,4 +33,6 @@ Björktrast #Trast
 Stare
 - Glansig, mörk kropp, ljusa prickar
 Pilfink
-- Pluttig
+- Pluttig.
+Skräntärna
+Silltrut
