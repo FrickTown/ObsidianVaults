@@ -40,7 +40,7 @@
 - Har öga, och stor mun
 - Fler av fenorna ihopväxta
 ## Sillfiskar
-### Sill / Strömmning
+### Sill / Strömming
 - Sill söder om Kalmar, strömming norr om Kalmar
 - Har inga uppenbara karaktärsdrag
 - Silvrig
@@ -90,3 +90,15 @@ Lättskiljda fenorna
 - Lång nos, skarpa tänder, kraftigt byggd
 - Rygg och analfenan långt bak 
 - Grönprickig typ camouflage
+
+### Lax
+- Silvriga, svarta fläckar ovantill, sällan under sidolinhen
+
+### Öring
+- Stora svarta prickar, även under sidolinjen
+- Generellt kraftigare än lax och med bredare stjärtspole
+
+### Regnbåge
+- Mycket små fläckar som går långt ned på kroppen
+- Lätt rosa skimmer längsmed sidan
+- Mycket prickar även på stjärtfenan
