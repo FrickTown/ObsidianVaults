@@ -36,3 +36,19 @@ Pilfink
 - Pluttig.
 Skräntärna
 Silltrut
+- Helsvart kropp
+- Vitt huvud
+- Gula ben, gul näbb med röd prick
+Fiskgjuse [[Fåglar#Fiskgjusar|Fisk]]
+- Vid spridda vingar: Helt brun övertill, helt vit undertill
+- Ovanligt kort stjärt för rovfåglar
+Tofsvipa 
+- Fetingtofs, typ två tunna som sticker rakt bak från hjässan
+- Svartvit annars
+Tornfalk
++ Svart "tår-rand" under ögat
+Sånglärka
+- Öppna landskap
+- Liten
+- Kontinuerlig fågelsång, upp till en timme
+Ladusvala
