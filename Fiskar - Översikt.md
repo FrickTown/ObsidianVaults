@@ -109,4 +109,24 @@ Lättskiljda fenorna
 - Vid lek - klarröd-orange färg
 
 ### Sik
+
+### Marulk
+- Lever på kamouflage
+- Enorm mun med vassa tänder
+- Som ett metspö på huvudet
+- Går runt på botten
+- "Kotlettfisk" i butik
+
+### Näbbgädda
+- Väldigt långsmal
+- Avsmalnad mun, som näbb
+- Spetsiga fenor, men buk- anal- och ryggfena alla långt bak
+### Sjurygg
+- Saknar fjäll
+- 3 Rader med benknölar längs varje kroppssida
+
+### Stensimpa
+- Stora bröstfenor
+- Två ryggfenor, första kraftig, mjukare i andra
+- Analfenan speglar andra ryggfenan rätt väl
 - 
