@@ -102,3 +102,11 @@ Lättskiljda fenorna
 - Mycket små fläckar som går långt ned på kroppen
 - Lätt rosa skimmer längsmed sidan
 - Mycket prickar även på stjärtfenan
+
+### Röding
+- Inverterad färg, mörk botten med ljusa prickar
+- Vit framkant på bröst- och bukfenor
+- Vid lek - klarröd-orange färg
+
+### Sik
+- 
