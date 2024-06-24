@@ -27,3 +27,10 @@ Sävsångare #Sångare
 - Streck över ögat
 - Sångflykt
 Grönfink
+Björktrast #Trast
+- Grå huvud, brun rygg, svart stjärt 
+- Classic trastbeteende
+Stare
+- Glansig, mörk kropp, ljusa prickar
+Pilfink
+- Pluttig
