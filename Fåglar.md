@@ -203,12 +203,12 @@ Ej nära släkt med andra rovfåglar, närmre med papegojjor och tättingar
 VIsuellt lik hökar och andra rovfåglar, pga liknande livsstil
 (Konvagent evolution)
 
-## Törnskator (Passeriformes 6k) Laniidae
+## Törnskator #Passeriformes Laniidae
 2/9/33
 Törnskata flyttar långt, Varfågel flyttar kort
 Näbb som en rovfågel, äter stora insekter, t.o.m. ödlor och andra småfåglar
 
-## Kråkfåglar (Passeriformes) Corvidae
+## Kråkfåglar #Passeriformes Corvidae
 9/11/134
 Varierad föda mellan arter, men allätare, vissa mer specialiserade
 Könen lika
@@ -219,36 +219,33 @@ Häckar på lite andra sätt.
 Kommer ofta i stora flockar om somrar, landar i rönn, äter rönnbär.
 Sidensvansen har orange mask och små färgtäckningar på vingar
 
-## Mesar (Passeriformes) Paridae
-
-^933030
-
+## Mesar #Passeriformes Paridae
 7/8/64
 Små, korta knubbiga näbbar
 Kan betraktas som allätare, främst frön under vintrar, insekter på sommaren
 Fröätande tättingar matar barn med insekter, pga protein
 
-## Lärkor (Passeriformes) ALaudidae
+## Lärkor #Passeriformes *Alaudidae*
 3/10/98
 Sånglärka vanligast i sverige
 - Kamoufärgad på marken
 Typ allätare
 Sånglärkan flyger högt och stilla och sjunger i luften
 
-## Svalor (Passeriformes) Hirundinidae
+## Svalor #Passeriformes *Hirundinidae*
 - Kluven stjärt
 - Medelsmå
 - Vit på magen, mörk ovansida
 - Flyttar långt pga brist på inseter
 
-## Stjärtmes (Passeriformes) Aegithalidae
+## Stjärtmes #Passeriformes *Aegithalidae*
 1/1/13
 Ej mes, konvagent evolutioner
 Bygger stort klotformat bo med ingång 
 Unik dräkt med vitt huvud
 Ses nästan alltid i små grupper
 
-## Lövsångare (Passeriformes) Phylloscopidae
+## Lövsångare #Passeriformes *Phylloscopidae*
 7/16/78
 Svåridentifierade, tänk på miljön
 Små
@@ -258,19 +255,19 @@ Långflyttare
 Ljusa ögonbrynnsstreck
 Kan fördubbla sin vikt innan exkursion till söder mha fettreserver
 
-## Rörsångare (Passeriformes) Acrocephalidae
+## Rörsångare #Passeriformes *Acrocephalidae*
 Fuktiga miljöer, vassar längs med åar, fuktiga buskar längsmed en bäck
 Bruna översidan, ljusa undersidan
 Insektsätare
 Skiljs åt med sången, härmar dock massa andra. Lär sig sin lokala fauna.
 
-# Sylvior (Passeriformes) Sylviidae
+## Sylvior #Passeriformes *Sylviidae*
 5/10/70
 Öppna marker med buskar  eller skog
 Långflyttare
 Gråbruna ovan, ljusa under, utmärkande huvudtäckningar
 
-## Kungsfågel (Passeriformes) Reguliae
+## Kungsfågel #Passeriformes Reguliae
 2/2/6
 Bygger skålformat bo högst upp på granar
 Stannar i sverige på vintern, hittar puppor och insekter härochvar mellan barr- och lövgrenarna
@@ -321,6 +318,23 @@ Varierar i könsvariation, bosättning
 ## Sparvfinkar #Passeriformes Passeridae
 Gråsparv
 - Gul undertill, brun ljusbrun, kön lika
+- Svart litett warpaint under ögat
 Pilfinkar
-- Gråsparv
+- Gråsparvhane grå på hjässan, grå på sidan
 Fröätare
+
+## Ärlor och Piplärkor #Passeriformes Motacillidae
+11/15/68
+#Insektsätare
+Sädesärlan inte så långflyttade, ängspiplärkor lite längre.
+
+## Finkar #Passeriformes Fringillidae
+18/20/228
+#Medelstora 
+#Fröätare
+## Fältsparvar #Passeriformes  Emberizidae
+6/20/44
+Flyttar inte så långt
+#Olikkönade alla arter utom en
+Öppna buskmarker
+Bara en fältsparv som flyttar långt
