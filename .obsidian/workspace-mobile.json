@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fåglar - Översikt.md",
+                "file": "Fåglar - Observerade.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#StrigiformesStrigidae",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fåglar - Översikt.md",
+            "file": "Fåglar - Observerade.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Fåglar - Översikt.md",
+            "file": "Fåglar - Observerade.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fåglar - Översikt.md"
+            "file": "Fåglar - Observerade.md"
           }
         }
       },
@@ -186,8 +186,8 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
-    "Fåglar - Observerade.md",
     "Fåglar - Översikt.md",
+    "Fåglar - Observerade.md",
     "Gula Blommor.canvas",
     "Lätta disktinktioner.canvas",
     "/Fåglar.md",

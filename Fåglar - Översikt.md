@@ -4,17 +4,17 @@
 - Handpennor vid apexet av vingen, armpennor ungefär halvvägs längs med 
 - 
 # Artbestämning
-
-- Börja med grupp
-	- Allmänna proportioner
-		- Lång/kort/tjock/trubbig/vass näbb?
-		- Stjärt - kluven? tvärtavskuren? Utbredd, avsmalnad?
-		- Benen och tårna
+	- Börja med grupp
+		- Allmänna proportioner
+			- Lång/kort/tjock/trubbig/vass näbb?
+			- Stjärt - kluven? tvärtavskuren? Utbredd, avsmalnad?
+			- Benen och tårna
 		- Ålder, ljus och temperatur kan justera ställning och uppfattad färg
 		- Utbredningen
 			- Geografisk plats
 		- Tid på året
 		- Sällssynthet?
+	-
 # Fyra Huvudtyper av ljud
 - Sång: komplex (bara hanar), under häckningstid. Lockar honor och försvarar revir
 ## Andfåglar
@@ -34,13 +34,14 @@
 - Korta, knubbiga näbbar.
 - Hanar färgade fint, honor kamouflage
 
-## Lommar #Gaviiformes *Gaviidae*
+## Lommar *(Gaviiformes) Gaviidae*
 - Dyker efter fisk huvudsakligen, kapabla att simma långt och länge under vatten.
 - Spetsiga näbbar 
 - Långt bak placerade ben, inte anpassade för att stå upp
 	- Ålar sig upp på holmar för att häcka
 
-## Doppingar #Podicipediformes  
+## Doppingar (Podicipediformes)  
+#Doppingar
 5 (5) {23}
 Skäggdoppingen vanligast
 - Finurliga "hattar"
@@ -54,7 +55,7 @@ Skäggdoppingen vanligast
 - Står ofta stilla i vatten med hals indragen och väntar på byte 
 - Häckar generellt i kononier (Förutom rördrom, ny svenska art)
 
-## Skarv #Pelecaniformes *Phalacrocoracidae*
+## Skarv #Pelecaniformes Phalacrocoracidae
 **2**/3/42
 - Väldigt lik hägrar, men mörk fjäderdräkt och kapabel att dyka
 - Häckar i träd eller på klippor* (mer atlantiska, i norge)
@@ -158,7 +159,7 @@ Ett ägg, ruvas till det kläcks. 1-2 veckor efter födsel direkt redo att dyka 
 - Kläckta göken växer fort, skitjobbigt för fosterföräldrarna
 - Äggen färgade precis som de som de parasiterar
 
-## Ugglor *(Strigiformes) Strigidae*
+## Ugglor #Strigiformes Strigidae
 **10**/12/226
 	Antingen extrema stannarter eller flyttar kort (några lämnar sverige)
 	Kamouflerade för att inte bli upptäckta när de chillar på dagen, småfåglar mobbar dem och rovfåglar kan utnyttja det
