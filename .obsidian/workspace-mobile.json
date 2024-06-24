@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fåglar.md",
+                "file": "Fåglar - Översikt.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sedda Fåglar.md",
+                "file": "Fåglar - Översikt.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Trast",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -116,7 +116,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f7a247d22c92d0d6",
@@ -128,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Sedda Fåglar.md",
+            "file": "Fåglar - Översikt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Sedda Fåglar.md",
+            "file": "Fåglar - Översikt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Sedda Fåglar.md"
+            "file": "Fåglar - Översikt.md"
           }
         }
       },
@@ -186,8 +186,8 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
-    "Fåglar.md",
-    "Sedda Fåglar.md",
+    "Fåglar - Observerade.md",
+    "Fåglar - Översikt.md",
     "Gula Blommor.canvas",
     "Lätta disktinktioner.canvas",
     "/Fåglar.md",
