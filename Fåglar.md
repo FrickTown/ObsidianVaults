@@ -248,7 +248,8 @@ Bygger stort klotformat bo med ingång
 Unik dräkt med vitt huvud
 Ses nästan alltid i små grupper
 
-## Lövsångare (Passeriformes) Phylloscopidae
+## Lövsångare #Passeriformes Phylloscopidae
+#Sångare
 7/16/78
 Svåridentifierade, tänk på miljön
 Små
@@ -258,19 +259,20 @@ Långflyttare
 Ljusa ögonbrynnsstreck
 Kan fördubbla sin vikt innan exkursion till söder mha fettreserver
 
-## Rörsångare (Passeriformes) Acrocephalidae
+## Rörsångare #Passeriformes Acrocephalidae
+#Sångare 
 Fuktiga miljöer, vassar längs med åar, fuktiga buskar längsmed en bäck
 Bruna översidan, ljusa undersidan
 Insektsätare
 Skiljs åt med sången, härmar dock massa andra. Lär sig sin lokala fauna.
 
-# Sylvior (Passeriformes) Sylviidae
+## Sylvior #Passeriformes Sylviidae
 5/10/70
 Öppna marker med buskar  eller skog
 Långflyttare
 Gråbruna ovan, ljusa under, utmärkande huvudtäckningar
 
-## Kungsfågel (Passeriformes) Reguliae
+## Kungsfågel #Passeriformes Reguliae
 2/2/6
 Bygger skålformat bo högst upp på granar
 Stannar i sverige på vintern, hittar puppor och insekter härochvar mellan barr- och lövgrenarna
