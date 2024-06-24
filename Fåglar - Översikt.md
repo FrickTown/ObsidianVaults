@@ -47,14 +47,14 @@ Skäggdoppingen vanligast
 - Viftar mycket på huvud och hals för "spel"
 	- Kan springa på vattenytan och demonstrera byggmaterial
 
-## Hägrar *(Pelecaniformes) Ardeidae*
+## Hägrar #Pelecaniformes *Ardeidae*
 **3**/10/72
 - Stora fåglar m. långa halsar.
 - Kön lika
 - Står ofta stilla i vatten med hals indragen och väntar på byte 
 - Häckar generellt i kononier (Förutom rördrom, ny svenska art)
 
-## Skarv (Pelecaniformes) Phalacrocoracidae
+## Skarv #Pelecaniformes Phalacrocoracidae
 **2**/3/42
 - Väldigt lik hägrar, men mörk fjäderdräkt och kapabel att dyka
 - Häckar i träd eller på klippor* (mer atlantiska, i norge)
@@ -62,11 +62,11 @@ Skäggdoppingen vanligast
 - Vass näbb med krok
 - Kan totalt annihilera öar med sjukt bajs (guano)
 
-## Fiskgjusar (Accipitriformes) Pandiondae
+## Fiskgjusar #Accipitriformes *Pandiondae*
 **1**/1/2
 - Äter bara fisk, flyger långsamt över vatten, störtar ned och tar dem
 
-## Hökartade rovfåglar (Accipitriformes) Accipitridae
+## Hökartade rovfåglar #Accipitriformes *Accipitridae*
 **15**/24/256
 - Hos de flesta så är de lika förutom att honorna är lite större
 	- Potentiellt för minskad konkurrens i byten
@@ -203,7 +203,7 @@ Ej nära släkt med andra rovfåglar, närmre med papegojjor och tättingar
 VIsuellt lik hökar och andra rovfåglar, pga liknande livsstil
 (Konvagent evolution)
 
-## Törnskator #Passeriformes Laniidae
+## Törnskator (Passeriformes 6k) Laniidae
 2/9/33
 Törnskata flyttar långt, Varfågel flyttar kort
 Näbb som en rovfågel, äter stora insekter, t.o.m. ödlor och andra småfåglar
@@ -225,27 +225,28 @@ Små, korta knubbiga näbbar
 Kan betraktas som allätare, främst frön under vintrar, insekter på sommaren
 Fröätande tättingar matar barn med insekter, pga protein
 
-## Lärkor #Passeriformes *Alaudidae*
+## Lärkor #Passeriformes Alaudidae
 3/10/98
 Sånglärka vanligast i sverige
 - Kamoufärgad på marken
 Typ allätare
 Sånglärkan flyger högt och stilla och sjunger i luften
 
-## Svalor #Passeriformes *Hirundinidae*
+## Svalor #Passeriformes Hirundinidae
 - Kluven stjärt
 - Medelsmå
 - Vit på magen, mörk ovansida
 - Flyttar långt pga brist på inseter
 
-## Stjärtmes #Passeriformes *Aegithalidae*
+## Stjärtmes #Passeriformes Aegithalidae
 1/1/13
 Ej mes, konvagent evolutioner
 Bygger stort klotformat bo med ingång 
 Unik dräkt med vitt huvud
 Ses nästan alltid i små grupper
 
-## Lövsångare #Passeriformes *Phylloscopidae*
+## Lövsångare #Passeriformes Phylloscopidae
+#Sångare
 7/16/78
 Svåridentifierade, tänk på miljön
 Små
@@ -255,13 +256,14 @@ Långflyttare
 Ljusa ögonbrynnsstreck
 Kan fördubbla sin vikt innan exkursion till söder mha fettreserver
 
-## Rörsångare #Passeriformes *Acrocephalidae*
+## Rörsångare #Passeriformes Acrocephalidae
+#Sångare 
 Fuktiga miljöer, vassar längs med åar, fuktiga buskar längsmed en bäck
 Bruna översidan, ljusa undersidan
 Insektsätare
 Skiljs åt med sången, härmar dock massa andra. Lär sig sin lokala fauna.
 
-## Sylvior #Passeriformes *Sylviidae*
+## Sylvior #Passeriformes Sylviidae
 5/10/70
 Öppna marker med buskar  eller skog
 Långflyttare
@@ -305,6 +307,7 @@ Brunt huvud, svart kropp, vitt neckbeard
 ANpassad till liv i mvattnet. Hänger vid rinnande vattendrag. Bäckar, floder. Födosöker under vattnet, simmar med vingarna, springer på botten, plockar larver (för e.g. nattsländor)
 
 ## Trastar #Passeriformes Turididae
+#Trast
 6/16/170
 Alla trastar ungefär likadana i form, skiljer sig i färger. Käkar evertebrater.
 Hoppar jämfota på marken. Skog eller parker. Öppna bon i buskar. 
@@ -318,23 +321,6 @@ Varierar i könsvariation, bosättning
 ## Sparvfinkar #Passeriformes Passeridae
 Gråsparv
 - Gul undertill, brun ljusbrun, kön lika
-- Svart litett warpaint under ögat
 Pilfinkar
-- Gråsparvhane grå på hjässan, grå på sidan
+- Gråsparv
 Fröätare
-
-## Ärlor och Piplärkor #Passeriformes Motacillidae
-11/15/68
-#Insektsätare
-Sädesärlan inte så långflyttade, ängspiplärkor lite längre.
-
-## Finkar #Passeriformes Fringillidae
-18/20/228
-#Medelstora 
-#Fröätare
-## Fältsparvar #Passeriformes  Emberizidae
-6/20/44
-Flyttar inte så långt
-#Olikkönade alla arter utom en
-Öppna buskmarker
-Bara en fältsparv som flyttar långt

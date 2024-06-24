@@ -41,19 +41,28 @@
             "id": "b050f2c9851730e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lätta disktinktioner.canvas",
-                "viewState": {
-                  "x": -1659.5537171954247,
-                  "y": -336.86752933475657,
-                  "zoom": 0.04505180807166329
-                }
+                "file": "Fåglar - Översikt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9f50b07d72c6843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fåglar - Översikt.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lätta disktinktioner.canvas",
+            "file": "Fåglar - Översikt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lätta disktinktioner.canvas",
+            "file": "Fåglar - Översikt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -148,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lätta disktinktioner.canvas"
+            "file": "Fåglar - Översikt.md"
           }
         }
       },
@@ -175,13 +184,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b050f2c9851730e6",
+  "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
-    "Fåglar.md",
-    "/Fåglar.md",
+    "Fåglar - Observerade.md",
+    "Fåglar - Översikt.md",
     "Gula Blommor.canvas",
-    "Lätta Distinktioner.md",
     "Lätta disktinktioner.canvas",
+    "/Fåglar.md",
+    "Lätta Distinktioner.md",
     "Träd och buskar.md",
     "Små anteckningar.md",
     "Media/Vicker/kråkvicker.jpg",
