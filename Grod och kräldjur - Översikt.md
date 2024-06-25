@@ -83,5 +83,7 @@ Har ofta zick-zack mönster på ryggen men kan saknas
 #### Vanlig snok
 Kan vara helt svarta men de flesta är mörkgrå/bruna med ikoniska fläckar bakom ögonen
 #### Hasselsnok
-Gråbrunaktig huvudsakligen, har svarta prickar men aldrig zick-zacken som huggormen
+- Klart mest sällsynt
+- Gråbrunaktig huvudsakligen
+- Har svarta prickar men aldrig zick-zacken som huggormen
 Rund pupill.
