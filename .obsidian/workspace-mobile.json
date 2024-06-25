@@ -87,7 +87,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#StrigiformesStrigidae",
+            "query": "tag:#Andfågel",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -116,7 +116,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "f7a247d22c92d0d6",
@@ -186,14 +186,14 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
+    "Fåglar - Översikt.md",
+    "Fåglar - Observerade.md",
     "Grod och kräldjur - Översikt.md",
     "Evertebrater - Översikt.md",
     "/Grod och kräldjur - Översikt.md",
     "/Fiskar - Översikt.md",
     "/Evertebrater - Översikt.md",
     "Fiskar - Översikt.md",
-    "Fåglar - Översikt.md",
-    "Fåglar - Observerade.md",
     "Gula Blommor.canvas",
     "Lätta disktinktioner.canvas",
     "/Fåglar.md",

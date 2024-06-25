@@ -63,3 +63,13 @@ Knipa
 - ljusgult öga
 - kort grå näbb
 - Bor i trädhål, ovanligt för änder
+Ripa (M)
+- Alltid något vitt i fjäderdräkten
+- Håller till i Norrland
+Ejder (M) #Andfågel 
+- Honan snarlik gräsand men saknar vingspegel, har helt grå näbb.
+- Hanarna blir vit övertill och svart undertill och får sant grönt pigment under lektid.
+- Är en dykand
+Gravand
+
+Storkrake #Andfågel 
