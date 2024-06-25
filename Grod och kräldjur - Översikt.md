@@ -12,11 +12,11 @@
 - Paddor ofta lite knubbigare, kompakta, korta extremiteter
 - Paddor har stor körtel precis bakom ögonen (parotidkörtel)
 - Paddor lägger äng i strängar, grodor i klumpar.
-## Anura (Svanslösa groddjur)
-- ### Lövgroda
-	- "Klassiska disneygrodan", helt grön med mörk strimma på sidan
-	- Hittas ofta i träd eller buskar, sugproppar på fossingarna
-	- Svart strimmar från öga till buk
+## *Anura (Svanslösa groddjur)*
+### Lövgroda
+- "Klassiska disneygrodan", helt grön med mörk strimma på sidan
+- Hittas ofta i träd eller buskar, sugproppar på fossingarna
+- Svart strimmar från öga till buk
 - ### Lökgroda
 	- **Ovanlig**
 	- Upp till 8 cm
@@ -28,7 +28,31 @@
 	- Högt placerade ögon
 	- Läte lite som en klocka (peep-poop)
 - ### Gröngrodor
-	- #### Gölgrod
+	- #### Gölgroda
+		- Upplandsart
+		- Ljusgrön linje som är mer framträdande än på ätlig
+		- Grunda pölar med sol
+	- #### Ätbar groda
+		- När den låter blåser den upp två ballonger på sidan
+- ### Vanlig groda
+	- Undersidan ***ljus med mörka mönster***
+	- Ryggteckningen är variabel, trubbigare nos än ***andra** **bruna*** grodor
 - ### Åkergroda
-- ### Ätlig groda
-- #
+	- Hanarna blåa under lekperioden
+	- Lite spetsigare nos än åkergroda
+	- Stor grävknöl på bakfoten
+	- Ljus mage utan mönster
+	  
+- ### Vanlig padda (Bufo bufo lol)
+	- Upp till 15cm (Hona)
+	- Vanligaste paddan i Sverige
+	- Knubbig, rör sig långsamt. Yngre hoppar..
+	- Bronsfärgad iris, horizontell pupill
+	- Korta, stötiga pipa läten
+	  
+- ### Strandpadda
+- Gröntonad iris
+- Ljus strimma längsmed ryggraden
+- Strandängar och klippiga stränder
+- ### Grönfläckig padda
+- 
