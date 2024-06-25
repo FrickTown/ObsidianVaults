@@ -97,4 +97,12 @@ Rördromme (M)
 Kattuggla
 - Vanligst
 - Lite rödbrun/vit mönstring
-Labba
+Labbar
+- Alla har förlängda stjärtpennor
+- Grå på hjässan, grå på kroppen, vit som ett halsband som rinner ned under buken
+- Vassa krokade näbbar
+Fiskmåsar
+- Gröngul näbb
+- Ingen röd fläck 
+Stortrut
+- Ofta misstagen för fiskmås, men större och har röd fläck på sin gula näbb
