@@ -73,5 +73,16 @@
 
 ### Sländor
 - Samlingsbegrepp, ej monofyletisk
-- Egentliga trollsländor har utfällda vingar även i idle
-- Flick- och jungfrusländor har invikta i 
+- **Egentliga trollsländor** har utfällda vingar även i idle
+- **Flick- och jungfrusländor** har invikta i idle
+#### Dagsländor
+#### Nattsländor
+- Lever i vattnet
+- Bygger bon som ser lite ihopsnickrat ut
+- Drar sitt bo efter sig i vattnet på botten
+- Fullvuxna har långa antenner
+- Tvärribbor på vingarna
+- "Taklagda", som ett hustak /\\
+#### Sävsländor
+
+###

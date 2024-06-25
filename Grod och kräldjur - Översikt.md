@@ -1,0 +1,2 @@
+# Definierande karaktärsdrag
+- Måste 
