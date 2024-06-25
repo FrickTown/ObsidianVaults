@@ -55,4 +55,23 @@
 - Har en hoppgaffel under abdomen
 - Brukade antas vara en insekt, men har fått egen grupp
 ## *Insekter*
+- Tre benbar, inga ben på bakkroppen
+- De flesta är vingade
+### Anatomi
+- Mellankroppen kallas Thorax
+- Ben = Femur -> Tibia -> Tars
+	- Tars segment ofta användbart för särskiljning
+- Längd på antenner ofta karaktärsdrag
+### Individutveckling
+#### Ofullständig förvandling
+- Ser ganska lika ut från start till slut
+- Växer och utvecklas kontinuerligt i "Nymfstadier"
+#### Fullständig förvandling
+- Typ fjärilar och skalbaggar, larver och puppor osv.
+- Har olika larvstadier
 
+
+### Sländor
+- Samlingsbegrepp, ej monofyletisk
+- Egentliga trollsländor har utfällda vingar även i idle
+- Flick- och jungfrusländor har invikta i 
