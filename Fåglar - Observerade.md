@@ -83,3 +83,18 @@ Sädgås (M)
 Vitkindad gås (M)
 Storlomme (M)
 Grönbena (M)
+Storspov (M)
+- Största vadaren
+- Häckar på ängar, småfuktiga åkermarker
+Morkulla (M)
+- Honan har vitaste stjärtfjädrarna i världen 
+- Öronhål vid näbben, för laserhörsel
+Rördromme (M)
+- Häger
+- Kolsvart 
+- Tofs på hjässan
+- Orange näbb
+Kattuggla
+- Vanligst
+- Lite rödbrun/vit mönstring
+Labba
