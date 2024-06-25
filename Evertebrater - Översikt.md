@@ -36,6 +36,23 @@
 - Kan simma på vatten, bli väldigt stora
 - Spinner inte nät förutom för att lägga ägg
 ## *Tusenfotingar*
+- Massor med benbar
+### Enkelfoting
+- Ett benpar per segment
+### Dubbelfoting
+- Två benpar per segment
 ## *Kräftdjur*
+- Oftast vattenlevande
+- Har två par antenner
+- Hummer, krabbor, gråsuggor, 
+### Flodkräfta
+- Native till Sverige
+### Signalkräfta
+- Planterad från USA, invasiv
+- Lite rödare
+- Har en ljus fläck som kan bli blå på äldre specimen
+## *Hoppstjärtar*
+- Har en hoppgaffel under abdomen
+- Brukade antas vara en insekt, men har fått egen grupp
 ## *Insekter*
 
