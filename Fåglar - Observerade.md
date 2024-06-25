@@ -70,6 +70,16 @@ Ejder (M) #Andfågel
 - Honan snarlik gräsand men saknar vingspegel, har helt grå näbb.
 - Hanarna blir vit övertill och svart undertill och får sant grönt pigment under lektid.
 - Är en dykand
-Gravand
-
-Storkrake #Andfågel 
+Gravand (M)
+Storkrake (M) #Andfågel 
+Knölsvan 
+- Knöl på näbben 
+- Vanligare än sångsvan vid kusten
+Sångsvan (M)
+- Gillar mer myrmarker, småsjöar
+- Flock med svanar på åkrar i April
+- Gul näbb svart spets
+Sädgås (M)
+Vitkindad gås (M)
+Storlomme (M)
+Grönbena (M)
