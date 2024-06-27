@@ -12,7 +12,6 @@
 - Artbestäms utifrån antal segment framtill "klitellum" (plåstret lol)
 ## Daggmask
 - Samkönade men har korsbefruktning
-- 
 ## Blodigel
 ## Hundigel
 ## Hästigel
@@ -101,7 +100,18 @@
 ### Skinnbaggar
 - Har två par vingar
 - Bildas ett slags X av dess sköldskal
-- 
+#### Bärfisar
+- 5-ledad antenn, 3-ledad tars
+- Grön eller röd/svart randig
+#### Ängsskinnbagge
+- 4-ledad antenn
+- Tydligare kors på ryggen
+#### Skräddare
+- Vattenlevande skinnbagge
+#### Klodyvel (vattenskorpion)
+- Skorpionaktiga framben
+- Mandelformad, mörkbruk baktill
+- Fyra ben
 ### Sländor
 - Samlingsbegrepp, ej monofyletisk
 - **Egentliga trollsländor** har utfällda vingar även i idle
@@ -116,4 +126,22 @@
 - "Taklagda", som ett hustak /\\
 #### Sävsländor
 
-###
+### Skalbaggar
+- Framvingar förtjockade hela längden
+- Skiljer sig från skinnbaggar genom att den saknar den korsliknande formationen
+#### Vivel
+- Trämönstrade och träfärgad
+- 6 orangea ben, klubbade antenner på "snabeln"
+- Hittas ofta i skog
+#### Jordlöpare
+#### Exoxe
+- Största i europa
+- Har stora läskiga käkar
+- Påträffas runt ekar
+#### Nyckelpigor
+- Har man väl sett lol
+- Finns många olika arter, bestäms utifrån antal prickar
+- Larver är gråa med taggar och färgade prickar
+#### Flugbagge
+
+#### Bladh
