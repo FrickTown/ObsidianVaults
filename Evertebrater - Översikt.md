@@ -170,7 +170,7 @@
 - Ganska obefintligt huvud
 - Hoppar omkring
 - Ofta väldigt små
-### <span style="color: #ADCCFFA6;">Steklar</span>
+### <span style="color: #ADCCFFF6;">Steklar</span>
 #### Parasitstekel
 - Väldigt tydlig midja, såsom en geting har, samt äggledningsrör som används för injektion av ägg.
 #### Geting
@@ -208,11 +208,11 @@ Alternerande svart-gul-mönster sektioner och röd-orangea sektioner
 #### Gräshoppa
 - Lätt att förväxla med vårtbitare. Kortare antenner än dessa.
 #### Vårtbitare 
-- Större än gräshoppa. Stora
-## Larver
-### Fjärilslarver
+- Större än gräshoppa. Mycket större antenner.
+### Insektslarver
+#### Fjärilslarver
 - 2-5 par gångvårdor
-### Skalbaggslarv
+#### Skalbaggslarv
 - Inga gångvårtor
-### Stekellarv
+#### Stekellarv
 - 6-8 par gångvårtor
