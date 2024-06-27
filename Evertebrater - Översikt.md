@@ -116,13 +116,15 @@
 - Samlingsbegrepp, ej monofyletisk
 - **Egentliga trollsländor** har utfällda vingar även i idle
 - **Flick- och jungfrusländor** har invikta i idle
-
 #### Egentliga trollsländor
 - Bakvingar bredare än framvingarna
 - Larvar grov bakkropp och korta fåtaliga spröt
 #### Flick- eller Jungfruslända
 - Vingar infällda i vila, alla vingar likartade i storlek
 #### Dagsländor
+- Lite kyrkfönsterliknande vinge
+- Håller vingarna upprätta
+- 
 #### Nattsländor
 - Lever i vattnet
 - Bygger bon som ser lite ihopsnickrat ut
