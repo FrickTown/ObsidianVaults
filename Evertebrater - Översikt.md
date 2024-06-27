@@ -124,7 +124,6 @@
 #### Dagsländor
 - Lite kyrkfönsterliknande vinge
 - Håller vingarna upprätta
-- 
 #### Nattsländor
 - Lever i vattnet
 - Bygger bon som ser lite ihopsnickrat ut
@@ -170,4 +169,50 @@
 - 2 Antennleder, sugsnabel, sorra i rad längsmed bakbenets tibia
 - Ganska obefintligt huvud
 - Hoppar omkring
-- OFta väldigt små
+- Ofta väldigt små
+### <span style="color: #ADCCFFA6;">Steklar</span>
+#### Parasitstekel
+- Väldigt tydlig midja, såsom en geting har, samt äggledningsrör som används för injektion av ägg.
+#### Geting
+#### Bi
+- Lurviga på mellankroppen.
+- Ingen tydlig midja
+#### Humla
+- Lurviga även på bakkroppen.
+#### Myra
+- Känns igen på noderna i i midjan, och knäböjda antenner
+### Fjäril
+#### Gräsfjäril
+- Små lite psykedeliska prickar längs med perimetern
+- Grå-till-orange gradient efferent från center.
+#### Påfågelöga
+Alternerande svart-gul-mönster sektioner och röd-orangea sektioner
+
+#### Pärlemorfjäril
+- Orange med många små svarta prickar
+### Tvåvingar
+- Ett vingpar
+#### Harkrank
+- Ett par vingar
+- Smal kropp
+- Jättelånga ben
+- Den typiska "enorma myggan"
+#### Stickmygga
+- Står på fyra ben, bakre ben i luften. 
+- Femur pekar uppåt. Tibia nedåt.
+#### Blomflugna
+- Liknar steklar lite
+#### Spyfluga
+- Metalliska och lite lurviga. Den man alltid tänker på.
+### Hopprätvingar
+#### Gräshoppa
+- Lätt att förväxla med vårtbitare. Kortare antenner än dessa.
+#### Vårtbitare 
+- Större än gräshoppa. Stora
+## Larver
+### Fjärilslarver
+- 2-5 par gångvårdor
+### Skalbaggslarv
+- Inga gångvårtor
+### Stekellarv
+- 6-8 par gångvårtor
