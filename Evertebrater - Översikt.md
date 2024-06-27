@@ -116,6 +116,12 @@
 - Samlingsbegrepp, ej monofyletisk
 - **Egentliga trollsländor** har utfällda vingar även i idle
 - **Flick- och jungfrusländor** har invikta i idle
+
+#### Egentliga trollsländor
+- Bakvingar bredare än framvingarna
+- Larvar grov bakkropp och korta fåtaliga spröt
+#### Flick- eller Jungfruslända
+- Vingar infällda i vila, alla vingar likartade i storlek
 #### Dagsländor
 #### Nattsländor
 - Lever i vattnet
@@ -142,6 +148,24 @@
 - Har man väl sett lol
 - Finns många olika arter, bestäms utifrån antal prickar
 - Larver är gråa med taggar och färgade prickar
+![250](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Marienkaefer_in_Eibisch.JPG/1280px-Marienkaefer_in_Eibisch.JPG)
 #### Flugbagge
 
-#### Bladh
+#### Bladhorningar
+- Runda, droppformade. 
+- Rygg segmenterad i en tydlig överdel och underdel. Mörk, mörk bryn.
+- Tillplattade ändar på antennerna för att äta blad
+- Dyngbagge
+#### Långhorningar
+#### Dykare
+- Täckvingar som täcker hela kroppen
+- Stora paddlar på bakbenen
+- Tar luft på ytan från under skalet
+- Äggformade
+- Fina, kurvade antenner
+#### Tvestjärt
+### Växtsugare
+- 2 Antennleder, sugsnabel, sorra i rad längsmed bakbenets tibia
+- Ganska obefintligt huvud
+- Hoppar omkring
+- OFta väldigt små
