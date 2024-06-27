@@ -10,7 +10,12 @@
 - Kan kontrahera och expandera
 - Är segmenterade, många vattenlevande, men vissa marklevande.
 - Artbestäms utifrån antal segment framtill "klitellum" (plåstret lol)
-- Daggmask, blodigel, hundigel, hästigel
+## Daggmask
+- Samkönade men har korsbefruktning
+- 
+## Blodigel
+## Hundigel
+## Hästigel
 # Blötdjur
 - Sniglar, snäckor, musslor, bläckfiskar
 - Har alla en fot, en mantel och ett skal*
@@ -27,20 +32,38 @@
 - Fyra benpar
 ### Husspindlar
 - Ludna ben
-- Hafsar ihop nät i hörn
+- Hafsar ihop slarvigt nät i hörn
 - Långa smalar ben
 - Zick-zack mönster på magen
+- Snabba som tusen
+- Bruna lite gråaktigt spräckliga
 ### Vattenspindel
 - Enda spindeln under vatten
 ### Kärrspindel
 - Kan simma på vatten, bli väldigt stora
 - Spinner inte nät förutom för att lägga ägg
+### Lockespindel
+- Ej riktig spindel
+- Ben utan hår
+- Klot med ben
+- Kan kanske förväxlas med husspindel
+### Korsspindel
+- Gör fina spiralnät
+- Har en uppsättning med kors som går medialt ned längsmed ryggen
+### Vargspindlar
+- Honorna lite större och bär äggsäck under magen
+### Fästing
+- Åtta ben
+- Rödaktig bakkropp
+- Kan inflateras 
 ## *Tusenfotingar*
 - Massor med benbar
 ### Enkelfoting
 - Ett benpar per segment
+- Plattare
 ### Dubbelfoting
 - Två benpar per segment
+- Mer cylindriska
 ## *Kräftdjur*
 - Oftast vattenlevande
 - Har två par antenner
@@ -51,6 +74,12 @@
 - Planterad från USA, invasiv
 - Lite rödare
 - Har en ljus fläck som kan bli blå på äldre specimen
+### Sötvattengråsugga
+- Mörkt streck längsmed ryggen
+- 12 ben
+### Sötvattenmärla
+- Lite räk-lik
+- Lateralt platt
 ## *Hoppstjärtar*
 - Har en hoppgaffel under abdomen
 - Brukade antas vara en insekt, men har fått egen grupp
@@ -69,8 +98,10 @@
 #### Fullständig förvandling
 - Typ fjärilar och skalbaggar, larver och puppor osv.
 - Har olika larvstadier
-
-
+### Skinnbaggar
+- Har två par vingar
+- Bildas ett slags X av dess sköldskal
+- 
 ### Sländor
 - Samlingsbegrepp, ej monofyletisk
 - **Egentliga trollsländor** har utfällda vingar även i idle
