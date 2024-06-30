@@ -87,7 +87,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Andfågel",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -116,7 +116,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f7a247d22c92d0d6",
@@ -184,15 +184,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9f50b07d72c6843",
+  "active": "4e80ed8966c92be1",
   "lastOpenFiles": [
+    "Wikimedia Token.md",
+    "/Wikimedia Token.md",
+    "/Grod och kräldjur - Översikt.md",
+    "/Evertebrater - Översikt.md",
     "Fåglar - Översikt.md",
     "Fåglar - Observerade.md",
     "Grod och kräldjur - Översikt.md",
     "Evertebrater - Översikt.md",
-    "/Grod och kräldjur - Översikt.md",
     "/Fiskar - Översikt.md",
-    "/Evertebrater - Översikt.md",
     "Fiskar - Översikt.md",
     "Gula Blommor.canvas",
     "Lätta disktinktioner.canvas",
