@@ -53,11 +53,14 @@
             "id": "c9f50b07d72c6843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Fåglar - Observerade.md",
-                "mode": "source",
-                "source": false
+                "file": "Gula Blommor.canvas",
+                "viewState": {
+                  "x": -1497.417011915311,
+                  "y": 708.2671167456099,
+                  "zoom": -1.6702631706778672
+                }
               }
             }
           }
@@ -128,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Fåglar - Observerade.md",
+            "file": "Gula Blommor.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Fåglar - Observerade.md",
+            "file": "Gula Blommor.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fåglar - Observerade.md"
+            "file": "Gula Blommor.canvas"
           }
         }
       },
@@ -184,14 +187,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4e80ed8966c92be1",
+  "active": "03f2dd7645f63fc8",
   "lastOpenFiles": [
+    "Fåglar - Observerade.md",
     "Wikimedia Token.md",
     "/Wikimedia Token.md",
     "/Grod och kräldjur - Översikt.md",
     "/Evertebrater - Översikt.md",
     "Fåglar - Översikt.md",
-    "Fåglar - Observerade.md",
     "Grod och kräldjur - Översikt.md",
     "Evertebrater - Översikt.md",
     "/Fiskar - Översikt.md",
