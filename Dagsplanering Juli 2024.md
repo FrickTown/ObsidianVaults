@@ -1,4 +1,5 @@
 Tidsenhet = 4 timmars arbete, alltså motsvarande en dags rimlig ansträngning.
+Bara en VG uppgift måste tas an för VG
 ## Aktiva mål
 ### LinUM2
 - **Uppgift 7 (Test)**
@@ -10,10 +11,16 @@ Tidsenhet = 4 timmars arbete, alltså motsvarande en dags rimlig ansträngning.
 		- Förlitar sig på korrigering av eventuella fel från Uppgift 7.
 	- Estimerad arbetstid: Självständigt maximalt 1 timme. Rapport redan skriven.
 - **Uppgift 10 (Nätverk)**
-	- Utmaningar: Sätt din tvist på den simpla appen du redan skapat. Alternativet är att du faktiskt lär dig ordentligt. Men det är mest C-syntaxen...
+	- Utmaningar: 
+		- Sätt din tvist på den simpla appen du redan skapat. Alternativet är att du faktiskt lär dig ordentligt. Men det är mest C-syntaxen...
 	- Estimerad arbetstid: 1 - 1.5 tidsenheter (2 - 2.5 tidsenheter om går för VG)
 - **Uppgift 11 (Licenser)**
-	- Utmaningar: Kräver att du sitter ned och läser en stund.
+	- Utmaningar: 
+		- Kräver att du sitter ned och läser en stund.
 	- Estimerad arbetstid: 0.5 tidsenheter
 - **Uppgift 12 (Grafiskt användargränssnitt)**
 	- Utmaningar: 
+		- Lär dig QML. Strukturen är ju inte jättekrånglig om du får upp en bra arbetsmiljö.
+	- Estimerad arbetstid: 1.5-2 tidseneheter
+### Floristik och Faunistik
+#### Skriv rapporten
