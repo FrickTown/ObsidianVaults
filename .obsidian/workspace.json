@@ -23,19 +23,11 @@
             "id": "44333f04d60141ec",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Juli 2024.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "snippets.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Juli 2024.md",
+                "file": "snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Juli 2024.md",
+                "file": "snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Juli 2024.md"
+                "file": "snippets.md"
               }
             }
           }
@@ -170,9 +162,9 @@
   },
   "active": "44333f04d60141ec",
   "lastOpenFiles": [
-    "Dagsplanering Juli 2024.md",
+    "ReadMe.md",
     "snippets.md",
     "Juli 2024.md",
-    "ReadMe.md"
+    "Dagsplanering Juli 2024.md"
   ]
 }

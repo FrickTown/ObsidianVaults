@@ -1,0 +1,3 @@
+.desmos-graph{
+    filter:invert() contrast(50%) hue-rotate(270deg);
+}
