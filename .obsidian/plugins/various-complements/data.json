@@ -31,7 +31,8 @@
     "select": [
       {
         "modifiers": [],
-        "key": "Enter"
+        "key": "Enter",
+        "hideHotkeyGuide": false
       }
     ],
     "select with custom alias": [],
@@ -84,7 +85,7 @@
   "columnDelimiter": "Pipe",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
-  "delimiterToDivideSuggestionsForDisplayFromInsertion": ">>",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "|",
   "caretLocationSymbolAfterComplement": "",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
