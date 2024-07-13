@@ -14,5 +14,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "various-complements:reload-custom-dictionaries": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
   ]
 }
