@@ -1,7 +1,8 @@
 {
-  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\n",
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\nMOreTest : ",
   "snippets": [
-    "snippets : It is an obsidian plugin, that replaces your selected text."
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "MOreTest : "
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",
