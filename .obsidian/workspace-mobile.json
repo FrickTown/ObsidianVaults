@@ -57,9 +57,9 @@
               "state": {
                 "file": "Gula Blommor.canvas",
                 "viewState": {
-                  "x": 1443.5121490964207,
-                  "y": -108.27334384982157,
-                  "zoom": -1.6353000534238533
+                  "x": 71.63691120532086,
+                  "y": -2087.892955852243,
+                  "zoom": -1.856527404200173
                 }
               }
             }
@@ -187,7 +187,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "03f2dd7645f63fc8",
+  "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
     "Fåglar - Observerade.md",
     "Wikimedia Token.md",
