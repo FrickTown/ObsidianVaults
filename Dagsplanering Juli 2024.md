@@ -1,5 +1,5 @@
 Tidsenhet = 4 timmars arbete, alltså motsvarande en dags rimlig ansträngning.
-Bara en VG uppgift måste tas an för VG
+Bara en LinVG uppgift måste tas an för VG
 ## Aktiva mål
 ### LinUM2
 - **Uppgift 7 (Test)**
@@ -24,3 +24,12 @@ Bara en VG uppgift måste tas an för VG
 	- Estimerad arbetstid: 1.5-2 tidseneheter
 ### Floristik och Faunistik
 #### Skriv rapporten
+- Utmaningar:
+	- Ganska tråkigt
+- Estimerad arbetstid: 0.5 - 1 tidsenhet
+### Förberedande Högskolematte
+- Utmaningar:
+	- Ganska tråkigt, svårt att komma igång.
+	- Måste vara en dag där du har bra kognition
+- Estimerad arbetstid: 3 - ? tidsenheter
+### 
