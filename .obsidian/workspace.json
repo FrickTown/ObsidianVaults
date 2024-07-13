@@ -11,26 +11,6 @@
             "id": "3e6f0b6252198cb9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Juli 2024.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "2bcab68fc0de4c6f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "ReadMe.md",
@@ -39,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,11 +147,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b4ba1a0121e9df10",
+  "active": "3e6f0b6252198cb9",
   "lastOpenFiles": [
     "snippets.md",
-    "Juli 2024.md",
     "ReadMe.md",
+    "Juli 2024.md",
     "Dagsplanering Juli 2024.md"
   ]
 }

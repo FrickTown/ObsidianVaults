@@ -1,1 +1,2 @@
-test|Estimerad arbetstid: 
+test->Estimerad arbetstid:
+newTest->ttt

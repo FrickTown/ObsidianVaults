@@ -58,7 +58,15 @@
     "select 9th": [],
     "open": [],
     "completion": [],
-    "insert as text": []
+    "insert as text": [
+      {
+        "modifiers": [
+          "Shift"
+        ],
+        "key": "Enter",
+        "hideHotkeyGuide": false
+      }
+    ]
   },
   "propagateEsc": false,
   "enableCurrentFileComplement": true,
@@ -76,7 +84,7 @@
   "columnDelimiter": "Pipe",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
-  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": ">>",
   "caretLocationSymbolAfterComplement": "",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
