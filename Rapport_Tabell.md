@@ -4,6 +4,7 @@ cssclasses:
   - whiteRed-rounded
   - wideFc
   - wideTable
+excalidraw-font: Lato
 ---
 
 
