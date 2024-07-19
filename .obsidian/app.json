@@ -1,5 +1,12 @@
 {
   "showUnsupportedFiles": true,
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }
