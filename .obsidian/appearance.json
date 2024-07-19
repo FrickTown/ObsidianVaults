@@ -3,5 +3,7 @@
     "tableStyles",
     "rapport"
   ],
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "cssTheme": "Sanctum",
+  "textFontFamily": "Times New Roman"
 }
