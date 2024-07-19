@@ -1,9 +1,9 @@
 ---
 cssclasses:
-  - whiteRed
   - whiteRed-rounded
   - wideFc
   - wideTable
+  - whiteRed
 excalidraw-font: Lato
 ---
 
