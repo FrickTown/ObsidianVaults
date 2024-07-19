@@ -5,3 +5,7 @@
 .rapport h4{
   filter: invert(50%);
 }
+
+body {
+    --metadata-display-reading: none; 
+}
