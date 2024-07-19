@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
-    "tableStyles"
-  ]
+    "tableStyles",
+    "rapport"
+  ],
+  "theme": "moonstone"
 }

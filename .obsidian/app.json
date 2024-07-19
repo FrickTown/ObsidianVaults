@@ -4,9 +4,10 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": true,
-    "margin": "2",
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
     "downscalePercent": 100
   }
 }
