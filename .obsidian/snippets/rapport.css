@@ -2,8 +2,16 @@
   filter: invert(50%);
 }
 
+.rapport .cm-header.cm-header-6{
+  filter: invert(35%);
+}
+
 .rapport h4{
   filter: invert(50%);
+}
+
+.rapport h6{
+  filter: invert(35%);
 }
 
 body {
