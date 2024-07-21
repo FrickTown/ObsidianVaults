@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "49378e6469cd6889",
+      "type": "text",
+      "text": "Backend",
+      "shape": "centered-rectangle",
+      "x": -240,
+      "y": -300,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a5fe862c846b713d",
+      "type": "text",
+      "text": "AWS? Sök konkurrenter?\n",
+      "shape": "centered-rectangle",
+      "x": -239,
+      "y": -134,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "177faa21f92dbf4b",
+      "fromNode": "49378e6469cd6889",
+      "fromSide": "bottom",
+      "toNode": "a5fe862c846b713d",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
