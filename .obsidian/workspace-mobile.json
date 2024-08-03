@@ -8,64 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edf483433d4a4ffa",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": 834.2549328906443,
-                  "y": 187.8297689418847,
-                  "zoom": -0.9837743855568909
-                }
-              }
-            }
-          },
-          {
-            "id": "ac3fae20df0c34d1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": -419.35410749533014,
-                  "y": -977.1616667030432,
-                  "zoom": -1.2438166505268127
-                }
-              }
-            }
-          },
-          {
-            "id": "b050f2c9851730e6",
+            "id": "c9f50b07d72c6843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fåglar - Översikt.md",
+                "file": "Små anteckningar.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c9f50b07d72c6843",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Gula Blommor.canvas",
-                "viewState": {
-                  "x": 71.63691120532086,
-                  "y": -2087.892955852243,
-                  "zoom": -1.856527404200173
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gula Blommor.canvas",
+            "file": "Små anteckningar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Gula Blommor.canvas",
+            "file": "Små anteckningar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -160,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Gula Blommor.canvas"
+            "file": "Små anteckningar.md"
           }
         }
       },
@@ -189,57 +143,60 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
-    "Fåglar - Observerade.md",
-    "Wikimedia Token.md",
-    "/Wikimedia Token.md",
-    "/Grod och kräldjur - Översikt.md",
-    "/Evertebrater - Översikt.md",
-    "Fåglar - Översikt.md",
-    "Grod och kräldjur - Översikt.md",
-    "Evertebrater - Översikt.md",
-    "/Fiskar - Översikt.md",
-    "Fiskar - Översikt.md",
     "Gula Blommor.canvas",
-    "Lätta disktinktioner.canvas",
-    "/Fåglar.md",
-    "Lätta Distinktioner.md",
-    "Träd och buskar.md",
+    "Rapport_Tabell.pdf",
+    "Rapport_Tabell.md",
+    "Media/Rutt.png",
+    "JakobFrick_Rapport.pdf",
+    "Inventering av Gredelby naturreservat.pdf",
+    "Inventering av Gredelby naturreservat.md",
+    "/Rapport_Tabell.pdf",
+    "/Rapport_Tabell.md",
+    "/Media/Rutt.png",
+    "/JakobFrick_Rapport.pdf",
+    "/Inventering av Gredelby naturreservat.pdf",
+    "/Inventering av Gredelby naturreservat.md",
+    "/Gula Blommor.canvas",
     "Små anteckningar.md",
-    "Media/Vicker/kråkvicker.jpg",
-    "Media/Vicker/häckvicker.jpg",
+    "Lätta disktinktioner.canvas",
+    "Lätta Distinktioner.md",
     "Media/Vicker/skogsvicker.jpg",
-    "/Media/Vicker/kråkvicker.jpg",
-    "/Media/Vicker/häckvicker.jpg",
     "Media/Vicker/blålusern2.jpg",
     "Media/Vicker/blålusern.jpg",
     "Media/Klöver/vitklöver.jpg",
     "Media/Klöver/skogsklöver.jpg",
     "Media/Klöver/rödklöver.jpg",
-    "/Träd och buskar.md",
+    "Media/Klöver/backskärvfrö.jpg",
+    "Media/Hundkäxlika/vitmåra.jpg",
+    "Att göra.md",
     "/Små anteckningar.md",
     "/Lätta disktinktioner.canvas",
     "/Lätta Distinktioner.md",
-    "/Gula Blommor.canvas",
     "/Att göra.md",
+    "ReadMe.md.md",
+    "Träd.canvas",
+    "Snabbnyckel (Familj).canvas",
+    "Fiskar - Översikt.md",
+    "/ReadMe.md.md",
+    "/Träd.canvas",
+    "/Snabbnyckel (Familj).canvas",
+    "/Fiskar - Översikt.md",
+    "Evertebrater - Översikt.md",
+    "Grod och kräldjur - Översikt.md",
+    "/Evertebrater - Översikt.md",
+    "/Grod och kräldjur - Översikt.md",
+    "Träd och buskar.md",
+    "Fåglar - Översikt.md",
+    "Fåglar - Observerade.md",
+    "/Träd och buskar.md",
+    "/Fåglar - Översikt.md",
+    "/Fåglar - Observerade.md",
+    "Juli 2024.md",
     "Media/Vicker",
     "Media/Klöver",
-    "/Media/Vicker",
-    "/Media/Klöver",
-    "Att göra.md",
     "Media/Hundkäxlika",
-    "/Media/Hundkäxlika",
-    "gitclean",
-    "/gitclean",
-    "Untitled Kanban.md",
-    "ReadMe.md.md",
-    "Franska/Welcome.md",
-    "FloraFauna/Welcome.md",
-    "FloraFauna/Gula Blommor.canvas",
-    "/Franska/Welcome.md",
-    "/FloraFauna/Welcome.md",
-    "/FloraFauna/Gula Blommor.canvas",
-    "ReadMe.md",
     "Media",
-    "Franska"
+    "FloraFauna/Gula Blommor.canvas",
+    "/FloraFauna/Gula Blommor.canvas"
   ]
 }

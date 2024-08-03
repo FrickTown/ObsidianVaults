@@ -85,37 +85,6 @@
       "color": "6"
     },
     {
-      "id": "cf1f5943f134dc6b",
-      "type": "text",
-      "text": "Är det en gul näckros?",
-      "shape": "oval",
-      "x": -1640,
-      "y": -627,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "08b93378d0e9c81b",
-      "type": "text",
-      "text": "**Gul Näckros**\n_Nuphar lutea_\n/Nymphaceae/ (Näckrosväxt)\n**Näckros, fast den gula sorten**",
-      "shape": "centered-rectangle",
-      "x": -2047,
-      "y": -1066,
-      "width": 294,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "555f63dc94409548",
-      "type": "file",
-      "file": "Media/Gul Näckros.jpg",
-      "x": -2240,
-      "y": -1553,
-      "width": 609,
-      "height": 457
-    },
-    {
       "id": "41aab41a3f3875c8",
       "type": "text",
       "text": "**Natt och dag / Lundkovall**\n_Melampyrum nemorosum_\n/Orobanchaceae/ (Snyltros)\n**Ikonisk och fierce**",
@@ -329,97 +298,6 @@
       "height": 192
     },
     {
-      "id": "4b39d5c1a0bb65ad",
-      "type": "file",
-      "file": "Media/Revsmörblomma1.png",
-      "x": 889,
-      "y": 729,
-      "width": 318,
-      "height": 211
-    },
-    {
-      "id": "b11e641fb9ed9df7",
-      "type": "text",
-      "text": "**Revsmörblomma**\n_Ranunculus repens_\nRanunculaceae (Ranunkel)\n**Bladen har uddblad.**\n**Ser lite mer ondskefull ut än vanlig smörblomma.**",
-      "shape": "centered-rectangle",
-      "x": 921,
-      "y": 954,
-      "width": 259,
-      "height": 186,
-      "color": "3"
-    },
-    {
-      "id": "9c720367de56c81b",
-      "type": "file",
-      "file": "Media/Smörblomma2.jpg",
-      "x": 573,
-      "y": 648,
-      "width": 295,
-      "height": 221
-    },
-    {
-      "id": "9862f4144fb29361",
-      "type": "text",
-      "text": "**Vanlig Smörblomma**\n_Ranunculus acris_\nRanunculaceae (Ranunkel)\n**Episka svärd-formade blad. **\n**\"Spjut\" enligt Krok...**",
-      "shape": "centered-rectangle",
-      "x": 585,
-      "y": 880,
-      "width": 271,
-      "height": 180,
-      "color": "3"
-    },
-    {
-      "id": "e13cb508fafea497",
-      "type": "text",
-      "text": "Syns dessa oftast i flockar?",
-      "shape": "oval",
-      "x": 19,
-      "y": -1057,
-      "width": 260,
-      "height": 77,
-      "color": "6"
-    },
-    {
-      "id": "0212183bb2c89311",
-      "type": "text",
-      "text": "Hyllets form?",
-      "shape": "oval",
-      "x": 19,
-      "y": -1278,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "f9f68933834bcf84",
-      "type": "text",
-      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
-      "shape": "centered-rectangle",
-      "x": -255,
-      "y": -1660,
-      "width": 310,
-      "height": 183,
-      "color": "3"
-    },
-    {
-      "id": "af9dde609e6ec265",
-      "type": "file",
-      "file": "Media/Ryssgubbe2.jpg",
-      "x": -300,
-      "y": -1934,
-      "width": 400,
-      "height": 268
-    },
-    {
-      "id": "dbdab4221257897e",
-      "type": "file",
-      "file": "Media/Ryssgubbe1.jpg",
-      "x": -300,
-      "y": -2154,
-      "width": 400,
-      "height": 225
-    },
-    {
       "id": "92e5ce10e457725d",
       "type": "file",
       "file": "Media/Nejlikrot1.jpg",
@@ -460,6 +338,66 @@
       "color": "3"
     },
     {
+      "id": "05eef454c60f9c82",
+      "type": "text",
+      "text": "Hur ligger kölen mot hyllet?",
+      "shape": "oval",
+      "x": 1103,
+      "y": -244,
+      "width": 207,
+      "height": 68,
+      "color": "6"
+    },
+    {
+      "id": "4b39d5c1a0bb65ad",
+      "type": "file",
+      "file": "Media/Revsmörblomma1.png",
+      "x": 889,
+      "y": 729,
+      "width": 318,
+      "height": 211
+    },
+    {
+      "id": "b11e641fb9ed9df7",
+      "type": "text",
+      "text": "**Revsmörblomma**\n_Ranunculus repens_\nRanunculaceae (Ranunkel)\n**Bladen har uddblad.**\n**Ser lite mer ondskefull ut än vanlig smörblomma.**",
+      "shape": "centered-rectangle",
+      "x": 921,
+      "y": 954,
+      "width": 259,
+      "height": 186,
+      "color": "3"
+    },
+    {
+      "id": "9c720367de56c81b",
+      "type": "file",
+      "file": "Media/Smörblomma2.jpg",
+      "x": 573,
+      "y": 648,
+      "width": 295,
+      "height": 221
+    },
+    {
+      "id": "9862f4144fb29361",
+      "type": "text",
+      "text": "**Vanlig Smörblomma**\n_Ranunculus acris_\nRanunculaceae (Ranunkel)\n**Episka svärd-formade blad. **\n**\"Spjut\" enligt Krok...**",
+      "shape": "centered-rectangle",
+      "x": 585,
+      "y": 880,
+      "width": 271,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "9603c55aaa0fb9a3",
+      "type": "file",
+      "file": "Media/Gulvial.jpg",
+      "x": 1458,
+      "y": -190,
+      "width": 157,
+      "height": 224
+    },
+    {
       "id": "57a24f8eb47e6f05",
       "type": "text",
       "text": "Johannesörter",
@@ -471,15 +409,40 @@
       "color": "4"
     },
     {
-      "id": "05eef454c60f9c82",
-      "type": "text",
-      "text": "Hur ligger kölen mot hyllet?",
-      "shape": "oval",
-      "x": 1103,
-      "y": -244,
-      "width": 207,
-      "height": 68,
-      "color": "6"
+      "id": "410cd639034a0f4a",
+      "type": "file",
+      "file": "Media/Käringtand.jpg",
+      "x": 1467,
+      "y": -460,
+      "width": 296,
+      "height": 222
+    },
+    {
+      "id": "d269b14d1a79685a",
+      "type": "file",
+      "file": "Media/Revsmörblomma2.jpg",
+      "x": 952,
+      "y": 405,
+      "width": 193,
+      "height": 318
+    },
+    {
+      "id": "6d5858daca7a224b",
+      "type": "file",
+      "file": "Media/Lundsmörblomma.png",
+      "x": 240,
+      "y": 378,
+      "width": 253,
+      "height": 379
+    },
+    {
+      "id": "df10e23eae0c97b3",
+      "type": "file",
+      "file": "Media/Smörblomma1.jpg",
+      "x": 611,
+      "y": 405,
+      "width": 219,
+      "height": 239
     },
     {
       "id": "d62086087423e3ad",
@@ -526,15 +489,6 @@
       "color": "6"
     },
     {
-      "id": "9603c55aaa0fb9a3",
-      "type": "file",
-      "file": "Media/Gulvial.jpg",
-      "x": 1458,
-      "y": -190,
-      "width": 157,
-      "height": 224
-    },
-    {
       "id": "9d8e821f4308f283",
       "type": "text",
       "text": "Är stjälken fyrkantig?",
@@ -555,15 +509,6 @@
       "width": 301,
       "height": 205,
       "color": "3"
-    },
-    {
-      "id": "410cd639034a0f4a",
-      "type": "file",
-      "file": "Media/Käringtand.jpg",
-      "x": 1467,
-      "y": -460,
-      "width": 296,
-      "height": 222
     },
     {
       "id": "4b076624de27abcb",
@@ -597,45 +542,6 @@
       "width": 285,
       "height": 156,
       "color": "3"
-    },
-    {
-      "id": "d269b14d1a79685a",
-      "type": "file",
-      "file": "Media/Revsmörblomma2.jpg",
-      "x": 952,
-      "y": 405,
-      "width": 193,
-      "height": 318
-    },
-    {
-      "id": "6d5858daca7a224b",
-      "type": "file",
-      "file": "Media/Lundsmörblomma.png",
-      "x": 240,
-      "y": 378,
-      "width": 253,
-      "height": 379
-    },
-    {
-      "id": "df10e23eae0c97b3",
-      "type": "file",
-      "file": "Media/Smörblomma1.jpg",
-      "x": 611,
-      "y": 405,
-      "width": 219,
-      "height": 239
-    },
-    {
-      "id": "f27cfad9eebce4f7",
-      "type": "file",
-      "file": "ReadMe.md.md",
-      "subpath": "#Gula Blommor",
-      "isStartNode": false,
-      "x": -630,
-      "y": -1075,
-      "width": 394,
-      "height": 174,
-      "color": "4"
     },
     {
       "id": "06c10b447e796fa6",
@@ -685,6 +591,41 @@
       "height": 235
     },
     {
+      "id": "25f982d4bc4e177e",
+      "type": "text",
+      "text": "Gul Blomma",
+      "shape": "predefined-process",
+      "isStartNode": true,
+      "x": -583,
+      "y": -880,
+      "width": 301,
+      "height": 109,
+      "color": "3"
+    },
+    {
+      "id": "f27cfad9eebce4f7",
+      "type": "file",
+      "file": "ReadMe.md.md",
+      "subpath": "#Gula Blommor",
+      "isStartNode": false,
+      "x": -630,
+      "y": -1075,
+      "width": 394,
+      "height": 174,
+      "color": "4"
+    },
+    {
+      "id": "1fdcbdf5ccbeac19",
+      "type": "text",
+      "text": "... har den ett lila huvud ovanför de gula bladen?",
+      "shape": "oval",
+      "x": -565,
+      "y": -695,
+      "width": 264,
+      "height": 80,
+      "color": "6"
+    },
+    {
       "id": "58d32939c67374f7",
       "type": "text",
       "text": "Är den lite silvrig till färgen?",
@@ -693,6 +634,28 @@
       "y": -1057,
       "width": 234,
       "height": 77,
+      "color": "6"
+    },
+    {
+      "id": "e13cb508fafea497",
+      "type": "text",
+      "text": "Syns dessa oftast i flockar?",
+      "shape": "oval",
+      "x": 19,
+      "y": -1057,
+      "width": 260,
+      "height": 77,
+      "color": "6"
+    },
+    {
+      "id": "0212183bb2c89311",
+      "type": "text",
+      "text": "Hyllets form?",
+      "shape": "oval",
+      "x": 19,
+      "y": -1278,
+      "width": 260,
+      "height": 60,
       "color": "6"
     },
     {
@@ -707,6 +670,17 @@
       "color": "3"
     },
     {
+      "id": "f9f68933834bcf84",
+      "type": "text",
+      "text": "**Ryssgubbe**\n_Bunias orientalis_\nBrassicaceae (Korsblommig)\n**Växer ofta intill Hundkäx. **",
+      "shape": "centered-rectangle",
+      "x": -255,
+      "y": -1660,
+      "width": 310,
+      "height": 183,
+      "color": "3"
+    },
+    {
       "id": "731bf1b6ea060c84",
       "type": "file",
       "file": "Media/Sommargyllen2.jpg",
@@ -714,18 +688,6 @@
       "y": -1969,
       "width": 344,
       "height": 303
-    },
-    {
-      "id": "25f982d4bc4e177e",
-      "type": "text",
-      "text": "Gul Blomma",
-      "shape": "predefined-process",
-      "isStartNode": true,
-      "x": -583,
-      "y": -880,
-      "width": 301,
-      "height": 109,
-      "color": "3"
     },
     {
       "id": "3f886d8bcb15750b",
@@ -748,17 +710,6 @@
       "width": 296,
       "height": 100,
       "color": "2"
-    },
-    {
-      "id": "1fdcbdf5ccbeac19",
-      "type": "text",
-      "text": "... har den ett lila huvud ovanför de gula bladen?",
-      "shape": "oval",
-      "x": -565,
-      "y": -695,
-      "width": 264,
-      "height": 80,
-      "color": "6"
     },
     {
       "id": "1342aacb5c4a1a43",
@@ -821,6 +772,24 @@
       "width": 207,
       "height": 60,
       "color": "4"
+    },
+    {
+      "id": "af9dde609e6ec265",
+      "type": "file",
+      "file": "Media/Ryssgubbe2.jpg",
+      "x": -300,
+      "y": -1934,
+      "width": 400,
+      "height": 268
+    },
+    {
+      "id": "dbdab4221257897e",
+      "type": "file",
+      "file": "Media/Ryssgubbe1.jpg",
+      "x": -300,
+      "y": -2154,
+      "width": 400,
+      "height": 225
     },
     {
       "id": "6b634c557b9b9bb9",
@@ -892,6 +861,37 @@
       "width": 263,
       "height": 153,
       "color": "3"
+    },
+    {
+      "id": "08b93378d0e9c81b",
+      "type": "text",
+      "text": "**Gul Näckros**\n_Nuphar lutea_\n/Nymphaceae/ (Näckrosväxt)\n**Näckros, fast den gula sorten**",
+      "shape": "centered-rectangle",
+      "x": -2047,
+      "y": -1066,
+      "width": 294,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "cf1f5943f134dc6b",
+      "type": "text",
+      "text": "Är det en gul näckros?",
+      "shape": "oval",
+      "x": -1640,
+      "y": -627,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "555f63dc94409548",
+      "type": "file",
+      "file": "Media/Gul Näckros.jpg",
+      "x": -2240,
+      "y": -1553,
+      "width": 609,
+      "height": 457
     }
   ],
   "edges": [
