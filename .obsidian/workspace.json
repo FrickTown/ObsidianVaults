@@ -11,14 +11,11 @@
             "id": "7a31b95bfc893a9b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "SGT Planering.canvas",
-                "viewState": {
-                  "x": 151.1952882386068,
-                  "y": -131.00465282543698,
-                  "zoom": -0.499999980131786
-                }
+                "file": "Intro till IT/Introduktion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SGT Planering.canvas",
+                "file": "Intro till IT/Introduktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SGT Planering.canvas",
+                "file": "Intro till IT/Introduktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SGT Planering.canvas"
+                "file": "Intro till IT/Introduktion.md"
               }
             }
           },
@@ -169,12 +166,14 @@
   },
   "active": "7a31b95bfc893a9b",
   "lastOpenFiles": [
-    "Dagsplanering Juli 2024.md",
+    "snippets.md",
+    "Intro till IT/Introduktion.md",
+    "Intro till IT",
     "SGT Planering.canvas",
+    "Dagsplanering Juli 2024.md",
     "Juli 2024.md",
     "ReadMe.md",
     "Inventering av Gredelby naturreservat.md",
-    "snippets.md",
     "Inventering av Gredelby naturreservat.pdf",
     "JakobFrick_Rapport.pdf",
     "Lätta disktinktioner.canvas",
@@ -205,7 +204,6 @@
     "Media/Tussilago.jpg",
     "Media/Klöver",
     "Media/Hundkäxlika",
-    "Media",
     "Grod och kräldjur - Översikt.md",
     "Fåglar - Översikt.md",
     "Fåglar - Observerade.md",
