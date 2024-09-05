@@ -1,6 +1,6 @@
 **Fråga 1: Beskriv din akademiska bakgrund.**
 
-Jag har alltid haft väldigt 
+Jag har alltid haft väldigt lätt i skolan, och aldrig behövt plugga. Har också haft väldigt hög frånvaro i skolan, både grundskolan och gymnasiet. Det gav mig alltid mer ångest än kunskap. Jag bestämde mig för att faktiskt försöka applicera mig själv 
 
 **Fråga 2: Beskriv och reflektera över vad du uppfattar att ämnesområdena datavetenskap och programmering är.**
 
