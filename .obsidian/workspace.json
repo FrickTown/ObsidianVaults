@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro till IT/[M1]-Studenttjänster.md",
+                "file": "Intro till IT/Introduktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro till IT/[M1]-Studenttjänster.md",
+                "file": "Intro till IT/Introduktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro till IT/[M1]-Studenttjänster.md",
+                "file": "Intro till IT/Introduktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro till IT/[M1]-Studenttjänster.md"
+                "file": "Intro till IT/Introduktion.md"
               }
             }
           },
@@ -179,9 +178,10 @@
   },
   "active": "7a31b95bfc893a9b",
   "lastOpenFiles": [
+    "Intro till IT/[M1]-Studenttjänster.md",
+    "Intro till IT/jafr3967_studenttjanster.txt",
     "Intro till IT/Introduktion.md",
     "Intro till IT/Seminarium M0_HT25.md",
-    "Intro till IT/[M1]-Studenttjänster.md",
     "snippets.md",
     "Intro till IT",
     "SGT Planering.canvas",
@@ -218,7 +218,6 @@
     "Media/Vicker",
     "Media/Tussilago.jpg",
     "Media/Klöver",
-    "Media/Hundkäxlika",
     "Grod och kräldjur - Översikt.md",
     "Fåglar - Översikt.md",
     "Fåglar - Observerade.md",
