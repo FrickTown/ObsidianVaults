@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro till IT/Introduktion.md",
+                "file": "Intro till IT/[M1]-Studenttjänster.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro till IT/Seminarium M0_HT25.md",
+                "file": "Intro till IT/[M1]-Studenttjänster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro till IT/Seminarium M0_HT25.md",
+                "file": "Intro till IT/[M1]-Studenttjänster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro till IT/Seminarium M0_HT25.md"
+                "file": "Intro till IT/[M1]-Studenttjänster.md"
               }
             }
           },
@@ -178,10 +177,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4b59dd5dba2a77f6",
+  "active": "7a31b95bfc893a9b",
   "lastOpenFiles": [
     "Intro till IT/Introduktion.md",
     "Intro till IT/Seminarium M0_HT25.md",
+    "Intro till IT/[M1]-Studenttjänster.md",
     "snippets.md",
     "Intro till IT",
     "SGT Planering.canvas",

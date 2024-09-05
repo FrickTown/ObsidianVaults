@@ -1,0 +1,15 @@
+E-post: jakob.frick.3967@student.uu.se
+
+Schema: https://cloud.timeedit.net/uu/web/wr_student/ri656QQ4Ye0Zu6Q5Qt8n47F6yQZQ627dZ0E48Z2Q69405btZF39Z4C3F0704C90C79F8FEA26C556801.ics
+
+Wi-Fi: eduroam
+
+Wi-Fi-lösenord: B
+
+Quiz:
+    A) Canvas, men är rebranded som Studium på Uppsala Universitet
+    B) PaperCut MF
+    C) Ladok
+    D) 12 dagar
+
+Enkät:
