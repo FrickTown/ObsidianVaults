@@ -1,6 +1,10 @@
 **Fråga 1: Beskriv din akademiska bakgrund.**
 
-Jag har alltid haft väldigt lätt i skolan, och aldrig behövt plugga. Har också haft väldigt hög frånvaro i skolan, både grundskolan och gymnasiet. Det gav mig alltid mer ångest än kunskap. Jag bestämde mig för att faktiskt försöka applicera mig själv 
+Jag är första generationen akademiker. Mina föräldrar har arbetat sedan gymnasiet, och mina syskon likaså. Jag har alltid haft väldigt lätt i skolan, och aldrig behövt plugga. Har också haft väldigt hög frånvaro i skolan, både grundskolan och gymnasiet. Det gav mig alltid mer ångest än kunskap. Jag har klarat mig ändå eftersom jag  saker jag finner intressant väldigt fort, men har extremt svårt att ta in information som jag dömer ointressant.
+
+Efter en flerårig period av vilsenhet och meningslöshet så fick jag lite inspiration att faktiskt försöka applicera mig själv runt 2019, och då bestämde jag mig för läkemedelsforskning, då läkemedel var ett dåvarande intresse. Jag kompletterade 7 kurser på komvux, skrev HP, kom in på apotekarprogrammet 2020, och blev totalt utbränd gick in i väggen 2022. 
+
+Efter ett år av terapi och återhämtning bestämde jag mig för att plugga DV. Jag  idén om att saker måste vara svårt för att vara värda att göra. 
 
 **Fråga 2: Beskriv och reflektera över vad du uppfattar att ämnesområdena datavetenskap och programmering är.**
 
