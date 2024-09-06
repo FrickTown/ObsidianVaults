@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro till IT/Reflektion kring studievalet.md",
+                "file": "Intro till IT/Seminarium M0_HT25.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro till IT/Reflektion kring studievalet.md",
+                "file": "Intro till IT/Seminarium M0_HT25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro till IT/Reflektion kring studievalet.md",
+                "file": "Intro till IT/Seminarium M0_HT25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro till IT/Reflektion kring studievalet.md"
+                "file": "Intro till IT/Seminarium M0_HT25.md"
               }
             }
           },
@@ -191,8 +192,8 @@
   },
   "active": "347ee99d4739e542",
   "lastOpenFiles": [
-    "Intro till IT/Seminarium M0_HT25.md",
     "Intro till IT/Reflektion kring studievalet.md",
+    "Intro till IT/Seminarium M0_HT25.md",
     "Intro till IT/Introduktion.md",
     "Intro till IT/[M1]-Studenttjänster.md",
     "Intro till IT/jafr3967_studenttjanster.txt",
