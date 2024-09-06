@@ -11,11 +11,14 @@
             "id": "c9f50b07d72c6843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Små anteckningar.md",
-                "mode": "source",
-                "source": false
+                "file": "Gula Blommor.canvas",
+                "viewState": {
+                  "x": -1901.4953864759846,
+                  "y": -922.1432238516438,
+                  "zoom": -0.4346861759284061
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Små anteckningar.md",
+            "file": "Gula Blommor.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Små anteckningar.md",
+            "file": "Gula Blommor.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Små anteckningar.md"
+            "file": "Gula Blommor.canvas"
           }
         }
       },
@@ -143,6 +146,7 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
+    "Små anteckningar.md",
     "Gula Blommor.canvas",
     "Rapport_Tabell.pdf",
     "Rapport_Tabell.md",
@@ -157,7 +161,6 @@
     "/Inventering av Gredelby naturreservat.pdf",
     "/Inventering av Gredelby naturreservat.md",
     "/Gula Blommor.canvas",
-    "Små anteckningar.md",
     "Lätta disktinktioner.canvas",
     "Lätta Distinktioner.md",
     "Media/Vicker/skogsvicker.jpg",
