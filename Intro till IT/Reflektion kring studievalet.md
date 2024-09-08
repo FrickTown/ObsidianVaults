@@ -47,15 +47,18 @@ Jag tror att vara duktig på att formulera frågor är väldigt viktigt.
 Att kunna skapa frågeställningar för att kontextualisera koncept för ens egna psyke är en del i det, men viktigt är också att kunna förmedla hur man tänker på ett begripligt nog sätt för att kunna få ett tillfredsställande svar.
 
 Någon som gillar och är duktig på att komma på förklaringsmodeller och liknelser har definitivt fördel.
-Någon som generellt attackerar problem istället för att skygga från dem. 
+Någon som generellt försöker lösa problem istället för att skygga från dem. 
 Någon som har lätt att visualisera abstrakta koncept. 
-Någon som genuint är intresserad.
-
-_Tänk både på de egenskaper du redan har och sådana som du tror är viktiga men som du kanske saknar i dagsläget. Varför tror du att dessa egenskaper är viktiga att ha fört att lära sig inom ämnesområdena? Etc_
+Någon som **genuint är intresserad**. Jag tror ingen kan bli en *riktigt* duktig programmerare utan att vara intresserad. Det finns säkert ganska okej programmerare som inte är intresserade alls, och bara ser det som ett yrkesval. 
+Alla kan väl skriva lite kod i en textfil. Inte alla är *programmerare*. 😉
 
 **Fråga 7: Reflektera över vad du tror kommer vara mest utmanande med studierna.**
 
+Jag har en del mentala egenheter som ofta gör själva vardagen omkring studier svår att få ihop. Jag är vuxen nog vid det här laget att kunna agera lite matador med min hjärna, men det är lite för volatilt för att kunna göra något åt det ibland. Innehållet på programmet skrämmer mig inte. Jag är inte kaxig, utan jag känner mig snarare bara väldigt redo att lära mig. Förhoppningsvis går min hjärna inte i vägen för det.
+
 **Fråga 8: Reflektera över vilka erfarenheter du har med dig in i studierna.**
+Mental ohälsa hela livet, mycket lärdomar från det. Sociala problem som konsekvens av mentala ohälsa, som numera överkommits. Det gör mig mer kapabel att bemöta skygga människor (70% av DV:are) på ett lämpligt sätt. 
+
 
 **Fråga 9: Reflektera över vad du tror kommer vara mest givande med studierna.**
 
