@@ -1,6 +1,6 @@
 **Fråga 1: Beskriv din akademiska bakgrund.**
 
-Jag är första generationen akademiker. Mina föräldrar har arbetat sedan gymnasiet, och mina syskon likaså. Jag har alltid haft väldigt lätt i skolan, och aldrig behövt plugga. Har också haft väldigt hög frånvaro i skolan, både grundskolan och gymnasiet. Det gav mig alltid mer ångest än kunskap. Jag har klarat mig ändå eftersom jag begriper saker jag finner intressant väldigt fort, men har extremt svårt att ta in information som jag dömer ointressant.
+Jag är första generationens akademiker. Mina föräldrar har arbetat sedan gymnasiet, och mina syskon likaså. Jag har alltid haft väldigt lätt i skolan, och aldrig behövt plugga. Har också haft väldigt hög frånvaro i skolan, både grundskolan och gymnasiet. Det gav mig alltid mer ångest än kunskap. Jag har klarat mig ändå eftersom jag begriper saker jag finner intressant väldigt fort, men har extremt svårt att ta in information som jag dömer ointressant.
 
 Efter en flerårig period av vilsenhet och meningslöshet så fick jag lite inspiration att faktiskt försöka applicera mig själv runt 2019, och då bestämde jag mig för läkemedelsforskning, eftersom läkemedel var ett dåvarande intresse. Jag kompletterade 7 kurser på komvux, skrev HP, kom in på apotekarprogrammet 2020, och blev totalt utbränd gick in i väggen 2022. 
 
@@ -8,7 +8,7 @@ Efter ett år av terapi och återhämtning bestämde jag mig för att plugga DV.
 
 **Fråga 2: Beskriv och reflektera över vad du uppfattar att ämnesområdena datavetenskap och programmering är.**
 
-Jag skulle väl säga att datavetenskap är "läran om datorer", och att programmering är "att applicera sin kunskap om datorer för att lösa uppgifter och problem."
+Jag skulle väl säga att datavetenskap är "läran om datorer", och att programmering är "att applicera sin kunskap om datorer för att lösa uppgifter och problem genom att ge en dator instruktioner."
 
 **Fråga 3: Reflektera över varför du valt att läsa datavetenskap.**
 
@@ -43,8 +43,8 @@ Programmeringskunskaperna jag fått från en livstid med hobbyn är nog en rätt
 
 **Fråga 6: Reflektera över vad du tror är viktiga egenskaper att ha för att lyckas med studierna inom datavetenskap och att lära sig programmera.**
 
-Jag tror att vara duktig på att formulera frågor är väldigt viktigt. 
-Att kunna skapa frågeställningar för att kontextualisera koncept för ens egna psyke är en del i det, men viktigt är också att kunna förmedla hur man tänker på ett begripligt nog sätt för att kunna få ett tillfredsställande svar.
+Jag tror att vara duktig på att formulera frågor är väldigt fördelaktigt. 
+Att kunna skapa frågeställningar för att kontextualisera koncept för ens egna psyke är en del i det, men viktigt är också att kunna förmedla hur man tänker på ett begripligt nog sätt för att kunna få ett tillfredsställande svar från en lärare eller medstudent.
 
 - Någon som gillar och är duktig på att komma på förklaringsmodeller och liknelser har definitivt fördel.
 - Någon som generellt försöker lösa problem istället för att skygga från dem. 
