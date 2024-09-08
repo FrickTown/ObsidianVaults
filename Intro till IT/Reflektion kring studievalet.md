@@ -29,20 +29,22 @@ När jag började gymnasiet fanns faktiskt en annan programmerare i klassen. Han
 
 Jag jobbade som front-end utvecklare när jag var 17, för ett startup-företag som upptäckte mig och min vän på IBMs årliga hackathon "Hack Your World". Insåg då att jag inte vill vara webbutvecklare. Speciellt inte en front-end utvecklare.
 
-Jag gillar spelutveckling om jag utvecklar på fritiden. Jag har ofta mycket idéer till små konstnärliga projekt som jag inte avslutar. Jag brukar isåfall använda antingen MonoGame och C#, Processing för Java, eller p5.js för javascript. 
+Har gått Programmeringsteknik 1 och 2 på Uppsala, men där behövde jag bara lära mig Python eftersom jag redan kunde allt annat, och det var mest för att få HP till CSN. 
 
-Älskar att få en gnista för ett projekt. Inget slår känslan av att efter några timmar av strukturplanering äntligen se projektet komma till liv. Att haka upp sig på ett problem, och till slut komma på en jätteelegant lösning - det är något av det bästa jag vet.
+Jag gillar spelutveckling om jag utvecklar på fritiden. Jag har ofta mycket idéer till små konstnärliga projekt som jag inte avslutar. Jag brukar isådanafall använda antingen MonoGame för C#, Processing för Java, eller p5.js för Javascript. 
 
-Jag har mycket tålamod för att försöka hitta lösningar. Jag har väldigt lite intresse av att hitta något litet *bibliotek* som har en lösning på problemet. Gillar inte att lära mig andra människors påhittiga syntaxer, och jag kommer ju aldrig förstå vad som faktiskt händer när det är abstraherat sådär. S
+Älskar att få en gnista för ett projekt. Inget slår känslan av att efter några timmar av strukturplanering äntligen se projektet komma till liv. Att haka upp sig på ett problem, och till slut komma på en jätte-elegant lösning - det är något av det bästa jag vet.
 
-
-_Beskriv till exempel din erfarenhet och eventuella intresse i datorer, använder du datorer på fritiden eller mest till skolarbete/arbete? Försök att ge en så tydlig bild du kan.__Om du har programmerat tidigare - har du lärt dig det på egen hand? Har det varit en del av gymnasieutbildning eller annan utbildning? Beskriv/förklara gärna vad du har programmerat för typ av projekt och i vilka språk samt miljöer.__Brukar du programmera på fritiden? Hur upplever du att det är att programmera? Etc._
+Jag har *väldigt mycket* tålamod för att försöka hitta lösningar på ett problem jag vill lösa. Jag ger inte upp när jag bestämt mig. Jag har väldigt lite intresse av att hitta något litet *bibliotek* som har en lösning på problemet. Gillar inte att lära mig andra människors påhittiga syntaxer, och jag kommer ju aldrig förstå vad som faktiskt händer när det är abstraherat på det viset. 
 
 **Fråga 5: Reflektera över vilka av dina erfarenheter av datorer och/eller programmering (hur stora eller små de än må vara) du tror kommer vara viktiga för dina kommande studier inom datavetenskap.**
 
-_Till exempel, vad i dina erfarenheter tror du har lett till valet att läsa datavetenskap på universitetet?_
+Programmeringskunskaperna jag fått från en livstid med hobbyn är nog en rätt bra grund för att kunna ta emot och kontextualisera nya koncept och ny information. Sen har jag hostat en del servrar till spel och så genom åren. Och sen har jag också använt Linux sen gymnasiet. (arch btw)
 
 **Fråga 6: Reflektera över vad du tror är viktiga egenskaper att ha för att lyckas med studierna inom datavetenskap och att lära sig programmera.**
+
+Jag tror att vara duktig på att formulera frågor är väldigt viktigt. 
+Att skapa frågeställningar för att kunna kontextualisera koncept för ens egna psyke är en del i det, men viktigt är också att kunna förmedla hur man tänker på ett begripligt nog sätt för att kunna få ett tillfredsställa
 
 _Tänk både på de egenskaper du redan har och sådana som du tror är viktiga men som du kanske saknar i dagsläget. Varför tror du att dessa egenskaper är viktiga att ha fört att lära sig inom ämnesområdena? Etc_
 
