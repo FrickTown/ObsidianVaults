@@ -8,14 +8,21 @@ Efter ett år av terapi och återhämtning bestämde jag mig för att plugga DV.
 
 **Fråga 2: Beskriv och reflektera över vad du uppfattar att ämnesområdena datavetenskap och programmering är.**
 
-_Hur skulle du till exempel förklara ämnesområdena för någon annan?_
+Jag skulle väl säga att datavetenskap är "läran om datorer", och att programmering är "att applicera sin kunskap om datorer för att lösa uppgifter och problem."
 
 **Fråga 3: Reflektera över varför du valt att läsa datavetenskap.**
 
-_Har du till exempel någon förebild inom datavetenskap/programmering? Är det någonting speciellt du skulle vilja arbeta med i framtiden? Vad har du för förväntningar på programmet och vad du kommer att lära dig? Etc._
+Jag har valt datavetenskap för att jag vill fördjupa mina kunskaper i en livslång hobby. Jag hoppas hamna någonstans i spelindustrin efter mina studier. Jag har stor uppskattning för grafisk programmering, och mer generellt älskar jag att lösa problem som ingen har behövt lösa förut. 
 
 **Fråga 4: Beskriv vilka erfarenheter du har av datorer och/eller programmering sedan tidigare.**
 
+Delar av frågan är redan besvarad i tidigare svar, men:
+
+Mitt datorintresse började redan innan jag kunde använda dem själv. Det finns många bilder på mig sovandes på ett tangentbord, endast 2-3 år gammal. Jag föredrog ofta att titta på när min pappa spelade spel framför att höra en godnattsaga.
+
+Jag var tidigt ut på internet som 6-åring, runt 2005. Jag gillade att ladda ned spel och program ville ofta förstå vad saker var och hur de funkade. 
+Jag började spela Minecraft runt 2009, som har en användarvänlig implementation av boolesk algebra (Redstone). Med detta lärde jag mig om de vanliga grindarna. 
+Ett mod till Minecraft, 
 _Beskriv till exempel din erfarenhet och eventuella intresse i datorer, använder du datorer på fritiden eller mest till skolarbete/arbete? Försök att ge en så tydlig bild du kan.__Om du har programmerat tidigare - har du lärt dig det på egen hand? Har det varit en del av gymnasieutbildning eller annan utbildning? Beskriv/förklara gärna vad du har programmerat för typ av projekt och i vilka språk samt miljöer.__Brukar du programmera på fritiden? Hur upplever du att det är att programmera? Etc._
 
 **Fråga 5: Reflektera över vilka av dina erfarenheter av datorer och/eller programmering (hur stora eller små de än må vara) du tror kommer vara viktiga för dina kommande studier inom datavetenskap.**
