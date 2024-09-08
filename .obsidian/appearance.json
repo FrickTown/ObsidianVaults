@@ -2,5 +2,7 @@
   "enabledCssSnippets": [
     "desmos"
   ],
-  "accentColor": "#b9c3ff"
+  "accentColor": "#93cdf6",
+  "cssTheme": "",
+  "theme": "moonstone"
 }
