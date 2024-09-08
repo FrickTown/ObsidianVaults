@@ -44,9 +44,12 @@ Programmeringskunskaperna jag fått från en livstid med hobbyn är nog en rätt
 **Fråga 6: Reflektera över vad du tror är viktiga egenskaper att ha för att lyckas med studierna inom datavetenskap och att lära sig programmera.**
 
 Jag tror att vara duktig på att formulera frågor är väldigt viktigt. 
-Att skapa frågeställningar för att kunna kontextualisera koncept för ens egna psyke är en del i det, men viktigt är också att kunna förmedla hur man tänker på ett begripligt nog sätt för att kunna få ett tillfredsställande svar.
+Att kunna skapa frågeställningar för att kontextualisera koncept för ens egna psyke är en del i det, men viktigt är också att kunna förmedla hur man tänker på ett begripligt nog sätt för att kunna få ett tillfredsställande svar.
 
-Någon som är duktig på förklaringsmodeller och som tenderar att 
+Någon som gillar och är duktig på att komma på förklaringsmodeller och liknelser har definitivt fördel.
+Någon som generellt attackerar problem istället för att skygga från dem. 
+Någon som har lätt att visualisera abstrakta koncept. 
+Någon som genuint är intresserad.
 
 _Tänk både på de egenskaper du redan har och sådana som du tror är viktiga men som du kanske saknar i dagsläget. Varför tror du att dessa egenskaper är viktiga att ha fört att lära sig inom ämnesområdena? Etc_
 
