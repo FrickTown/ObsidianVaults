@@ -46,10 +46,10 @@ Programmeringskunskaperna jag fått från en livstid med hobbyn är nog en rätt
 Jag tror att vara duktig på att formulera frågor är väldigt viktigt. 
 Att kunna skapa frågeställningar för att kontextualisera koncept för ens egna psyke är en del i det, men viktigt är också att kunna förmedla hur man tänker på ett begripligt nog sätt för att kunna få ett tillfredsställande svar.
 
-Någon som gillar och är duktig på att komma på förklaringsmodeller och liknelser har definitivt fördel.
-Någon som generellt försöker lösa problem istället för att skygga från dem. 
-Någon som har lätt att visualisera abstrakta koncept. 
-Någon som **genuint är intresserad**. Jag tror ingen kan bli en *riktigt* duktig programmerare utan att vara intresserad. Det finns säkert ganska okej programmerare som inte är intresserade alls, och bara ser det som ett yrkesval. 
+- Någon som gillar och är duktig på att komma på förklaringsmodeller och liknelser har definitivt fördel.
+- Någon som generellt försöker lösa problem istället för att skygga från dem. 
+- Någon som har lätt att visualisera abstrakta koncept. 
+- Någon som **genuint är intresserad**. Jag tror ingen kan bli en *riktigt* duktig programmerare utan att vara intresserad. Det finns säkert ganska okej programmerare som inte är intresserade alls, och bara ser det som ett yrkesval. 
 Alla kan väl skriva lite kod i en textfil. Inte alla är *programmerare*. 😉
 
 **Fråga 7: Reflektera över vad du tror kommer vara mest utmanande med studierna.**
@@ -57,9 +57,13 @@ Alla kan väl skriva lite kod i en textfil. Inte alla är *programmerare*. 😉
 Jag har en del mentala egenheter som ofta gör själva vardagen omkring studier svår att få ihop. Jag är vuxen nog vid det här laget att kunna agera lite matador med min hjärna, men det är lite för volatilt för att kunna göra något åt det ibland. Innehållet på programmet skrämmer mig inte. Jag är inte kaxig, utan jag känner mig snarare bara väldigt redo att lära mig. Förhoppningsvis går min hjärna inte i vägen för det.
 
 **Fråga 8: Reflektera över vilka erfarenheter du har med dig in i studierna.**
-Mental ohälsa hela livet, mycket lärdomar från det. Sociala problem som konsekvens av mentala ohälsa, som numera överkommits. Det gör mig mer kapabel att bemöta skygga människor (70% av DV:are) på ett lämpligt sätt. 
-
+- Mental ohälsa hela livet, mycket lärdomar från det. 
+- Sociala problem som konsekvens av mentala ohälsa, som numera överkommits. Det gör mig mer kapabel att bemöta skygga människor (typ 60% av DV:are) på ett lämpligt sätt. 
+- Programmering
+- Linux
+- 2.5 år på högskola som gick bedrövligt - en mall för hur jag inte ska göra.
 
 **Fråga 9: Reflektera över vad du tror kommer vara mest givande med studierna.**
+Jag tror att det sociala kommer vara mest givande. Det märks redan nu att jag byggt väldigt värdefulla kontakter. Utöver det kommer jag förhoppningsvis känna ett större självförtroende i min programmeringsförmåga, som i dagsläget säkerligen har lite kunskapsluckor. 
 
 _Jag har tagit del av skriftlig information om studien och har haft möjlighet att ställa frågor. Jag_ **_tillåter_** _att min text får användas i den forskning som beskrivs i informationen._
