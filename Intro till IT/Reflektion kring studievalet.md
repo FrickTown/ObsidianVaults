@@ -53,7 +53,6 @@ Att kunna skapa frågeställningar för att kontextualisera koncept för ens egn
 Alla kan väl skriva lite kod i en textfil. Inte alla är *programmerare*. 😉
 
 **Fråga 7: Reflektera över vad du tror kommer vara mest utmanande med studierna.**
-
 Jag har en del mentala egenheter som ofta gör själva vardagen omkring studier svår att få ihop. Jag är vuxen nog vid det här laget att kunna agera lite matador med min hjärna, men det är lite för volatilt för att kunna göra något åt det ibland. Innehållet på programmet skrämmer mig inte. Jag är inte kaxig, utan jag känner mig snarare bara väldigt redo att lära mig. Förhoppningsvis går min hjärna inte i vägen för det.
 
 **Fråga 8: Reflektera över vilka erfarenheter du har med dig in i studierna.**
