@@ -21,8 +21,12 @@ Delar av frågan är redan besvarad i tidigare svar, men:
 Mitt datorintresse började redan innan jag kunde använda dem själv. Det finns många bilder på mig sovandes på ett tangentbord, endast 2-3 år gammal. Jag föredrog ofta att titta på när min pappa spelade spel framför att höra en godnattsaga.
 
 Jag var tidigt ut på internet som 6-åring, runt 2005. Jag gillade att ladda ned spel och program ville ofta förstå vad saker var och hur de funkade. 
-Jag började spela Minecraft runt 2009, som har en användarvänlig implementation av boolesk algebra (Redstone). Med detta lärde jag mig om de vanliga grindarna. 
-Ett mod till Minecraft, 
+Jag började spela *Minecraft* runt 2009, som har en användarvänlig implementation av boolesk algebra (*Redstone*). Med detta lärde jag mig om alla de vanliga grindarna och byggde små maskiner och andra projekt. 
+
+Ett tredje-parten-utvecklat mod till *Minecraft* som heter "*ComputerCraft*" lägger till datorer som har ett eget *shell* och som drivs genom en full implementation av högnivåspråket **LUA**, som delar en del likheter med exempelvis Python, i att syntaxen är väldigt lättläslig. Utöver datorer lägger *ComputerCraft* också till *turtles*, små programmerbara robotar som kan utföra många gärningar - så länge du kan skriva koden. Detta är hur jag lärde mig grunderna såsom conditionals, loops, funktioner, klasser och constructor metoder. 
+
+När jag började gymnasiet så hamnade jag i samma klass som en annan kille som hade programmerat. Han var bra mycket bättre 
+
 _Beskriv till exempel din erfarenhet och eventuella intresse i datorer, använder du datorer på fritiden eller mest till skolarbete/arbete? Försök att ge en så tydlig bild du kan.__Om du har programmerat tidigare - har du lärt dig det på egen hand? Har det varit en del av gymnasieutbildning eller annan utbildning? Beskriv/förklara gärna vad du har programmerat för typ av projekt och i vilka språk samt miljöer.__Brukar du programmera på fritiden? Hur upplever du att det är att programmera? Etc._
 
 **Fråga 5: Reflektera över vilka av dina erfarenheter av datorer och/eller programmering (hur stora eller små de än må vara) du tror kommer vara viktiga för dina kommande studier inom datavetenskap.**
