@@ -1,6 +1,4 @@
 {
-  "enabledCssSnippets": [
-    "desmos"
-  ],
+  "enabledCssSnippets": ["desmos"],
   "accentColor": ""
 }
