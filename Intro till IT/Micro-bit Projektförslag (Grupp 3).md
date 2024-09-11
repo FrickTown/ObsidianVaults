@@ -14,8 +14,10 @@ Spelet går ut på att en av 2+ spelare blir tilldelade en "bomb". Spelaren som 
 - Kast-motionen ska med fördel även inkorporera kompass för att avgöra vem kastet går till. Detta går att implementera på många sätt.
 - Vinner gör den som inte håller bomben när den smäller, och som står ensam kvar bland deltagarna.
 - Den som förlorar blir kickad från servern och kan inte längre få bomben förrän en vinnare utsetts och en ny omgång startat.
-#### Hur detta löser problemet:
-Eftersom spelet har väldigt lätta regler, och skapar lite artificiell stress och således emotionellt engagemang, kan Detta spel är utmärkt för exempelvis isbrytare bland nya bekanta, 
+<p style="page-break-after: always;"></p>
+#### Hur detta bemöter det påstådda problemet:
+Spelet är ett semi-digitalt, semi-fysiskt socialt spel, och spelas i en formation där alla kollar på varandra. Alla spel och lekar som spelas utanför den exklusivt digitala världen kan anses vara lösningar på det uppfattade problemet.
+Eftersom spelet har väldigt lätta regler, och skapar artificiell stress - och således emotionellt engagemang - så kan det exempelvis användas som en isbrytare med nya bekanta, som annars har en tendens att vara lite timida.
 #### Hur detta uppfyller uppgiftskraven:
 - Programmet skall delas upp i **funktioner**.  
 - Server-klient kommunikation använder **radiofunktionen**.  
