@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro till IT/Micro-bit Projektförslag (Grupp 3).md",
+                "file": "Intro till IT/Introduktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro till IT/Micro-bit Projektförslag (Grupp 3).md",
+                "file": "Intro till IT/Introduktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro till IT/Micro-bit Projektförslag (Grupp 3).md"
+                "file": "Intro till IT/Introduktion.md"
               }
             }
           },
@@ -173,22 +173,13 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "61e719a6090e1c8b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +192,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa19c2d07910bbd1",
+  "active": "113c536c60a15814",
   "lastOpenFiles": [
-    "Intro till IT/Reflektion kring studievalet.md",
     "Intro till IT/Micro-bit Projektförslag (Grupp 3).md",
+    "Intro till IT/Reflektion kring studievalet.md",
     "snippets.md",
     "Intro till IT/Seminarium M0_HT25.md",
     "Intro till IT/Introduktion.md",
