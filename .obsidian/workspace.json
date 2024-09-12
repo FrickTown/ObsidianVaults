@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a31b95bfc893a9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro till IT/Introduktion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "347ee99d4739e542",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro till IT/Reflektion kring studievalet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa19c2d07910bbd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro till IT/Introduktion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b59dd5dba2a77f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro till IT/Seminarium M0_HT25.md",
+                "file": "Intro till IT/Artificiell Intelligens i Datorspel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro till IT/Introduktion.md",
+                "file": "Intro till IT/Artificiell Intelligens i Datorspel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro till IT/Introduktion.md",
+                "file": "Intro till IT/Artificiell Intelligens i Datorspel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro till IT/Introduktion.md"
+                "file": "Intro till IT/Artificiell Intelligens i Datorspel.md"
               }
             }
           },
@@ -192,13 +155,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa19c2d07910bbd1",
+  "active": "347ee99d4739e542",
   "lastOpenFiles": [
+    "Intro till IT/Introduktion.md",
+    "Intro till IT/Artificiell Intelligens i Datorspel.md",
+    "Intro till IT/Reflektion kring studievalet.md",
+    "Intro till IT/Seminarium M0_HT25.md",
     "snippets.md",
     "Intro till IT/Micro-bit Projektförslag (Grupp 3).md",
-    "Intro till IT/Seminarium M0_HT25.md",
-    "Intro till IT/Introduktion.md",
-    "Intro till IT/Reflektion kring studievalet.md",
     "Intro till IT/[M1]-Studenttjänster.md",
     "Intro till IT/jafr3967_studenttjanster.txt",
     "Intro till IT",
