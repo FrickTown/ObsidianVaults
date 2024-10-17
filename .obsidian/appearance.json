@@ -2,7 +2,7 @@
   "enabledCssSnippets": [
     "desmos"
   ],
-  "accentColor": "#ffb3af",
+  "accentColor": "ReferenceError: Matugen is not defined",
   "cssTheme": "Things",
   "theme": "moonstone"
 }
