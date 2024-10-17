@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro till IT/Artificiell Intelligens i Datorspel.md",
+                "file": "Projektförslag.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro till IT/Artificiell Intelligens i Datorspel.md",
+                "file": "Projektförslag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intro till IT/Artificiell Intelligens i Datorspel.md",
+                "file": "Projektförslag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Intro till IT/Artificiell Intelligens i Datorspel.md"
+                "file": "Projektförslag.md"
               }
             }
           },
@@ -157,11 +157,13 @@
   },
   "active": "347ee99d4739e542",
   "lastOpenFiles": [
-    "Intro till IT/Introduktion.md",
+    "Projektförslag 1.md",
+    "snippets.md",
     "Intro till IT/Artificiell Intelligens i Datorspel.md",
+    "Projektförslag.md",
+    "Intro till IT/Introduktion.md",
     "Intro till IT/Reflektion kring studievalet.md",
     "Intro till IT/Seminarium M0_HT25.md",
-    "snippets.md",
     "Intro till IT/Micro-bit Projektförslag (Grupp 3).md",
     "Intro till IT/[M1]-Studenttjänster.md",
     "Intro till IT/jafr3967_studenttjanster.txt",
