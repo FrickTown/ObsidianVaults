@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -187,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,9 +205,9 @@
   "active": "adb1a12c2dac8308",
   "lastOpenFiles": [
     "Intro till IT/Artificiell Intelligens i Datorspel.md",
+    "MatteKnawledge.md",
     "snippets.md",
     "Projektförslag 1.md",
-    "MatteKnawledge.md",
     "Intro till IT/test.gif",
     "Projektförslag.md",
     "Intro till IT/Introduktion.md",
