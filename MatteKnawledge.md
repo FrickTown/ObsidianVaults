@@ -26,3 +26,7 @@ $$\begin{split}
 $$\sum_{k=0}^{n}f(x) = \frac{f(0) + f(n)}{2}(1+n-k)$$
 #### Geometriska summan
 $$\sum_{k=0}^{n}f(x) = f(0)*\frac{1-r^{(1+n-k)}}{1-r}$$
+
+## Binomial
+$$\binom{n}{k} = \frac{n!}{k! (n-k)!}$$
+
