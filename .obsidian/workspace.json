@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "MatteKnawledge"
             }
+          },
+          {
+            "id": "52a57fe8635be82c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "adb1a12c2dac8308",
+  "active": "52a57fe8635be82c",
   "lastOpenFiles": [
     "Intro till IT/Artificiell Intelligens i Datorspel.md",
     "MatteKnawledge.md",
