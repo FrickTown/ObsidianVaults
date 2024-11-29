@@ -49,8 +49,16 @@ $$\begin{split}
 &2)\ ax \equiv c\ mod\ m\ har\ precis\ en\ lösning\ x\ mod\ m\ om\ SGD(a,m)=1\\
 &
 \end{split}$$
-SGD(a, m) = 1 om |differensen| mellan a och m är ett primtal?
+SGD(a, m) = 1 om |differensen| mellan a och m är ett primtal förutsatt att a och m inte är primtal själva.
 
 SGD(4, 9) = 1 (9 - 4 = 5 => prim)
 SGD(5, 16) = 1 (16 -5 = 11 => prim)
-SGD()
+SGD(3, 82) = 1 (82 - 3 = 79 => prim)
+SGD(2, 17) = 1 (17 - 2 = 16 =/=> prim) // a & m både primtal
+SGD(7, 15) = 1 (15 - 7 = 8 =/=> prim) // a primtal
+SGD(12, 37) = 1 (37 - 12 = 25 =/=> prim) // m primtal
+
+$$\begin{split}
+&Lös\ 4x\equiv 1\ (mod\ 11)\\
+& 
+\end{split}$$
