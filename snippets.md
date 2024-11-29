@@ -10,3 +10,5 @@ testT->hello
 ```desmos-graph
 y=x^x - x^3
 ```
+
+SGD||
