@@ -58,7 +58,17 @@ SGD(2, 17) = 1 (17 - 2 = 16 =/=> prim) // a & m både primtal
 SGD(7, 15) = 1 (15 - 7 = 8 =/=> prim) // a primtal
 SGD(12, 37) = 1 (37 - 12 = 25 =/=> prim) // m primtal
 
+Sammanfattat: 
+- Om SGD(a, m) = 1 så är differensen primtal omm ***a*** och/eller ***m*** inte är primtal.
+- Differensen är *inte* ett primtal om ***a*** eller ***m*** är primtal.
 $$\begin{split}
 &Lös\ 4x\equiv 1\ (mod\ 11)\\
 & 
 \end{split}$$
+# Fermats lilla sats
+$$\begin{align*}
+Låt\ &p\ vara\ primtal\ och\ a\in\mathbb{Z} så\ att\ p\ x\ a\ \\
+\quad &Då\ gäller:\\
+&\quad a^{p-1} \equiv 1 (mod p)\\
+
+\end{align*}$$
