@@ -58,9 +58,21 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.5"
             }
+          },
+          {
+            "id": "858ff9a76089772d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "52a57fe8635be82c",
+  "active": "858ff9a76089772d",
   "lastOpenFiles": [
     "Intro till IT/Artificiell Intelligens i Datorspel.md",
     "MatteKnawledge.md",
