@@ -8,7 +8,7 @@ $$\begin{split} Antag:\\
 Då\ gäller:\\
 a)\ &X_1+Y_{1}\equiv X_{2}+Y_2\\
 b)\ &X_1-Y_{1}\equiv X_{2}-Y_2\\
-c)\ &X_1*Y_{1}\equiv X_{2}*+*Y_2\\
+c)\ &X_1*Y_{1}\equiv X_{2}*Y_2\\
 \end{split}
 $$
 ### a)
@@ -16,7 +16,6 @@ $$
 ### b)
 
 ### c) 
-$$X_1*Y_{1}\equiv X_{2}* Y_{2\\}$$
 $$\begin{split}
 &Bevis:\\
 &X_1Y_{1} - X_{2,}Y_{2} = X_{1}Y_{1}- X_1Y_{2}+ X_1Y_{2}-X_2Y_2\\
@@ -28,5 +27,25 @@ $$
 $$\begin{split}
 &Bestäm\ resten\ vid\ div\ med\ 8:\\
 &a)\ 138637\\
-&637 = 640 - 3 (mod 8)
+&637 = 640 - 3 (mod\ 8)
+\end{split}$$
+# Kongruensekvationer
+$a_{x}\equiv c (mod\ m)$
+
+x **mod 5**
+
+| **x**  | 0   | 1   | 2   | 3   | 4   |
+| ------ | --- | --- | --- | --- | --- |
+| **2x** | 0   | 2   | 4   | 1   | 3   |
+x **mod 8**
+
+| 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0   | 3   | 6   | 1   | 4   | 7   | 2   | 5   |
+Detta kan sammanfattas i en sats:
+
+$$\begin{split}
+&1)\ ax \equiv 1\ mod\ m\ är\ lösbar\ \textbf{omm}\ SGD(a,m) = 1\\
+&2)\ ax \equiv c\ mod\ m\ har\ precis\ en\ lösning\ x\ mod\ 5\ om\ SGD(a,m)=1\\
+&
 \end{split}$$
