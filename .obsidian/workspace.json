@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "adb1a12c2dac8308",
+            "id": "bbec322a8cc0db37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "snippets"
-            }
-          },
-          {
-            "id": "bbec322a8cc0db37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MatteKnawledge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MatteKnawledge"
             }
           }
         ]
@@ -204,9 +190,9 @@
   },
   "active": "347ee99d4739e542",
   "lastOpenFiles": [
-    "MatteKnawledge.md",
     "snippets.md",
     "Algebra 1/Kongruens.md",
+    "MatteKnawledge.md",
     "Projektförslag.md",
     "Projektförslag 1.md",
     "Untitled Kanban.md",
