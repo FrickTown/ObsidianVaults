@@ -46,6 +46,11 @@ Detta kan sammanfattas i en sats:
 
 $$\begin{split}
 &1)\ ax \equiv 1\ mod\ m\ är\ lösbar\ \textbf{omm}\ SGD(a,m) = 1\\
-&2)\ ax \equiv c\ mod\ m\ har\ precis\ en\ lösning\ x\ mod\ 5\ om\ SGD(a,m)=1\\
+&2)\ ax \equiv c\ mod\ m\ har\ precis\ en\ lösning\ x\ mod\ m\ om\ SGD(a,m)=1\\
 &
 \end{split}$$
+SGD(a, m) = 1 om |differensen| mellan a och m är ett primtal?
+
+SGD(4, 9) = 1 (9 - 4 = 5 => prim)
+SGD(5, 16) = 1 (16 -5 = 11 => prim)
+SGD()
