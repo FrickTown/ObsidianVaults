@@ -77,6 +77,13 @@ Låt\ &p\ vara\ primtal\ och\ a\in\mathbb{Z} så\ att\ p\ x\ a\ \\
 $$\begin{split}
 &Låt\ m \in \mathbb{Z} och m >= 1\\
 &Då\ är\  \phi(m)\ = antalet\ element\ i\ mängden\\
-&\quad{x\in\mathbb{Z}|1\le x \le m\  \wedge\ SGD(x,m) = 1}
-→→œœłłłł→œ̉ĸ
+&\quad \{x\in\mathbb{Z}|1\le x \le m\  \wedge\ SGD(x,m) = 1\}
+&\quad\\
+&Vidare\ gäller\ att\ SGD(m_1, m_2) = 1\\
+&\quad => \phi(m_1,m_2) = \phi(m_1,m_2)
 \end{split}$$
+$$\begin{split}
+& Exempelvis: \phi(720) = \phi(2^{4}*3^{2}*5)\\
+&
+\end{split}$$
+
