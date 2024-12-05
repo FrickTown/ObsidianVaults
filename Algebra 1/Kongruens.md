@@ -73,9 +73,9 @@ Låt\ &p\ vara\ primtal\ och\ a\in\mathbb{Z} så\ att\ p\ x\ a\ \\
 
 \end{align*}$$
 
-# Eulers fi-funktion
+# Eulers phi-funktion
 $$\begin{split}
-&Låt\ m \in \mathbb{Z} och m >= 1\\
+&Låt\ m \in \mathbb{Z}\ och\ m >= 1\\
 &Då\ är\  \phi(m)\ = antalet\ element\ i\ mängden\\
 &\quad \{x\in\mathbb{Z}|1\le x \le m\  \wedge\ SGD(x,m) = 1\}
 &\quad\\
