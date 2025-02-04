@@ -1,4 +1,4 @@
-# Rummet R²
+# Kapitel 1
 ### Magnitud
 $$\vec{v} = 
 \begin{pmatrix} a\\ b\end{pmatrix}
@@ -18,7 +18,9 @@ $$
 proj_{\vec{v}}\vec{w} = \frac{\vec{v}\cdot\vec{w}}{||\vec{v}||^2}\vec{v}
 $$
 ![[Pasted image 20250204201408.png]]
-# Rummet R³
+# Kapitel 2
 $$
 \mathbb{R}^3
 $$
+### Parallellitet
+$$\vec{v}\ är\ parallell\ med\ \vec{w}\ omm\  \vec{v} = k\vec{w}$$ 
