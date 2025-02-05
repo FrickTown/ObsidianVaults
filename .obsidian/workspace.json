@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "97738205b637120c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
-          },
-          {
             "id": "bbec322a8cc0db37",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "Kongruens"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -202,7 +190,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "97738205b637120c",
+  "active": "347ee99d4739e542",
   "lastOpenFiles": [
     "Pasted image 20250204212743.png",
     "Pasted image 20250204201408.png",
