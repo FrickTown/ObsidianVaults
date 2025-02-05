@@ -23,4 +23,8 @@ $$
 \mathbb{R}^3
 $$
 ### Parallellitet
-$$\vec{v}\ är\ parallell\ med\ \vec{w}\ omm\  \vec{v} = k\vec{w}$$ 
+$$\vec{v}\ är\ parallell\ med\ \vec{w}\ omm\  \vec{v} = k\vec{w}$$
+Alltså om *w* är en omskalning av *v*.
+Nedan följer ett lätt sätt att identifiera huruvida två vektorer är parallella.
+![[Pasted image 20250204212743.png]]
+k = 2 men 2k = 3 går inte ihop. Därav är inte de två vektorerna parallella.
