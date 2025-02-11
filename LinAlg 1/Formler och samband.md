@@ -68,3 +68,4 @@ $$
 Skärningspunkt\ =(x,y,z) = (1+(2*3), 3, 1) = (7,3,1)
 $$
 
+### Punkt på en linje närmst en ann
