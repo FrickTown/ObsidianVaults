@@ -53,7 +53,7 @@ $$
 $$
 \vec{v}\cdot\vec{w} := ||\vec{v}||\ ||\vec{w}|| \cos(\theta) = v_1w_1+v_2w_2+v_3w_3
 $$
-### Skärningspunkt av linje i plan
+### <span style="border: 2px solid violet">Skärningspunkt av linje i plan</span>
 $$Linjen\ l:(x,y,z) = (1+2t,t,1),t\in\mathbb{R}$$
 $$Planet\ \pi:2x+3y - 22z = 1$$
 Vi sätter in beskrivningen av punkterna på linjen i ekvationen för planet:
@@ -68,4 +68,4 @@ $$
 Skärningspunkt\ =(x,y,z) = (1+(2*3), 3, 1) = (7,3,1)
 $$
 
-### Punkt på en linje närmst en ann
+### Punkt på en linje närmst en annan linje
