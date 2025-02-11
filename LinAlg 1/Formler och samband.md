@@ -38,3 +38,13 @@ $$
 $$
 \vec{v}\cdot\vec{w} := ||\vec{v}||\ ||\vec{w}|| \cos(\theta) = v_1w_1+v_2w_2+v_3w_3
 $$
+### Skärningspunkt av linje i plan
+$$Linjen\ l:(x,y,z) = (1+2t,t,1),t\in\mathbb{R}$$
+$$Planet\ \pi:2x+3y - 22z = 1$$
+Vi sätter in beskrivningen av punkterna på linjen i ekvationen för planet:
+$$
+\begin{split}
+2(1+2t)+3(t)-22(1)=1\\
+2+4t+3t-22 = 1 \implies t=3
+\end{split}
+$$
