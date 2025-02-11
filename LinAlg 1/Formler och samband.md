@@ -28,3 +28,13 @@ Alltså om *w* är en omskalning av *v*.
 Nedan följer ett lätt sätt att identifiera huruvida två vektorer är parallella.
 ![[Pasted image 20250204212743.png]]
 k = 2 men 2k = 3 går inte ihop. Därav är inte de två vektorerna parallella.
+
+### Avstånd mellan två punkter
+Avståndet är definierat som längden av vektorn P->Q
+$$
+d(P,Q) = ||\vec{PQ}|| = \sqrt{(x_{2}- x_{1})^2+(y_{2}- y_{1})^2+(z_{2}-z_{1})^2}
+$$
+### Skalärprodukt
+$$
+\vec{v}\cdot\vec{w} := ||\vec{v}||\ ||\vec{w}|| \cos(\theta) = v_1w_1+v_2w_2+v_3w_3
+$$
