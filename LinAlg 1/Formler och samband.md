@@ -23,14 +23,14 @@ $$
 Låt P och Q vara punkter (P<sub>x</sub>, P<sub>y</sub>) och (Q<sub>x</sub>, Q<sub>y</sub>)
 För att etablera en linje på #normalekvation på formen:
 $$
-Ax+By=C
+Ax+By+C =0
 $$
 mellan dessa:
 $$
 \begin{split}
 A = Q_{y}-P_{y}\\
 B = P_{x}-Q_{x}\\
-C=P_{y}\times(Q_x-P_{x})-(Q_y-P_{y)\times}P_
+C=P_{y}\times(Q_x-P_{x})-P_{x}\times(Q_y-P_{y)}
 \end{split}
 $$
 $$
