@@ -18,6 +18,9 @@ $$
 proj_{\vec{v}}\vec{w} = \frac{\vec{v}\cdot\vec{w}}{||\vec{v}||^2}\vec{v}
 $$
 ![[Pasted image 20250204201408.png]]
+
+### Normalekvation för en linje: Mellan två punkter
+Låt P och Q vara punkter (P<sub>x</sub>, P<sub)
 # Kapitel 2
 $$
 \mathbb{R}^3

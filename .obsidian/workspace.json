@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinAlg 1/Formler och samband.md",
+                "file": "snippets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formler och samband"
+              "title": "snippets"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Kongruens"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -190,14 +190,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "347ee99d4739e542",
+  "active": "bbec322a8cc0db37",
   "lastOpenFiles": [
-    "Algebra 1/Kongruens.md",
+    "snippets.md",
     "LinAlg 1/Formler och samband.md",
+    "Algebra 1/Kongruens.md",
     "Pasted image 20250204212743.png",
     "Pasted image 20250204201408.png",
     "MatteKnawledge.md",
-    "snippets.md",
     "LinAlg 1",
     "Projektförslag.md",
     "Projektförslag 1.md",
