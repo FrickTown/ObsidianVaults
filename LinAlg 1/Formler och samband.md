@@ -45,6 +45,11 @@ Vi sätter in beskrivningen av punkterna på linjen i ekvationen för planet:
 $$
 \begin{split}
 2(1+2t)+3(t)-22(1)=1\\
-2+4t+3t-22 = 1 \implies t=3
+2+4t+3t-22 = 1 \implies t=3\\
 \end{split}
 $$
+Detta nya t sätter vi in i linjen:
+$$
+Skärningspunkt\ =(x,y,z) = (1+(2*3), 3, 1) = (7,3,1)
+$$
+
