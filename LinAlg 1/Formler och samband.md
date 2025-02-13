@@ -69,7 +69,14 @@ Skärningspunkt\ =(x,y,z) = (1+(2*3), 3, 1) = (7,3,1)
 $$
 
 ### Punkt på en linje närmst en annan linje
-Vi har två linjer på parameterform
+Vi har två linjer på *parameterform*:
 $L = \begin{pmatrix} 0\\ 1\\ -1\end{pmatrix} + t\begin{pmatrix} 1\\ 3\\ 3\end{pmatrix}$
-$K = \begin{pmatrix} -1\\ 1\\ -1\end{pmatrix} + t\begin{pmatrix} 0\\ 1\\ -2\end{pmatrix}$
-Vi kan säga att en *generell* punkt på respektive linje definieras här:
+$K = \begin{pmatrix} -1\\ 1\\ -1\end{pmatrix} + s\begin{pmatrix} 0\\ -1\\ -2\end{pmatrix}$
+
+Vi kan säga att en *generell* *punkt* på respektive linje definieras:
+$L: A= (t, 1+3t, -1+3t)$
+$K: B= (-1, 1-s, -1-2s)$
+
+Nu när vi kan säga vad en generell punkt är, så kan vi också säga vad *vektorn* är mellan två generella punkter A och B genom att subtrahera B med A.
+$\vec{AB} = [(-1)-(t), (1 - s)-(1+3t), (-1-2s) - (-1 + 3t)]$
+$\begin{pmatrix}$ \end{}
