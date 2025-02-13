@@ -69,3 +69,7 @@ Skärningspunkt\ =(x,y,z) = (1+(2*3), 3, 1) = (7,3,1)
 $$
 
 ### Punkt på en linje närmst en annan linje
+Vi har två linjer på parameterform
+$L = \begin{pmatrix} 0\\ 1\\ -1\end{pmatrix} + t\begin{pmatrix} 1\\ 3\\ 3\end{pmatrix}$
+$K = \begin{pmatrix} -1\\ 1\\ -1\end{pmatrix} + t\begin{pmatrix} 0\\ 1\\ -2\end{pmatrix}$
+Vi kan säga att en *generell* punkt på respektive linje definieras här:
