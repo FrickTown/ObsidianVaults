@@ -78,5 +78,9 @@ $L: A= (t, 1+3t, -1+3t)$
 $K: B= (-1, 1-s, -1-2s)$
 
 Nu när vi kan säga vad en generell punkt är, så kan vi också säga vad *vektorn* är mellan två generella punkter A och B genom att subtrahera B med A.
-$\vec{AB} = [(-1)-(t), (1 - s)-(1+3t), (-1-2s) - (-1 + 3t)]$
-$\begin{pmatrix}$ \end{}
+$\vec{AB} = \begin{pmatrix}(-1)-(t)\\(1 - s)-(1+3t)\\(-1-2s) - (-1 + 3t)\end{pmatrix}$ 
+Vilket förenklas som
+$\vec{AB} = \begin{pmatrix}-1-t\\-s-3t\\2s-3t\end{pmatrix}$ 
+
+Med hjälp av *riktningsvektorerna* för $L$ och $K$ så kan vi utveckla ett ekvationsystem för att lösa ut värden på $t$ och $s$. 
+$$
