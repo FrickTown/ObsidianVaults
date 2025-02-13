@@ -82,5 +82,10 @@ $\vec{AB} = \begin{pmatrix}(-1)-(t)\\(1 - s)-(1+3t)\\(-1-2s) - (-1 + 3t)\end{pma
 Vilket förenklas som
 $\vec{AB} = \begin{pmatrix}-1-t\\-s-3t\\2s-3t\end{pmatrix}$ 
 
-Med hjälp av *riktningsvektorerna* för $L$ och $K$ så kan vi utveckla ett ekvationsystem för att lösa ut värden på $t$ och $s$. 
+Med hjälp av *riktningsvektorerna* för $L$ och $K$ så kan vi utveckla ett ekvationsystem för att lösa ut värden på $t$ och $s$. Detta gör vi genom att ta skalärprodukten av $\vec{AB}$ och respektive riktningsvektor
+$$
+\begin{cases}
+	\vec{AB} \cdot \vec{L} = 1(-1-t)+3(-s-3t)+3(-2s-3t)\\
+	\vec{AB} \cdot \vec{K} = 
+\end{cases}
 $$
