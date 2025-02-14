@@ -9,6 +9,11 @@ $$||v|| = \sqrt{a^{2}+ b^2}$$
 #Skalärprodukten definieras som *a*s projektion på *b* multiplicerad med längden av *b*. 
 $$a \cdot b=||a||*||b||*cos\theta$$
 Där theta är vinkeln mellan a och b.
+Skalärprodukten kan också beräknas
+$$
+a\cdot b =\begin{pmatrix}a_1\\a_2\\a_3\end{pmatrix}\cdot\begin{pmatrix}b1\\b2\\b3\end{pmatrix} = 
+a_1b_1+a_2b_2+a_3b_3
+$$
 ### Def: R(-)
 Rotation med $$\frac{\pi}{2}$$ 
 ### #Ortogonal projektion

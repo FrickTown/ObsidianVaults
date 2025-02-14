@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Skalärprodukten",
+                "query": "tag:#skalärprodukten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,13 +88,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -191,7 +189,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "203c5d6a7a78f2c9",
+  "active": "b4ba1a0121e9df10",
   "lastOpenFiles": [
     "snippets.md",
     "LinAlg 1/Formler och samband.md",
