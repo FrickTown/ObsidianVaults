@@ -58,7 +58,7 @@ $$
 $$
 \vec{v}\cdot\vec{w} := ||\vec{v}||\ ||\vec{w}|| \cos(\theta) = v_1w_1+v_2w_2+v_3w_3
 $$
-### <span style="border: 2px solid violet">Skärningspunkt av linje i plan</span>
+### Skärningspunkt av linje i plan
 $$Linjen\ l:(x,y,z) = (1+2t,t,1),t\in\mathbb{R}$$
 $$Planet\ \pi:2x+3y - 22z = 1$$
 Vi sätter in beskrivningen av punkterna på linjen i ekvationen för planet:
@@ -130,4 +130,5 @@ $$
 $$
 <span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
 Mnemonic: Skifta första kolumnen i vänsterspalten -1 steg, andra kolumnen +1 steg. Matcha i högerspalten med inversen.
-![[Pasted image 20250214124855.png]]
+Övriga räkneregler för vektorprodukten:
+<span style="display: flex; justify-content: center;"><img width="350px" src="Pasted image 20250214124855.png"</img></span>

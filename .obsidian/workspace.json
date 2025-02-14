@@ -155,10 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projektförslag.md"
+                "file": "LinAlg 1/Formler och samband.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projektförslag"
+              "title": "Outline of Formler och samband"
             }
           },
           {
@@ -172,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
