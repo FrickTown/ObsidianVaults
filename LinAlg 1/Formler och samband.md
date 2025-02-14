@@ -92,7 +92,8 @@ $$
 Vilket förenklas till:
 $$
 \begin{cases}
-	\vec{AB} \cdot \vec{L} = -1-19t-9s\\
-	\vec{AB} \cdot \vec{K} = 9t+5s
+	\vec{AB} \cdot \vec{L} = -1-19t-9s = 0\\
+	\vec{AB} \cdot \vec{K} = 9t+5s = 0
 \end{cases}
 $$
+Nu kan vi lösa ut t:

@@ -8,6 +8,8 @@ testT->hello
 
 sub-><sub></sub>
 
+eqsys->\begin{cases} \n \end{cases}
+vecform->\begin{pmatrix} \n \end{pmatrix}
 ```desmos-graph
 y=x^x - x^3
 ```
