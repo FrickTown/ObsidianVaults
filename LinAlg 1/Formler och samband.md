@@ -96,4 +96,11 @@ $$
 	\vec{AB} \cdot \vec{K} = 9t+5s = 0
 \end{cases}
 $$
-Nu kan vi lösa ut t:
+Nu kan vi lösa ut $t$ och $s$:
+$$
+\begin{split}
+9t + 5s = 0 \implies s = \frac{-9}5t\\
+-1-19t-9s =0 \implies 19t-9(\frac{-9}5t)=1\\
+\implies 19t+\frac{81}{5}t=1\implies 
+\end{split}
+$$
