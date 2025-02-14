@@ -93,6 +93,6 @@ Vilket förenklas till:
 $$
 \begin{cases}
 	\vec{AB} \cdot \vec{L} = -1-19t-9s\\
-	\vec{AB} \cdot \vec{K} = 0(-1-t)-1(-s-3t)-2(-2s-3t)
+	\vec{AB} \cdot \vec{K} = 9t+5s
 \end{cases}
 $$
