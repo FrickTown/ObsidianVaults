@@ -6,7 +6,7 @@ $$
 $$||v|| = \sqrt{a^{2}+ b^2}$$
 
 ### Skalärprodukt
-*a*s projektion på *b* multiplicerad med längden av *b*. 
+#Skalärprodukten definieras som *a*s projektion på *b* multiplicerad med längden av *b*. 
 $$a \cdot b=||a||*||b||*cos\theta$$
 Där theta är vinkeln mellan a och b.
 ### Def: R(-)
@@ -110,12 +110,12 @@ $s$ kan återfås genom att substituera $t$ med $\frac{-5}{14}$
 
 ### Vektorprodukten
 Vektorprodukten mellan $\vec{v}$ och $\vec{w}$ noteras $\vec{v} \times \vec{w}$ och uppfyller:
-- $||\vec{v} \times \vec{w}|| = ||\vec{v}||\ ||\vec{w}||\sin{\theta}$ (Magnituden av vektorprodukten är skalärprodukten)
+- $||\vec{v} \times \vec{w}|| = ||\vec{v}||\ ||\vec{w}||\sin{\theta}$ (Magnituden av vektorprodukten är #skalärprodukten, och därmed även *arean* *på* *parallellogrammen* som $\vec{v}$ och $\vec{w}$  definierar.
 - Riktningen av $\vec{v} \times \vec{w}$ är ortogonal till både $\vec{v}\ och\ \vec{w}$
-- Om $\vec{v}\ och\ \vec{w}$ ej är parallella så pekar $\vec{v} \times \vec{w}$ i en riktning ortogonal mot $\vec{v}\ och\ \vec{w}$ som en plankonstellation.
+- Om $\vec{v}\ och\ \vec{w}$ *ej* är parallella så pekar $\vec{v} \times \vec{w}$ i en riktning *ortogonal* mot $\vec{v}\ och\ \vec{w}$ som en plankonstellation.
 Om $\vec{v}$ och $\vec{w}$ *är* parallella så är $\vec{v} \times \vec{w} = \begin{pmatrix}0\\0\\0\end{pmatrix}$ 
 Vektorprodukten är definierad som följande:
-<span style="color: yellow;">_________________</span>
+<span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
 $$
 \begin{pmatrix}v1\\v2\\v3\end{pmatrix}
 \times
@@ -123,4 +123,5 @@ $$
 =
 \begin{pmatrix}v_2w_3-v_3w_2\\v_3w_1-v_1w_3\\v_1w_2-v_2w_1\end{pmatrix}
 $$
+<span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
 Mnemonic: Skifta första kolumnen i vänsterspalten -1 steg, andra kolumnen +1 steg. Matcha i högerspalten med inversen.
