@@ -100,7 +100,11 @@ Nu kan vi lösa ut $t$ och $s$:
 $$
 \begin{split}
 9t + 5s = 0 \implies s = \frac{-9}5t\\
--1-19t-9s =0 \implies 19t-9(\frac{-9}5t)=1\\
-\implies 19t+\frac{81}{5}t=1\implies 
+-1-19t-9s =0 \implies 19t+9(\frac{-9}5t)=-1\\
+\implies 19t+\frac{-81}{5}t=-1\implies 95t-81t = -5\\
+\implies14t = -5 \implies t = \frac{-5}{14}
 \end{split}
 $$
+$s$ kan återfås genom att substituera $t$ med $\frac{-5}{14}$
+*Punkten på $L$ närmast $K$ kan nu beräknas genom att substituera in $t$ i ekvationen en generell punkt $A$ på $L$:*
+
