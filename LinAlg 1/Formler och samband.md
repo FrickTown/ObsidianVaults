@@ -110,7 +110,17 @@ $s$ kan återfås genom att substituera $t$ med $\frac{-5}{14}$
 
 ### Vektorprodukten
 Vektorprodukten mellan $\vec{v}$ och $\vec{w}$ noteras $\vec{v} \times \vec{w}$ och uppfyller:
-- $||\vec{v} \times \vec{w}|| = ||\vec{v}||\ ||\vec{w}||\sin{\theta}$ 
+- $||\vec{v} \times \vec{w}|| = ||\vec{v}||\ ||\vec{w}||\sin{\theta}$ (Magnituden av vektorprodukten är skalärprodukten)
 - Riktningen av $\vec{v} \times \vec{w}$ är ortogonal till både $\vec{v}\ och\ \vec{w}$
 - Om $\vec{v}\ och\ \vec{w}$ ej är parallella så pekar $\vec{v} \times \vec{w}$ i en riktning ortogonal mot $\vec{v}\ och\ \vec{w}$ som en plankonstellation.
-Om $\vec{v}$ och $\vec{w}$ *är* parallella så är $\vec{v} \times \vec{w} = \begin{pmatrix}0,0,0\end{pmatrix}$ 
+Om $\vec{v}$ och $\vec{w}$ *är* parallella så är $\vec{v} \times \vec{w} = \begin{pmatrix}0\\0\\0\end{pmatrix}$ 
+Vektorprodukten är definierad som följande:
+<span style="color: yellow;">_________________</span>
+$$
+\begin{pmatrix}v1\\v2\\v3\end{pmatrix}
+\times
+\begin{pmatrix}w1 \\ w2 \\ w3\end{pmatrix}
+=
+\begin{pmatrix}v_2w_3-v_3w_2\\v_3w_1-v_1w_3\\v_1w_2-v_2w_1\end{pmatrix}
+$$
+Mnemonic: Skifta första kolumnen i vänsterspalten -1 steg, andra kolumnen +1 steg. Matcha i högerspalten med inversen.
