@@ -108,3 +108,9 @@ $$
 $s$ kan återfås genom att substituera $t$ med $\frac{-5}{14}$
 *Punkten på $L$ närmast $K$ kan nu beräknas genom att substituera in $t$ i ekvationen en generell punkt $A$ på $L$:*
 
+### Vektorprodukten
+Vektorprodukten mellan $\vec{v}$ och $\vec{w}$ noteras $\vec{v} \times \vec{w}$ och uppfyller:
+- $||\vec{v} \times \vec{w}|| = ||\vec{v}||\ ||\vec{w}||\sin{\theta}$ 
+- Riktningen av $\vec{v} \times \vec{w}$ är ortogonal till både $\vec{v}\ och\ \vec{w}$
+- Om $\vec{v}\ och\ \vec{w}$ ej är parallella så pekar $\vec{v} \times \vec{w}$ i en riktning ortogonal mot $\vec{v}\ och\ \vec{w}$ som en plankonstellation.
+Om $\vec{v}$ och $\vec{w}$ *är* parallella så är $\vec{v} \times \vec{w} = \begin{pmatrix}0,0,0\end{pmatrix}$ 
