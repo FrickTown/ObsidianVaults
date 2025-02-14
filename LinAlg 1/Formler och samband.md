@@ -46,7 +46,7 @@ $$
 $$\vec{v}\ är\ parallell\ med\ \vec{w}\ omm\  \vec{v} = k\vec{w}$$
 Alltså om *w* är en omskalning av *v*.
 Nedan följer ett lätt sätt att identifiera huruvida två vektorer är parallella.
-![[Pasted image 20250204212743.png]]
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250204212743.png"</img></span>
 k = 2 men 2k = 3 går inte ihop. Därav är ***inte*** de två vektorerna parallella.
 
 ### Avstånd mellan två punkter i 3D
@@ -130,3 +130,4 @@ $$
 $$
 <span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
 Mnemonic: Skifta första kolumnen i vänsterspalten -1 steg, andra kolumnen +1 steg. Matcha i högerspalten med inversen.
+![[Pasted image 20250214124855.png]]

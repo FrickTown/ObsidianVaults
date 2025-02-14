@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -189,8 +190,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b4ba1a0121e9df10",
+  "active": "203c5d6a7a78f2c9",
   "lastOpenFiles": [
+    "Pasted image 20250214124855.png",
     "snippets.md",
     "LinAlg 1/Formler och samband.md",
     "Algebra 1/Kongruens.md",
