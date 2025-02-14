@@ -86,6 +86,13 @@ Med hjälp av *riktningsvektorerna* för $L$ och $K$ så kan vi utveckla ett ekv
 $$
 \begin{cases}
 	\vec{AB} \cdot \vec{L} = 1(-1-t)+3(-s-3t)+3(-2s-3t)\\
-	\vec{AB} \cdot \vec{K} = 
+	\vec{AB} \cdot \vec{K} = 0(-1-t)-1(-s-3t)-2(-2s-3t)
+\end{cases}
+$$
+Vilket förenklas till:
+$$
+\begin{cases}
+	\vec{AB} \cdot \vec{L} = -1-19t-9s\\
+	\vec{AB} \cdot \vec{K} = 0(-1-t)-1(-s-3t)-2(-2s-3t)
 \end{cases}
 $$
