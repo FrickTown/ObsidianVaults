@@ -58,6 +58,7 @@ $$
 $$
 \vec{v}\cdot\vec{w} := ||\vec{v}||\ ||\vec{w}|| \cos(\theta) = v_1w_1+v_2w_2+v_3w_3
 $$
+Skalärprodukten av två vektorer pekandes ifrån en punkt är större än 0 om vinkeln är spetsig, mindre än 0 om vinkeln är trubbig.
 ### Skärningspunkt av linje i plan
 $$Linjen\ l:(x,y,z) = (1+2t,t,1),t\in\mathbb{R}$$
 $$Planet\ \pi:2x+3y - 22z = 1$$
