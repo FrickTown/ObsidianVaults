@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -194,7 +193,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "203c5d6a7a78f2c9",
+  "active": "698282fae7d2204f",
   "lastOpenFiles": [
     "snippets.md",
     "LinAlg 1/Formler och samband.md",
