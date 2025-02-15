@@ -146,4 +146,9 @@ $$
  $$
  Volym = \cos(a)\ ||\vec{w}||\ ||\vec{u}\times\vec{v}||
 $$
-  
+eller 
+$$
+Volym= |(\vec{u}\times\vec{v})\ \bullet\ \vec{w}|
+$$
+
+Om en *parallellepiped har en volym på 0* så måste *någon* av vektorerna vara *parallella* med varandra. 
