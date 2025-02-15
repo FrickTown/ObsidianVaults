@@ -139,5 +139,11 @@ Volymen för en sådan beräknas som följande:
 $$
 Volym= |(\vec{u}\times\vec{v})\ \bullet\ \vec{w}|
 $$
- Absolutbeloppet av skalärprodukten av vektorprodukten $\vec{u}\times\vec{v}$ och $\vec{w}$.
- Detta eftersom att 
+ Absolutbeloppet av #skalärprodukten av #vektorprodukten $\vec{u}\times\vec{v}$ och $\vec{w}$.
+ Detta eftersom att magnituden av skalärprodukten $\vec{u}\times\vec{v}$ motsvarar arean på parallellogrammen som $\vec{u}$ och $\vec{v}$ utgör.
+ Vi kan tänka oss att höjden på parallellogrammen är
+ $$h = |\cos(\alpha)||\vec{w}|||$$ och därmed, bas gånger höjd blir
+ $$
+ Volym = \cos(a)\ ||\vec{w}||\ ||\vec{u}\times\vec{v}||
+$$
+  
