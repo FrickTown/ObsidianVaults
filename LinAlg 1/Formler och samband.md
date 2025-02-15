@@ -22,7 +22,7 @@ Den **ortogonala** projektionen av w på v är:
 $$
 proj_{\vec{v}}\vec{w} = \frac{\vec{v}\cdot\vec{w}}{||\vec{v}||^2}\vec{v}
 $$
-![[Pasted image 20250204201408.png]]
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250204201408.png"</img></span>
 
 ### Normalekvation för en #linje: Mellan två punkter
 Låt P och Q vara punkter (P<sub>x</sub>, P<sub>y</sub>) och (Q<sub>x</sub>, Q<sub>y</sub>)
@@ -132,3 +132,12 @@ $$
 Mnemonic: Skifta första kolumnen i vänsterspalten -1 steg, andra kolumnen +1 steg. Matcha i högerspalten med inversen.
 Övriga räkneregler för vektorprodukten:
 <span style="display: flex; justify-content: center;"><img width="350px" src="Pasted image 20250214124855.png"</img></span>
+### Volymen för en parallellepiped
+En parallellepiped är ett parallellogram med djup.
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250215172456.png"</img></span>
+Volymen för en sådan beräknas som följande:
+$$
+Volym= |(\vec{u}\times\vec{v})\ \bullet\ \vec{w}|
+$$
+ Absolutbeloppet av skalärprodukten av vektorprodukten $\vec{u}\times\vec{v}$ och $\vec{w}$.
+ Detta eftersom att 
