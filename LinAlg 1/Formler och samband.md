@@ -74,6 +74,11 @@ $$
 Skärningspunkt\ =(x,y,z) = (1+(2*3), 3, 1) = (7,3,1)
 $$
 
+### Punkt på ett plan närmst en punkt
+Låt $\pi$ definiera ett plan, och Q definiera en punkt:
+$\pi = x+y-z=5$
+$Q = (1,1,1)$
+Då är planets #normalvektor (koefficientern)
 ### Punkt på en linje närmst en annan linje
 Vi har två linjer på *parameterform*:
 $L = \begin{pmatrix} 0\\ 1\\ -1\end{pmatrix} + t\begin{pmatrix} 1\\ 3\\ 3\end{pmatrix}$
