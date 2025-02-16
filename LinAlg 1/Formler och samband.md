@@ -78,7 +78,16 @@ $$
 Låt $\pi$ definiera ett plan, och Q definiera en punkt:
 $\pi = x+y-z=5$
 $Q = (1,1,1)$
-Då är planets #normalvektor (koefficientern)
+Då är planets #normalvektor (koefficienterna för x, y och z): $\begin{pmatrix}1\\1\\-1\end{pmatrix}$
+Vi kan definiera en linje som går igenom punkt Q som skär planet genom att gå från punkt Q och följa planets normalvektor:
+$l = \begin{pmatrix}1\\1\\1\end{pmatrix} + t \begin{pmatrix}1\\1\\-1\end{pmatrix}$
+
+Vi löser skärningspunkten genom att sätta in linjens ekvation i planet:
+$P = (1+t)+(1+t)-(1-t) = 1+3t = 5 \implies t=\frac{4}{3}$ 
+
+VI har ett värde på t att sätta in i linjen $l$:
+$Svar: (x,y,z)=(\frac{7}3, \frac{7}3, -\frac{1}3)$
+
 ### Punkt på en linje närmst en annan linje
 Vi har två linjer på *parameterform*:
 $L = \begin{pmatrix} 0\\ 1\\ -1\end{pmatrix} + t\begin{pmatrix} 1\\ 3\\ 3\end{pmatrix}$
