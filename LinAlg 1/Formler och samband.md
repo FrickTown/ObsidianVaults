@@ -85,7 +85,7 @@ $l = \begin{pmatrix}1\\1\\1\end{pmatrix} + t \begin{pmatrix}1\\1\\-1\end{pmatrix
 Vi löser skärningspunkten genom att sätta in linjens ekvation i planet:
 $P = (1+t)+(1+t)-(1-t) = 1+3t = 5 \implies t=\frac{4}{3}$ 
 
-VI har ett värde på t att sätta in i linjen $l$:
+VI har ett värde på $t$ att sätta in i linjen $l$:
 $Svar: (x,y,z)=(\frac{7}3, \frac{7}3, -\frac{1}3)$
 
 ### Punkt på en linje närmst en annan linje
