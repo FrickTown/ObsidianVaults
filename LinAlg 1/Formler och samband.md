@@ -54,7 +54,13 @@ Avståndet är definierat som längden av vektorn $\vec{PQ}$
 $$
 d(P,Q) = ||\vec{PQ}|| = \sqrt{(x_{2}- x_{1})^2+(y_{2}- y_{1})^2+(z_{2}-z_{1})^2}
 $$
-### Skalärprodukt
+### Avstånd mellan punkt till plan
+Avstånd mellan punkten $(x_{0}, y_{0}, z_{0})$ till planet $a_{x}+b_{y}+c_{z}=d$
+kan bestämmas med formeln
+$$
+\frac{|d-ax_{0}-by_{0}-cz_{0}|}{\sqrt{a^2+b^2+c^2}}
+$$
+ ### Skalärprodukt
 $$
 \vec{v}\cdot\vec{w} := ||\vec{v}||\ ||\vec{w}|| \cos(\theta) = v_1w_1+v_2w_2+v_3w_3
 $$
