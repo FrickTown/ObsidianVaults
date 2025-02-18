@@ -209,4 +209,4 @@ $$
 
  *2.* ($\lambda$) Multiplicera ekvationen med konstanten $\lambda$.
 
-
+*3.* $\frac{\nwarrow}{\swarrow}$ Byt plats på ekvationerna
