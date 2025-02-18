@@ -173,3 +173,14 @@ Volym= |(\vec{u}\times\vec{v})\ \bullet\ \vec{w}|
 $$
 
 Om en *parallellepiped har en volym på 0* så måste *någon* av vektorerna vara *parallella* med varandra. 
+
+# Kapitel 3: **Linjära** ekvationssystem 
+### Linjär ekvation: form
+En linjär ekvation skrivs på formen 
+$$
+a_1x_1+a_2x_2+...+a_nx_{n}=b
+$$
+### Grundläggande operationer
+
+
+ 
