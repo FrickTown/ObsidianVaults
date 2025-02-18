@@ -181,6 +181,32 @@ $$
 a_1x_1+a_2x_2+...+a_nx_{n}=b
 $$
 ### Grundläggande operationer
+Nedanstående två ekvationer med samma obekanta $x,y$ är två linjer i planet.
+$$\begin{cases}x+3y=1\\2x-y=3 
+ \end{cases}
+ $$
+ Strategin är att skriva om ekvationssystemet till ett enklare system.
+$$
+\begin{cases}a_1x+b_{1y}=c_1 \\
+a_2x+b_2y=c_2 
+\end{cases}
+$$
+Nedanstående *operationer* kommer tillämpas för att uppnå det:
+
+**1.** ($\lambda$)$\uparrow$  Ta ekvationen, multiplicera den med en konstant $\lambda$ . Addera resultatet i ovanstående ekvation.
+
+$$
+\begin{cases}
+a_1x+b_1y=c_{1}  \\
+a_{2}x+ b_{2}y= c_2 
+\end{cases}
+\implies
+\begin{cases}
+(a_{1}+ \lambda a_{2}))x+(b_1+\lambda b_{2)y} = c_{1}+\lambda c2\\
+a_{2}x + b_{2}y = c_2& 
+\end{cases} 
+$$
+
+ *2.* ($\lambda$) Multiplicera ekvationen med konstanten $\lambda$.
 
 
- 
