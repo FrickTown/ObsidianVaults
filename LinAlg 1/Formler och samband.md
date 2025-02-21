@@ -198,7 +198,7 @@ Nedanstående *operationer* kommer tillämpas för att uppnå det:
 $$
 \begin{cases}
 a_1x+b_1y=c_{1}  \\
-a_{2}x+ b_{2}y= c_2 
+a_{2}x+ b_{2}y= c_2 (\lambda)\uparrow
 \end{cases}
 \implies
 \begin{cases}
@@ -210,3 +210,23 @@ $$
  *2.* ($\lambda$) Multiplicera ekvationen med konstanten $\lambda$.
 
 *3.* $\frac{\nwarrow}{\swarrow}$ Byt plats på ekvationerna
+
+### Totalmatris
+En totalmatris för ett linjärt ekvationssystem delar upp alla koefficienter på vänsterled i en matris, och kända värden på högerled i en annan, och sedan sammanfogar dessa:
+$$
+\begin{cases}
+x_{1}+2x_{2}-x_{3}+ x_{4}= 1 \\
+2x_{1}- x_{2}+ x_{3}-x_{4}= 3 \\
+x_{1}-3x_{2}+2x_{3}-2x_{4}=4
+\end{cases}
+\implies
+\begin{pmatrix}
+1 & 2 & -1 & \ \ \ 1 |\ 1\\
+2 & -1 & 1 & -1 |\ 3\\
+1 & -1 & 2 & -2|\ 4\end{pmatrix}
+$$
+### Gauss-Jordan eliminering
+1. Hitta totalmatrisen
+2. Använd operationer för att uppnå trappstegsmatris
+3. Gör matrisen radkanonisk
+4. Färdig
