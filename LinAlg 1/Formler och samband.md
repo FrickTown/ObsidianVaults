@@ -230,3 +230,4 @@ $$
 2. Använd operationer för att uppnå trappstegsmatris
 3. Gör matrisen radkanonisk
 4. Färdig
+ 
