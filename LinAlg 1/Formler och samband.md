@@ -230,4 +230,13 @@ $$
 2. Använd operationer för att uppnå trappstegsmatris
 3. Gör matrisen radkanonisk
 4. Färdig
- 
+
+# Kapitel 5: *Generellt* $\mathbb{R}^n$ och baser
+### Normera en vektor
+Att normera en vektor innebär att bevara riktningen men göra längden till 1.
+$$
+norm(\vec{v}) = \frac{1}{||\vec{v}||}\vec{v}
+$$
+### Span (Linjärt hölje)
+*Spannet* av ett set med vektorer definieras som mängden vektorer som är **linjärkombinationer** av dessa.
+Linjärkombinationer 
