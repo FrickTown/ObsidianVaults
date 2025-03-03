@@ -246,14 +246,23 @@ $$
 Låt $I$ vara en enhetsmatris.
 $$
 \begin{pmatrix} 
-1\ 0\ 0\ \\ 0\ 1\ 0\\ 0\  0\  1 
-\end{pmatrix}
+& 1& 0& 0& \\ & 0& 1& 0\\ & 0&  0& 1\end{pmatrix}
 $$
 Om det för en $(n \times n)$ matris A finns en $(n\times n)$ matris C så att:
 	$AC = CA = I$
 Så är C *entydigt* bestämt av A och kallas C = $A^{-1}$.
 *A måste ha rang n* för att vara inverterbar.
-
+#### Beräkning:
+Om vi söker inversen av A, $A^{-1}$, så innebär det att det måste finnas en lösning C så att
+	$AC = CA = I$
+$I$ motsvarar alltid en enhetsmatris i samma rang som A. 
+Låt
+$$
+A=\begin{pmatrix} 
+& 1& 1& 2& \\ & 1& 1& 1\\ & 1&  2& 3\end{pmatrix}
+\ I=\begin{pmatrix} 
+& 1& 0& 0& \\ & 0& 1& 0\\ & 0&  0& 1\end{pmatrix}
+$$
 
 # Kapitel 5: *Generellt* $\mathbb{R}^n$ och baser
 ### Normera en vektor
