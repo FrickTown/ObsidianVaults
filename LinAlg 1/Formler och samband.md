@@ -231,6 +231,19 @@ $$
 3. Gör matrisen radkanonisk
 4. Färdig
 
+# Kapitel 4: *Matriser*
+### Matrisaddition
+Precis som man hade tänkt sig
+### Matrismultiplikation
+För matrismultiplikation *krävs* att **antalet kolumner i A matchar antalet rader i B**.
+Ta första raden av A och multiplicera varje index med 
+$$
+\begin{pmatrix}a1\\b\\c\end{pmatrix}
+$$
+
+
+
+
 # Kapitel 5: *Generellt* $\mathbb{R}^n$ och baser
 ### Normera en vektor
 Att normera en vektor innebär att bevara riktningen men göra längden till 1.
