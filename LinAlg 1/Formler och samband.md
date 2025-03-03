@@ -236,11 +236,18 @@ $$
 Precis som man hade tänkt sig
 ### Matrismultiplikation
 För matrismultiplikation *krävs* att **antalet kolumner i A matchar antalet rader i B**.
-Ta första raden av A och multiplicera varje index med 
+Ta första *raden* av A och multiplicera varje index med respektive index i första *kolumnen* av B. Addera dessa för att få index (0, 0). För att få index (1, 0) så tar du samma rad från A, men nästa kolumn i B. Detta repeteras sedan för resten.
 $$
 \begin{pmatrix}a1\\b\\c\end{pmatrix}
 $$
 
+### Matrisinvers
+#### Definition:
+Låt $I$ vara en enhetsmatris.
+Om det för en $(n \times n)$ matris A finns en $(n\times n)$ matris C så att:
+	$AC = CA = I$
+Så är C *entydigt* bestämt av A och kallas C = $A^{-1}$.
+*A måste ha rang n* för att vara inverterbar.
 
 
 
