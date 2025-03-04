@@ -263,7 +263,7 @@ A=\begin{pmatrix}
 \ I=\begin{pmatrix} 
 & 1& 0& 0& \\ & 0& 1& 0\\ & 0&  0& 1\end{pmatrix}
 $$
-Kombinera dessa till en Gauss-Jordan-kompatibel totalmatris och lös den. Resultatet $C = A^{-1}$ kommer återfinnas i högerledet.
+Kombinera dessa till en Gauss-Jordan-kompatibel totalmatris och lös den. Resultatet $C = A^{-1}$ kommer återfinnas i högerledet, medans *vänsterledet kommer vara en enhetsmatris*
 $$
 \begin{pmatrix} 
   1& 1& 2\ |\ 1& 0& 0
@@ -272,12 +272,19 @@ $$
 \end{pmatrix}
 \implies
 \begin{pmatrix} 
-  1& 0& 0\ |\ 1& 1& -1
-\\0& 1& 0\ |\ -2& 1& 1
-\\0& 0& 1\ |\ 1& 0& 1
+  1& 0& 0\ |& 1& 1& -1
+\\0& 1& 0\ |& -2& 1& 1
+\\0& 0& 1\ |& 1& -1& 0
 \end{pmatrix}
 $$
-
+Alltså är A inverterbar med inversen:
+$$
+A^{-1} = \begin{pmatrix} 
+  1& 1& -1
+\\-2& 1& 1
+\\1& -1& 0
+\end{pmatrix}
+$$
 
 # Kapitel 5: *Generellt* $\mathbb{R}^n$ och baser
 ### Normera en vektor
