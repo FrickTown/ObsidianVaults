@@ -298,6 +298,8 @@ En linjärkombination innebär att ett set med konstanter $c_{1}, c_{2}, c_{3} .
 
 Vi kan bestämma spannet givet ett set med vektorer genom att först identifiera konstanterna 
 
+Spannet är hela $\mathbb{R}^n$ om vi kan sätta vektorerna av grad i en ($n \times k$) totalmatris, och ***rangen*** på denna är n.
+
 ### Linjärt oberoende
 Två vektorer $\vec{v}$ och $\vec{w}$ är parallella om  några skalärer $c1, c2$ finns så att $c_{1}\vec{v}+c_{2}\vec{w}=\vec{0}$.
 Ett set vektorer anses *linjärt oberoende* (icke-parallella i n-dimensioner) om den enda linjära kombinationen som resulterar i 0 som kan göras med dessa är om alla skalärer är 0.
