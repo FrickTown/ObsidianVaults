@@ -294,7 +294,9 @@ norm(\vec{v}) = \frac{1}{||\vec{v}||}\vec{v}
 $$
 ### Span (Linjärt hölje)
 *Spannet* av ett set med vektorer definieras som mängden vektorer som är **linjärkombinationer** av dessa.
-Linjärkombinationer 
+En linjärkombination innebär att ett set med konstanter $c_{1}, c_{2}, c_{3} ..., c_{n}$,  kombineras med ett set av vektorer $v_{1},v_{2},v_{3}...,v_{n}$, för att bilda en vektor $c_{1}\vec{v}_{1}+c_{2}\vec{v}_{2} + ... + c_{n}\vec{v}_{n}$ . 
+
+Vi kan bestämma spannet givet ett set med vektorer genom att först identifiera konstanterna 
 
 ### Linjärt oberoende
 Två vektorer $\vec{v}$ och $\vec{w}$ är parallella om  några skalärer $c1, c2$ finns så att $c_{1}\vec{v}+c_{2}\vec{w}=\vec{0}$.
