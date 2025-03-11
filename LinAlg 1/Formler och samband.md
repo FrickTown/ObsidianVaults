@@ -294,16 +294,25 @@ norm(\vec{v}) = \frac{1}{||\vec{v}||}\vec{v}
 $$
 ### Span (Linjärt hölje)
 *Spannet* av ett set med vektorer definieras som mängden vektorer som är **linjärkombinationer** av dessa.
-En linjärkombination innebär att ett set med konstanter $c_{1}, c_{2}, c_{3} ..., c_{n}$,  kombineras med ett set av vektorer $v_{1},v_{2},v_{3}...,v_{n}$, för att bilda en vektor $c_{1}\vec{v}_{1}+c_{2}\vec{v}_{2} + ... + c_{n}\vec{v}_{n}$ . 
+En linjärkombination innebär att ett set med konstanter $c_{1}, c_{2}, c_{3} ..., c_{n}$,  kombineras med ett set av vektorer $v_{1},v_{2},v_{3},\cdots,v_{n}$, för att bilda en vektor $c_{1}\vec{v}_{1}+c_{2}\vec{v}_{2} + \cdots + c_{n}\vec{v}_{n}$ . 
 
 Spannet av ett set vektorer avgör alltså vilka delar av rummet vi kan nå genom att kombinera dessa. *Om två eller flera av vektorerna är parallella begränsas vi till ett snitt av rummet.* Alltså i 2D kan spannet vara en linje, eller hela $\mathbb{R}^2$. I 3D kan spannet vara en linje, om alla tre vektorer är parallella, ett plan om två vektorer är parallella, eller hela $\mathbb{R}^3$ 
 
 Vi kan bestämma spannet givet ett set med vektorer genom att försöka hitta en generell lösning för en vektor som är en linjärkombination av vektorerna.
 
 Givet $\vec{u} = \begin{pmatrix}1\\2\\3\end{pmatrix}, \vec{v} = \begin{pmatrix}3\\2\\1\end{pmatrix}, \vec{w} = \begin{pmatrix}0\\0\\0\end{pmatrix}$
-Så kan vi hitta spannet $Span\{\vec{u},\vec{v},\vec{w}\}$ genom att skapa en totalmatris:
 
-Spannet är hela $\mathbb{R}^n$ om vi kan sätta vektorerna av grad i en ($n \times k$) totalmatris, och ***rangen*** på denna är n. Detta eftersom att alla vektorer av graden n $\begin{pmatrix}b_1\\b_2\\b_3\end{pmatrix}$ 
+Så kan vi hitta spannet $Span\{\vec{u},\vec{v},\vec{w}\}$ genom att skapa en totalmatris:
+$$
+\begin{pmatrix}
+1 & 3 & 0 & | & b_{1}\\
+2 & 3 & 0 & | & b_{2}\\
+3 & 1 & 0 & | & b_{3}
+\end{pmatrix}
+$$
+Och lösa denna med Gauss-Jordan elimination.
+Spannet är hela $\mathbb{R}^n$ om vi kan sätta vektorerna av grad i en ($n \times k$) totalmatris, och ***rangen*** på denna är n. Detta eftersom att oändliga svar på vektorn V = $\begin{pmatrix}b_1\\b_2\\b_3\end{pmatrix}$ kan ges och ingen är beroende av de andra.
+Om vi får en 0-rad så återfås en ekvation, och vektorn V ligger endast i spannet om ekvationen gäller.
 
 ### Linjärt oberoende
 Två vektorer $\vec{v}$ och $\vec{w}$ är parallella om  några skalärer $c1, c2$ finns så att $c_{1}\vec{v}+c_{2}\vec{w}=\vec{0}$.
