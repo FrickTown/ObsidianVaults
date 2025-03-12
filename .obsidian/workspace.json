@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "1b61028737e1fe2d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
             "id": "347ee99d4739e542",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "snippets"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1b61028737e1fe2d",
+  "active": "203c5d6a7a78f2c9",
   "lastOpenFiles": [
     "snippets.md",
     "LinAlg 1/Formler och samband.md",
