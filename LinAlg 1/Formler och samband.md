@@ -319,12 +319,12 @@ Två vektorer $\vec{v}$ och $\vec{w}$ är parallella om  några skalärer $c1, c
 Ett set vektorer anses *linjärt oberoende* (icke-parallella i n-dimensioner) om den enda linjära kombinationen som resulterar i 0 som kan göras med dessa är om alla skalärer är 0.
 
 Ledande element i varje rad => Hela R^n  (ej om 0-rad)
-Ledande element i varje kolonn => Linjärt oberoende (rang = k)
 
 ### Bas och koordinater i en bas
 #### Definition:
 En ordnad uppsättning vektorer kallas en **bas** om *spannet* är hela rummet, och alla vektorer är linjärt oberoende.
 En bas för $\mathbb{R}^n$ består av n vektorer.
+*En godtycklig bas måste ha rang $k$, den måste alltså vara kvadratisk.*
 
 För en bas $\underline{\textbf{V}} = (\vec{v}_1,\vec{v}_2)$ för $\mathbb{R}^2$ och en vektor $\in \mathbb{R}^2$ där
 $$
