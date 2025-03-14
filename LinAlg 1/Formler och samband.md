@@ -320,3 +320,6 @@ Ett set vektorer anses *linjärt oberoende* (icke-parallella i n-dimensioner) om
 
 Ledande element i varje rad => Hela R^n  (ej om 0-rad)
 Ledande element i varje kolonn => Linjärt oberoende (rang = k)
+
+### Bas och koordinater i en bas
+#### Definition:
