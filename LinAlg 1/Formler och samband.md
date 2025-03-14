@@ -323,3 +323,15 @@ Ledande element i varje kolonn => Linjärt oberoende (rang = k)
 
 ### Bas och koordinater i en bas
 #### Definition:
+En ordnad uppsättning vektorer kallas en bas om *spannet* är hela rummet, och alla vektorer är linjärt oberoende.
+En bas för $\mathbb{R}^n$ består av n vektorer.
+
+För en bas $\underline{\textbf{V}} = (\vec{v}_1,\vec{v}_2)$ för $\mathbb{R}^2$ och en vektor $\in \mathbb{R}^2$ där
+$$
+\vec{u} = t\vec{v}_{1}+s\vec{v}_{2}
+$$
+kallar vi
+$$
+[\vec{u}]_{\underline{\textbf{V}}} = \begin{pmatrix}t\\s\end{pmatrix}
+$$
+koordinaterna av $\vec{u}$ i basen 

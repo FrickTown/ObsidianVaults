@@ -35,7 +35,8 @@
               "title": "snippets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +195,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "203c5d6a7a78f2c9",
+  "active": "347ee99d4739e542",
   "lastOpenFiles": [
-    "snippets.md",
     "LinAlg 1/Formler och samband.md",
+    "snippets.md",
     "Pasted image 20250215172456.png",
     "Pasted image 20250214124855.png",
     "Algebra 1/Kongruens.md",
