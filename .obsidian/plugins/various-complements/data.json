@@ -82,7 +82,7 @@
   "excludeCurrentVaultWordPatterns": [],
   "enableCustomDictionaryComplement": true,
   "customDictionaryPaths": "./snippets.md",
-  "columnDelimiter": "Pipe",
+  "columnDelimiter": "Tab",
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
   "delimiterToDivideSuggestionsForDisplayFromInsertion": "->",
