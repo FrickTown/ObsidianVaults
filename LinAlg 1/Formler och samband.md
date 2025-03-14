@@ -334,4 +334,24 @@ kallar vi
 $$
 [\vec{u}]_{\underline{\textbf{V}}} = \begin{pmatrix}t\\s\end{pmatrix}
 $$
-koordinaterna av $\vec{u}$ i basen 
+koordinaterna av $\vec{u}$ i basen $\underline{\textbf{V}}$.
+#### Exempel
+De vanliga koordinaterna för ett rum är dess *enhetsvektorer*. För $\mathbb{R}^2$ är dessa alltså $\begin{pmatrix} \begin{pmatrix}1\\0\end{pmatrix},\begin{pmatrix}0\\1\end{pmatrix}  \end{pmatrix}$ 
+
+Låt
+$$
+\underline{\textbf{V}} = (\vec{v}_{1},\vec{v}_{2})
+\ \ \ \vec{v}_{1}=\begin{pmatrix}2\\1\end{pmatrix},
+\vec{v}_{2}=\begin{pmatrix}-1\\0\end{pmatrix}
+$$
+Om vill hitta koordinaterna för $\begin{pmatrix}0\\6\end{pmatrix}$ i basen $\underline{\textbf{V}}$ måste vi hitta $t, s$ *så att* $t\begin{pmatrix}2\\1\end{pmatrix} + s\begin{pmatrix}-1\\0\end{pmatrix} = \begin{pmatrix}0\\6\end{pmatrix}$
+Vi ställer upp i totalmatris
+\$\$
+\begin{pmatrix}1 & 3 & 0 & 
+$$
+\begin{pmatrix}
+1 & 3 & 0 & | & b_{1}\\
+2 & 3 & 0 & | & b_{2}\\
+3 & 1 & 0 & | & b_{3}
+\end{pmatrix}
+$$
