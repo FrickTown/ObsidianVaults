@@ -342,9 +342,9 @@ Låt
 $$
 \underline{\textbf{V}} = (\vec{v}_{1},\vec{v}_{2})
 \ \ \ \vec{v}_{1}=\begin{pmatrix}2\\1\end{pmatrix},
-\vec{v}_{2}=\begin{pmatrix}-1\\0\end{pmatrix}
+\vec{v}_{2}=\begin{pmatrix}-2\\1\end{pmatrix}
 $$
-Om vill hitta koordinaterna för $\begin{pmatrix}0\\6\end{pmatrix}$ i basen $\underline{\textbf{V}}$ måste vi hitta $t, s$ *så att* $t\begin{pmatrix}2\\1\end{pmatrix} + s\begin{pmatrix}-1\\0\end{pmatrix} = \begin{pmatrix}0\\6\end{pmatrix}$
+Om vill hitta koordinaterna för $\begin{pmatrix}0\\6\end{pmatrix}$ i basen $\underline{\textbf{V}}$ måste vi hitta $t, s$ *så att* $t\begin{pmatrix}2\\1\end{pmatrix} + s\begin{pmatrix}-2\\1\end{pmatrix} = \begin{pmatrix}0\\6\end{pmatrix}$
 
 Vi ställer upp i totalmatris
 $$
