@@ -373,3 +373,10 @@ $$
 Och vi säger "$\vec{y}$ 'r *bilden* av $\vec{x}$ under $T$".
 ### Matrisavbildningar
 Om produkten av en funktion är en matris kallas det en *matrisavbildning*.
+
+### Linjära avbildningar
+#### Definition
+En avbildning $T : \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$ anses *linjär* om den uppfyller att:
+- $T(\vec{v} + \vec{w}) = T(\vec{v}) + T(\vec{w})$
+- $T(k\vec{v}) = kT(\vec{v})$
+- 
