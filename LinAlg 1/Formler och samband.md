@@ -285,7 +285,8 @@ A^{-1} = \begin{pmatrix}
 \\1& -1& 0
 \end{pmatrix}
 $$
-
+### Räkneregler
+<span style="display: flex; justify-content: center; "><img style="width: 75%;" src="Pasted image 20250315170816.png"</img></span>
 # Kapitel 5: *Generellt* $\mathbb{R}^n$ och baser
 ### Normera en vektor
 Att normera en vektor innebär att bevara riktningen men göra längden till 1.
