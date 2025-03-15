@@ -373,7 +373,17 @@ $$
 Och vi säger "$\vec{y}$ 'r *bilden* av $\vec{x}$ under $T$".
 ### Matrisavbildningar
 Om produkten av en funktion är en matris kallas det en *matrisavbildning*.
-*Standardmatrisen* för en avbildning $T$ betecknas $[T]$ 
+
+### Standardmatriser
+*Standardmatrisen* för en avbildning $T$ betecknas $[T]$. Om vi har en linjär avbildning $T$ som uppfyller
+$$
+T\begin{pmatrix}1\\1\end{pmatrix} = \begin{pmatrix}1\\1\\1\end{pmatrix}\ \ och\ \
+T \begin{pmatrix}1\\2\end{pmatrix}=\begin{pmatrix}2\\2\\3\end{pmatrix}
+$$
+Så återfinns $[T]$
+$$
+[T] = \begin{pmatrix}1 & 2\\1 & 2\\1 & 3\end{pmatrix} \begin{pmatrix}1 & 1\\1 & 2\end{pmatrix}
+$$
 ### Linjära avbildningar
 #### Definition
 En avbildning $T : \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$ anses *linjär* om den uppfyller att:
