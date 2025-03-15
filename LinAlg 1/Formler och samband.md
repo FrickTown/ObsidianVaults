@@ -1,4 +1,4 @@
-<<# Kapitel 1: *Planet* $\mathbb{R}^2$
+# Kapitel 1: *Planet* $\mathbb{R}^2$
 ### Magnitud
 $$\vec{v} = 
 \begin{pmatrix} a\\ b\end{pmatrix}
