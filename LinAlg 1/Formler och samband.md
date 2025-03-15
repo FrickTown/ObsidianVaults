@@ -286,7 +286,7 @@ A^{-1} = \begin{pmatrix}
 \end{pmatrix}
 $$
 ### Räkneregler
-<span style="display: flex; justify-content: center; "><img style="width: 75%;" src="Pasted image 20250315170816.png"</img></span>
+<span style="display: flex; justify-content: center; "><img style="width: 100%;" src="Pasted image 20250315170816.png"</img></span>
 # Kapitel 5: *Generellt* $\mathbb{R}^n$ och baser
 ### Normera en vektor
 Att normera en vektor innebär att bevara riktningen men göra längden till 1.
@@ -362,3 +362,13 @@ $$
 \end{pmatrix}
 $$
 Alltså är $(t,s) = (3,3)$ 
+
+# Kapitel 6: *Linjära* Avbildningar
+### Avbildningar
+Avbildning är synonymt med *funktion*.
+För $T : \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$ används notationen:
+$$
+\vec{y} = T(\vec{x})
+$$
+Och vi säger "$\vec{y}$ 'r *bilden* av $\vec{x}$ under $T$".
+### Matrisavbildningar
