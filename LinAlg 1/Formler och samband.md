@@ -372,3 +372,4 @@ $$
 $$
 Och vi säger "$\vec{y}$ 'r *bilden* av $\vec{x}$ under $T$".
 ### Matrisavbildningar
+Om produkten av en funktion är en matris kallas det en *matrisavbildning*.
