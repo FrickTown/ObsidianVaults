@@ -384,6 +384,8 @@ Så återfinns $[T]$
 $$
 [T] = \begin{pmatrix}1 & 2\\1 & 2\\1 & 3\end{pmatrix} \begin{pmatrix}1 & 1\\1 & 2\end{pmatrix}^{-1}
 $$
+### Ortogonal projektion *på plan*
+
 ### Linjära avbildningar
 #### Definition
 En avbildning $T : \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$ anses *linjär* om den uppfyller att:
