@@ -382,7 +382,7 @@ T \begin{pmatrix}1\\2\end{pmatrix}=\begin{pmatrix}2\\2\\3\end{pmatrix}
 $$
 Så återfinns $[T]$
 $$
-[T] = \begin{pmatrix}1 & 2\\1 & 2\\1 & 3\end{pmatrix} \begin{pmatrix}1 & 1\\1 & 2\end{pmatrix}
+[T] = \begin{pmatrix}1 & 2\\1 & 2\\1 & 3\end{pmatrix} \begin{pmatrix}1 & 1\\1 & 2\end{pmatrix}^{-1}
 $$
 ### Linjära avbildningar
 #### Definition
