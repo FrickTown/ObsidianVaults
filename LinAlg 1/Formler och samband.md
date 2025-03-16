@@ -439,4 +439,5 @@ Låt $T : \mathbb{R}^{k} \rightarrow \mathbb{R}^n$ vara en matrisavbildning. Då
 -||-
 - T är bijektiv
 - $[T]$ är inverterbar
-- 
+- $rang([T]) = n$ 
+- Kolonnerna i $[T]$ är en bas för $\mathbb{R}^n$
