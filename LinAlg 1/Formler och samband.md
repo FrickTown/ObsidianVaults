@@ -393,6 +393,17 @@ Vektorn $\vec{w}$ kan vi alltså bestämma som en vektor parallell med $\vec{v}$
 $$
 \vec{w} = proj_{\vec{v}}w \ +\  (\vec{w} - proj_{\vec{v}}w)
 $$
+Om vi vill göra detta mer generellt kan vi ersätta $\vec{w}$ med $\begin{pmatrix}x\\y\\z\end{pmatrix}$ och således återfå en formel:
+$$
+proj_{\vec{v}} = \frac{\begin{pmatrix}v_{1}\\v_{2}\\v_{3}\end{pmatrix}\bullet \begin{pmatrix}x\\y\\z\end{pmatrix}}
+{||\vec{v}||^{2}}\begin{pmatrix}v_{1}\\v_{2}\\v_{3}\end{pmatrix}
+$$
+Detta ger även *standardmatrisen* $[proj_{\vec{v}}]$ för avbildningen.
+
+Med den generella metoden kan vi också härleda hur det går till med ortogonal projektion på ett *plan*, eftersom ett plan kan beskrivas i $ax + by + cz = 0$. Vi använder då koefficienterna för att bestämma riktningsvektorn av linjen $\vec{v} = \vec{n} = \begin{pmatrix}a\\b\\c\end{pmatrix}$. Standardmatrisen för ortogonal projektion på ett plan $[P]$ blir sedan
+$$
+[P] = I - standardmatrisen\  för\  linjen
+$$
 
 ### Linjära avbildningar
 #### Definition
