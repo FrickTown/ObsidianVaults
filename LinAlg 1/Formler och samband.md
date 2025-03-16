@@ -385,6 +385,14 @@ $$
 [T] = \begin{pmatrix}1 & 2\\1 & 2\\1 & 3\end{pmatrix} \begin{pmatrix}1 & 1\\1 & 2\end{pmatrix}^{-1}
 $$
 ### Ortogonal projektion *på plan*
+#Ortogonal projektion av en vektor $\vec{w}$ på en annan vektor $\vec{v}$ räknas ut:
+$$
+proj_{\vec{v}}\vec{w} = \frac{\vec{v}\bullet\vec{w}}{||\vec{v}||^2}\vec{v}
+$$
+Vektorn $\vec{w}$ kan vi alltså bestämma som en vektor parallell med $\vec{v}$ och en vektor ortogonal mot $\vec{v}$. 
+$$
+\vec{w} = proj_{\vec{v}}w \ +\  (\vec{w} - proj_{\vec{v}}w)
+$$
 
 ### Linjära avbildningar
 #### Definition

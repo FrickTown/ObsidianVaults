@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Skalärprodukten",
+                "query": "tag:#Ortogonal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
