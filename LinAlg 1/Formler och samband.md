@@ -421,3 +421,16 @@ $$
 $$
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250316164841.png"</img></span>
 
+### Injektiva/surjektiva/bijektiva matrisavbildningar
+#### Sats (Injektiv):
+Låt $T : \mathbb{R}^{k} \rightarrow \mathbb{R}^n$ vara en matrisavbildning. Då är följande *ekvivalenta*:
+- T är injektiv
+- $T(\vec{x}) = 0$ enbart för $\vec{x} = 0$ 
+- $rang[T] = k$
+- kolonnerna i [T] är *linjärt oberoende*
+#### Sats (Surjektiv):
+-||-
+- T är surjektiv
+- $T(\vec{x}) = \vec{b}$ har minst en lösning för alla $\vec{b}$
+- $rang[T]$ = $n$
+- Spannet av kolonnerna i $[T]$ är hela $\mathbb{R}$

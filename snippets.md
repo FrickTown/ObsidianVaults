@@ -16,6 +16,7 @@ baseform->\underline{\\textbf{V}}
 totmat->$$\n\begin{pmatrix}\n1 & 3 & 0 & | & b_{1}\\\\\n2 & 3 & 0 & | & b_{2}\\\\\n3 & 1 & 0 & | & b_{3}\n\end{pmatrix}\n$$
 wvec->$\vec{w}$
 vvec->$\vec{v}$
+realn->$\mathbb{R}$
 
 ```desmos-graph
 y=x^x - x^3
