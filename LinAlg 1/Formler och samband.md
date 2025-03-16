@@ -373,7 +373,12 @@ $$
 Och vi säger "$\vec{y}$ 'r *bilden* av $\vec{x}$ under $T$".
 ### Matrisavbildningar
 Om produkten av en funktion är en matris kallas det en *matrisavbildning*.
-
+### Linjära avbildningar
+#### Definition
+En avbildning $T : \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$ anses *linjär* om den uppfyller att:
+- $T(\vec{v} + \vec{w}) = T(\vec{v}) + T(\vec{w})$
+- $T(k\vec{v}) = kT(\vec{v})$
+En godtycklig linjär avbildning *är en matrisavbildning*
 ### Standardmatriser
 *Standardmatrisen* för en avbildning $T$ betecknas $[T]$. Om vi har en linjär avbildning $T$ som uppfyller
 $$
@@ -404,10 +409,15 @@ Med den generella metoden kan vi också härleda hur det går till med ortogonal
 $$
 [P] = I - standardmatrisen\  för\  linjen
 $$
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250316164817.png"</img></span>
+### Spegling i **planet**
+Spegling $S: \mathbb{R}^{3}\rightarrow \mathbb{R}^3$ i ett plan med normalvektor $\vec{n}$ gäller:
+$$
+S(\vec{w}) = \vec{w} - 2\ proj_{\vec{n}}\vec{w}
+$$
+För *standardmatris* för ***spegling*** i plan multiplicerar vi skalären för standardmatrisen för planet med 2.
+$$
+[S] = I - 2[proj_{\vec{n}}]
+$$
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250316164841.png"</img></span>
 
-### Linjära avbildningar
-#### Definition
-En avbildning $T : \mathbb{R}^{n} \rightarrow \mathbb{R}^{m}$ anses *linjär* om den uppfyller att:
-- $T(\vec{v} + \vec{w}) = T(\vec{v}) + T(\vec{w})$
-- $T(k\vec{v}) = kT(\vec{v})$
-En godtycklig linjär avbildning *är en matrisavbildning*
