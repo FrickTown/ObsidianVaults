@@ -415,6 +415,7 @@ Spegling $S: \mathbb{R}^{3}\rightarrow \mathbb{R}^3$ i ett plan med normalvektor
 $$
 S(\vec{w}) = \vec{w} - 2\ proj_{\vec{n}}\vec{w}
 $$
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250316174502.png"</img></span>
 För *standardmatris* för ***spegling*** i plan multiplicerar vi skalären för standardmatrisen för planet med 2.
 $$
 [S] = I - 2[proj_{\vec{n}}]
@@ -436,3 +437,6 @@ Låt $T : \mathbb{R}^{k} \rightarrow \mathbb{R}^n$ vara en matrisavbildning. Då
 - Spannet av kolonnerna i $[T]$ är hela $\mathbb{R}^n$ 
 #### Sats (Bijektiv):
 -||-
+- T är bijektiv
+- $[T]$ är inverterbar
+- 
