@@ -446,8 +446,25 @@ Låt $T : \mathbb{R}^{k} \rightarrow \mathbb{R}^n$ vara en matrisavbildning. Då
 # Kapitel 7: *Determinanter* 
 #### Definition
 *Determinanten* av en matris är ett reellt heltal som betecknas $|A|$. Det är definierat och nollskilt för *kvadratiska och inverterbara* matriser.
-
+### 2x2 Matris
 #### Beräkning
-För en *2x2* matris $\begin{pmatrix}a & b\\c & d\end{pmatrix}$ kan vi snabbt avgöra om matrisen är inverterbar genom att rotera vänstra kolonnen med $\frac{\pi}{2}$ $\begin{pmatrix}-c & b\\a & d\end{pmatrix}$ och ta skalärprodukten = $ad - bc$. Om detta är 0 är kolonnerna parallella.
+För en *2x2* matris $\begin{pmatrix}a & b\\c & d\end{pmatrix}$ kan vi snabbt avgöra om matrisen är inverterbar genom att rotera vänstra kolonnen med $\frac{\pi}{2}$: $\begin{pmatrix}-c & b\\a & d\end{pmatrix}$ och ta skalärprodukten = $ad - bc$. Om detta är 0 är kolonnerna parallella.
 
 $ad - bc$  **är** determinanten. *Absolutbeloppet* av denna är *arean av parallellogrammen* som vektorerna utgör.
+### 3x3 Matris
+#### Beräkning
+Volymen av parallellepipeden med kolonnerna för en *inverterbar* 3x3 matris motsvarar dess determinant. 
+ <span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
+Låt:
+$$
+\begin{pmatrix}a  & d  & x\\b & e & y\\c & f & x\end{pmatrix}
+$$
+Då beräknas determinanten alltså:
+$$
+\begin{pmatrix}
+\begin{pmatrix}a\\b\\c\end{pmatrix} \times \begin{pmatrix}d\\e\\f\end{pmatrix}
+\end{pmatrix} \bullet \begin{pmatrix}x\\y\\z\end{pmatrix}
+= bfx - cex - afy + cdy + aez - bdz
+$$
+ <span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
+ 
