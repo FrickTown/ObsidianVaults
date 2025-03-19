@@ -467,4 +467,19 @@ $$
 = bfx - cex - afy + cdy + aez - bdz
 $$
  <span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
- 
+
+### Mönster
+#### Terminologi
+##### Mönster
+Ett val av n element från en $(n\times n)$ matris, bestående av *precis* ett element från varje rad och kolumn
+##### Produkten av ett mönster
+Produkten av ett mönster i A är produkten av motsvarande element i A.
+##### Omvänt par
+Två element i ett mönster är ett omvänt par om det ena står ovanför och till höger om det andra
+##### Jämnt / Udda mönster
+Ett mönster är jämnt/udda utifrån antalet omvända par det har.
+***Mönster med jämna antal omvänt par adderas ihop, medans ojämna subtraheras, när determinanten av en matris ska summeras.***
+#### Exempel
+I en 3x3 matris kan vi hitta 6 olika mönster, som har varierande antal *omvända par*. Ojämna par är markerade med ett streck mellan dess element.
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250319171605.png"</img></span>
+Således, när vi beräknar 
