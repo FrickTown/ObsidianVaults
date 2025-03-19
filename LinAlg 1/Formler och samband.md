@@ -457,10 +457,11 @@ Volymen av parallellepipeden med kolonnerna för en *inverterbar* 3x3 matris mot
  <span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
 Låt:
 $$
-\begin{pmatrix}a  & d  & x\\b & e & y\\c & f & x\end{pmatrix}
+A = \begin{pmatrix}a  & d  & x\\b & e & y\\c & f & x\end{pmatrix}
 $$
 Då beräknas determinanten alltså:
 $$
+|A| = 
 \begin{pmatrix}
 \begin{pmatrix}a\\b\\c\end{pmatrix} \times \begin{pmatrix}d\\e\\f\end{pmatrix}
 \end{pmatrix} \bullet \begin{pmatrix}x\\y\\z\end{pmatrix}
@@ -482,4 +483,6 @@ Ett mönster är jämnt/udda utifrån antalet omvända par det har.
 #### Exempel
 I en 3x3 matris kan vi hitta 6 olika mönster, som har varierande antal *omvända par*. Ojämna par är markerade med ett streck mellan dess element.
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250319171605.png"</img></span>
-Således, när vi beräknar 
+Således, när vi beräknar determinanten för matrisen $A = \begin{pmatrix}a  & d  & x\\b & e & y\\c & f & x\end{pmatrix}$
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250319172104.png"</img></span>
+<span style="display: flex; justify-content: center;"><img src="LinAlgMönster.png"</img></span>
