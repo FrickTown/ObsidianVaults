@@ -399,10 +399,12 @@ $$
 \vec{w} = proj_{\vec{v}}w \ +\  (\vec{w} - proj_{\vec{v}}w)
 $$
 Om vi vill göra detta mer generellt kan vi ersätta $\vec{w}$ med $\begin{pmatrix}x\\y\\z\end{pmatrix}$ och således återfå en formel:
+ <span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span>
 $$
 proj_{\vec{v}} = \frac{\begin{pmatrix}v_{1}\\v_{2}\\v_{3}\end{pmatrix}\bullet \begin{pmatrix}x\\y\\z\end{pmatrix}}
 {||\vec{v}||^{2}}\begin{pmatrix}v_{1}\\v_{2}\\v_{3}\end{pmatrix}
 $$
+ <span style="display: flex; width:100%; border-bottom: 3px solid yellow; justify-content:center;"></span> 
 Detta ger även *standardmatrisen* $[proj_{\vec{v}}]$ för avbildningen.
 
 Med den generella metoden kan vi också härleda hur det går till med ortogonal projektion på ett *plan*, eftersom ett plan kan beskrivas i $ax + by + cz = 0$. Vi använder då koefficienterna för att bestämma riktningsvektorn av linjen $\vec{v} = \vec{n} = \begin{pmatrix}a\\b\\c\end{pmatrix}$. Standardmatrisen för ortogonal projektion på ett plan $[P]$ blir sedan
@@ -441,3 +443,6 @@ Låt $T : \mathbb{R}^{k} \rightarrow \mathbb{R}^n$ vara en matrisavbildning. Då
 - $[T]$ är inverterbar
 - $rang([T]) = n$ 
 - Kolonnerna i $[T]$ är en bas för $\mathbb{R}^n$
+# Kapitel 7: *Determinanter* 
+#### Definition
+Determinanten av en matris är ett reellt heltal som betecknas 
