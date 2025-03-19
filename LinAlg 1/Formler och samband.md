@@ -445,4 +445,9 @@ Låt $T : \mathbb{R}^{k} \rightarrow \mathbb{R}^n$ vara en matrisavbildning. Då
 - Kolonnerna i $[T]$ är en bas för $\mathbb{R}^n$
 # Kapitel 7: *Determinanter* 
 #### Definition
-Determinanten av en matris är ett reellt heltal som betecknas 
+*Determinanten* av en matris är ett reellt heltal som betecknas $|A|$. Det är definierat och nollskilt för *kvadratiska och inverterbara* matriser.
+
+#### Beräkning
+För en *2x2* matris $\begin{pmatrix}a & b\\c & d\end{pmatrix}$ kan vi snabbt avgöra om matrisen är inverterbar genom att rotera vänstra kolonnen med $\frac{\pi}{2}$ $\begin{pmatrix}-c & b\\a & d\end{pmatrix}$ och ta skalärprodukten = $ad - bc$. Om detta är 0 är kolonnerna parallella.
+
+$ad - bc$  **är** determinanten. *Absolutbeloppet* av denna är *arean av parallellogrammen* som vektorerna utgör.
