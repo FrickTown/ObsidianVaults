@@ -486,3 +486,16 @@ I en 3x3 matris kan vi hitta 6 olika mönster, som har varierande antal *omvänd
 Således, när vi beräknar determinanten för matrisen $A = \begin{pmatrix}a  & d  & x\\b & e & y\\c & f & x\end{pmatrix}$
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250319172104.png"</img></span>
 <span style="display: flex; justify-content: center;"><img src="LinAlgMönster.png"</img></span>
+### Generell beräkning
+#### Triangulära matriser
+En matris där alla element under diagonalen är 0 kallas övertriangulär, och tvärtom är en undertriangulär. 
+Determinanten av denna typ av matris beräknas väldigt lätt genom att ta produkten av alla element på diagonalen.
+
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250321155822.png"</img></span>
+
+#### Beräkning med radoperationer
+När en konstant k multipliceras med *valfri* rad i en matris $A$, så blir determinanten $k*det(A)$ . Detta eftersom att varje mönster *innehåller exakt ett element* från den raden, så motsvarande produkt multipliceras med konstanten precis en gång.
+
+Om *två rader byter plats* byter determinanten tecken. 
+
+Operationen *multiplicera och addera till nedanstående rader* har ***ingen*** inverkan på determinanten. 
