@@ -499,3 +499,7 @@ När en konstant k multipliceras med *valfri* rad i en matris $A$, så blir dete
 Om *två rader byter plats* byter determinanten tecken. 
 
 Operationen *multiplicera och addera till nedanstående rader* har ***ingen*** inverkan på determinanten. 
+
+#### Transponatreglen
+Transponatet av $A$, $A^{T}$ är vändningen av matrisen över diagonalen.
+*Determinanten av $A^{T}$* är *densamma* som determinanten av $A$. 
