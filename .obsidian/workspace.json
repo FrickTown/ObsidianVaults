@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinAlg 1/Formler och samband.md",
+                "file": "DatorArkitektur/MIPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formler och samband"
+              "title": "MIPS"
             }
           },
           {
@@ -195,20 +195,21 @@
   },
   "active": "203c5d6a7a78f2c9",
   "lastOpenFiles": [
+    "LinAlg 1/Formler och samband.md",
+    "DatorArkitektur/MIPS.md",
+    "DatorArkitektur",
     "Pasted image 20250321155822.png",
     "LinAlgMönster.png",
     "Pasted image 20250319172104.png",
     "Pasted image 20250319171605.png",
     "Pasted image 20250316174502.png",
     "snippets.md",
-    "LinAlg 1/Formler och samband.md",
     "Pasted image 20250316164841.png",
     "Pasted image 20250316164817.png",
     "Pasted image 20250315170816.png",
     "Pasted image 20250215172456.png",
     "Pasted image 20250214124855.png",
     "Algebra 1/Kongruens.md",
-    "Pasted image 20250204212743.png",
     "MatteKnawledge.md",
     "LinAlg 1",
     "Projektförslag.md",
@@ -239,7 +240,6 @@
     "Små anteckningar.md",
     "Gula Blommor.canvas",
     "Linjärinventering av Gredelby naturreservat.pdf",
-    "Linjärinventering av Gredelby naturreservat_tmp.html",
     "ReadMe.md.md",
     "Träd.canvas",
     "Träd och buskar.md",
