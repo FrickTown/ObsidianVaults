@@ -16,7 +16,18 @@ Divides *R1* by *R2* and saves the remainder to ***hi*** and the quotient to ***
 ### Logical
 #### (and / or) R1, R2, R3
 Performs and/or with R2 and R3 and assigns the value to R1.
-
 #### (andi / ori) R1, R2, X
 Performs and / or with R2 and X, and assigns the value to R1.
+#### (sll / srl) R1, R2, X
+Shifts R2 by X bits to the left or right, assigns the value to R1.
+
+### Data transfer
+#### lw R1, X
+Loads a word from location X in memory, then moves it to registry R1
+#### sw R1, X
+Stores a word from R1 at location X in memory
+#### li R1, X
+Loads a word of value X immediately into R1
+
+
 
