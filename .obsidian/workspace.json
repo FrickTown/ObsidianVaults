@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DatorArkitektur/MIPS.md",
+                "file": "Logik_och_BevisTeknik/Föreläsning 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MIPS"
+              "title": "Föreläsning 1"
             }
           },
           {
@@ -194,8 +194,10 @@
   },
   "active": "203c5d6a7a78f2c9",
   "lastOpenFiles": [
-    "LinAlg 1/Formler och samband.md",
     "DatorArkitektur/MIPS.md",
+    "Logik_och_BevisTeknik/Föreläsning 1.md",
+    "Logik_och_BevisTeknik",
+    "LinAlg 1/Formler och samband.md",
     "DatorArkitektur",
     "Pasted image 20250321155822.png",
     "LinAlgMönster.png",
@@ -238,12 +240,10 @@
     "Untitled Kanban 1.md",
     "Små anteckningar.md",
     "Gula Blommor.canvas",
-    "Linjärinventering av Gredelby naturreservat.pdf",
     "ReadMe.md.md",
     "Träd.canvas",
     "Träd och buskar.md",
     "Snabbnyckel (Familj).canvas",
-    "Grod och kräldjur - Översikt.md",
-    "Fåglar - Översikt.md"
+    "Grod och kräldjur - Översikt.md"
   ]
 }
