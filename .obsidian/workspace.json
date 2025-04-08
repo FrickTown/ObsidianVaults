@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projektförslag.md",
+                "file": "DatorArkitektur/Lab 2 Background Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projektförslag"
+              "title": "Backlinks for Lab 2 Background Material"
             }
           },
           {
@@ -173,13 +173,11 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,6 +192,7 @@
   },
   "active": "203c5d6a7a78f2c9",
   "lastOpenFiles": [
+    "Pasted image 20250408203130.png",
     "Pasted image 20250408194311.png",
     "Pasted image 20250408194242.png",
     "DatorArkitektur/MIPS.md",
@@ -211,7 +210,6 @@
     "Pasted image 20250316164841.png",
     "Pasted image 20250316164817.png",
     "Pasted image 20250315170816.png",
-    "Pasted image 20250215172456.png",
     "Algebra 1/Kongruens.md",
     "MatteKnawledge.md",
     "LinAlg 1",
