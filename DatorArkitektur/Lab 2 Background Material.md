@@ -7,3 +7,6 @@ The Control Decode circuit would not be given an input?
 How? Because there is not a case for every 6-bit number. This also means the type decoder is incomplete, there should at least be a default case, for error handling.
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250408203130.png"</img></span>
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250408204408.png"</img></span>
+
+***TODO: Answer these questions:***
+*Q3: Why doesn’t the truth table you filled in have an entry for 0011?*
