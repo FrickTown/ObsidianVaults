@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logik_och_BevisTeknik/Föreläsning 1.md",
+                "file": "DatorArkitektur/Lab 2 Background.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Föreläsning 1"
+              "title": "Lab 2 Background"
             }
           },
           {
@@ -194,7 +194,10 @@
   },
   "active": "203c5d6a7a78f2c9",
   "lastOpenFiles": [
+    "Pasted image 20250408194311.png",
+    "Pasted image 20250408194242.png",
     "DatorArkitektur/MIPS.md",
+    "DatorArkitektur/Lab 2 Background.md",
     "Logik_och_BevisTeknik/Föreläsning 1.md",
     "Logik_och_BevisTeknik",
     "LinAlg 1/Formler och samband.md",
@@ -209,7 +212,6 @@
     "Pasted image 20250316164817.png",
     "Pasted image 20250315170816.png",
     "Pasted image 20250215172456.png",
-    "Pasted image 20250214124855.png",
     "Algebra 1/Kongruens.md",
     "MatteKnawledge.md",
     "LinAlg 1",
@@ -242,8 +244,6 @@
     "Gula Blommor.canvas",
     "ReadMe.md.md",
     "Träd.canvas",
-    "Träd och buskar.md",
-    "Snabbnyckel (Familj).canvas",
-    "Grod och kräldjur - Översikt.md"
+    "Snabbnyckel (Familj).canvas"
   ]
 }
