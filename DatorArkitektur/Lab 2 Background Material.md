@@ -10,4 +10,4 @@ How? Because there is not a case for every 6-bit number. This also means the typ
 
 ***TODO: Answer these questions:***
 *Q3: Why doesn’t the truth table you filled in have an entry for 0011?*
-Because the beq bit (the lsb of 0011) is only for branching. No function stores a word in memory 
+Because the beq bit signifies a branch-operation, and the sw bit signifies a memory storing operation. 
