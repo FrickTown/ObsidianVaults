@@ -37,13 +37,16 @@ Code will load 4 into $t0 with `lw $t0, 12($zero)` and will then decrease $t0 by
 | $t6 | 1       | 1       |
 ***Q5: What is the value of the Write data and the Write reg when the beq instruction is executed? Why? Is this a problem?***
 First pass
-Write data = 0
+Write data = 0 (2 - 2)
 Write reg = 8
 Second pass
-Write data = 2
+Write data = 2 (2 - 0)
 Write reg = 8
 
 This is because the branch instruction format also uses the 5-bit rt and rs addressing, just like the other register operations
 ![[Pasted image 20250410134813.png]]
-Bit 16:20 is used to specify which register to write to (Write reg) and bit 21:25 is used to specify which register the data comes from, the value of which is stored in (Write data)
+Bit 21:25 is used to specify which register to write to (*Write reg*) and bit 16:20 is used to specify which register the data comes from, the value of which is stored in *Write data*.
+
+beq reads the value of rs and rt and uses the values in the ALU, subtracting rt from rs to see if they are equal. The other circuits that parse the full 32 bit instruction still also read rs and rt, which means Write reg and Write data are set just as normal<
+
 This is not a problem, because when the clock ticks the register list, RegWrite is 0, which means neither WriteReg or WriteData is relevant.
