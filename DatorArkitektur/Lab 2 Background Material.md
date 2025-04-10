@@ -36,3 +36,12 @@ Code will load 4 into $t0 with `lw $t0, 12($zero)` and will then decrease $t0 by
 | $t5 | 5       | 5       |
 | $t6 | 1       | 1       |
 ***Q5: What is the value of the Write data and the Write reg when the beq instruction is executed? Why? Is this a problem?***
+First pass
+Write data = 0
+Write reg = 8
+Second pass
+Write data = 2
+Write reg = 8
+
+This is because the 
+This is not a problem, because when the clock ticks the register list, RegWrite is 0, which means neither WriteReg or WriteData is relevant.
