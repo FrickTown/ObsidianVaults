@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DatorArkitektur/Lab 2 Background Material.md",
+                "file": "LinAlg 1/Formler och samband.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 2 Background Material"
+              "title": "Formler och samband"
             }
           },
           {
@@ -194,6 +194,8 @@
   },
   "active": "203c5d6a7a78f2c9",
   "lastOpenFiles": [
+    "DatorArkitektur/MIPS.md",
+    "DatorArkitektur/Lab 2 Background Material.md",
     "Pasted image 20250410134813.png",
     "Pasted image 20250410134512.png",
     "Pasted image 20250410130637.png",
@@ -203,14 +205,11 @@
     "Pasted image 20250408203130.png",
     "Pasted image 20250408194311.png",
     "Pasted image 20250408194242.png",
-    "DatorArkitektur/MIPS.md",
-    "DatorArkitektur/Lab 2 Background Material.md",
     "Logik_och_BevisTeknik/Föreläsning 1.md",
     "Logik_och_BevisTeknik",
     "LinAlg 1/Formler och samband.md",
     "DatorArkitektur",
     "Pasted image 20250321155822.png",
-    "LinAlgMönster.png",
     "snippets.md",
     "Algebra 1/Kongruens.md",
     "MatteKnawledge.md",
