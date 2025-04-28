@@ -47,6 +47,6 @@ This is because the branch instruction format also uses the 5-bit rt and rs addr
 ![[Pasted image 20250410134813.png]]
 Bit 21:25 is used to specify which register to write to (*Write reg*) and bit 16:20 is used to specify which register the data comes from, the value of which is stored in *Write data*.
 
-beq reads the value of rs and rt and uses the values in the ALU, subtracting rt from rs to see if they are equal. The other circuits that parse the full 32 bit instruction still also read rs and rt, which means Write reg and Write data are set just as normal<
+beq reads the value of rs and rt and uses the values in the ALU, subtracting rt from rs to see if they are equal. The other circuits that parse the full 32 bit instruction still also read rs and rt, which means Write reg and Write data are set just as normal.
 
 This is not a problem, because when the clock ticks the register list, RegWrite is 0, which means neither WriteReg or WriteData is relevant.
