@@ -74,3 +74,6 @@ sw $t3, 12($zero)
 - *Q4*: No. One would expect the fourth word in memory to equal 4, but it zeroes out.
 - *Q5*: Due to the pipelining, both addition instructions are performing their calculations with registers that have not yet been written to by lw. By the time sw reads register $t3, the $t1 and $t2 registers have only *just* gotten written to.
 - *Q6*: I again fixed it by stalling the pipeline, adding 3 waits between any read-req operation.
+# Forwarding Unit
+***Question 7**: With our forwarding added, have we now eliminated all need for pipeline stalls in the given test programs? Which types of hazards are covered by the current design so far (Give us an example)? If not, explain why, and how the pipeline could be further improved.*
+No. We have only solved hazards that do not involve memory read/writes. Additionall
