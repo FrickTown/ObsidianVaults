@@ -34,7 +34,7 @@ sw $t2, 0($zero)
 ```powershell
 lw $t1, 0($zero)
 sw $t1, 12($zero)
-# Q6 - Fixedf code
+# Q6 - Fixed code
 lw $t1, 0($zero)
 add $t0 $t0 $t0
 add $t0 $t0 $t0
@@ -54,8 +54,23 @@ lw $t2, 4($zero)
 add $t3, $t1, $t2
 add $t3, $t1, $t3
 sw $t3, 12($zero)
+# Q6 - Fixed code
+lw $t1, 0($zero)
+lw $t2, 4($zero)
+add $t0, $t0, $t0
+add $t0, $t0, $t0
+add $t0, $t0, $t0
+add $t3, $t1, $t2
+add $t0, $t0, $t0
+add $t0, $t0, $t0
+add $t0, $t0, $t0
+add $t3, $t1, $t3
+add $t0, $t0, $t0
+add $t0, $t0, $t0
+add $t0, $t0, $t0
+sw $t3, 12($zero)
 ```
 - *Q3*: It loads the first word in memory to $t1, the second word in memory to $t2, adds the sum of $t1 and $t2 into $t3, increments $t3 by $t1, and then stores the value in $t3 as the 4th word in memory.
 - *Q4*: No. One would expect the fourth word in memory to equal 4, but it zeroes out.
 - *Q5*: Due to the pipelining, both addition instructions are performing their calculations with registers that have not yet been written to by lw. By the time sw reads register $t3, the $t1 and $t2 registers have only *just* gotten written to.
-- *Q6*: 
+- *Q6*: I again fixed it by stalling the pipeline, adding 3 waits between any read-req operation.
