@@ -8,3 +8,10 @@ Because of the sign extension taking a bit of time, but we need to allow the nex
 - RegWrite, since its 1-bit value determines whether the data currently stored in "Write data" is to be written to a register.
 - MemToReg, since its 1-bit value determines whether to pass a value loaded from memory into "Write data" input of registers.
 #### MEM - Memory, the cycle segment where we are reading memory
+- MemRead belongs to this cycle, sort of self-explanatory. Its 1-bit value determines whether the address passed to the RAM is to be read from
+- MemWrite belongs to this cycle for the same reason. Its 1-bit value determines whether the address passed to the RAM is to be written to.
+- Branch is not as self explanatory. However, it belongs in this stage because if we are jumping, we are definitely not writing back to a register, but the branch jump calculation depends on the EX segment being clocked. For this reason, it belongs to the segment after EX, which happens to be MEM.
+#### EX - Execution signal, the cycle segment where calculations are made 
+- RegDst determines how the destination register (if one is to be written to) is interpreted from the instruction (either bits 20-16 or bits 15-11). This is vital because in the next segment of the cycle, the "Write reg" is potentially written to. 
+- ALUSrc determines if the second-source operand for the ALU is going to be Read data 2 or the sign-extended immediate. This is an EX signal because it needs to be determined before MEM, so that the ALU can calculate the memory address.
+- ALUOp is an EX signal for similar reasons to ALUSrc. We need to have sin
