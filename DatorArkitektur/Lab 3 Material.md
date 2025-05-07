@@ -27,8 +27,8 @@ Because of the sign extension taking a bit of time, but we need to allow the nex
 lw $t1, 0($zero)
 sw $t2, 0($zero)
 ```
-- Q3: The program loads the first word in memory and stores it in register $t1. It then writes the word in register $t2 (which is currently zero) to be the first word in memory.
-- Q4: Yes, it produces the expected result
+- *Q3*: The program loads the first word in memory and stores it in register $t1. It then writes the word in register $t2 (which is currently zero) to be the first word in memory.
+- *Q4*: Yes, it produces the expected result
 
 **Program 2**
 ```powershell
@@ -42,10 +42,10 @@ add $t0 $t0 $t0
 add $t0 $t0 $t0
 sw $t1, 12($zero)
 ```
-- Q3: The program loads the first word in memory and stores it in register $t1. It then writes the word in $t1 to the 4th word in memory.
-- Q4: No. One would expect the first word in memory to simply be copied to the 4th word in memory. The 4th word in memory becomes 0 instead.
-- Q5: Due to the pipelining, when the first instruction has reached its write-back phase, the second instruction is already in its MEM phase. In this phase, the value that is to be written to memory has already been fetched. This means $t1 was read as 0 before the first instruction had had the chance to change it.
-- Q6: I added 4 junk-instructions to the code, in order to delay the execution of the sw instruction by a full cycle, since WB happens at the end of a cycle.
+- *Q3*: The program loads the first word in memory and stores it in register $t1. It then writes the word in $t1 to the 4th word in memory.
+- *Q4*: No. One would expect the first word in memory to simply be copied to the 4th word in memory. The 4th word in memory becomes 0 instead.
+- *Q5*: Due to the pipelining, when the first instruction has reached its write-back phase, the second instruction is already in its MEM phase. In this phase, the value that is to be written to memory has already been fetched. This means $t1 was read as 0 before the first instruction had had the chance to change it.
+- *Q6*: I added 4 junk-instructions to the code, in order to delay the execution of the sw instruction by a full cycle, since WB happens at the end of a cycle.
 
 **Program 3**
 ```powershell
@@ -55,4 +55,7 @@ add $t3, $t1, $t2
 add $t3, $t1, $t3
 sw $t3, 12($zero)
 ```
-- Q3: It loads the first word in memory to $t1, the second word in memory to $t2, adds the sum of $t1 and $t2 into $t3, increments $t3 by $t1, and then stores the value in $t3 as the 4th word in memory.
+- *Q3*: It loads the first word in memory to $t1, the second word in memory to $t2, adds the sum of $t1 and $t2 into $t3, increments $t3 by $t1, and then stores the value in $t3 as the 4th word in memory.
+- *Q4*: No. One would expect the fourth word in memory to equal 4, but it zeroes out.
+- *Q5*: Due to the pipelining, both addition instructions are performing their calculations with registers that have not yet been written to by lw. By the time sw reads register $t3, the $t1 and $t2 registers have only *just* gotten written to.
+- *Q6*: 
