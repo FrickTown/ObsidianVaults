@@ -38,3 +38,26 @@ The CPU keeps checking the status of the device. Bad because the CPU is occupied
 ### Interrupts
 "Tell me when you're done, I'm doing something else meanwhile"
 Needs to save processor states for interrupts when they occur and we jump to a service routine.
+*We need to know which device generated interrupt*
+- Vectored interrupt, which means every device has its own interrupt address.
+- Status register, which is checked when an interrupt occurs and contains the address for the device that interrupted
+
+*Priority*, how do we handle multiple interrupts?
+An example is pressing a key while a disk is being read.
+We can either *mask*, which disables interrupts from other devices entirely while one is in progress, or *nest*, where we take an interrupt within an interrupt.
+If we miss an interrupt, we won't get the data.
+
+### OS Responsibilities
+OS ensures the I/O system is *shared* properly between devices, *causes* the interrupts, and manages drivers and state management.
+Needs to be user friendly, through protection and abstraction, and high-performant.
+
+# Ethernet 
+Differential serial communication which divides data into packets.
+Cyclic redundancy checksum (CRC) ensures data is not corrupted.
+![[Pasted image 20250507121332.png]]
+****An Ethernet packet***
+
+**Collisions can occur if two devices transmit at the same time.**
+- We detect the collision, by reading the data to see if another packet has corrupted it.
+- We continue for 51.2µs, so that everyone sees that collision.
+- We then wait for a random and increasing period of time and start again.
