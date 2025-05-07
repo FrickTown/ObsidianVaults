@@ -61,3 +61,6 @@ Cyclic redundancy checksum (CRC) ensures data is not corrupted.
 - We detect the collision, by reading the data to see if another packet has corrupted it.
 - We continue for 51.2µs, so that everyone sees that collision.
 - We then wait for a random and increasing period of time and start again.
+
+### We use network switches and buffer and route packages to the correct endpoints. This prevents collisions and simplifies network setup.
+
