@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aae189146dd1a9d8",
+        "id": "a28b0446ab75646f",
         "type": "tabs",
         "children": [
           {
-            "id": "347ee99d4739e542",
+            "id": "21c16c5af7921d60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,11 +177,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "347ee99d4739e542",
+  "active": "b4ba1a0121e9df10",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "DatorArkitektur/Lab 3 Material.md",
     "DatorArkitektur/Input & Output.md",
     "Pasted image 20250507121332.png",
-    "DatorArkitektur/Lab 3 Material.md",
     "DatorArkitektur/MIPS.md",
     "DatorArkitektur/Lab 2 Background Material.md",
     "snippets.md",
@@ -208,7 +209,6 @@
     "Intro till IT/Micro-bit Projektförslag (Grupp 3).md",
     "Intro till IT/Introduktion.md",
     "Intro till IT/Artificiell Intelligens i Datorspel.md",
-    "Untitled Kanban.md",
     "Algebra 1",
     "Intro till IT/[M1]-Studenttjänster.md",
     "Intro till IT/jafr3967_studenttjanster.txt",

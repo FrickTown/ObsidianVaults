@@ -15,5 +15,15 @@ Because of the sign extension taking a bit of time, but we need to allow the nex
 - RegDst determines how the destination register (if one is to be written to) is interpreted from the instruction (either bits 20-16 or bits 15-11). This is vital because in the next segment of the cycle, the "Write reg" is potentially written to. 
 - ALUSrc determines if the second-source operand for the ALU is going to be Read data 2 or the sign-extended immediate. This is an EX signal because it needs to be determined before MEM, so that the ALU can calculate the memory address.
 - ALUOp is an EX signal for similar reasons to ALUSrc. We need to have set up all necessary inputs for the ALU so that it can do its calculation in the next cycle segment.  
-#  
-sdfsdf
+##  Test programs
+```YAML
+lw $t1, 0($zero)
+sw $t2, 0($zero)
+```
+For each program, answer the following questions:
+Question 3: What does the program do?
+Question 4: If you execute the code on your pipelined processor, does it work? (Does it produce the
+expected result?)
+Question 5: If the answer to Question 4 is NO, explain why?
+Question 6: If the answer to Question 4 is NO, change the code so it will work. (Hint: you can use the
+online MIPS assemblera to compile new code and save it in your own .mem file to test.)
