@@ -34,11 +34,19 @@ sw $t2, 0($zero)
 ```powershell
 lw $t1, 0($zero)
 sw $t1, 12($zero)
+# Q6 - Fixedf code
+lw $t1, 0($zero)
+add $t0 $t0 $t0
+add $t0 $t0 $t0
+add $t0 $t0 $t0
+add $t0 $t0 $t0
+sw $t1, 12($zero)
 ```
 - Q3: The program loads the first word in memory and stores it in register $t1. It then writes the word in $t1 to the 4th word in memory.
 - Q4: No. One would expect the first word in memory to simply be copied to the 4th word in memory. The 4th word in memory becomes 0 instead.
 - Q5: Due to the pipelining, when the first instruction has reached its write-back phase, the second instruction is already in its MEM phase. In this phase, the value that is to be written to memory has already been fetched. This means $t1 was read as 0 before the first instruction had had the chance to change it.
-- Q6
+- Q6: I added 4 junk-instructions to the code, in order to delay the execution of the sw instruction by a full cycle, since WB happens at the end of a cycle.
+
 **Program 3**
 ```powershell
 lw $t1, 0($zero)
@@ -47,8 +55,4 @@ add $t3, $t1, $t2
 add $t3, $t1, $t3
 sw $t3, 12($zero)
 ```
-For each program, answer the following questions:
-Question 3: What does the program do?
-Question 4: If you execute the code on your pipelined processor, does it work? (Does it produce the expected result?)
-Question 5: If the answer to Question 4 is NO, explain why?
-Question 6: If the answer to Question 4 is NO, change the code so it will work. (Hint: you can use the online MIPS assemblera to compile new code and save it in your own .mem file to test.)
+- Q3: It loads the first word in memory to $t1, the second word in memory to $t2, adds the sum of $t1 and $t2 into $t3, increments $t3 by $t1, and then stores the value in $t3 as the 4th word in memory.
