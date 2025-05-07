@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DatorArkitektur/Lab 3 Material.md",
+                "file": "DatorArkitektur/Input & Output.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab 3 Material"
+              "title": "Input & Output"
             }
           }
         ]
@@ -179,9 +179,10 @@
   },
   "active": "347ee99d4739e542",
   "lastOpenFiles": [
+    "DatorArkitektur/Lab 3 Material.md",
+    "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/MIPS.md",
     "DatorArkitektur/Lab 2 Background Material.md",
-    "DatorArkitektur/Lab 3 Material.md",
     "snippets.md",
     "LinAlg 1/Formler och samband.md",
     "Pasted image 20250410134813.png",
@@ -227,7 +228,6 @@
     "Untitled Kanban 1.md",
     "Små anteckningar.md",
     "Gula Blommor.canvas",
-    "ReadMe.md.md",
     "Träd.canvas",
     "Snabbnyckel (Familj).canvas"
   ]
