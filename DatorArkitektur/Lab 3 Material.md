@@ -76,4 +76,4 @@ sw $t3, 12($zero)
 - *Q6*: I again fixed it by stalling the pipeline, adding 3 waits between any read-req operation.
 # Forwarding Unit
 ***Question 7**: With our forwarding added, have we now eliminated all need for pipeline stalls in the given test programs? Which types of hazards are covered by the current design so far (Give us an example)? If not, explain why, and how the pipeline could be further improved.*
-No. We have only solved hazards that do not involve memory read/writes. Additionall
+No. We have only solved hazards that do not involve memory read/writes. Additionally, if an instruction relies on the value of a registry that is not going to be written to until the next clock tick, we will use incorrect data. We need a way to forward from WB to EX as well.
