@@ -37,7 +37,8 @@ sw $t1, 12($zero)
 ```
 - Q3: The program loads the first word in memory and stores it in register $t1. It then writes the word in $t1 to the 4th word in memory.
 - Q4: No. One would expect the first word in memory to simply be copied to the 4th word in memory. The 4th word in memory becomes 0 instead.
-- Q5: Due to the pipelining, when the first instruction has reached its write-back phase, the second instruction is already in its MEM phase. In this phase, the value that is to be written to memory has already been fetched. 
+- Q5: Due to the pipelining, when the first instruction has reached its write-back phase, the second instruction is already in its MEM phase. In this phase, the value that is to be written to memory has already been fetched. This means $t1 was read as 0 before the first instruction had had the chance to change it.
+- Q6
 **Program 3**
 ```powershell
 lw $t1, 0($zero)
