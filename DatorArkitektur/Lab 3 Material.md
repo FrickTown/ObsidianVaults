@@ -1,7 +1,5 @@
 *Q1: Why are we saving bits 20-16 and 15-11 of the instruction? How are they used, and why do we not save the whole instruction?*
-These bits determine the write register, depending on the format of the instruction we either use 20-16 or 15-11 for the 5-bit reference to the register. 
-If we were to save the whole instruction 
-Because of the sign extension taking a bit of time, but we need to allow the next instruction 
+These bits determine the destination register, depending on the format of the instruction we either use 20-16 or 15-11 for the 5-bit reference to the register. 
 
 *Question 2: For each of the signals from the control circuit, explain why is it a write-back (WB), memory (MEM) or execution signal (EX).*
 #### WB - Write Back, Infers writing back into registers at the end of a cycle.
@@ -73,7 +71,10 @@ sw $t3, 12($zero)
 - *Q3*: It loads the first word in memory to $t1, the second word in memory to $t2, adds the sum of $t1 and $t2 into $t3, increments $t3 by $t1, and then stores the value in $t3 as the 4th word in memory.
 - *Q4*: No. One would expect the fourth word in memory to equal 4, but it zeroes out.
 - *Q5*: Due to the pipelining, both addition instructions are performing their calculations with registers that have not yet been written to by lw. By the time sw reads register $t3, the $t1 and $t2 registers have only *just* gotten written to.
-- *Q6*: I again fixed it by stalling the pipeline, adding 3 waits between any read-req operation.
+- *Q6*: I again fixed it by stalling the pipeline, adding 3 waits between any read-reg operation.
 # Forwarding Unit
 ***Question 7**: With our forwarding added, have we now eliminated all need for pipeline stalls in the given test programs? Which types of hazards are covered by the current design so far (Give us an example)? If not, explain why, and how the pipeline could be further improved.*
 No. We have only solved hazards that do not involve memory read/writes. Additionally, if an instruction relies on the value of a registry that is not going to be written to until the next clock tick, we will use incorrect data. We need a way to forward from WB to EX as well.
+
+**Question 8:** *With our forwarding added, have we now eliminated all need for pipeline stalls in the given test programs? If not, explain why, and how the pipeline could be further improved.*
+No, we still have not solved hazards that involve memory read/writes.
