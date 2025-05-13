@@ -77,4 +77,4 @@ sw $t3, 12($zero)
 No. We have only solved hazards that do not involve memory read/writes. Additionally, if an instruction relies on the value of a registry that is not going to be written to until the next clock tick, we will use incorrect data. We need a way to forward from WB to EX as well.
 
 **Question 8:** *With our forwarding added, have we now eliminated all need for pipeline stalls in the given test programs? If not, explain why, and how the pipeline could be further improved.*
-No, we still have not solved hazards that involve memory read/writes.
+No, we still have not solved hazards that involve memory read/writes.2
