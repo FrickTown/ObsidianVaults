@@ -13,4 +13,10 @@
 	- ![[Pasted image 20250515163338.png]]
 	- ![[Pasted image 20250515163555.png]]
 6. *At this “optimal” cache size (question 5) with the “direct mapping” option, what hit rates do you obtain by changing the block size? Try & report the hit rates with the sizes 4 bytes, 8 bytes and 16 bytes (you should keep cache size the same).*
+	- ![[Pasted image 20250515164340.png]]
+	- ![[Pasted image 20250515164410.png]]
+	- ![[Pasted image 20250515164452.png]]
+	- ![[Pasted image 20250515164519.png]]
+	- ![[Pasted image 20250515164541.png]]
 7. *Show how the achieved hit rate (as shown by simulator) can be computed (by hand) for different block sizes for the “optimal” cache size you found in question 5. Hint: what is the size of a single element in the array?*
+# Part 2
