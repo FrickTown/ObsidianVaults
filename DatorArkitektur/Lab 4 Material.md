@@ -16,8 +16,15 @@
 	- ![[Pasted image 20250515164340.png]]
 	- ![[Pasted image 20250515164410.png]]
 	- ![[Pasted image 20250515164452.png]]
-	- ![[Pasted image 20250515164519.png]]
-	- ![[Pasted image 20250515164541.png]]
 7. *Show how the achieved hit rate (as shown by simulator) can be computed (by hand) for different block sizes for the “optimal” cache size you found in question 5. Hint: what is the size of a single element in the array?*
-	- $\frac{Cache\ size}{Block\ size\ (bytes)}$ 
+	- $Memory\ Access\ Count - \frac{Cache\ size}{Block\ size\ (bytes)}$ 
 # Part 2
+1. *Does the hit rate improve? Why? (show computation)*
+	1. 
+2. *Change the Block Size to 8 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
+3. *Change the Block Size to 16 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
+4. *Change the Cache Size to 1024 bytes and Reset the Block Size to 4 bytes. What is the hit rate? Compute this hit rate by hand.*
+5. *Change Block Size to 8 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
+6. *Change Block Size to 16 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
+7. *Can a perfect hit rate of 1.0 be achieved without changing the program? Why?*
+
