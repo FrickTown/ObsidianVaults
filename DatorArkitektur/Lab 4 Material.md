@@ -19,5 +19,5 @@
 	- ![[Pasted image 20250515164519.png]]
 	- ![[Pasted image 20250515164541.png]]
 7. *Show how the achieved hit rate (as shown by simulator) can be computed (by hand) for different block sizes for the “optimal” cache size you found in question 5. Hint: what is the size of a single element in the array?*
-	- 1024 / 
+	- $\frac{Cache\ size}{Block\ size\ (bytes)}$ 
 # Part 2
