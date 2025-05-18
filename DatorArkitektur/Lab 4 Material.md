@@ -33,6 +33,8 @@ $$\frac{MAC}{MAC - \frac{Cache\ size}{Block\ size\ (bytes)}}$$
 4. *Change the Cache Size to 1024 bytes and Reset the Block Size to 4 bytes. What is the hit rate? Compute this hit rate by hand.*
 	- 90% hit rate. We will go through the full array once, loading each word and storing it in memory. This means we will miss the first 256 memory accesses. After the first pass we will have all data needed for the following 9 iterations.
 5. *Change Block Size to 8 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
+	- $$\frac{(256 * \frac{4}{8}) + 9 * 256}{256 * 10}$$
+	- 95% hit rate. Just like in question 4, with dash of question 2, we have to pass over the entire array once to load all the data into memory. However, this time, since we're loading 2 consecutive words at a time, we halve the miss rate of that first pass.
 6. *Change Block Size to 16 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
 7. *Can a perfect hit rate of 1.0 be achieved without changing the program? Why?*
 
