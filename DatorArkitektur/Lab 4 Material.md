@@ -13,15 +13,25 @@
 	- ![[Pasted image 20250515163338.png]]
 	- ![[Pasted image 20250515163555.png]]
 6. *At this “optimal” cache size (question 5) with the “direct mapping” option, what hit rates do you obtain by changing the block size? Try & report the hit rates with the sizes 4 bytes, 8 bytes and 16 bytes (you should keep cache size the same).*
-	- ![[Pasted image 20250515164340.png]]
-	- ![[Pasted image 20250515164410.png]]
+With a cache size of 1024 and 2560 memory accesses:
+
+| Block size (bytes) | Hit count |
+| ------------------ | --------- |
+| 4                  | 2304      |
+| 8                  | 2432      |
+| 16                 | 2496      |
+
+
+- ![[Pasted image 20250515164340.png]]
+- ![[Pasted image 20250515164410.png]]
 	- ![[Pasted image 20250515164452.png]]
 7. *Show how the achieved hit rate (as shown by simulator) can be computed (by hand) for different block sizes for the “optimal” cache size you found in question 5. Hint: what is the size of a single element in the array?*
 	- $Memory\ Access\ Count - \frac{Cache\ size}{Block\ size\ (bytes)}$ 
 # Part 2
 1. *Does the hit rate improve? Why? (show computation)*
-	1. 
+	- No, it is still 0%.
 2. *Change the Block Size to 8 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
+	- Yes. Because the block size is now 8 bytes, when we try to fetch a word in memory and the word is not there, we load it, and also the word succeeding it. This means that the next memory access is guaranteed to be a hit, promising a 50% hit rate.
 3. *Change the Block Size to 16 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
 4. *Change the Cache Size to 1024 bytes and Reset the Block Size to 4 bytes. What is the hit rate? Compute this hit rate by hand.*
 5. *Change Block Size to 8 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
