@@ -4,7 +4,7 @@
 2. *How many misses do we have in total? How many of them are compulsory misses? Explain your answer.*
 	- 2560, all are compulsory. We cannot fit the whole array (1024 bytes) into cache (512 bytes)
 3. *Change the block size from 4 bytes to 8 bytes but keep the cache size to 512 bytes (reduce the number of blocks accordingly). How are the compulsory misses affected when Block Size is changed from 4 bytes to 8 bytes? Is there any change, why/why not?*
-	- They remain the same. Now we can just fit two words in a block, but we still cannot fit the whole array into cache, so the problem persists.
+	- The number of compulsory misses are technically halved, since we load two words at a time. However, the two words we load at the same time succeed each other *horizontally*, but we are reading the 2D-array *vertically*.  We still cannot fit the whole array into cache, so the problem persists.
 4. *Change the block size back to 4 again, and change the mapping from “direct mapping” to “2- ways set associative”? Cache size should be 512 bytes again, change the number of blocks accordingly. Is there any change in number/types of misses comparing “direct mapping” vs. “2-ways set associative” of the same size, why/why not?*
 	- No, there is no change. We still have a 512 byte size. We have reduced the number of rows to access, likely to a performance benefit. But we still cannot fit the whole array, and due to LRU replacement policy, we will never luck out. 
 5. *With the block size of 4, experiment with different cache sizes by changing the number of blocks. Try with both “direct mapping and “2-ways set associative”. How the hit rate is improved? At which point changing the cache size does not affect the hit rate?*
@@ -27,7 +27,7 @@ $$\frac{MAC}{MAC - \frac{Cache\ size}{Block\ size\ (bytes)}}$$
 1. *Does the hit rate improve? Why? (show computation)*
 	- No, it is still 0%. This is because we still load words individually as we need them, but we will never need a word again before it has already been evicted for newer data.512
 2. *Change the Block Size to 8 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
-	- $$\frac{512}{4}$$
+	- $$\frac{512}{}$$
 	- Yes. Because the block size is now 8 bytes, when we try to fetch a word in memory and the word is not there, we load it, and also the word succeeding it. This means that the next memory access is guaranteed to be a hit, promising a 50% hit rate.
 3. *Change the Block Size to 16 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
 	- Yes, just like in question 2, since each block is now 16 bytes, we can fit 4 sequential words, guaranteeing a 75% hit rate.
