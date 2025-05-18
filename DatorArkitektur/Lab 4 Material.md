@@ -20,20 +20,18 @@ With a cache size of 1024 and 2560 memory accesses:
 | 4                  | 2304      |
 | 8                  | 2432      |
 | 16                 | 2496      |
-
-
-- ![[Pasted image 20250515164340.png]]
-- ![[Pasted image 20250515164410.png]]
-	- ![[Pasted image 20250515164452.png]]
 7. *Show how the achieved hit rate (as shown by simulator) can be computed (by hand) for different block sizes for the “optimal” cache size you found in question 5. Hint: what is the size of a single element in the array?*
-	- $Memory\ Access\ Count - \frac{Cache\ size}{Block\ size\ (bytes)}$ 
+		MAC = Memory Access Count
+$$\frac{MAC}{MAC - \frac{Cache\ size}{Block\ size\ (bytes)}}$$
 # Part 2
 1. *Does the hit rate improve? Why? (show computation)*
-	- No, it is still 0%.
+	- No, it is still 0%. This is because we still load words individually as we need them, but we will never need a word again before it has already been evicted for newer data.
 2. *Change the Block Size to 8 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
 	- Yes. Because the block size is now 8 bytes, when we try to fetch a word in memory and the word is not there, we load it, and also the word succeeding it. This means that the next memory access is guaranteed to be a hit, promising a 50% hit rate.
 3. *Change the Block Size to 16 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
+	- Yes, just like in question 2, since each block is now 16 bytes, we can fit 4 sequential words, guaranteeing a 75% hit rate.
 4. *Change the Cache Size to 1024 bytes and Reset the Block Size to 4 bytes. What is the hit rate? Compute this hit rate by hand.*
+	- 90% hit rate. We will go through the full array once, loading each word and storing it in memory. This means we will miss the first 256 memory accesses. After the first pass we will have all data needed for the following 9 iterations.
 5. *Change Block Size to 8 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
 6. *Change Block Size to 16 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
 7. *Can a perfect hit rate of 1.0 be achieved without changing the program? Why?*
