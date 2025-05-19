@@ -19,7 +19,7 @@ With a cache size of 1024 and 2560 memory accesses:
 | 16                 | 2496      |
 7. *Show how the achieved hit rate (as shown by simulator) can be computed (by hand) for different block sizes for the “optimal” cache size you found in question 5. Hint: what is the size of a single element in the array?*
 		MAC = Memory Access Count
-$$\frac{MAC}{MAC - \frac{Cache\ size}{Block\ size\ (bytes)}}$$
+$$\frac{MAC - \frac{Cache\ size}{Block\ size\ (bytes)}}{MAC}$$
 # Part 2
 1. *Does the hit rate improve? Why? (show computation)*
 	- $$1 - \frac{4}{4} = 0$$
@@ -39,4 +39,4 @@ $$\frac{MAC}{MAC - \frac{Cache\ size}{Block\ size\ (bytes)}}$$
 	- $$\frac{1*\frac{3}{4}+9*\frac{1}{1}}{10} = 97.5\% $$
 	- Predictably, this yields a 97.5% hit rate.
 7. *Can a perfect hit rate of 1.0 be achieved without changing the program? Why?*
-- No. We will have to load the data from somewhere.  
+- No. We will have to load the data from somewhere at some point. Even if we load the entire array from the first memory access by using a block size of 256 words, that's still a single miss. Mars would round the number up to 100%, but it's actually 2559/2560. We could rewrite the program to generate the array, but then we would still need to write to the cache. 
