@@ -8,10 +8,7 @@
 4. *Change the block size back to 4 again, and change the mapping from “direct mapping” to “2- ways set associative”? Cache size should be 512 bytes again, change the number of blocks accordingly. Is there any change in number/types of misses comparing “direct mapping” vs. “2-ways set associative” of the same size, why/why not?*
 	- No, there is no change. We still have a 512 byte size. We have reduced the number of rows to access, likely to a performance benefit. But we still cannot fit the whole array, and due to LRU replacement policy, we will never luck out. 
 5. *With the block size of 4, experiment with different cache sizes by changing the number of blocks. Try with both “direct mapping and “2-ways set associative”. How the hit rate is improved? At which point changing the cache size does not affect the hit rate?*
-	- ![[Pasted image 20250515163648.png]]
-	- ![[Pasted image 20250515163312.png]]
-	- ![[Pasted image 20250515163338.png]]
-	- ![[Pasted image 20250515163555.png]]
+	- At a block count of 256, a cache size of 1024, we get a 90% hit rate. It does not improve with larger cache sizes, since we can already fit the entire array of 64 * 4 words 
 6. *At this “optimal” cache size (question 5) with the “direct mapping” option, what hit rates do you obtain by changing the block size? Try & report the hit rates with the sizes 4 bytes, 8 bytes and 16 bytes (you should keep cache size the same).*
 With a cache size of 1024 and 2560 memory accesses:
 
@@ -41,4 +38,4 @@ $$\frac{MAC}{MAC - \frac{Cache\ size}{Block\ size\ (bytes)}}$$
 	- $$\frac{(256 * \frac{4}{16}) + 9 * 256}{256 * 10}$$
 	- Predictably, this yields a 97.5% hit rate.
 7. *Can a perfect hit rate of 1.0 be achieved without changing the program? Why?*
-- No. We will have to load the data from somewhere. 
+- No. We will have to load the data from somewhere.  
