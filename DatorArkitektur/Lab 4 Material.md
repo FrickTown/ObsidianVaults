@@ -30,13 +30,13 @@ $$\frac{MAC - \frac{Cache\ size}{Block\ size\ (bytes)}}{MAC}$$
 3. *Change the Block Size to 16 bytes (keep the cache size the same, 512 bytes)? Does the hit rate improve? Why? (show computation)*
 	- Yes, just like in question 2, since each block is now 16 bytes, we can fit 4 sequential words, guaranteeing a 75% hit rate.
 4. *Change the Cache Size to 1024 bytes and Reset the Block Size to 4 bytes. What is the hit rate? Compute this hit rate by hand.*
-	- $$\frac{Hit\ rate_{first} + Hit\ rate_{remaining}}{Iterations} = \frac{1*\frac{1}{2}+9*\frac{1}{1}}{10}$$
+	- $$\frac{Hit\ rate_{first} + Hit\ rate_{remaining}}{Iterations} = \frac{1* (1-\frac{4}{4})+9*\frac{4}{4}}{10} = 90\%$$
 	- 90% hit rate. We will go through the full array once, loading each word and storing it in memory. This means we will miss the first 256 memory accesses. After the first pass we will have all data needed for the following 9 iterations.
 5. *Change Block Size to 8 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
-	- $$\frac{(256 * \frac{4}{8}) + 9 * 256}{256 * 10}$$
+	- $$\frac{1 * (1-\frac{4}{8}) + 9 * \frac{4}{4}}{10} = 95\%$$
 	- 95% hit rate. Just like in question 4, with dash of question 2, we have to pass over the entire array once to load all the data into memory. However, this time, since we're loading 2 consecutive words at a time, we halve the miss rate of that first pass.
 6. *Change Block Size to 16 bytes (cache size is 1024 bytes now). What is the hit rate? Compute this hit rate by hand*
-	- $$\frac{1*\frac{3}{4}+9*\frac{1}{1}}{10} = 97.5\% $$
+	- $$\frac{1*(1-\frac{4}{16})+9*\frac{4}{4}}{10} = 97.5\% $$
 	- Predictably, this yields a 97.5% hit rate.
 7. *Can a perfect hit rate of 1.0 be achieved without changing the program? Why?*
 - No. We will have to load the data from somewhere at some point. Even if we load the entire array from the first memory access by using a block size of 256 words, that's still a single miss. Mars would round the number up to 100%, but it's actually 2559/2560. We could rewrite the program to generate the array, but then we would still need to write to the cache. 
