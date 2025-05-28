@@ -14,10 +14,11 @@ Since the tag for a line is 30 bits, we want to make use of each tag as much as 
 ### Direct-mapped
 Each address maps to one line in the cache. This is done using modulo. Address % Line-count = Tag.
 This means we always know exactly which line to search. We check the line for the data we want using a single comparator.
+Reasonable because we often want to use sequential data anyway.
 ### Fully associative
 Every block is read every cache-read, using the same number of comparators as we have lines in the cache.
 ### N-way set associative
-
+Allow non-sequential data to be contained on each line. For every N set we need N comparators.
 ## Writing to caches
 ### Write-through
 Write *directly to memory*. Anytime we do write, we also write to cache.
