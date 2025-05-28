@@ -26,18 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dae2bc6ab8adfc2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DatorArkitektur/Exam/2024-Apr.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2024-Apr"
-            }
-          },
-          {
             "id": "3ce0e81197b56de3",
             "type": "leaf",
             "state": {
@@ -65,8 +53,7 @@
               "title": "Input & Output"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,12 +209,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ce0e81197b56de3",
+  "active": "b4ba1a0121e9df10",
   "lastOpenFiles": [
     "DatorArkitektur/Exam/2024-Apr.md",
-    "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.pdf",
+    "DatorArkitektur/Caches.md",
     "DatorArkitektur/Input & Output.md",
+    "DatorArkitektur/Media/Screenshot_20250528_192843.png",
     "BasMatte/MatteKnawledge.md",
     "DatorArkitektur/Exam",
     "Logik_och_BevisTeknik/Föreläsning 1.md",
@@ -249,7 +237,6 @@
     "DatorArkitektur/Media/Pasted image 20250408194311.png",
     "DatorArkitektur/Media/Pasted image 20250408203130.png",
     "DatorArkitektur/Media/Pasted image 20250408204408.png",
-    "DatorArkitektur/Media/Pasted image 20250515163312.png",
     "DatorArkitektur/Lab 4 Material.md",
     "DatorArkitektur/MIPS.md",
     "LinAlg 1/Formler och samband.md",
@@ -271,7 +258,6 @@
     "ReadMe.md",
     "Inventering av Gredelby naturreservat.md",
     "Lätta disktinktioner.canvas",
-    "Lätta Distinktioner.md",
     "Gula Blommor.canvas",
     "Träd.canvas",
     "Snabbnyckel (Familj).canvas"
