@@ -40,6 +40,20 @@
             }
           },
           {
+            "id": "4f3f8983b544d00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Branch Predictions, Exceptions, Interrupts"
+            }
+          },
+          {
             "id": "77c93de938d208b0",
             "type": "leaf",
             "state": {
@@ -53,7 +67,8 @@
               "title": "Input & Output"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +121,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,16 +224,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ce0e81197b56de3",
+  "active": "4f3f8983b544d00a",
   "lastOpenFiles": [
-    "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
     "DatorArkitektur/Exam/2024-Apr.md",
+    "DatorArkitektur/Input & Output.md",
+    "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
+    "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
     "DatorArkitektur/Media/Screenshot_20250530_154148.png",
     "Pasted image 20250530154132.png",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.pdf",
     "DatorArkitektur/Virtual Memory.md",
-    "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/MIPS.md",
     "DatorArkitektur/Media/Pasted image 20250528194311.png",
     "DatorArkitektur/Media/Screenshot_20250528_192843.png",
