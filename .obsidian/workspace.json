@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Caches",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,15 +210,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "21c16c5af7921d60",
+  "active": "3ce0e81197b56de3",
   "lastOpenFiles": [
-    "DatorArkitektur/Exam/2024-Apr.md",
     "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
-    "DatorArkitektur/Exam/2024-Apr.pdf",
-    "DatorArkitektur/Virtual Memory.md",
     "DatorArkitektur/Caches.md",
-    "DatorArkitektur/Media/Pasted image 20250528194311.png",
+    "DatorArkitektur/Exam/2024-Apr.pdf",
+    "DatorArkitektur/Exam/2024-Apr.md",
+    "DatorArkitektur/Virtual Memory.md",
     "DatorArkitektur/Input & Output.md",
+    "DatorArkitektur/MIPS.md",
+    "DatorArkitektur/Media/Pasted image 20250528194311.png",
     "DatorArkitektur/Media/Screenshot_20250528_192843.png",
     "BasMatte/MatteKnawledge.md",
     "DatorArkitektur/Exam",
@@ -240,7 +242,6 @@
     "DatorArkitektur/Media/Pasted image 20250408194311.png",
     "DatorArkitektur/Media/Pasted image 20250408203130.png",
     "DatorArkitektur/Lab 4 Material.md",
-    "DatorArkitektur/MIPS.md",
     "LinAlg 1/Formler och samband.md",
     "Logik_och_BevisTeknik",
     "DatorArkitektur",
