@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "DatorArkitektur/Exam/2024-Apr.pdf"
+                "file": "DatorArkitektur/Exam/2024-Apr-Solutions.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2024-Apr"
+              "title": "2024-Apr-Solutions"
             }
           }
         ]
@@ -209,11 +209,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "21c16c5af7921d60",
+  "active": "3ce0e81197b56de3",
   "lastOpenFiles": [
+    "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
     "DatorArkitektur/Exam/2024-Apr.md",
-    "DatorArkitektur/Virtual Memory.md",
     "DatorArkitektur/Exam/2024-Apr.pdf",
+    "DatorArkitektur/Virtual Memory.md",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Media/Pasted image 20250528194311.png",
     "DatorArkitektur/Input & Output.md",
@@ -252,12 +253,10 @@
     "IntroIT/Artificiell Intelligens i Datorspel.md",
     "Algebra 1",
     "Intro till IT/[M1]-Studenttjänster.md",
-    "IntroIT/jafr3967_studenttjanster.txt",
     "SGT Planering.canvas",
     "Dagsplanering Juli 2024.md",
     "Juli 2024.md",
     "ReadMe.md",
-    "Inventering av Gredelby naturreservat.md",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
     "Träd.canvas",
