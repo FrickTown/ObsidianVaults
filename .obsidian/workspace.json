@@ -43,14 +43,12 @@
             "id": "77c93de938d208b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DatorArkitektur/Input & Output.md",
-                "mode": "source",
-                "source": false
+                "file": "DatorArkitektur/Exam/2023-June-solutions.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Input & Output"
+              "icon": "lucide-file-text",
+              "title": "2023-June-solutions"
             }
           }
         ]
@@ -210,10 +208,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3ce0e81197b56de3",
+  "active": "21c16c5af7921d60",
   "lastOpenFiles": [
-    "DatorArkitektur/Exam/2023-June.pdf",
     "DatorArkitektur/Exam/2023-June.md",
+    "DatorArkitektur/Exam/2023-June.pdf",
     "DatorArkitektur/Exam/2023-June-solutions.pdf",
     "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
