@@ -18,6 +18,18 @@
               "icon": "lucide-file-text",
               "title": "2023-June"
             }
+          },
+          {
+            "id": "77c93de938d208b0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DatorArkitektur/Exam/2023-June-solutions.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2023-June-solutions"
+            }
           }
         ]
       },
@@ -51,18 +63,6 @@
               },
               "icon": "lucide-file",
               "title": "2024-Apr"
-            }
-          },
-          {
-            "id": "77c93de938d208b0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DatorArkitektur/Exam/2023-June-solutions.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2023-June-solutions"
             }
           }
         ]
@@ -222,12 +222,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "21c16c5af7921d60",
+  "active": "3ce0e81197b56de3",
   "lastOpenFiles": [
-    "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Exam/2023-June.pdf",
-    "DatorArkitektur/Exam/2024-Apr.md",
+    "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Exam/2023-June-solutions.pdf",
+    "DatorArkitektur/Exam/2024-Apr.md",
     "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
     "DatorArkitektur/Exam/2024-Apr.pdf",
