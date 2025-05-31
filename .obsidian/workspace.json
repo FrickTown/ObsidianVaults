@@ -31,7 +31,8 @@
               "title": "2023-June-solutions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b93f397efd6a0323",
@@ -224,14 +225,14 @@
   },
   "active": "3ce0e81197b56de3",
   "lastOpenFiles": [
-    "DatorArkitektur/Exam/2023-June.pdf",
-    "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Exam/2023-June-solutions.pdf",
+    "DatorArkitektur/Exam/2023-June.md",
+    "DatorArkitektur/Exam/2023-June.pdf",
+    "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
     "DatorArkitektur/Exam/2024-Apr.pdf",
-    "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
     "DatorArkitektur/Media/Pasted image 20250530161314.png",
     "Pasted image 20250530154132.png",
     "DatorArkitektur/Media/Screenshot_20250530_154148.png",
