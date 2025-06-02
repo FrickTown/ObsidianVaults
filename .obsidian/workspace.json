@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DatorArkitektur/Presentation.md",
+                "file": "DatorArkitektur/Parallelism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentation"
+              "title": "Parallelism"
             }
           },
           {
@@ -225,10 +225,14 @@
   },
   "active": "21c16c5af7921d60",
   "lastOpenFiles": [
+    "DatorArkitektur/Presentation.md",
+    "DatorArkitektur/Lab 2 Background Material.md",
+    "DatorArkitektur/Input & Output.md",
+    "DatorArkitektur/Caches.md",
+    "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
     "Pasted image 20250602155113.png",
     "DatorArkitektur/Exam/2023-June-solutions.pdf",
-    "DatorArkitektur/Presentation.md",
     "Pasted image 20250602161638.png",
     "Pasted image 20250602161329.png",
     "Pasted image 20250602160630.png",
@@ -237,8 +241,6 @@
     "DatorArkitektur/Exam/2023-June.pdf",
     "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Exam/2024-Apr.md",
-    "DatorArkitektur/Caches.md",
-    "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/Lab 3 Material.md",
     "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
     "DatorArkitektur/Exam/2024-Apr.pdf",
@@ -257,7 +259,6 @@
     "Projektförslag 1.md",
     "snippets.md",
     "LinAlg 1/Media",
-    "DatorArkitektur/Lab 2 Background Material.md",
     "DatorArkitektur/Media",
     "DatorArkitektur/Lab 4 Material.md",
     "LinAlg 1/Formler och samband.md",
