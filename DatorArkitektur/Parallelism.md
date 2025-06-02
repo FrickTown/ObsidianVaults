@@ -8,6 +8,8 @@ The power for a transistor is $P = CV^{2}f$ where *C* is the capacitance, *V* is
 Voltage is most effective way to reduce power but since *silicon has a threshold voltage* where it doesn't work properly we cannot reduce it more.
 We* can't just increase frequency*, because it would increase the power.
 
-***This is why multicore is a thing***. But not all programs are designed to 
+***This is why multicore is a thing***. But not all programs are designed to make use of it.
 
-## Parallel Programming
+## Parallel Difficulties
+
+
