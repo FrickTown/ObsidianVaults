@@ -54,4 +54,5 @@ This means we can sometimes do 2 instructions per cycle. This naturally causes m
 ### Superscalar
 100 instruction look-ahead to find which are independent. We can do all the independent instructions out of order, and therefore in parallel easily.
 
-We would need an instruction storage as a pool, we'd need a scheduler, and we'd need a buffer
+We would need an instruction storage as a pool, we'd need a scheduler, and we'd need a buffer at the end to finish them in order.
+

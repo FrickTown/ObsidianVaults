@@ -33,7 +33,8 @@
               "title": "2024-Apr"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b93f397efd6a0323",
@@ -67,7 +68,8 @@
               "title": "2024-Apr"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -223,14 +226,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "21c16c5af7921d60",
+  "active": "13ff5a382b44f7cf",
   "lastOpenFiles": [
-    "DatorArkitektur/Cheat Sheet.md",
-    "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/Exam/2024-Apr.pdf",
-    "DatorArkitektur/Exam/2023-June-solutions.pdf",
-    "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Exam/2024-Apr.md",
+    "DatorArkitektur/Exam/2023-June.md",
+    "DatorArkitektur/Parallelism.md",
+    "DatorArkitektur/Cheat Sheet.md",
+    "DatorArkitektur/Exam/2023-June-solutions.pdf",
     "DatorArkitektur/Presentation.md",
     "DatorArkitektur/Lab 2 Background Material.md",
     "DatorArkitektur/Input & Output.md",
@@ -270,7 +273,6 @@
     "IntroIT/Reflektion kring studievalet.md",
     "IntroIT/Micro-bit Projektförslag (Grupp 3).md",
     "IntroIT/Introduktion.md",
-    "IntroIT/Artificiell Intelligens i Datorspel.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
