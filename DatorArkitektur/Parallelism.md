@@ -29,3 +29,15 @@ If multiple processors need to use the same data, simply *lock the write-access*
 ## Locks
 A lock is a variable that protects the data. We try to fetch the lock with a function, and once we're done, we release the lock with another function.
 This can be represented with a 1-bit number.
+
+We give a *local variable a 1* as a lock, and try to *swap* it with the *lock variable in the memory location*. We do this in one instruction using special hardware in order to avoid "data races"
+## Coherency
+Multiple caches can result in varying values in both the DRAM and respective cache. We need to keep track of who has the latest data.
+
+### Snooping
+We connect the address wires between caches so that each cache listens in on each other. If a cache sees another processor write to a line that it also has in its cache, it invalidates that line, and waits for the other processor to write back to memory.
+
+This is done by tracking cache line state with the following bits:
+- Modified
+- Shared
+- Invalid
