@@ -10,7 +10,12 @@ This picture can be viewed as a bunch of values between 0 and 1, representing th
 Let's imagine the second layer being only 1 node.
 ![[Pasted image 20250602155113.png]]
 Each line represents a value, describing how much its source node should influence the destination node. The value of the destination node is essentially just a summation of each source node's value multiplied by its weight.
-![[Pasted image 20250602155456.png]]
-We can also assign a "bias" to each destination node, essentially giving a minimal sum required for the node to be influential to its neighbors.
+![[Pasted image 20250602161638.png]]
+We can also assign a "bias" to each destination node, essentially giving a minimal sum required for the node to be influential to its neighbors. This is what is usually tweaked manually, if anything.
 
 Because the value of nodes are supposed to be normalized, meaning they contain a value between 0 and 1, we plug this sum into a "sigmoid" function in order to constrain it.
+
+Doing this math for a single node is fine. But a complex neural network can have many thousands of nodes per layer. We can arrange all the necessary calculations going from one layer to the next as a matrix multiplication.
+![[Pasted image 20250602161329.png]]
+This is, again, why graphics cards are so viable for AI.
+
