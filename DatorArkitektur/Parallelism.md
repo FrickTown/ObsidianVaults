@@ -12,4 +12,9 @@ We* can't just increase frequency*, because it would increase the power.
 
 ## Parallel Difficulties
 
+If a program can be computed 75% in parallel, and 25% in serial, the time the parallel part takes is negligible compared to the serial part. We rely on the serial part for a lot of setup so that we can divvy up the work for the multiple processors.
+*The performance is limited by the serial part of your code*
+$$Speedup=\frac{1}{(1-P)+\frac{P}{S}}$$
+Where P = Parallel fraction, S = speedup for the parallel part.
 
+We reach a plateau of speedu
