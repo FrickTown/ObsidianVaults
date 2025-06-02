@@ -11,12 +11,14 @@
             "id": "21c16c5af7921d60",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DatorArkitektur/Exam/2023-June.pdf"
+                "file": "DatorArkitektur/Presentation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2023-June"
+              "icon": "lucide-file",
+              "title": "Presentation"
             }
           },
           {
@@ -122,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -225,6 +226,7 @@
   "active": "21c16c5af7921d60",
   "lastOpenFiles": [
     "DatorArkitektur/Exam/2023-June.pdf",
+    "DatorArkitektur/Presentation.md",
     "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "DatorArkitektur/Exam/2023-June-solutions.pdf",
@@ -269,7 +271,6 @@
     "IntroIT/Artificiell Intelligens i Datorspel.md",
     "Intro till IT/[M1]-Studenttjänster.md",
     "SGT Planering.canvas",
-    "Dagsplanering Juli 2024.md",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
     "Träd.canvas",
