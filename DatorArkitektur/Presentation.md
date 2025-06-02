@@ -21,4 +21,4 @@ This is, again, why graphics cards are so viable for AI.
 
 The way we establish all the weights, is not by hand. It is by randomizing the weights first, and then giving the neural network a bunch of labeled data. We give it an image, and we tell it what the last layer should be. And it will gradually change its weights until it consistently ends up with the expected results.
 
-Once the network has been trained on a sufficient amount of data, it will hopefully be able to recognize images. 
+Once the network has been trained on a sufficient amount of data, it will hopefully be able to recognize images that it has not seen before.
