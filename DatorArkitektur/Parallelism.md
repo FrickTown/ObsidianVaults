@@ -37,7 +37,21 @@ Multiple caches can result in varying values in both the DRAM and respective cac
 ### Snooping
 We connect the address wires between caches so that each cache listens in on each other. If a cache sees another processor write to a line that it also has in its cache, it invalidates that line, and waits for the other processor to write back to memory.
 
-This is done by tracking cache line state with the following bits:
-- Modified
-- Shared
-- Invalid
+This is done by tracking cache line state with the following states:
+- *Modified* (I have written and not written back)
+- *Shared* (I have the same data as in DRAM)
+- *Invalid* (My copy needs to be refetched)
+Writing to a line sets state to modified, all other caches sets state to Invalid. The cache that wrote the line writes to DRAM and changes to Shared.
+
+## Instruction Level Parallelism
+If instructions are *independent*, we can execute them all at the same time, given we have enough cores. 
+
+### Static dual-issue pipeline
+If we put instructions in pairs, we can do independent and dependent instructions at the same time. This way we could to both an add and a load/store at the same, given we have more register ports, another ALU, another sign extension, etc.
+
+This means we can sometimes do 2 instructions per cycle. This naturally causes more hazards and slower clock speed. On top of that, we can't always have an independent/dependent pair.
+
+### Superscalar
+100 instruction look-ahead to find which are independent. We can do all the independent instructions out of order, and therefore in parallel easily.
+
+We would need an instruction storage as a pool, we'd need a scheduler, and we'd need a buffer
