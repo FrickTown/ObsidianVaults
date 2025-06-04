@@ -11,12 +11,14 @@
             "id": "c9f50b07d72c6843",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DatorArkitektur/Exam/2024-Apr-Solutions.pdf"
+                "file": "DatorArkitektur/Presentation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2024-Apr-Solutions"
+              "icon": "lucide-file",
+              "title": "Presentation"
             }
           }
         ]
@@ -159,13 +161,14 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
+    "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
+    "DatorArkitektur/Presentation.md",
     "DatorArkitektur/Exam/2024-Apr.pdf",
     "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
     "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/Lab 4 Material.md",
     "IntroIT/jafr3967_studenttjanster.txt",
     "/IntroIT/jafr3967_studenttjanster.txt",
-    "DatorArkitektur/Presentation.md",
     "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "DatorArkitektur/Exam/2023-June.pdf",
@@ -181,7 +184,6 @@
     "DatorArkitektur/Media/Screenshot_20250528_192843.png",
     "DatorArkitektur/Media/Pasted image 20250530161314.png",
     "DatorArkitektur/Media/Pasted image 20250528194311.png",
-    "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
     "DatorArkitektur/Exam/2023-June-solutions.pdf",
     "/DatorArkitektur/Presentation.md",
     "/DatorArkitektur/Parallelism.md",
