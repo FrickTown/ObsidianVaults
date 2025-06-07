@@ -58,7 +58,21 @@ primfaktorer\ till\ 280 = 2 * 2 * 2 * 5 * 7 \\
 \end{cases}
 $$
 ## Eulers sats
-
+$$
+\begin{gathered}
+Låt\ a, n \in \mathbb{N}\ |\ a, n > 0\\
+\text{Om dessa är co-prima gäller att}\\
+a^{\phi(n)}\equiv 1 \pmod{n}\\
+\text{Alltså, om a = 2 och n = 27}\\
+2^{\phi(27)} = 2^{18} \equiv 1 \pmod{27}
+\end{gathered}()
+$$
+Vi kan använda oss av detta i en uppgift som
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250607163018.png"</img></span>
+$$
+\begin{gathered}
+\end
+$$
 ## Kinesiska restsatsen
 Givet ett system av kongruenser, hitta talet som ger rätt rest för alla kongruenser
 Alltså
