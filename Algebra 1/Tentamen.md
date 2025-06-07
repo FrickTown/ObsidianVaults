@@ -40,7 +40,20 @@ primfaktorer\ till\ 15 = 3*5 \\
 Svar: \phi(15) = 8 
 \end{cases}
 $$
-Om x i fråga är ett *primtal* så är *alla* tal upp till *x-1*  co-prima
+Om x i fråga är ett *primtal* så är *alla* tal upp till *x-1*  co-prima.
+
+Om vi har *flera av samma* primfaktor:
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250607144046.png"</img></span>
 Exempelvis $\phi(27) = \phi(3^{3}) = 3^{3-1}(3-1) = 9*2 = 18$
-Löses med 
+
+Om vi har *flera olika* primfaktorer kan vi lösa med denna formel
+Om samma primfaktor uppstår fler än en gång så åsidosätter vi den för formeln och multiplicerar in den efter formeln.
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250607145248.png"</img></span>
+$$
+\begin{cases}
+x = 280 \\
+primfaktorer\ till\ 280 = 2 * 2 * 2 * 5 * 7 \\
+\phi(280) = 2 * 2 * 2 * 5 * 7 * \frac{2-1}{2} * \frac{5-1}{5} * \frac{7-1}{7} \\
+\phi(280) = 2*2*
+\end{cases}
+$$
