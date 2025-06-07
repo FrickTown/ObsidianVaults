@@ -71,7 +71,14 @@ Vi kan använda oss av detta i en uppgift som
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250607163018.png"</img></span>
 $$
 \begin{gathered}
-\end
+2^{18}\equiv1\pmod{27}\\
+921 = 18*50 + 21= 18*51 + 3\\
+Alltså\ 2^{921} = 2^{18*50+3} = (2^{18})^{50}*2^{3}\\
+\\
+Eftersom\ 2^{18}\equiv1\pmod{27}\\
+1^{50}*2^{3}= 1 * 8 = 8\\
+2^{921} \equiv8\pmod{27}
+\end{gathered}
 $$
 ## Kinesiska restsatsen
 Givet ett system av kongruenser, hitta talet som ger rätt rest för alla kongruenser
