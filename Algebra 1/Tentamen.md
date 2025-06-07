@@ -28,6 +28,16 @@ b)
 
 
 ## Diofantiska ekvationer
+Diofantiska ekvationer är ekvationer på formen:
+$$
+\begin{gathered}
+ax + by = c\\
+Exempelvis \\
+111x + 23y = 1000
+\end{gathered}
+$$
+1. Vi börjar med att hitta SGD för a och b. Om SGD(a, b) inte delar c  *finns ingen lösning på ekvationen*. SGD(23, 111)
+2. 
 
 ## Eulers phi-funktion
 $\phi(x)$ = Antalet tal som är relativt prima till x från 1 till x-1
