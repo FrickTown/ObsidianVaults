@@ -54,6 +54,19 @@ $$
 x = 280 \\
 primfaktorer\ till\ 280 = 2 * 2 * 2 * 5 * 7 \\
 \phi(280) = 2 * 2 * 2 * 5 * 7 * \frac{2-1}{2} * \frac{5-1}{5} * \frac{7-1}{7} \\
-\phi(280) = 2*2*
+\phi(280) = 2*2*1*4*7 = 96
 \end{cases}
 $$
+
+## Kinesiska restsatsen
+Givet ett system av kongruenser, hitta talet som ger rätt rest för alla kongruenser
+Alltså
+$$
+\begin{cases}
+x \equiv 2\ (mod\ 4) \\
+x \equiv 4\ (mod\ 5) \\
+x \equiv 6\ (mod\ 13) \\
+\end{cases}
+$$
+Vilket tal x passar in i detta system?
+
