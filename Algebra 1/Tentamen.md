@@ -57,6 +57,7 @@ primfaktorer\ till\ 280 = 2 * 2 * 2 * 5 * 7 \\
 \phi(280) = 2*2*1*4*7 = 96
 \end{cases}
 $$
+## Eulers sats
 
 ## Kinesiska restsatsen
 Givet ett system av kongruenser, hitta talet som ger rätt rest för alla kongruenser
@@ -83,5 +84,6 @@ Vilket tal x passar in i detta system?
    $14 (mod 13) = 1$
    len(\[ 1, *8, 2, 9, 3, 10, 4, 11, 5, 12, 6*]) - 1 = 10
    $14 + 20*10=214$  
+   Alla svar: $214+ (4*5*13)n$
 5. 
    
