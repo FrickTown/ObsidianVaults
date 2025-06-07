@@ -37,51 +37,18 @@
             "id": "2e0cbf5b3ad5315d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DatorArkitektur/Exam/2024-Apr.pdf"
+                "file": "Algebra 1/Tentamen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2024-Apr"
+              "icon": "lucide-file",
+              "title": "Tentamen"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "b93f397efd6a0323",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ce0e81197b56de3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DatorArkitektur/Exam/2023-June.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-June"
-            }
-          },
-          {
-            "id": "13ff5a382b44f7cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DatorArkitektur/Virtual Memory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Virtual Memory"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,9 +206,10 @@
   },
   "active": "2e0cbf5b3ad5315d",
   "lastOpenFiles": [
+    "DatorArkitektur/Exam/2024-Apr.pdf",
+    "Algebra 1/Tentamen.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "DatorArkitektur/Exam/2023-June.md",
-    "DatorArkitektur/Exam/2024-Apr.pdf",
     "DatorArkitektur/Exam/2024-Apr-Solutions.pdf",
     "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/Cheat Sheet.md",
@@ -283,7 +251,6 @@
     "IntroIT/Seminarium M0_HT25.md",
     "IntroIT/Reflektion kring studievalet.md",
     "IntroIT/Micro-bit Projektförslag (Grupp 3).md",
-    "IntroIT/Introduktion.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
