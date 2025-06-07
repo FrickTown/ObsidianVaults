@@ -30,5 +30,17 @@ b)
 ## Diofantiska ekvationer
 
 ## Eulers phi-funktion
-$\phi(x)$ = Antalet tal från 0 som är relativt prima till x
+$\phi(x)$ = Antalet tal som är relativt prima till x från 1 till x-1
+Hitta primfaktorer (om möjligt) till x, sen identifiera vilka tal från 1 till x-1 som inte delar någon av dessa primfaktorer.
+$$
+\begin{cases}
+x = 15 \\
+primfaktorer\ till\ 15 = 3*5 \\
+1, 2, 4, 7, 8, 11, 13, 14 \\
+Svar: \phi(15) = 8 
+\end{cases}
+$$
+Om x i fråga är ett *primtal* så är *alla* tal upp till *x-1*  co-prima
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250607144046.png"</img></span>
+Exempelvis $\phi(27) = \phi(3^{3}) = 3^{3-1}(3-1) = 9*2 = 18$
 Löses med 
