@@ -36,8 +36,9 @@ Exempelvis \\
 111x + 23y = 1000
 \end{gathered}
 $$
-1. Vi börjar med att hitta SGD för a och b. Om SGD(a, b) inte delar c  *finns ingen lösning på ekvationen*. SGD(23, 111)
+1. Vi börjar med att hitta SGD för a och b. Om SGD(a, b) inte delar c så *finns ingen lösning på ekvationen*. $SGD(23, 111) = 1\ \implies 1|1000$
 2. 
+3. 
 
 ## Eulers phi-funktion
 $\phi(x)$ = Antalet tal som är relativt prima till x från 1 till x-1
