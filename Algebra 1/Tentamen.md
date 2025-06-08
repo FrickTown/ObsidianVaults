@@ -35,9 +35,9 @@ Exempelvis \\
 111x + 23y = 1000
 \end{gathered}
 $$
-1. Vi börjar med att hitta SGD för a och b. Om SGD(a, b) inte delar c så *finns ingen lösning på ekvationen*. $SGD(23, 111) = 1\ \implies 1|1000$
-2. 
-3. 
+1. Vi börjar med att hitta SGD för a och b genom euklides algoritm. Om SGD(a, b) inte delar c så *finns ingen lösning på ekvationen*. $SGD(23, 111) = 1\ \implies 1|1000$
+2. Euklides algoritm baklänges, multiplicera $x_{0}$ och $y_{0}$ med $\frac{c}{SGD(a, b)}$
+3. För den *generella lösningen*, värdet för intervallet x är b, värdet för intervallet y är -a. Se till att dela dessa med SGD.
 
 ## Eulers phi-funktion
 $\phi(x)$ = Antalet tal som är relativt prima till x från 1 till x-1
