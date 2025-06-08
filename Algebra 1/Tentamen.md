@@ -1,3 +1,5 @@
+## Definitioner
+
 ## Funktioner
 ### Injektiv
 "No two inputs generate the same output"
