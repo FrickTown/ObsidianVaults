@@ -1,12 +1,13 @@
 ## Funktioner
 ### Injektiv
 "No two inputs generate the same output"
-Linjära funktioner, såsom $2x + 3$ eller polynomfunktioner såsom $x^2$ 
+Linjära funktioner, såsom $2x + 3$ eller polynomfunktioner såsom $x^2$
+#### Injektiv funktion som inte är surjektiv
+$f(x) = x^3-3x$
 ### Surjektiv
 "All outputs have an input"
-#### Surjektiv
-$f: \mathbb{Z} \rightarrow \mathbb{Z}$
-$f(x) = x^2$
+#### Surjektiv funktion som inte är injektiv
+$g(x) = e^x$
 #### Inte surjektiv
 $f: \mathbb{Z} \rightarrow \mathbb{Z}$
 $f(x) = \pm \sqrt{x-1}$
