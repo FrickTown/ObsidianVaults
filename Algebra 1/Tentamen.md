@@ -1,5 +1,9 @@
 ## Definitioner
-
+### N|A
+Definitionen av att N delar A är att det finns ett tal $K \in \mathbb{Z}$ vilket ger $A = N*K$ 
+### N|(A+B)
+Om det finns ett tal $N*K_{1}=A$ och ett tal $N*K_{2}=B$ så innebär det att $A+B = N*K_{1}+N*K_{2} = N(K_{1}+K_{2})$ Vilket är delbart med $N$.
+### N|(A+B) och N|A 
 ## Funktioner
 ### Injektiv
 "No two inputs generate the same output"
