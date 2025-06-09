@@ -101,11 +101,18 @@ $$
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250609215555.png"</img></span>
 Om vi undersöker $3^{n}\pmod{13}$ och $5^{n}\pmod{13}$ så finner vi att  
 
-| n       | 1   | 2   | 3   |
-| ------- | --- | --- | --- |
-| $3^{n}$ | 3   | 9   |     |
-| $5^{n}$ | 5   | 25  |     |
-
+| n       | 1   | 2                     | 3                    |
+| ------- | --- | --------------------- | -------------------- |
+| $3^{n}$ | 3   | 9                     | $27\equiv1\pmod{13}$ |
+| $5^{n}$ | 5   | $25\equiv-1\pmod{13}$ |                      |
+Så 
+$$
+\begin{gathered}
+3^{606} \pmod{13}= ((3)^{3})^{202}\pmod{13}= 1^{202} \pmod{13} = 1\\
+5^{606} \pmod{13}= ((5)^{2})^{303}\pmod{13} = -1^{303} \pmod{13} = -1\\
+1-1 = 0 \equiv 0 \pmod{13}
+\end{gathered}
+$$
 ## Kinesiska restsatsen
 Givet ett system av kongruenser, hitta talet som ger rätt rest för alla kongruenser
 Alltså
