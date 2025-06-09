@@ -97,6 +97,15 @@ Eftersom\ 2^{18}\equiv1\pmod{27}\\
 2^{921} \equiv8\pmod{27}
 \end{gathered}
 $$
+## Visa att två stora exponentiella tal kan delas med n
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250609215555.png"</img></span>
+Om vi undersöker $3^{n}\pmod{13}$ och $5^{n}\pmod{13}$ så finner vi att  
+
+| n       | 1   | 2   | 3   |
+| ------- | --- | --- | --- |
+| $3^{n}$ | 3   | 9   |     |
+| $5^{n}$ | 5   | 25  |     |
+
 ## Kinesiska restsatsen
 Givet ett system av kongruenser, hitta talet som ger rätt rest för alla kongruenser
 Alltså
