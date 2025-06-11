@@ -140,5 +140,13 @@ Vilket tal x passar in i detta system?
    $14 + 20*10=214$  
    Alla svar: $214+ (4*5*13)n$
 ## Mängder och Kardinalitet
+### Kardinalitet
+Antalet element i en mängd
+Två mängder har samma kardinalitet om det finns en bijektion mellan dem.
 ### Ändliga mängder
 En mängd är ändlig om det finns n > 0 och mängden har en bijektion
+### Oändliga mängder
+En mängd kallas dedekindoändlig om det finns en funktion $f: A\rightarrow A$ som är injektiv men inte surjektiv.
+### Uppräknelighet
+En mängd $A$ har kallas *uppräkneligt oändlig* om den har samma kardinalitet som $\mathbb{N}$ 
+En mängd $A$ kallas *uppräknelig* om den är *uppräkneligt oändlig* eller *ändlig*.
