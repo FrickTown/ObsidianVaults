@@ -139,5 +139,6 @@ Vilket tal x passar in i detta system?
    len(\[ 1, *8, 2, 9, 3, 10, 4, 11, 5, 12, 6*]) - 1 = 10
    $14 + 20*10=214$  
    Alla svar: $214+ (4*5*13)n$
-5. 
-   
+## Mängder och Kardinalitet
+### Ändliga mängder
+En mängd är ändlig om det finns n > 0 och mängden har en bijektion
