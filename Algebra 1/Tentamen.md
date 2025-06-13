@@ -10,13 +10,14 @@ Eftersom $N|A \implies N|-A \implies N|(A+B-A) \implies N|B$
 "No two inputs generate the same output"
 Linjära funktioner, såsom $2x + 3$ eller polynomfunktioner såsom $x^2$
 #### Injektiv funktion som inte är surjektiv
-$f(x) = x^3-3x$
+$g(x) = e^x$
+
 ### Surjektiv
 "All outputs have an input"
 #### Surjektiv funktion som inte är injektiv
-$g(x) = e^x$
+$f(x) = x^3-3x$
 #### Inte surjektiv
-$f: \mathbb{Z} \rightarrow \mathbb{Z}$
+$f: \mathbb{R} \rightarrow \mathbb{R}$
 $f(x) = \pm \sqrt{x-1}$
 ### Bijektion mellan två domäner
 <span style="display: flex; justify-content: center;"><img src="Pasted image 20250607141522.png"</img></span>
