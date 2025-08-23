@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,8 +111,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DatorArkitektur/Caches.md",
+                "file": "LinAlg 1/Kompendium - 1MA025.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Caches"
+              "title": "Backlinks for Kompendium - 1MA025"
             }
           },
           {
@@ -178,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "snippets.md",
+                "file": "LinAlg 1/Kompendium - 1MA025.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of snippets"
+              "title": "Outline of Kompendium - 1MA025"
             }
           },
           {
@@ -197,7 +196,8 @@
               "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -215,12 +215,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2e0cbf5b3ad5315d",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
+    "LinAlg 1/Formler och samband.md",
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "LinAlg 1/Exam/22-06-09 losningar-1.pdf",
-    "LinAlg 1/Formler och samband.md",
-    "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
     "LinAlg 1/Exam",
     "Algebra 1/Tentamen.md",
     "Pasted image 20250609215555.png",
