@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4aabd08c237cde23",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
             "id": "aa614148b528a7bf",
             "type": "leaf",
             "state": {
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,6 +218,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -215,7 +228,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3216a152379fb6a1",
+  "active": "4aabd08c237cde23",
   "lastOpenFiles": [
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
