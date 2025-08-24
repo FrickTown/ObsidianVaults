@@ -57,7 +57,8 @@
               "title": "Formler och samband"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +216,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e6b2b488602a4d61",
+  "active": "3216a152379fb6a1",
   "lastOpenFiles": [
-    "LinAlg 1/Exam/22-06-09 losningar-1.pdf",
     "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
+    "LinAlg 1/Exam/22-06-09 losningar-1.pdf",
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "LinAlg 1/Formler och samband.md",
     "LinAlg 1/Exam",
