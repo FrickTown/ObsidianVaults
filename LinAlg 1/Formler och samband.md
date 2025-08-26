@@ -14,6 +14,7 @@ $$
 a\cdot b =\begin{pmatrix}a_1\\a_2\\a_3\end{pmatrix}\cdot\begin{pmatrix}b1\\b2\\b3\end{pmatrix} = 
 a_1b_1+a_2b_2+a_3b_3
 $$
+<span style="display: flex; justify-content: center;"><img src="Pasted image 20250826151414.png"</img></span>
 ### Def: R(-)
 Rotation med $$\frac{\pi}{2}$$ 
 ### #Ortogonal projektion
