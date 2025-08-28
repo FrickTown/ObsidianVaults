@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "LinAlg 1/Exam/tenta20230816-1.pdf"
+                "file": "LinAlg 1/Exam/20240312-1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "tenta20230816-1"
+              "title": "20240312-1"
             }
           },
           {
@@ -57,8 +57,7 @@
               "title": "Formler och samband"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinAlg 1/Formler och samband.md",
+                "file": "LinAlg 1/Exam/20240312-1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formler och samband"
+              "title": "Outline of 20240312-1"
             }
           },
           {
@@ -216,12 +215,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2e0cbf5b3ad5315d",
+  "active": "e6b2b488602a4d61",
   "lastOpenFiles": [
     "LinAlg 1/Exam/tenta20230816-1.pdf",
+    "LinAlg 1/Formler och samband.md",
     "LinAlg 1/Exam/20240312-1.pdf",
     "LinAlg 1/Kompendium - 1MA025.pdf",
-    "LinAlg 1/Formler och samband.md",
     "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
     "LinAlg 1/Exam/22-08-19 Kragh, Östensson, Hietala, Israelsson-1.pdf",
     "LinAlg 1/Exam/22-06-09 losningar-1.pdf",
