@@ -57,7 +57,8 @@
               "title": "Formler och samband"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinAlg 1/Exam/tenta20230816-1.pdf",
+                "file": "LinAlg 1/Kompendium - 1MA025.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tenta20230816-1"
+              "title": "Outline of Kompendium - 1MA025"
             }
           },
           {
@@ -215,11 +216,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e6b2b488602a4d61",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
-    "LinAlg 1/Exam/22-06-09 losningar-1.pdf",
-    "LinAlg 1/Exam/tenta20230816-1.pdf",
     "LinAlg 1/Formler och samband.md",
+    "LinAlg 1/Exam/tenta20230816-1.pdf",
+    "LinAlg 1/Exam/22-06-09 losningar-1.pdf",
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/MIPS.md",
