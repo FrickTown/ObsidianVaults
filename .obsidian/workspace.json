@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "c1d926a5ae3a6f1e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
-          },
-          {
             "id": "3216a152379fb6a1",
             "type": "leaf",
             "state": {
@@ -69,8 +57,7 @@
               "title": "Formler och samband"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +215,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c1d926a5ae3a6f1e",
+  "active": "e6b2b488602a4d61",
   "lastOpenFiles": [
     "LinAlg 1/Exam/tenta20230816-1.pdf",
     "LinAlg 1/Formler och samband.md",
