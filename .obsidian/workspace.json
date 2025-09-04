@@ -11,12 +11,14 @@
             "id": "e6b2b488602a4d61",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "LinAlg 1/Exam/20240312-1.pdf"
+                "file": "TA-Docs/Microbit presentations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "20240312-1"
+              "icon": "lucide-file",
+              "title": "Microbit presentations"
             }
           },
           {
@@ -215,12 +217,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b4ba1a0121e9df10",
+  "active": "e6b2b488602a4d61",
   "lastOpenFiles": [
+    "LinAlg 1/Exam/20240312-1.pdf",
+    "TA-Docs/Microbit presentations.md",
+    "TA-Docs",
     "Envariabelanalys",
     "LinAlg 1/Exam/tenta20230816-1.pdf",
     "LinAlg 1/Formler och samband.md",
-    "LinAlg 1/Exam/20240312-1.pdf",
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
     "LinAlg 1/Exam/22-08-19 Kragh, Östensson, Hietala, Israelsson-1.pdf",
@@ -238,11 +242,9 @@
     "Pasted image 20250607145248.png",
     "Pasted image 20250607144046.png",
     "Pasted image 20250607141522.png",
-    "DatorArkitektur/Exam/2024-Apr.pdf",
     "DatorArkitektur/Exam/2024-Apr.md",
     "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Cheat Sheet.md",
-    "DatorArkitektur/Exam/2023-June-solutions.pdf",
     "DatorArkitektur/Presentation.md",
     "DatorArkitektur/Lab 2 Background Material.md",
     "DatorArkitektur/Input & Output.md",
@@ -262,7 +264,6 @@
     "DatorArkitektur/Lab 4 Material.md",
     "IntroIT/Seminarium M0_HT25.md",
     "IntroIT/Reflektion kring studievalet.md",
-    "IntroIT/Micro-bit Projektförslag (Grupp 3).md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",

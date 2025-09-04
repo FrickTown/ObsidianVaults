@@ -1,0 +1,3 @@
+- Try to discourage overly complex ideas
+- Try to work in a modular fashion, creating a base product which you can improve on later
+- 
