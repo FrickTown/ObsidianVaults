@@ -1,8 +1,12 @@
 {
   "enabledCssSnippets": [
-    "desmos"
+    "desmos",
+    "latex"
   ],
   "accentColor": "ReferenceError: Matugen is not defined",
   "cssTheme": "Things",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono 12pt",
+  "baseFontSizeAction": true
 }
