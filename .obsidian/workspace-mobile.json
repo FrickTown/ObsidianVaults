@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algebra 1/Tentamen.md",
+                "file": "Envariabelanalys/2. Differentiering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tentamen"
+              "title": "2. Differentiering"
             }
           }
         ]
@@ -162,6 +162,8 @@
   },
   "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
+    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
+    "Algebra 1/Tentamen.md",
     "Untitled.base",
     "Untitled 1.base",
     "TA-Docs/Microbit presentations.md",
@@ -182,19 +184,16 @@
     "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
     "LinAlg 1/Exam/20240312-1.pdf",
     "Envariabelanalys/2. Differentiering.md",
-    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "/snippets.md",
     "/Untitled.base",
     "/Untitled 1.base",
     "/TA-Docs/Microbit presentations.md",
-    "/LinAlg 1/Media",
     "/LinAlg 1/Formler och samband.md",
     "/Envariabelanalys/2. Differentiering.md",
     "/Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "/DatorArkitektur/Parallelism.md",
     "DatorArkitektur/Presentation.md",
     "/Algebra 1/Tentamen.md",
-    "Algebra 1/Tentamen.md",
     "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
     "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/Lab 4 Material.md",
