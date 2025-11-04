@@ -30,7 +30,7 @@ typedef struct list list_t;
 
 struct list {
 	node_t* first;
-	node_t* last;
+	uint size;
 }
 
 typedef struct iterator iterator_t;
@@ -55,15 +55,17 @@ void iterator_insert(iterator_t iter, int val) {
 	iter->list->size += 1;
 }
 
-void iterator_remove(iterator_t iter) {
+int iterator_remove(iterator_t iter) {
 	link_t* to_remove = *(iter->current);  
 	link_t* next = to_remove->next;  
-	elem_t val = (*(iter->current))->data;
+	elem_t val = to_remove->data;
 	*iter->current = next;
+	free(to_remove);
+	iter->list->size -= 1:
 }
 ``` 
 
-
+Med bara några enstaka rader kod kan vi uppnå två ganska komplexa operationer. Detta är förstås dock för en väldigt minimal implementation av 
 
 
 ## Slutsats
