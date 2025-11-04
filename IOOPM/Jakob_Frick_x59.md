@@ -17,7 +17,7 @@ Svårare än så är det inte. Men vad är ens poängen? Vilka användningsområ
 ## Syfte
 Man kan använda dubbelpekare överallt om man verkligen vill överkomplicera sin kod. Dock är det väldigt sällan som det faktiskt ***behövs***. Om vi har en pekare till något datum, och vi har en referens till den pekaren, så kan vi ändra vilket datum pekaren pekar på. Om vi också har en pekare till pekaren, så kan vi totalt ändra vilken pekare som ligger på just den platsen i minnet. En vanlig applikation för dubbelpekare är i logiken för länkade datastrukturer, där det kan användas för att sätta in, eller ta bort noder, i väldigt få rader kod. Denna redovisning av mål M39 beskriver skapandet av en *iterator för en länkad lista*, och de två väsentliga funktionerna *insert* och *remove*. 
 ## Genomförande
-Vi börjar med att definiera våra typer. För att demonstrationen inte ska vara alltför  skull så skippar jag att definiera en lista. 
+Vi börjar med att definiera våra typer. 
 ```c
 typedef struct node node_t;
 
@@ -26,10 +26,18 @@ struct node {
 	node_t* next;
 }
 
-typedef struct iter iterator_t;
+typedef struct list list_t;
 
-struct iter {
-	node_t** current; // Här är dubbelpekaren
+struct list {
+	node_t* first;
+	node_t* last;
 }
+
+typedef node_t** iterator_t; // Här är dubbelpekaren
+
 ```
+En nod består av ett värde, och mest relevant, en pekare till sin eventuella efterträdare. En iterator kan faktiskt komma undan med att bara vara ett typalias för en dubbelpekare till en nod. Vi kommer snart se varför. För koncishetens skull så skippar jag att definiera alla funktioner för listan. Det är bara en startpunkt på en kedja av noder som pekar på sin efterträdare.
+
+
+
 ## Slutsats
