@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a89ad5707f28a786",
+            "id": "aa614148b528a7bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envariabelanalys/2. Differentiering.md",
+                "file": "IOOPM/Jakob_Frick_x59.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Differentiering"
-            }
-          },
-          {
-            "id": "aa614148b528a7bf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "LinAlg 1/Kompendium - 1MA025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Kompendium - 1MA025"
+              "title": "Jakob_Frick_x59"
             }
           }
         ]
@@ -191,14 +179,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a89ad5707f28a786",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "Pasted image 20250602155113.png",
+    "IOOPM/Jakob_Frick_x59.md",
+    "Envariabelanalys/2. Differentiering.md",
+    "IOOPM",
     "Algebra 1/Tentamen.md",
     "Algebra 1/Kongruens.md",
     "Untitled.base",
     "Untitled 1.base",
     "snippets.md",
-    "Envariabelanalys/2. Differentiering.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Pasted image 20251002171215.png",
     "Pasted image 20251002171202.png",
@@ -222,7 +213,6 @@
     "TA-Docs",
     "Envariabelanalys",
     "LinAlg 1/Exam/tenta20230816-1.pdf",
-    "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
     "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/MIPS.md",
     "DatorArkitektur/Exam/2023-June.md",
@@ -237,7 +227,6 @@
     "Logik_och_BevisTeknik/Föreläsning 1.md",
     "Untitled Kanban.md",
     "Projektförslag.md",
-    "Projektförslag 1.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
