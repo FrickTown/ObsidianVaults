@@ -33,10 +33,28 @@ struct list {
 	node_t* last;
 }
 
-typedef node_t** iterator_t; // Här är dubbelpekaren
+typedef struct iterator iterator_t;
 
+struct iterator {
+	list_t*  list;
+	node_t** current; 
+}
 ```
-En nod består av ett värde, och mest relevant, en pekare till sin eventuella efterträdare. En iterator kan faktiskt komma undan med att bara vara ett typalias för en dubbelpekare till en nod. Vi kommer snart se varför. För koncishetens skull så skippar jag att definiera alla funktioner för listan. Det är bara en startpunkt på en kedja av noder som pekar på sin efterträdare.
+En nod består av ett värde, och mest relevant, en pekare till sin eventuella efterträdare. En iterator består av en pekare till listan den är kopplad till, samt en dubbelpekare till den nuvarande noden. Vi kommer snart se varför. För koncishetens skull så skippar jag att definiera alla funktioner för listan. Det är bara en startpunkt på en kedja av noder som pekar på sin efterträdare.
+
+Så, antag nu att en lista `testlist` skapas med 4 noder, vars värde motsvarar dess plats i listan. Antag också att vi har skapat en iterator `iter`, och länkat den med `testlist`. Funktionerna `insert` och `remove` kan nu implementeras på följande sätt:
+```c
+list_t testlist = make_list_of_size(4);
+iterator_t iter = make_iterator(testlist);
+
+void iterator_insert(iterator_t iter, int val) {
+	node_t* cur_node = iter->current;
+	node_t* next_node = iter->current
+	node_t* new_node = make_node(val, cur_node);
+	
+}
+``` 
+
 
 
 
