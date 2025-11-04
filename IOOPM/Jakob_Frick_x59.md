@@ -48,9 +48,10 @@ list_t testlist = make_list_of_size(4);
 iterator_t iter = make_iterator(testlist);
 
 void iterator_insert(iterator_t iter, int val) {
-	node_t* cur_node = iter->current;
-	node_t* next_node = iter->current
+	node_t* cur_node = *(iter->current); // Avreferera en pekare
 	node_t* new_node = make_node(val, cur_node);
+	
+	*(iter->current) = new_node; 
 	
 }
 ``` 
