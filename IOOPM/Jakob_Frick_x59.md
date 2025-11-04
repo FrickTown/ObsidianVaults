@@ -2,7 +2,7 @@
 ##### Jakob Frick | 04-11-2025
 
 ## Inledning
-Pekare har i decennier frustrerat aspirerande datavetare. Det räcker med en snabbtitt på YouTube för att förstå det. Det finns otaliga videos med försök till att förklara konceptet — och antalet visningar når miljoner på somliga. Så vadan förvirringen? Jo, i högnivåspråk, såsom ***Python*** och ***Java***, behöver inte programmeraren hantera lagring och rensning av data i minnet. I dessa mer nybörjarvänliga språk är pekarlogiken kvar, men undangömd och automatiserad. Så när en intermediärt erfaren programmerare är redo att ta steget att att sig an ett lågnivåspråk som C (där pekare är väldigt centralt), så bemöts denne av ett helt nytt lager av logik, som ofta kan utmana ens tidigare uppfattningar om programmering. 
+Pekare har i decennier frustrerat aspirerande datavetare. Det räcker med en snabbtitt på YouTube för att förstå det. Det finns otaliga videos med försök till att förklara konceptet — och antalet visningar når miljoner på somliga. Så vadan förvirringen? Jo, i högnivåspråk, såsom ***Python*** och ***Java***, behöver inte programmeraren hantera lagring och rensning av data i minnet. I dessa mer nybörjarvänliga språk är pekarlogiken kvar, men undangömd och automatiserad. Så när en intermediärt erfaren programmerare är redo att ta sig an ett lågnivåspråk som C (där pekare är väldigt centralt), så bemöts denne av ett helt nytt lager av logik, som ofta kan utmana ens tidigare uppfattningar om programmering. 
 ## Bakgrund
 Så vad är en pekare? Kort sagt: 
 
@@ -48,10 +48,10 @@ list_t testlist = make_list_of_size(4);
 iterator_t iter = make_iterator(testlist);
 
 void iterator_insert(iterator_t iter, int val) {
-	node_t* cur_node = *(iter->current); // Avreferera en pekare
 	node_t* new_node = make_node(val, cur_node);
-	
-	*(iter->current) = new_node; 
+	node_t* cur_node = *(iter->current); // Avreferera en pekare
+	new_node->next = cur_node;
+	(*(iter->current)) = new_node;
 	
 }
 ``` 
