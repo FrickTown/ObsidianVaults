@@ -10,7 +10,10 @@ Så vad är en pekare? Kort sagt:
 
 För en som suttit med pekare en stund så är denna förklaring godtycklig. En nybörjare är nog precis lika förvirrad med denna förklaring som utan den. Men även någon som suttit med pekare en stund kan bli förvirrad av *pekare till pekare* (hädanefter kallad dubbelpekare).
 
-Så vad är en dubbelpekare? Det är en plats i minnet som innehåller adressen till en annan plats i minnet, en plats som i sin tur innehåller en  adress till en annan plats i minnet, där något värde av förutbestämd typ kan finnas. Svårare än så är det inte. Men vad är ens poängen?
-## Applikation
-Man kan använda dubbelpekare överallt om man verkligen vill överkomplicera sin kod. Dock är det väldigt som det faktiskt *behövs*. En vanlig applikation för det är i länkade datastrukturer
+Så vad är en dubbelpekare? 
+>En dubbelpekare är variabel vars värde är adressen till en annan plats i minnet, en plats som innehåller ett värde som är av typen pekare.
+
+Svårare än så är det inte. Men vad är ens poängen? Vilka användningsområden har dubbelpekare, och hur går en sådan implementation till?
+## Syfte
+Man kan använda dubbelpekare överallt om man verkligen vill överkomplicera sin kod. Dock är det väldigt sällan som det faktiskt *behövs*. Om vi har en pekare till något datum, och vi har en referens till den pekaren, så kan vi ändra vilket datum pekaren pekar på. Om vi i sin tur har en pekare till pekaren, så kan vi totalt ändra vilken pekare som ligger på just den platsen i minnet. En vanlig applikation för dubbelpekare är i logik för länkade datastrukturer, där det kan användas för att sätta in, eller ta bort noder, i väldigt få rader kod. Denna redovisning av mål M39 beskriver skapandet av en iterator för en länkad lista, 
 ## Slutsats
