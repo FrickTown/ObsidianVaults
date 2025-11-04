@@ -49,10 +49,17 @@ iterator_t iter = make_iterator(testlist);
 
 void iterator_insert(iterator_t iter, int val) {
 	node_t* new_node = make_node(val, cur_node);
-	node_t* cur_node = *(iter->current); // Avreferera en pekare
+	node_t* cur_node = *(iter->current);
 	new_node->next = cur_node;
 	(*(iter->current)) = new_node;
-	
+	iter->list->size += 1;
+}
+
+void iterator_remove(iterator_t iter) {
+	link_t* to_remove = *(iter->current);  
+	link_t* next = to_remove->next;  
+	elem_t val = (*(iter->current))->data;
+	*iter->current = next;
 }
 ``` 
 
