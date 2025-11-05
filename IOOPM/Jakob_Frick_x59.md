@@ -42,12 +42,21 @@ struct iterator {
 ```
 En nod består av ett värde, och mest relevant, en pekare till sin eventuella efterträdare. En iterator består av en pekare till listan den är kopplad till, samt en dubbelpekare till den nuvarande noden. Vi kommer snart se varför. För koncishetens skull så skippar jag att definiera alla funktioner för listan. Det är bara en startpunkt på en kedja av noder som pekar på sin efterträdare.
 
-Så, antag nu att en lista `testlist` skapas med 4 noder, vars värde motsvarar dess plats i listan. Antag också att vi har skapat en iterator `iter`, och länkat den med `testlist`. Funktionerna `insert` och `remove` kan nu implementeras på följande sätt:
+Så, antag nu att en lista `testlist` skapas med 4 noder, vars värde motsvarar dess plats i listan. Antag också att vi har skapat en iterator `iter`, och länkat den med `testlist`. Funktionerna `next`, `insert` och `remove` kan nu implementeras på följande sätt:
 ```c
 list_t testlist = make_list_of_size(4);
 iterator_t iter = make_iterator(testlist);
 
-void iterator_insert(iterator_t iter, int val) {
+void iterator_next(iterator_t* iter) {
+	if(iterator_has_next(iter)) {  
+	    iter->current = &((*(iter->current))->next);  
+	    return (*(iter->current))->data;  
+	}  
+	iter->current = NULL;  
+	return;
+}
+
+void iterator_insert(iterator_t* iter, int val) {
 	node_t* new_node = make_node(val, cur_node);
 	node_t* cur_node = *(iter->current);
 	new_node->next = cur_node;
@@ -55,7 +64,7 @@ void iterator_insert(iterator_t iter, int val) {
 	iter->list->size += 1;
 }
 
-int iterator_remove(iterator_t iter) {
+int iterator_remove(iterator_t* iter) {
 	link_t* to_remove = *(iter->current);  
 	link_t* next = to_remove->next;  
 	elem_t val = to_remove->data;
@@ -65,7 +74,9 @@ int iterator_remove(iterator_t iter) {
 }
 ``` 
 
-Med bara några enstaka rader kod kan vi uppnå två ganska komplexa operationer. Detta är förstås dock för en väldigt minimal implementation av 
+Med bara några enstaka rader kod kan vi uppnå två ganska komplexa operationer. Detta är förstås dock för en väldigt minimal implementation av listan. 
+## Hur funkar detta?
+En iterators current-värde är alltid en pekare till en nods next-värde. Och en nods next-värde är alltid ett alias av pekaren som skapas när vi skapar en ny nod med make_node. När vi tänker oss vår "current" node, 
 
 
 ## Slutsats
