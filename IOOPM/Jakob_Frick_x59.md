@@ -49,6 +49,7 @@ iterator_t iter = make_iterator(testlist);
 
 void iterator_next(iterator_t* iter) {
 	if(iterator_has_next(iter)) {  
+		// Pekare till pekaren till nästa element
 	    iter->current = &((*(iter->current))->next);  
 	    return (*(iter->current))->data;  
 	}  
