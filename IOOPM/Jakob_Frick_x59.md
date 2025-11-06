@@ -76,7 +76,11 @@ int iterator_remove(iterator_t* iter) {
 
 Med bara några enstaka rader kod kan vi uppnå två ganska komplexa operationer. Detta är förstås dock för en väldigt minimal implementation av listan. 
 ## Hur funkar detta?
-En iterators current-värde är alltid en pekare till en nods next-värde. Och en nods next-värde är alltid ett alias av pekaren som skapas när vi skapar en ny nod med make_node. När vi tänker oss vår "current" node, 
+En iterators current-värde är alltid en pekare till en nods next-värde. Och en nods next-värde är alltid ett alias av en pekare som skapas när vi skapar en efterträdande nod med make_node. När vi vill nå vår "current" nod, går vi alltså igenom en pekare till dess företrädares next-värde. Denna referens kommer därmed tillåta oss att alltså ha kontroll över vilken nod vår "current" nods företrädare anser som sin efterträdare. 
+
+**Diagram här**
+Detta är onekligen en vettig användning av dubbelpekare. En mer naiv lösning för att få funktioner som insert och remove att funka i denna kontext är att låta iterator-typen också hålla koll på sin "föregående".
+## Implementation i eget program
 
 
 ## Slutsats
