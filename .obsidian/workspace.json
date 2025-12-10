@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Jakob_Frick_x59"
             }
+          },
+          {
+            "id": "24e41902451e149a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "24e41902451e149a",
   "lastOpenFiles": [
     "Envariabelanalys/2. Differentiering.md",
     "IOOPM/Jakob_Frick_x59.md",
