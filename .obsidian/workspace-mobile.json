@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envariabelanalys/2. Differentiering.md",
+                "file": "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Differentiering"
+              "title": "1. Gränsvärden och Kontinuitet"
             }
           }
         ]
@@ -160,8 +160,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9f50b07d72c6843",
+  "active": "03f2dd7645f63fc8",
   "lastOpenFiles": [
+    "IOOPM/Jakob_Frick_x59.md",
+    "IOOPM/Mötesanteckningar för Projekt.md",
+    "IOOPM/Projektdagbok.md",
+    "/IOOPM/Jakob_Frick_x59.md",
+    "/IOOPM/Mötesanteckningar för Projekt.md",
+    "/IOOPM/Projektdagbok.md",
+    "/Envariabelanalys/2. Differentiering.md",
+    "/Envariabelanalys",
+    "IOOPM",
+    "/IOOPM",
+    "Envariabelanalys/2. Differentiering.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Algebra 1/Tentamen.md",
     "Untitled.base",
@@ -182,14 +193,9 @@
     "LinAlg 1/Exam/22-08-19 Kragh, Östensson, Hietala, Israelsson-1.pdf",
     "LinAlg 1/Exam/22-06-09 losningar-1.pdf",
     "LinAlg 1/Exam/22-06-09 Kragh, Östensson, Hietala, Israelsson-1.pdf",
-    "LinAlg 1/Exam/20240312-1.pdf",
-    "Envariabelanalys/2. Differentiering.md",
     "/snippets.md",
-    "/Untitled.base",
-    "/Untitled 1.base",
     "/TA-Docs/Microbit presentations.md",
     "/LinAlg 1/Formler och samband.md",
-    "/Envariabelanalys/2. Differentiering.md",
     "/Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "/DatorArkitektur/Parallelism.md",
     "DatorArkitektur/Presentation.md",
@@ -202,11 +208,6 @@
     "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Caches.md",
     "/DatorArkitektur/Presentation.md",
-    "/DatorArkitektur/Exam/2024-Apr.md",
-    "/DatorArkitektur/Exam/2023-June.md",
-    "/DatorArkitektur/Caches.md",
-    "/DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
-    "/DatorArkitektur/Lab 4 Material.md",
     "Gula Blommor.canvas",
     "/Gula Blommor.canvas",
     "Lätta disktinktioner.canvas",
