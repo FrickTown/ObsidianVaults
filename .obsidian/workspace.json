@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Projektdagbok"
             }
+          },
+          {
+            "id": "6fc5bc2f01a43d06",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
     "IOOPM/Mötesanteckningar för Projekt.md",
     "IOOPM/Projektdagbok.md",
