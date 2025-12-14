@@ -4,7 +4,7 @@
 *Tid: 60 minuter*
 Ett gruppmöte i discord skedde rum, där jag försökte få alla att ta lite eget ansvar och plats. Jag har egentligen ingen lust att ta mig an ledarrollen. Jag är någon som gärna tar plats och ansvar, men jag föredrar miljöer där en naturlig kooperation uppstår på grund av att alla delar samma driv. Det gäller tyvärr inte här, vilket leder till att jag får ta mycket initiativ åt alla. 
 
-Hursomhelst, vi kom fram till lite arbetsfördelning. Jag lovade att sätta upp git repot och filstrukturen samt fylla på i vårt Trello board. Vi beslutade oss för att ta refcountern nu innan jul, och implementationen av den i inlupp 2 efter jul. 
+Hursomhelst kom vi fram till lite arbetsfördelning. Jag lovade att sätta upp git repot och filstrukturen samt fylla på i vårt Trello board. Vi beslutade oss för att ta refcountern nu innan jul, och implementationen av den i inlupp 2 efter jul. 
 # Torsdag 11 December 2025
 *Tid: 45 minuter*
 Vi hade gruppmöte med Filip, vår coach för projektet. Vi diskuterade våra framgångar hittills, han kände av lite huruvida han trodde vi var okej förberedda, och det tyckte han. Han saknade däremot en överblick i vår systemarkitektur, något som vi beslutade oss för att ordna imorgon på discord. 
