@@ -1,7 +1,7 @@
 # Söndag 14 December 2025
 *Tid: 60 minuter*
 Jag lade tid på att sätta upp filstrukturen för projektet. Vi bestämde en ungefärlig filstruktur i fredags, så jag utgick från den. Jag skapade utöver det också en pull request template, och började skriva docstrings för RefCounter.h. Detta för att vi imorgon kommer börja arbeta, och ju mer boilerplate som är redo desto mindre kod kommer behöva submittas genom pull requests senare.
-Repot är redo att forkas och vi kommer 
+Repot är redo att forkas och vi kommer sätta igång imorgon.
 # Fredag 12 December 2025
 *Tid: 60 minuter*
 Ett gruppmöte i discord skedde rum, där jag försökte få alla att ta lite eget ansvar och plats. Jag har egentligen ingen lust att ta mig an ledarrollen. Jag är någon som gärna tar plats och ansvar, men jag föredrar miljöer där en naturlig kooperation uppstår på grund av att alla delar samma driv. Det gäller tyvärr inte här, vilket leder till att jag får ta mycket initiativ åt alla. 
