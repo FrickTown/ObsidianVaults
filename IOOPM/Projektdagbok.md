@@ -1,6 +1,6 @@
 # Söndag 14 December 2025
 *Tid: 60 minuter*
-Jag lade tid på att sätta upp filstrukturen för projektet. Vi bestämde en ungefärlig filstruktur i fredags, så jag utgick från den. Jag skapade utöver det också en pull request template, och började skriva docstrings för RefCounter.h. Detta för att vi imorgon kommer börja arbeta, och ju mer boilerplate som är redo desto mindre kod kommer behöva submittas genom pull requests senare.
+Jag lade tid på att sätta upp filstrukturen för projektet. Vi bestämde en ungefärlig filstruktur i fredags, så jag utgick från den. Jag skapade utöver det också en pull request template, och började skriva docstrings för RefCounter.h. Jag skrev också en makefile för att kompilera (troligtvis) all kod som kommer skrivas i sprint 1. Detta för att vi imorgon kommer börja arbeta, och ju mer boilerplate som är redo desto mindre kod kommer behöva submittas genom pull requests senare, vilket drar ner på merges från upstream.
 Repot är redo att forkas och vi kommer sätta igång imorgon.
 # Fredag 12 December 2025
 *Tid: 60 minuter*
