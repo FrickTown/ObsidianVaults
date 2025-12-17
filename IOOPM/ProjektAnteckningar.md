@@ -69,3 +69,5 @@ void Release( void * ptr )
     }
 }
 ```
+
+https://mailund.dk/posts/c-refcount-list/
