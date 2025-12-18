@@ -1,7 +1,23 @@
 
 # Torsdag 18 December 2025
-*Tid: ? minuter*
+*Tid: 120 minuter*
+Idag bokade jag in ett möte, en dag tidigt eftersom jag skulle vara upptagen på fredagen. Vi hoppade in på discord 18:00 och hade ett 45 minuters möte där vi pratade lite om vad som hade gått bra och vad som behövde jobbas på. Alla lämnade mötet säkra på sina uppgifter under kommande vecka. Efter mötet satt jag och implementerade cascade limit, så att allocate() inte rekursivt kallar sig själv i all evighet vid exempelvis frigörelse av en länkad lista.
+## Mötesanteckningar
+### Arbetsroller tills nästa fredag
+- Jakob kollar på gprof och gcov makefile shortcuts
+- Jakob och Iliya kollar på default destructor och type macros (och cascade limits)
+- Alexander kollar vidare på tests
+- Alexander och Jonathan kollar på att integrera inlupp 2 i projektet (lägger till mappen i demo, börjar med att ändra hash_table.c och linked_list.c)
+- Jonathan kanske börjar kolla på någon av rapporterna. 
 
+### Övrigt
+- Försök använda er av flera issues, tänk på att använda existerande markdown i pull request templaten.
+- Kom ihåg att hålla Trello syncat till er bästa förmåga
+- "Choose the size of your reference counter wisely and document the choice and explain how your system handles (or not) reference counter overflow."
+
+### Administrativt för Jakob
+- Maila coach om läget (läget är att Vide inte deltar)
+- Lägg till alla rapportuppgifter i Trello
 # Onsdag 17 December 2025
 *Tid: 90 minuter*
 Jag har väntat på Vide med att börja göra retain och release, men tyvärr har han varit väldigt otillräckligt kommunikativ, så jag bestämde mig för att implementera dessa själv. Efter att ha granskat de andras pull requests, accepterat dessa, och läst igenom koden, förstod jag hur mina funktioner skulle fungera. Det tog en dryg timme på grund av sjuka valgrind fel, även fast programmet funkade och inte läckte minne.  
