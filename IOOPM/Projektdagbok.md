@@ -1,3 +1,12 @@
+
+# Onsdag 17 December 2025
+*Tid: 90 minuter*
+Jag har väntat på Vide med att börja göra retain och release, men tyvärr har han varit väldigt otillräckligt kommunikativ, så jag bestämde mig för att implementera dessa själv. Efter att ha granskat de andras pull requests, accepterat dessa, och läst igenom koden, förstod jag hur mina funktioner skulle fungera. Det tog en dryg timme på grund av sjuka valgrind fel, även fast programmet funkade och inte läckte minne.  
+
+Jag gjorde en pull request med mina nya funktioner, och gjorde även commits som rättade till småfel eller inkompatibilitet i de andras kod. Denna granskades av Alexander och efter han godkände den så mergade jag till main.
+# Tisdag 16 December 2025
+*Tid: 0 minuter*
+Repot blir forkat av övriga gruppmedlemmar och de första pull requestsen kommer in.
 # Söndag 14 December 2025
 *Tid: 60 minuter*
 Jag lade tid på att sätta upp filstrukturen för projektet. Vi bestämde en ungefärlig filstruktur i fredags, så jag utgick från den. Jag skapade utöver det också en pull request template, och började skriva docstrings för RefCounter.h. Jag skrev också en makefile för att kompilera (troligtvis) all kod som kommer skrivas i sprint 1. Detta för att vi imorgon kommer börja arbeta, och ju mer boilerplate som är redo desto mindre kod kommer behöva submittas genom pull requests senare, vilket drar ner på merges från upstream.
