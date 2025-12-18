@@ -1,4 +1,7 @@
 
+# Torsdag 18 December 2025
+*Tid: ? minuter*
+
 # Onsdag 17 December 2025
 *Tid: 90 minuter*
 Jag har väntat på Vide med att börja göra retain och release, men tyvärr har han varit väldigt otillräckligt kommunikativ, så jag bestämde mig för att implementera dessa själv. Efter att ha granskat de andras pull requests, accepterat dessa, och läst igenom koden, förstod jag hur mina funktioner skulle fungera. Det tog en dryg timme på grund av sjuka valgrind fel, även fast programmet funkade och inte läckte minne.  
