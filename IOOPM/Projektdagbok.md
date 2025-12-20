@@ -1,7 +1,7 @@
 
 # Torsdag 18 December 2025
 *Tid: 120 minuter*
-Idag bokade jag in ett möte, en dag tidigt eftersom jag skulle vara upptagen på fredagen. Vi hoppade in på discord 18:00 och hade ett 45 minuters möte där vi pratade lite om vad som hade gått bra och vad som behövde jobbas på. Alla lämnade mötet säkra på sina uppgifter under kommande vecka. Efter mötet satt jag och implementerade cascade limit, så att allocate() inte rekursivt kallar sig själv i all evighet vid exempelvis frigörelse av en länkad lista.
+Idag bokade jag in ett möte, en dag tidigt eftersom jag skulle vara upptagen på fredagen. Vi hoppade in på discord 18:00 och hade ett 45 minuters möte där vi pratade lite om vad som hade gått bra och vad som behövde jobbas på. Alla lämnade mötet säkra på sina uppgifter under kommande vecka. Efter mötet satt jag och implementerade cascade limits, så att allocate() inte rekursivt kallar sig själv i all evighet vid exempelvis frigörelse av en länkad lista.
 ## Mötesanteckningar
 ### Arbetsroller tills nästa fredag
 - Jakob kollar på gprof och gcov makefile shortcuts
