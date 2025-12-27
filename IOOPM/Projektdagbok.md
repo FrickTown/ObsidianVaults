@@ -1,3 +1,11 @@
+# Lördag 27 December 2025
+*Tid: 120 minuter*
+Efter en välbehövlig julpaus satte jag mig ned för att reviewa lite pull requests som gjorts under veckan. Eftersom jag delegerat uppgiften om att ändra hash_table.c och linked_list.c till att använda referensräknaren så såg jag till att de gjort detta på ett lämpligt sätt. Jag såg en förvirring i att de båda lät destructorn releasea, istället för att låta release kalla på destructorn. Jag uppskattar att folk tar lite av en julpaus i dagsläget så jag är tålmodig med att de korrigerar detta.
+
+Eftersom ett av pull requesten touchar på ganska många filer så tänker jag låta korrigeringar komma in innan jag börjar kolla p
+# Lördag 20 December 2025
+*Tid: 45 minuter*
+Idag fick vi en ny kollega, Marcus. Han ersatte Irfan, som valt att inte delta i projektet. Jag lade ned tid på att uppdatera honom om vårt arbetsflöde, ge honom tillgång till alla nödvändiga kanaler (GitHub, Trello, Discord) och ge honom lite arbetsuppgifter. 
 
 # Torsdag 18 December 2025
 *Tid: 120 minuter*
