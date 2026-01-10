@@ -1,12 +1,15 @@
 # Torsdag 8 Januari 2025
 *Tid: 60 minuter*
-Jag finslipade gårdagens kod, och gjorde den mer generisk. 
+Jag finslipade gårdagens kod, och gjorde den mer generisk. En registrerad typ kan nu göras med upp till 6 pekare som ska frias. Denna gräns är lätt justera, med en enstaka rad eller två till med macrokod. 
 # Onsdag 7 Januari 2025
 *Tid: 240 minuter*
+Jag kallade till nödmöte på kort varsel 
 Jag bestämde mig för att ta itu med type registration och default destructors. Det tog en stund att reda ut macros (det är verkligen ett helt ytterligare språk att lära sig), men den slutgiltiga produkten blev väldigt bra och exakt enligt specifikationer. Det var en lärorik process och det roligaste jag haft med projektet hittills, då det utmanade mig mer än de tidigare bitarna.
+# Måndag 5 Januari 2025
+Jag märkte lite brister i hash table integration
 # Onsdag 31 December 2025
 *Tid: 60 minuter*
-
+Integrationen av ref counter i hash table var nu godtyckligt implementerad, så jag mergeade den.
 # Lördag 27 December 2025
 *Tid: 120 minuter*
 Efter en välbehövlig julpaus satte jag mig ned för att reviewa lite pull requests som gjorts under veckan. Eftersom jag delegerat uppgiften om att ändra hash_table.c och linked_list.c till att använda referensräknaren så såg jag till att de gjort detta på ett lämpligt sätt. Jag såg en förvirring i att de båda lät destructorn releasea, istället för att låta release kalla på destructorn. Jag uppskattar att folk tar lite av en julpaus i dagsläget så jag är tålmodig med att de korrigerar detta.
