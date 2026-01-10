@@ -6,7 +6,8 @@ Jag finslipade gårdagens kod, och gjorde den mer generisk. En registrerad typ k
 Jag kallade till nödmöte på kort varsel 
 Jag bestämde mig för att ta itu med type registration och default destructors. Det tog en stund att reda ut macros (det är verkligen ett helt ytterligare språk att lära sig), men den slutgiltiga produkten blev väldigt bra och exakt enligt specifikationer. Det var en lärorik process och det roligaste jag haft med projektet hittills, då det utmanade mig mer än de tidigare bitarna.
 # Måndag 5 Januari 2025
-Jag märkte lite brister i hash table integration
+*Tid: 30 minuter*
+Jag märkte lite brister i hash table integrationen som jag korrigerade. Nu är repot redo för större förändringar.
 # Onsdag 31 December 2025
 *Tid: 60 minuter*
 Integrationen av ref counter i hash table var nu godtyckligt implementerad, så jag mergeade den.
