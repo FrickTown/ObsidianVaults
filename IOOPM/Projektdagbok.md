@@ -1,10 +1,13 @@
-# Torsdag 8 Januari 2025
+# Lördag 10 Januari 2026
+# Fredag 9 Januari 2026
+Jag tillbringade en del tid på code reviewing av de pull requests som kommit in. Lämnade en del kommentarer då flera saker behövde justeras innan jag mergar.
+# Torsdag 8 Januari 2026
 *Tid: 60 minuter*
 Jag finslipade gårdagens kod, och gjorde den mer generisk. En registrerad typ kan nu göras med upp till 6 pekare som ska frias. Denna gräns är lätt justera, med en enstaka rad eller två till med macrokod. 
-# Onsdag 7 Januari 2025
+# Onsdag 7 Januari 2026
 *Tid: 240 minuter*
-Jag kallade till nödmöte på kort varsel 
-Jag bestämde mig för att ta itu med type registration och default destructors. Det tog en stund att reda ut macros (det är verkligen ett helt ytterligare språk att lära sig), men den slutgiltiga produkten blev väldigt bra och exakt enligt specifikationer. Det var en lärorik process och det roligaste jag haft med projektet hittills, då det utmanade mig mer än de tidigare bitarna.
+Jag kallade till nödmöte på kort varsel där jag delegerade konkreta arbetsuppgifter till alla. 
+Jag bestämde mig för att ta itu med type registration och default destructors. Det tog en stund att reda ut macros (det är verkligen ett helt ytterligare språk att lära sig), men den slutgiltiga produkten blev väldigt bra och exakt enligt specifikationer. Det var en lärorik process och det roligaste jag haft med projektet hittills, då det utmanade mig mer än de tidigare bitarna. Jag kallade också till ett ytterligare möte, nu på lördag.
 # Måndag 5 Januari 2025
 *Tid: 30 minuter*
 Jag märkte lite brister i hash table integrationen som jag korrigerade. Nu är repot redo för större förändringar.
