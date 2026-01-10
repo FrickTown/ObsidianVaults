@@ -1,3 +1,12 @@
+# Torsdag 8 Januari 2025
+*Tid: 60 minuter*
+Jag finslipade gårdagens kod, och gjorde den mer generisk. 
+# Onsdag 7 Januari 2025
+*Tid: 240 minuter*
+Jag bestämde mig för att ta itu med type registration och default destructors. Det tog en stund att reda ut macros (det är verkligen ett helt ytterligare språk att lära sig), men den slutgiltiga produkten blev väldigt bra och exakt enligt specifikationer. Det var en lärorik process och det roligaste jag haft med projektet hittills, då det utmanade mig mer än de tidigare bitarna.
+# Onsdag 31 December 2025
+*Tid: 60 minuter*
+
 # Lördag 27 December 2025
 *Tid: 120 minuter*
 Efter en välbehövlig julpaus satte jag mig ned för att reviewa lite pull requests som gjorts under veckan. Eftersom jag delegerat uppgiften om att ändra hash_table.c och linked_list.c till att använda referensräknaren så såg jag till att de gjort detta på ett lämpligt sätt. Jag såg en förvirring i att de båda lät destructorn releasea, istället för att låta release kalla på destructorn. Jag uppskattar att folk tar lite av en julpaus i dagsläget så jag är tålmodig med att de korrigerar detta.

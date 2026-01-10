@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envariabelanalys/3. Talföljder och Konvergens.md",
+                "file": "IOOPM/Projektdagbok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Talföljder och Konvergens"
+              "title": "Projektdagbok"
             }
           },
           {
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -193,11 +194,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b4ba1a0121e9df10",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "Untitled 2.base",
+    "Envariabelanalys/3. Talföljder och Konvergens.md",
     "Envariabelanalys/Media/Pasted image 20260108204132.png",
     "Envariabelanalys/2. Differentiering.md",
-    "Envariabelanalys/3. Talföljder och Konvergens.md",
     "Envariabelanalys/Media/Pasted image 20260108203444.png",
     "IOOPM/Projektdagbok.md",
     "IOOPM/ProjektAnteckningar.md",
@@ -223,7 +225,6 @@
     "Pasted image 20251001160226.png",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
-    "Pasted image 20251001155016.png",
     "LinAlg 1/Formler och samband.md",
     "Envariabelanalys/Media",
     "TA-Docs/Microbit presentations.md",
