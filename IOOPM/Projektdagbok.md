@@ -1,4 +1,7 @@
+# Söndag 11 Januari 2026
+*Tid: 420 minuter*
 # Lördag 10 Januari 2026
+*Tid: 600 minuter* 
 # Fredag 9 Januari 2026
 Jag tillbringade en del tid på code reviewing av de pull requests som kommit in. Lämnade en del kommentarer då flera saker behövde justeras innan jag mergar.
 # Torsdag 8 Januari 2026
