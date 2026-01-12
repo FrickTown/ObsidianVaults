@@ -35,7 +35,8 @@
               "title": "Projektdagbok"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -194,7 +194,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
     "Untitled 2.base",
     "Envariabelanalys/3. Talföljder och Konvergens.md",

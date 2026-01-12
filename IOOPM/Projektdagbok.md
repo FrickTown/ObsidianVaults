@@ -1,7 +1,14 @@
+# Måndag 12 Januari 2026
+*Tid: 210 minuter*
+Jag anordnade ett till möte, som ledde in i en liten arbetssession där alla var närvarande (utom Vide, som kom 3 timmar sent). Detta var ett ganska nice sätt att jobba på, eftersom alla var närvarande för frågor och kollaboration. Men det är inte riktigt realistiskt att vänta sig att alla ska vara tillgängliga samtidigt.
+
+Jag började jobba på att göra makefile targets för vårt demoprogram. Vi hade antagit att våra integrationsarbeten i demot redan var godtyckliga, men att försöka kompilera en binärfil visade motsatsen. Även när binärfilen var kompilerad började en rad oväntade segfaults dyka upp, som jag tillbringade början på min eftermiddag med att förstå och fixa. Jag gav resten av arbetet till Marcus och Iliya då jag börjar känna mig utbränd efter dessa intensiva dagar.
 # Söndag 11 Januari 2026
 *Tid: 420 minuter*
 # Lördag 10 Januari 2026
 *Tid: 600 minuter* 
+Jag kallade till ett ganska akut möte, då det började uppenbaras för mig hur mycket vi faktiskt hade kvar att göra - och nu med ganska lite tid att göra det.
+Jag tog på mig 
 # Fredag 9 Januari 2026
 *Tid: 120 minuter*
 Jag tillbringade en del tid på code reviewing av de pull requests som kommit in. Lämnade en del kommentarer då flera saker behövde justeras innan jag mergar.
