@@ -1,6 +1,6 @@
 # Vem pekar du på? Och vem pekar de på?
 <span style="font-size: 1.3em; margin-left: 2em;">En redovisning av M39: Pekare till pekare</span>
-<span style="font-size: 1em; margin-left: 4.1em;">Jakob Frick | 2025-12-11<span>
+<span style="font-size: 1em; margin-left: 4.1em;">Jakob Frick | 2025-12-11</span>
 
 ## Inledning
 Pekare har i decennier frustrerat aspirerande datavetare. Det räcker med en snabbtitt på YouTube för att förstå det. Det finns otaliga videos med försök till att förklara konceptet — och antalet visningar når miljoner på somliga. Så vadan förvirringen? Jo, i högnivåspråk, såsom *Python* och *Java*, behöver inte programmeraren hantera lagring och rensning av data i minnet. I dessa mer nybörjarvänliga språk är pekarlogiken kvar, men undangömd och automatiserad. Så när en intermediärt erfaren programmerare är redo att ta sig an ett lågnivåspråk som C (där pekare är väldigt centralt), så bemöts denne av ett helt nytt lager av logik, som ofta kan utmana ens tidigare uppfattningar om programmering. 

@@ -5,10 +5,13 @@ Jag anordnade ett till möte, som ledde in i en liten arbetssession där alla va
 Jag började jobba på att göra makefile targets för vårt demoprogram. Vi hade antagit att våra integrationsarbeten i demot redan var godtyckliga, men att försöka kompilera en binärfil visade motsatsen. Även när binärfilen var kompilerad började en rad oväntade segfaults dyka upp, som jag tillbringade början på min eftermiddag med att förstå och fixa. Jag gav resten av arbetet till Marcus och Iliya då jag börjar känna mig utbränd efter dessa intensiva dagar.
 # Söndag 11 Januari 2026
 *Tid: 420 minuter*
+Ju mer tid jag lade på att lägga till saker i programmet igår, desto mer förstod jag att vi hade gjort fel eller inkompletta lösningar på många ställen. Listor cascade-friades inte, framförallt. Och i relation till det - zero-ref listan användes inte för att stoppa cascade-frees som pågått för länge, och friade inte sina värden vid shutdown(). Detta tar jag hand om imorgon.
 # Lördag 10 Januari 2026
 *Tid: 600 minuter* 
 Jag kallade till ett ganska akut möte, då det började uppenbaras för mig hur mycket vi faktiskt hade kvar att göra - och nu med ganska lite tid att göra det.
-Jag tog på mig 
+Istället för att delegera detta arbete, som var väldigt förtvinat över många filer projektet, och hoppas på att alla blir klara, bestämde jag mig för att efter mötet bara köra. Jag började lägga till så att en hash table eller en länkad lista friar alla sina värden ordentligt när man friar dem. Detta tog mycket funderande innan jag kom fram till min lösning.
+
+Ju mer tid jag lade på detta, ju bredare perspektiv fick jag på saker som fattades... Mer imorgon.
 # Fredag 9 Januari 2026
 *Tid: 120 minuter*
 Jag tillbringade en del tid på code reviewing av de pull requests som kommit in. Lämnade en del kommentarer då flera saker behövde justeras innan jag mergar.
