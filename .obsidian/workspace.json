@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envariabelanalys/Integration.md",
+                "file": "Envariabelanalys/3. Talföljder och Konvergens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration"
+              "title": "3. Talföljder och Konvergens"
             }
           }
         ],
@@ -196,9 +196,10 @@
   },
   "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
-    "Pasted image 20260112184408.png",
+    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Envariabelanalys/2. Differentiering.md",
     "Envariabelanalys/Integration.md",
+    "Pasted image 20260112184408.png",
     "IOOPM/Jakob_Frick_x59.md",
     "IOOPM/Projektdagbok.md",
     "Untitled 2.base",
@@ -214,7 +215,6 @@
     "Untitled.base",
     "Untitled 1.base",
     "snippets.md",
-    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Pasted image 20251002171215.png",
     "Pasted image 20251002171202.png",
     "LinAlg 1/Kompendium - 1MA025.pdf",
@@ -224,7 +224,6 @@
     "Pasted image 20251001170632.png",
     "Pasted image 20251001170626.png",
     "LinAlg 1/Exam/20240312-1.pdf",
-    "Pasted image 20251001160226.png",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "LinAlg 1/Formler och samband.md",
