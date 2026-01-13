@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "3. Talföljder och Konvergens"
             }
+          },
+          {
+            "id": "1848770feae05643",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6fc5bc2f01a43d06",
+  "active": "1848770feae05643",
   "lastOpenFiles": [
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Envariabelanalys/2. Differentiering.md",
