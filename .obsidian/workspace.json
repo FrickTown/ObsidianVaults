@@ -27,28 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envariabelanalys/3. Talföljder och Konvergens.md",
+                "file": "Envariabelanalys/4. Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Talföljder och Konvergens"
-            }
-          },
-          {
-            "id": "1848770feae05643",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "4. Integration"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,16 +194,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1848770feae05643",
+  "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
-    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
+    "Pasted image 20260113123404.png",
     "Envariabelanalys/2. Differentiering.md",
+    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
+    "Pasted image 20260113122218.png",
+    "Envariabelanalys/4. Integration.md",
+    "IOOPM/Projektdagbok.md",
+    "Envariabelanalys/3. Talföljder och Konvergens.md",
     "Envariabelanalys/Integration.md",
     "Pasted image 20260112184408.png",
     "IOOPM/Jakob_Frick_x59.md",
-    "IOOPM/Projektdagbok.md",
     "Untitled 2.base",
-    "Envariabelanalys/3. Talföljder och Konvergens.md",
     "Envariabelanalys/Media/Pasted image 20260108204132.png",
     "Envariabelanalys/Media/Pasted image 20260108203444.png",
     "IOOPM/ProjektAnteckningar.md",
@@ -234,7 +225,6 @@
     "Pasted image 20251001170843.png",
     "Pasted image 20251001170835.png",
     "Pasted image 20251001170632.png",
-    "Pasted image 20251001170626.png",
     "LinAlg 1/Exam/20240312-1.pdf",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
@@ -252,7 +242,6 @@
     "DatorArkitektur/Lab 2 Background Material.md",
     "DatorArkitektur/Input & Output.md",
     "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
-    "DatorArkitektur/Lab 3 Material.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
