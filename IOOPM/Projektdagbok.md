@@ -1,3 +1,12 @@
+# Torsdag 15 Januari 2026
+*Tid: 180 minuter*
+Presentationen behövde kastas ihop pronto. Vi hade mycket att göra och väldigt lite tid att göra den, och ingen tid över att öva. Vi fick göra det på första försöket, helt enkelt. 
+# Onsdag 14 Januari 2026
+*Tid: 420 minuter*
+Idag satt vi faktiskt på campus hela bunten (förutom Vide), för att få in alla de sista komponenterna tills deadline. Många hade mål kvar att redovisa, jag däribland, vilket också ledde till en väldigt stressig arbetsmiljö. Många saker i huvudet samtidigt. När jag gjorde mig redo för att lämna in, mergeade de sista pull requestsen och så, så insåg jag att vi, i vår kamp att slippa minnesläckor och segfaults, glömde att kolla så alla test passerade. Och det gjorde de naturligtvis inte. Ungefär 1-3 fel per test-suite. Så Marcus och jag fortsatte göra vad vi gör bäst - debugga. Vi behövde tyvärr dra över lite grann. Men en inlämning gjordes till slut, och fokus skiftade nu över till presentationen imorgon.
+# Tisdag 13 Januari 2026
+*Tid: 360 minuter*
+Idag blev ytterligare en lång session. Marcus hade gjort framsteg under föregående natt, och vi var närmre ett demo som körde utan segfaults och minnesläckor. Men många gånger ledde en potentiell lösning till ett problem till 2000+ nya fel i valgrind... Skenet bedrar där, naturligtvis, en liten förändring så försvann alla samtidigt. Vi blev väldigt duktiga på projektets egenheter och hade god problemlösningsförmåga. Vi lyckades faktiskt bli klara med demot. En hel dag innan deadline!
 # Måndag 12 Januari 2026
 *Tid: 210 minuter*
 Jag anordnade ett till möte, som ledde in i en liten arbetssession där alla var närvarande (utom Vide, som kom 3 timmar sent). Detta var ett ganska nice sätt att jobba på, eftersom alla var närvarande för frågor och kollaboration. Men det är inte riktigt realistiskt att vänta sig att alla ska vara tillgängliga samtidigt.
