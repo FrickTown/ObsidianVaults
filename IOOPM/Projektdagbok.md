@@ -1,6 +1,14 @@
 # Torsdag 15 Januari 2026
 *Tid: 180 minuter*
-Presentationen behövde kastas ihop pronto. Vi hade mycket att göra och väldigt lite tid att göra den, och ingen tid över att öva. Vi fick göra det på första försöket, helt enkelt. 
+Presentationen behövde kastas ihop pronto. Vi hade mycket att göra och väldigt lite tid att göra det, och viktigast - ingen tid över för att öva. Vi fick se till att göra det på första försöket, helt enkelt. 
+
+Jag behövde också göra något väldigt tufft som ledare idag. Något som jag är stolt över, även om det var tufft. Vide, som har varit väldigt frånvarande och inte deltagit i gruppen alls till graden som de andra har, planerade att komma idag på presentationen. Men jag kände inte att det var rättvist mot de andra att han skulle få komma och vara med på presentationen och ta ära för ett grupparbete han inte varit en del av. Så jag tog det svåra beslutet att skriva till honom och uppmana honom att inte komma. 
+
+Jag var väldigt noggrann med hur jag ordade detta, för att framhäva att jag inte kritiserade honom som person, utan att jag bara stod upp för gruppens prestationer. Han var naturligtvis lite stött, men han förstod mitt resonemang, och var mest förvirrad att jag väntat tills nu med att säga något. Jag höll med, och bad om ursäkt för att jag väntade så länge med det, att det inte riktigt var rättvist att göra det såhär i sista sekund. Jag ska erkänna att jag bara tyckte det var för jobbigt. Jag gillar inte att vara någon som spräcker andras bubblor. Det sista jag vill är att göra någon besviken. Men ibland måste man ha gruppens bästa i åtanke. Jag gav honom några betryggande ord och vi är på goda termer.
+
+Jag är stolt över hur jag hanterade situationen. Presentationen gick väl sisådär, ungefär så bra man kan tänka sig att den skulle. Men vi fick sagt vad vi behövde, och framförallt fick vi ihop ett fungerande program. Det ska man inte fnysa åt.
+
+Jag gick sedan hem och skrev självreflektionen, och nu skriver jag detta sista inlägg i dagboken. Tack för en utmärkt kurs.
 # Onsdag 14 Januari 2026
 *Tid: 420 minuter*
 Idag satt vi faktiskt på campus hela bunten (förutom Vide), för att få in alla de sista komponenterna tills deadline. Många hade mål kvar att redovisa, jag däribland, vilket också ledde till en väldigt stressig arbetsmiljö. Många saker i huvudet samtidigt. När jag gjorde mig redo för att lämna in, mergeade de sista pull requestsen och så, så insåg jag att vi, i vår kamp att slippa minnesläckor och segfaults, glömde att kolla så alla test passerade. Och det gjorde de naturligtvis inte. Ungefär 1-3 fel per test-suite. Så Marcus och jag fortsatte göra vad vi gör bäst - debugga. Vi behövde tyvärr dra över lite grann. Men en inlämning gjordes till slut, och fokus skiftade nu över till presentationen imorgon.
