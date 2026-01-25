@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOOPM/Projektdagbok.md",
-                "mode": "preview",
+                "file": "OSPP/Fundamentals.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projektdagbok"
+              "title": "Fundamentals"
             }
           }
         ],
@@ -196,12 +196,16 @@
   },
   "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
+    "IOOPM/Projektdagbok.md",
+    "OSPP/Fundamentals.md",
+    "Untitled 1.md",
+    "OSPP",
+    "Untitled.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Envariabelanalys/2. Differentiering.md",
     "Envariabelanalys/4. Integration.md",
     "Pasted image 20260113123404.png",
     "Pasted image 20260113122218.png",
-    "IOOPM/Projektdagbok.md",
     "Envariabelanalys/3. Talföljder och Konvergens.md",
     "Envariabelanalys/Integration.md",
     "Pasted image 20260112184408.png",
@@ -232,15 +236,12 @@
     "TA-Docs/Microbit presentations.md",
     "Untitled",
     "TA-Docs",
-    "Envariabelanalys",
     "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/MIPS.md",
     "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Cheat Sheet.md",
     "DatorArkitektur/Presentation.md",
     "DatorArkitektur/Lab 2 Background Material.md",
-    "DatorArkitektur/Input & Output.md",
-    "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
