@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Fundamentals"
             }
+          },
+          {
+            "id": "7dd59a41ce216d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sysdes/Intervju 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intervju 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,8 +208,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6fc5bc2f01a43d06",
+  "active": "7dd59a41ce216d52",
   "lastOpenFiles": [
+    "Sysdes/Intervju 1.md",
+    "Sysdes",
     "Pasted image 20260125193320.png",
     "IOOPM/Projektdagbok.md",
     "OSPP/Fundamentals.md",
@@ -228,7 +244,6 @@
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "kontinuerlig.md",
     "Pasted image 20251001170843.png",
-    "Pasted image 20251001170835.png",
     "LinAlg 1/Exam/20240312-1.pdf",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
@@ -236,7 +251,6 @@
     "Envariabelanalys/Media",
     "TA-Docs/Microbit presentations.md",
     "Untitled",
-    "TA-Docs",
     "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/MIPS.md",
     "DatorArkitektur/Exam/2023-June.md",
