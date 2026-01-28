@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSPP/Fundamentals.md",
+                "file": "Sysdes/Intervju 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals"
+              "title": "Intervju 2"
             }
           }
         ],
@@ -210,11 +210,12 @@
   },
   "active": "7dd59a41ce216d52",
   "lastOpenFiles": [
+    "OSPP/Fundamentals.md",
+    "Sysdes/Intervju 2.md",
     "Sysdes/Intervju 1.md",
+    "IOOPM/Projektdagbok.md",
     "Sysdes",
     "Pasted image 20260125193320.png",
-    "IOOPM/Projektdagbok.md",
-    "OSPP/Fundamentals.md",
     "Untitled 1.md",
     "OSPP",
     "Untitled.md",
@@ -255,7 +256,6 @@
     "DatorArkitektur/MIPS.md",
     "DatorArkitektur/Exam/2023-June.md",
     "DatorArkitektur/Cheat Sheet.md",
-    "DatorArkitektur/Presentation.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",

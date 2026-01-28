@@ -19,7 +19,7 @@ Subjekt gillar att apparna denne använder är lätta att navigera, och smidiga 
 5. Utmaningar och problem
 Subjekt tycker det är frustrerande hur känslig tågtrafiken är för snö. Vidare tycker subjekt att tågleverantörerna är generellt dåliga på att kommunicera förseningar. Det är svårt att hitta information om ersättningstrafik och dylikt när applicerbart. Subjekt har dock tagit ersättningsbussar. Subjekt väljer också att ta buss till arlanda eftersom tullavgiften för att kliva av tåget i Arlanda är för dyr.
 
-Subjekt pratar om incidenter där han råkat beställa Uppsala -> Stockholm istället för Stockholm -> Uppsala.
+Subjekt pratar om incidenter där denne råkat beställa Uppsala -> Stockholm istället för Stockholm -> Uppsala.
 
 6. Informationsbehov
 Subjekt är mest intresserad av att kunna se hela resvägen på ett centraliserat ställe, (à la Maps eller Interrail, t.ex.), samt prisjämförelser. Subjekt trycker på att pris och bytestider är viktigaste aspekterna av en resebokning.
