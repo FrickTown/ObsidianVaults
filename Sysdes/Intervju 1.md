@@ -17,4 +17,4 @@ Subjekt använder sig utav SJ-appen och appen Mälardalstrafik. Dessa är de mes
 Subjekt gillar att apparna denne använder är lätta att navigera, och smidiga att köpa i, tack vare bra integration med swish. 
 
 5. Utmaningar och problem
-Subjekt tycker det är frustrerande hur känslig tågtrafiken är för snö. Vidare tycker subjekt att tågleverantörerna är generellt dåliga på att kommunicera förseningar. 
+Subjekt tycker det är frustrerande hur känslig tågtrafiken är för snö. Vidare tycker subjekt att tågleverantörerna är generellt dåliga på att kommunicera förseningar. Det är svårt 
