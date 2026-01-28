@@ -17,4 +17,12 @@ Subjekt använder sig utav SJ-appen och appen Mälardalstrafik. Dessa är de mes
 Subjekt gillar att apparna denne använder är lätta att navigera, och smidiga att köpa i, tack vare bra integration med swish. 
 
 5. Utmaningar och problem
-Subjekt tycker det är frustrerande hur känslig tågtrafiken är för snö. Vidare tycker subjekt att tågleverantörerna är generellt dåliga på att kommunicera förseningar. Det är svårt 
+Subjekt tycker det är frustrerande hur känslig tågtrafiken är för snö. Vidare tycker subjekt att tågleverantörerna är generellt dåliga på att kommunicera förseningar. Det är svårt att hitta information om ersättningstrafik och dylikt när applicerbart. Subjekt har dock tagit ersättningsbussar. Subjekt väljer också att ta buss till arlanda eftersom tullavgiften för att kliva av tåget i Arlanda är för dyr.
+
+Subjekt pratar om incidenter där han råkat beställa Uppsala -> Stockholm istället för Stockholm -> Uppsala.
+
+6. Informationsbehov
+Subjekt är mest intresserad av att kunna se hela resvägen på ett centraliserat ställe, (à la Maps eller Interrail, t.ex.), samt prisjämförelser. Subjekt trycker på att pris och bytestider är viktigaste aspekterna av en resebokning.
+
+7. Värderingar och prioriteringar
+Subjekt medger att denne tyvärr inte prioriterar miljö i sina resplaneringar, eftersom att denne lever med en studentekonomi. Pris är den absolut huvudsakliga faktorn. Om priset inte skiljer sig mycket mellan tåg och flyg, men skillnaden i restid är markant, så väljer subjekt den kortare restiden. 
