@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ebdd0c791daf66f6",
@@ -225,8 +225,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6fc5bc2f01a43d06",
+  "active": "7dd59a41ce216d52",
   "lastOpenFiles": [
+    "OSPP/Fundamentals.md",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion2.pdf",
     "Automatateori/Anteckningar.md",
@@ -234,7 +235,6 @@
     "Pasted image 20260128215823.png",
     "Sysdes/Intervju 2.md",
     "Automatateori",
-    "OSPP/Fundamentals.md",
     "Sysdes/Intervju 1.md",
     "IOOPM/Projektdagbok.md",
     "Sysdes",
