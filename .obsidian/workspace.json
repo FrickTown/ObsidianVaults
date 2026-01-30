@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Automatateori/Lektion2.pdf"
+                "file": "Automatateori/Lektion1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lektion2"
+              "title": "Lektion1"
             }
           }
         ],
@@ -212,10 +212,10 @@
   },
   "active": "a0b5b959e58f96fc",
   "lastOpenFiles": [
+    "Automatateori/Lektion2.pdf",
     "Automatateori/Anteckningar.md",
     "Pasted image 20260130170024.png",
     "Automatateori/Lektion1.pdf",
-    "Automatateori/Lektion2.pdf",
     "Automatateori/Automataboken.pdf",
     "Sysdes/Intervju 1.md",
     "OSPP/Fundamentals.md",
