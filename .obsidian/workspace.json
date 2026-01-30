@@ -33,7 +33,8 @@
               "title": "Lektion2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ebdd0c791daf66f6",
@@ -209,8 +210,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6fc5bc2f01a43d06",
+  "active": "a0b5b959e58f96fc",
   "lastOpenFiles": [
+    "Automatateori/Anteckningar.md",
     "Pasted image 20260130170024.png",
     "Automatateori/Lektion1.pdf",
     "Automatateori/Lektion2.pdf",
@@ -223,7 +225,6 @@
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
-    "Automatateori/Anteckningar.md",
     "Screenshot_20260128_220127.png",
     "Pasted image 20260128215823.png",
     "Sysdes/Intervju 2.md",
@@ -249,7 +250,6 @@
     "Algebra 1/Tentamen.md",
     "Algebra 1/Kongruens.md",
     "snippets.md",
-    "Pasted image 20251002171215.png",
     "kontinuerlig.md",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
