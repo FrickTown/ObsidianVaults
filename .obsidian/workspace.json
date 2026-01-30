@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Fundamentals"
             }
-          },
-          {
-            "id": "7dd59a41ce216d52",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Automatateori/Lektion2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lektion2"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "ebdd0c791daf66f6",
@@ -123,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -225,11 +212,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7dd59a41ce216d52",
+  "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
+    "Automatateori/Lektion1.pdf",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Automatateori/Lektion2.pdf",
     "OSPP/Fundamentals.md",
     "Automatateori/Automataboken.pdf",
-    "Automatateori/Lektion2.pdf",
     "Automatateori/Anteckningar.md",
     "Screenshot_20260128_220127.png",
     "Pasted image 20260128215823.png",
@@ -240,7 +234,6 @@
     "Sysdes",
     "Pasted image 20260125193320.png",
     "Untitled 1.md",
-    "OSPP",
     "Untitled.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Envariabelanalys/2. Differentiering.md",
@@ -251,20 +244,15 @@
     "Envariabelanalys/Integration.md",
     "Pasted image 20260112184408.png",
     "IOOPM/Jakob_Frick_x59.md",
-    "Untitled 2.base",
     "Envariabelanalys/Media/Pasted image 20260108204132.png",
     "Envariabelanalys/Media/Pasted image 20260108203444.png",
     "IOOPM/ProjektAnteckningar.md",
     "IOOPM/Mötesanteckningar för Projekt.md",
     "Pasted image 20250602155113.png",
-    "IOOPM",
     "Algebra 1/Tentamen.md",
     "Algebra 1/Kongruens.md",
-    "Untitled.base",
-    "Untitled 1.base",
     "snippets.md",
     "Pasted image 20251002171215.png",
-    "LinAlg 1/Kompendium - 1MA025.pdf",
     "kontinuerlig.md",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
