@@ -11,12 +11,14 @@
             "id": "6fc5bc2f01a43d06",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Automatateori/Lektion1.pdf"
+                "file": "Automatateori/Anteckningar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lektion1"
+              "icon": "lucide-file",
+              "title": "Anteckningar"
             }
           },
           {
@@ -106,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -210,8 +211,9 @@
   },
   "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
-    "Automatateori/Lektion2.pdf",
+    "Pasted image 20260130170024.png",
     "Automatateori/Lektion1.pdf",
+    "Automatateori/Lektion2.pdf",
     "Automatateori/Automataboken.pdf",
     "Sysdes/Intervju 1.md",
     "OSPP/Fundamentals.md",

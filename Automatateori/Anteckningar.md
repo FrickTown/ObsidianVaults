@@ -9,3 +9,5 @@ The automaton must have a finite amount of states, since this implies it has no 
 # DFA Formal Definition
 ![[Pasted image 20260128215823.png]]
 ![[Screenshot_20260128_220127.png]]
+# Regular expressions
+![[Pasted image 20260130170024.png]]
