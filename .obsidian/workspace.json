@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -195,12 +196,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a0b5b959e58f96fc",
+  "active": "ffaf8eb795644b22",
   "lastOpenFiles": [
+    "Automatateori/Lektion2.pdf",
     "Sysdes/Intervju 2.md",
     "Sysdes/Intervju 1.md",
     "Untitled.base",
-    "Automatateori/Lektion2.pdf",
     "Untitled 9.base",
     "Automatateori/Anteckningar.md",
     "Automatateori/Automataboken.pdf",
