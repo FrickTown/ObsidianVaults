@@ -43,5 +43,13 @@ The exit system call marks a termination point of a process, allowing us to send
 Exec-esque system calls allows processes to completely change their currently executing program. This is necessary to run a child process that runs a separate program after fork()ing, for example. 
 16. *When calling a function or invoking a system call, normally execution will return back to the caller, possible with a return value. Is this true for the exec family of system calls? Justify your answer.*
 No. Exec will replace the process' currently running program entirely, meaning the exec call will not have anything to return to. It will start at instruction 0 of a new program instead.
-
-17. What is the purpose of the wait system call?
+17. *What is the purpose of the wait system call?*
+The wait syscall stalls the program, and waits for (one of) its child process to finish and return an exit code before continuing.
+18. *What is the purpose of the zombie process state? When does a process become a zombie?*
+A process becomes a zombie when it has finished executing, but its parent has not yet wait()ed for it, meaning its return code has not been observed. The purpose of a zombie process is that its memory can be freed entirely, but still be able to give its data to its parent if the parent requests it.
+19. *What is the purpose of signals?*
+Signals allow processes to communicate, both asynchronously and synchronously.
+20. What are the limitations of signals?
+21. What happens when a process receives a signal?
+22. *Explain the file descriptor concept.*
+A process generally has three file descriptors, standard input (STDIN), standard output (STDOUT), standard error (STDERR). 
