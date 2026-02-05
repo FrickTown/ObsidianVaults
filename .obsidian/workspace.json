@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a28b0446ab75646f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a0b5b959e58f96fc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Automatateori/Lektion2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lektion2"
-            }
-          }
-        ]
-      },
-      {
         "id": "ebdd0c791daf66f6",
         "type": "tabs",
         "children": [
@@ -29,12 +11,14 @@
             "id": "ffaf8eb795644b22",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Automatateori/Automataboken.pdf"
+                "file": "OSPP/The process concept and IPC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Automataboken"
+              "icon": "lucide-file",
+              "title": "The process concept and IPC"
             }
           }
         ]
@@ -197,8 +181,9 @@
   },
   "active": "ffaf8eb795644b22",
   "lastOpenFiles": [
-    "Automatateori/Lektion2.pdf",
     "Automatateori/Automataboken.pdf",
+    "OSPP/The process concept and IPC.md",
+    "Automatateori/Lektion2.pdf",
     "Automatateori/Anteckningar.md",
     "Sysdes/Intervju 2.md",
     "Sysdes/Intervju 1.md",
@@ -241,7 +226,6 @@
     "LinAlg 1/Formler och samband.md",
     "TA-Docs/Microbit presentations.md",
     "DatorArkitektur/Parallelism.md",
-    "DatorArkitektur/MIPS.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
