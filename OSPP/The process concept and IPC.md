@@ -61,7 +61,7 @@ Processes utilize their file descriptor table to create input and output points 
 25. *How do we create a pipe? What is the result of creating a pipe?*
 We create a pipe with the pipe() syscall, which results in a pair of file descriptors, one write-end and one read-end.
 26. *How can we make two processes share a pipe in a producer-consumer manner?*
-By forking the process, and having the parent shut down its read-descriptor, and the child shut down its write-descriptor using close(), for example.
+By forking the process, and having the parent shut down its read-descriptor, and the child shut down its write-descriptor using close(), for example. File descriptors are retained even if we exec() to launch another program in the process.
 27. *What happens if we read from an empty pipe and there are* 
 	1. *a) open write descriptors attached to the pipe*
 		Reader blocked
@@ -73,15 +73,9 @@ By forking the process, and having the parent shut down its read-descriptor, and
 	2. *b) a pipe with no open read descriptors attached to the pipe?*
 		SIGPIPE signal, causing process to terminate.
 29. *What is the dup2 system call doing to file descriptors?*
-30. How can this be useful?
-Random mystery
-31. In C, the rand library function can be used to gen-
-erate pseudorandom numbers. How is it possible
-for rand to return different values on consecutive
-calls?
-32. A parent process calls srand to seed the pseduo ran-
-dom generator (PRNG) and then uses fork to cre-
-ate a number of child processes. Each child gener-
-ates a sequence of random numbers by calling rand.
-Can you make any predictions about the sequences?
-Justify your answer.
+Duplicating a file descriptor, and setting the new copy's fd number to one specified in the arguments.
+30. *How can this be useful?*
+Since we can specify an fd number, we can open a file in write-mode, giving us its file descriptor, and then copy the file descriptor for the file to fd number 1, for example, which redirects the STDOUT data to the file.
+31. *In C, the rand library function can be used to generate pseudorandom numbers. How is it possible for rand to return different values on consecutive calls?*
+
+32. *A parent process calls srand to seed the pseduo random generator (PRNG) and then uses fork to create a number of child processes. Each child generates a sequence of random numbers by calling rand. Can you make any predictions about the sequences? Justify your answer.*
