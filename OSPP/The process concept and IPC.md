@@ -77,5 +77,6 @@ Duplicating a file descriptor, and setting the new copy's fd number to one speci
 30. *How can this be useful?*
 Since we can specify an fd number, we can open a file in write-mode, giving us its file descriptor, and then copy the file descriptor for the file to fd number 1, for example, which redirects the STDOUT data to the file.
 31. *In C, the rand library function can be used to generate pseudorandom numbers. How is it possible for rand to return different values on consecutive calls?*
-
+The seed set in the hidden random state of a process is updated when we call rand(). Since the calculations are predetermined, a seed will give the same set of consecutive numbers each time.
 32. *A parent process calls srand to seed the pseduo random generator (PRNG) and then uses fork to create a number of child processes. Each child generates a sequence of random numbers by calling rand. Can you make any predictions about the sequences? Justify your answer.*
+The sequences will all be the same for all the child processes. This is because the random seed is saved somewhere in the PCB memory, which is copied directly to the children when we use fork. Since rand() generates a random number from another number, and will always generate the same number from that seed, and the seed is updated based on the rand() call, the same set of pseudorandom numbers will be produced in each child.
