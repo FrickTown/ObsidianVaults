@@ -48,8 +48,40 @@ The wait syscall stalls the program, and waits for (one of) its child process to
 18. *What is the purpose of the zombie process state? When does a process become a zombie?*
 A process becomes a zombie when it has finished executing, but its parent has not yet wait()ed for it, meaning its return code has not been observed. The purpose of a zombie process is that its memory can be freed entirely, but still be able to give its data to its parent if the parent requests it.
 19. *What is the purpose of signals?*
-Signals allow processes to communicate, both asynchronously and synchronously.
-20. What are the limitations of signals?
-21. What happens when a process receives a signal?
+Signals allow processes to communicate that an event has occurred, causing an interrupt to occur. Signals can be both asynchronous and synchronous. Synchronous signals are kept within the process that caused it (illegal memory, divide by zero), asynchronous signals are generally external meant for other processes (e.g. timer expiration, sigterm)
+20. *What are the limitations of signals?*
+21. *What happens when a process receives a signal?*
+If a specific signal handler has been set up for the process, it will perform this routine. Otherwise it will go with some default behaviors. 
 22. *Explain the file descriptor concept.*
-A process generally has three file descriptors, standard input (STDIN), standard output (STDOUT), standard error (STDERR). 
+A process generally has three file descriptors, standard input (STDIN), standard output (STDOUT), standard error (STDERR). A process can open a file and assign it to these descriptors. If we want to open a file to read it, we assign it to STDIN, which allows us to stream data from the file descriptor. This allows processes to interact with files in a generic way.
+23. *What is a pipe?*
+A pipe is an anonymous communication channel between processes, allowing us to freely transmit data.
+24. *How are file descriptors used together with pipes?*
+Pipes utilize file descriptors by binding to two processes' file descriptors, generally, STDOUT of one process we want to stream data from, and STDIN of one process we want to stream data into. 
+25. *How do we create a pipe? What is the result of creating a pipe?*
+We create a pipe with the pipe() syscall. 
+26. How can we make two processes share a pipe in a
+producer-consumer manner?
+27. What happens if we read from an empty pipe and
+there are a) open write descriptors attached to the
+pipe, or b) no open write descriptors attached to
+the pipe?
+28. What happens if we write to a) a full pipe if there
+are open read descriptors attached to the pipe, or
+b) a pipe with no open read descriptors attached to
+the pipe?
+The dup2 system call
+29. What is the dup2 system call doing to file descrip-
+tors?
+30. How can this be useful?
+Random mystery
+31. In C, the rand library function can be used to gen-
+erate pseudorandom numbers. How is it possible
+for rand to return different values on consecutive
+calls?
+32. A parent process calls srand to seed the pseduo ran-
+dom generator (PRNG) and then uses fork to cre-
+ate a number of child processes. Each child gener-
+ates a sequence of random numbers by calling rand.
+Can you make any predictions about the sequences?
+Justify your answer.
