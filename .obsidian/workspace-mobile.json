@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "397b0b6c29362817",
+            "id": "c9f50b07d72c6843",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "<<<<<<< HEAD ",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -144,19 +144,9 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
-      },
-      {
-        "id": "6643fb3a5137cbb5",
-        "type": "leaf",
-        "state": {
-          "type": "git-history-view",
-          "state": {},
-          "icon": "history",
-          "title": "History"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,16 +160,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "397b0b6c29362817",
+  "active": "c9f50b07d72c6843",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
-    "Envariabelanalys/4. Integration.md",
-    "Envariabelanalys/2. Differentiering.md",
-    "Envariabelanalys/3. Talföljder och Konvergens.md",
     "Untitled 2.base",
     "/Untitled 2.base",
     "IOOPM/ProjektAnteckningar.md",
+    "Envariabelanalys/4. Integration.md",
     "Pasted image 20260112184408.png",
     "Envariabelanalys/Media/Pasted image 20260108204132.png",
     "/IOOPM/Projektdagbok.md",
@@ -193,6 +180,7 @@
     "Envariabelanalys/Media/Pasted image 20260108203444.png",
     "/Envariabelanalys/Media",
     "/Envariabelanalys/3. Talföljder och Konvergens.md",
+    "Envariabelanalys/3. Talföljder och Konvergens.md",
     "/Envariabelanalys",
     "IOOPM/Jakob_Frick_x59.md",
     "IOOPM/Mötesanteckningar för Projekt.md",
@@ -200,6 +188,7 @@
     "/IOOPM/Mötesanteckningar för Projekt.md",
     "/Envariabelanalys/2. Differentiering.md",
     "IOOPM",
+    "Envariabelanalys/2. Differentiering.md",
     "Algebra 1/Tentamen.md",
     "Untitled.base",
     "Untitled 1.base",
