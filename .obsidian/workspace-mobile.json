@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9f50b07d72c6843",
+            "id": "397b0b6c29362817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Envariabelanalys/4. Integration.md",
+                "file": "OSPP/The process concept and IPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Integration"
+              "title": "The process concept and IPC"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "<<<<<<< HEAD ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -144,9 +144,19 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "6643fb3a5137cbb5",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {},
+          "icon": "history",
+          "title": "History"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,53 +170,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c9f50b07d72c6843",
+  "active": "397b0b6c29362817",
   "lastOpenFiles": [
-    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
-    "Untitled 2.base",
-    "/Untitled 2.base",
-    "IOOPM/ProjektAnteckningar.md",
     "Envariabelanalys/4. Integration.md",
-    "Pasted image 20260112184408.png",
-    "Envariabelanalys/Media/Pasted image 20260108204132.png",
+    "Pasted image 20260113123404.png",
+    "Pasted image 20260113122218.png",
+    "Sysdes/Intervju 2.md",
+    "Sysdes/Intervju 1.md",
+    "Screenshot_20260128_220127.png",
+    "Pasted image 20260205213022.png",
+    "Pasted image 20260130170024.png",
+    "Pasted image 20260128215823.png",
+    "Pasted image 20260125193320.png",
+    "OSPP/The process concept and IPC.md",
+    "OSPP/Fundamentals.md",
+    "/Pasted image 20260113123404.png",
+    "/Pasted image 20260113122218.png",
+    "/Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
+    "Automatateori/Lektion2.pdf",
+    "Automatateori/Lektion1.pdf",
+    "Automatateori/Automataboken.pdf",
+    "Automatateori/Anteckningar.md",
+    "/Sysdes/Intervju 2.md",
+    "/Sysdes/Intervju 1.md",
+    "/Screenshot_20260128_220127.png",
+    "/OSPP/The process concept and IPC.md",
+    "/OSPP/Fundamentals.md",
     "/IOOPM/Projektdagbok.md",
+    "/IOOPM",
+    "/Envariabelanalys/4. Integration.md",
+    "/Envariabelanalys",
+    "/Automatateori/Lektion2.pdf",
+    "/Automatateori/Lektion1.pdf",
+    "/Automatateori/Automataboken.pdf",
+    "/Automatateori/Anteckningar.md",
+    "Sysdes",
+    "OSPP",
+    "Untitled Kanban.md",
+    "conflict-files-obsidian-git.md",
+    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
+    "Envariabelanalys/2. Differentiering.md",
+    "Envariabelanalys/3. Talföljder och Konvergens.md",
+    "IOOPM/ProjektAnteckningar.md",
     "/IOOPM/ProjektAnteckningar.md",
     "/IOOPM/Jakob_Frick_x59.md",
-    "/IOOPM",
     "/Envariabelanalys/Integration.md",
-    "/Pasted image 20260112184408.png",
-    "/Envariabelanalys/Media/Pasted image 20260108204132.png",
-    "/Envariabelanalys/Media/Pasted image 20260108203444.png",
-    "Envariabelanalys/Media/Pasted image 20260108203444.png",
-    "/Envariabelanalys/Media",
     "/Envariabelanalys/3. Talföljder och Konvergens.md",
-    "Envariabelanalys/3. Talföljder och Konvergens.md",
-    "/Envariabelanalys",
     "IOOPM/Jakob_Frick_x59.md",
-    "IOOPM/Mötesanteckningar för Projekt.md",
-    "IOOPM/Projektdagbok.md",
-    "/IOOPM/Mötesanteckningar för Projekt.md",
-    "/Envariabelanalys/2. Differentiering.md",
-    "IOOPM",
-    "Envariabelanalys/2. Differentiering.md",
-    "Algebra 1/Tentamen.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "TA-Docs/Microbit presentations.md",
-    "Pasted image 20251002171215.png",
-    "Pasted image 20251002171202.png",
-    "Pasted image 20251001170843.png",
-    "Pasted image 20251001170835.png",
-    "LinAlg 1/Kompendium - 1MA025.pdf",
-    "LinAlg 1/Exam/tenta20230816-1.pdf",
-    "/snippets.md",
-    "/TA-Docs/Microbit presentations.md",
-    "/LinAlg 1/Formler och samband.md",
-    "/Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
-    "/DatorArkitektur/Parallelism.md",
-    "DatorArkitektur/Presentation.md",
-    "/Algebra 1/Tentamen.md",
-    "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
     "Gula Blommor.canvas",
     "/Gula Blommor.canvas",
     "Lätta disktinktioner.canvas",
