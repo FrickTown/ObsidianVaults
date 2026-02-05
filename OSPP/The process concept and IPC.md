@@ -31,7 +31,17 @@ Through the states that processes can be assigned, we can determine ready/waitin
 The fork system call creates a clone process of the currently running process. This can be used to execute different programs or parts of a program concurrently.
 10. *What do we mean with parent and child?*
 The parent is the process that made the fork system call. The parent has some connection to its child, and can wait for it to finish executing to get some data back.
-11. How many times does fork return?
-12. What are the possible return values of fork?
-13. After calling fork, how can the program know if it
-is executing in the parent or in the child
+11. *How many times does fork return?*
+Twice, once in the parent and once in the child.
+12. *What are the possible return values of fork?*
+-1, indicating an error with forking, 0, indicating that this process is the child that was just created, or a positive integer, which is PID of the child process that the parent receives. 
+13. *After calling fork, how can the program know if it is executing in the parent or in the child*
+As explained in 12, the return value from fork will be 0 in the child, and a positive integer PID (the child's PID) in the parent.
+14. *What is the purpose of the exit system call?*
+The exit system call marks a termination point of a process, allowing us to send an exit code to the parent process.
+15. *What is the purpose of the exec family of system calls?*
+Exec-esque system calls allows processes to completely change their currently executing program. This is necessary to run a child process that runs a separate program after fork()ing, for example. 
+16. *When calling a function or invoking a system call, normally execution will return back to the caller, possible with a return value. Is this true for the exec family of system calls? Justify your answer.*
+No. Exec will replace the process' currently running program entirely, meaning the exec call will not have anything to return to. It will start at instruction 0 of a new program instead.
+
+17. What is the purpose of the wait system call?
