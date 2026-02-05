@@ -55,24 +55,24 @@ If a specific signal handler has been set up for the process, it will perform th
 22. *Explain the file descriptor concept.*
 A process generally has three file descriptors, standard input (STDIN), standard output (STDOUT), standard error (STDERR). A process can open a file and assign it to these descriptors. If we want to open a file to read it, we assign it to STDIN, which allows us to stream data from the file descriptor. This allows processes to interact with files in a generic way.
 23. *What is a pipe?*
-A pipe is an anonymous communication channel between processes, allowing us to freely transmit data.
+A pipe is an anonymous FIFO communication channel between processes, allowing us to transmit data. It has write-end and a read-end.
 24. *How are file descriptors used together with pipes?*
-Pipes utilize file descriptors by binding to two processes' file descriptors, generally, STDOUT of one process we want to stream data from, and STDIN of one process we want to stream data into. 
+Processes utilize their file descriptor table to create input and output points which can be bound to pipes' write-end and read-end.
 25. *How do we create a pipe? What is the result of creating a pipe?*
-We create a pipe with the pipe() syscall. 
-26. How can we make two processes share a pipe in a
-producer-consumer manner?
-27. What happens if we read from an empty pipe and
-there are a) open write descriptors attached to the
-pipe, or b) no open write descriptors attached to
-the pipe?
-28. What happens if we write to a) a full pipe if there
-are open read descriptors attached to the pipe, or
-b) a pipe with no open read descriptors attached to
-the pipe?
-The dup2 system call
-29. What is the dup2 system call doing to file descrip-
-tors?
+We create a pipe with the pipe() syscall, which results in a pair of file descriptors, one write-end and one read-end.
+26. *How can we make two processes share a pipe in a producer-consumer manner?*
+By forking the process, and having the parent shut down its read-descriptor, and the child shut down its write-descriptor using close(), for example.
+27. *What happens if we read from an empty pipe and there are* 
+	1. *a) open write descriptors attached to the pipe*
+		Reader blocked
+	2. *b) no open write descriptors attached to the pipe?*
+		EOF returned
+28. *What happens if we write to* 
+	1. *a) a full pipe if there are open read descriptors attached to the pipe*
+		Writer blocked
+	2. *b) a pipe with no open read descriptors attached to the pipe?*
+		SIGPIPE signal, causing process to terminate.
+29. *What is the dup2 system call doing to file descriptors?*
 30. How can this be useful?
 Random mystery
 31. In C, the rand library function can be used to gen-
