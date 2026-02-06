@@ -2,7 +2,7 @@
 A process is a running program that will execute fully and return a status code to its creator when it is finished. 
 2. *A process needs at least two critical resources, name*
 *these resources.*
-A process control block (PCB), which is a data structure in the kernel which tells the cpu the vital info necessary to run and manage the process.
+A process control block (PCB), which is a data structure in the kernel which tells the cpu the vital info necessary to run and manage the process. 
 And a process image, which memory allocated for the program containing its memory segments and the instructions to run.
 3. *Name and describe the various memory segments*
 *used by a process.*
@@ -50,6 +50,7 @@ A process becomes a zombie when it has finished executing, but its parent has no
 19. *What is the purpose of signals?*
 Signals allow processes to communicate that an event has occurred, causing an interrupt to occur. Signals can be both asynchronous and synchronous. Synchronous signals are kept within the process that caused it (illegal memory, divide by zero), asynchronous signals are generally external meant for other processes (e.g. timer expiration, sigterm)
 20. *What are the limitations of signals?*
+Can't carry information, behavior must be predefined in the process that receives it. They can also interrupt processes in unexpected ways if the signal has not been accounted for.
 21. *What happens when a process receives a signal?*
 If a specific signal handler has been set up for the process, it will perform this routine. Otherwise it will go with some default behaviors. 
 22. *Explain the file descriptor concept.*
