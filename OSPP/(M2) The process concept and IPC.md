@@ -14,12 +14,18 @@ signal(sig, SIG_DFL);
 ```
 - *What happens if you don’t register a signal handler?*
 Some default behavior. 
-- *What causes a segfault?
+- *What causes a segfault?*
+Trying to access memory that is not allocated.
 - *What is meant by a synchronous signal?*
+A synchronous signal is one that is sent from the same process that receives it.
 - *What do the systemcall pause() do?*
+Skips the current instruction call with a NOP
 - *What happens when you press Ctrl-C in the controlling terminal of a process?*
+It terminates
 - *How do you send signals to other processes?*
+`kill -s [SIGNAL] [PROCESS]`
 - *Why is the keyword volatile needed when declaring the global variable done?*
+The CPU often caches a variable making it process-dependent. To ensure that other processes can see the value, so that it can be affected 
 - *Why is the datatype sig_atomic_t needed when declaring the global variable done?*
 - *Why is it more efficient to use pause() instead of simply loop and check the done variable?*
 # Seminar questions
