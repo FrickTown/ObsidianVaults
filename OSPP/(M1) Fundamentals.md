@@ -15,7 +15,7 @@ eret = Exception return
 
 # Multiprogramming state transitions
 ![[Pasted image 20260125193320.png]]
-# Questions
+# Coding assignment Questions
 - In (Mips) Assembly, what are labels?
 	Labels are intended for programmers to mark their code, but can also be used for jumping to specific parts of the code, without constantly adjusting the target address.
 - What actions are unconditionally taken by the MIPS CPU when an exception/interrupt occurs?

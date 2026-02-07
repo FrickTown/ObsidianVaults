@@ -1,3 +1,28 @@
+# Coding assignment Questions
+- *What is a signal?*
+Signals allow processes to communicate that an event has occurred, causing an interrupt or exception to occur. Signals can be both synchronous, if the process that sends the signal is also the receiver, or asynchronous, if it is transmitted to another one.
+- *How do signals relate to exceptions and interrupts?*
+Signals are supposed to generate an exception or interrupt in order to jump from an ongoing job to the signal handler.
+- *What is a signal handler?*
+Signal handlers are functions that execute on a certain signal. In code they are often generalized, where a general handle function is a set of conditionals, often in a switch statement, that looks at the type of the signal and enforces a certain behavior based on the type. 
+- *How do you register a signal handler?*
+With the signal() syscall:
+```c
+// Sig is the integer signifying the type
+// SIG_DFL is a function pointer to a handler.
+signal(sig, SIG_DFL);
+```
+- *What happens if you don’t register a signal handler?*
+Some default behavior. 
+- *What causes a segfault?
+- *What is meant by a synchronous signal?*
+- *What do the systemcall pause() do?*
+- *What happens when you press Ctrl-C in the controlling terminal of a process?*
+- *How do you send signals to other processes?*
+- *Why is the keyword volatile needed when declaring the global variable done?*
+- *Why is the datatype sig_atomic_t needed when declaring the global variable done?*
+- *Why is it more efficient to use pause() instead of simply loop and check the done variable?*
+# Seminar questions
 1. *What is meant by a process?*
 A process is a running program that will execute fully and return a status code to its creator when it is finished. 
 2. *A process needs at least two critical resources, name*
