@@ -28,8 +28,9 @@ It terminates
 The CPU often caches a variable making it process-dependent. To ensure that other processes can see the value in its most recent state, the volatile keyboard can be used. This ensures the value is stored in memory, not in cache. 
 Also, the compiler does not automatically take into account that signals exist, meaning if we have behavior that modifies a variable's value, but this behavior is only triggered by an async signal, and some loop is dependent on this variable's value, the compiler may optimize it as a static and constant value. Volatile ensures the compiler does not cache the variable as a constant value. 
 - *Why is the datatype sig_atomic_t needed when declaring the global variable done?*
-sig_atomic_t is a datatype that ensures c
+sig_atomic_t is a datatype that ensures that reading and writing happens in one instruction, meaning accessing the data will never be interrupted by another signal, preventing unexpected values read / written. 
 - *Why is it more efficient to use pause() instead of simply loop and check the done variable?*
+pause() suspends the process indefinitely until interrupted by a signal. This means that the process will no longer be included in the timeslicing, saving on processor time. 
 # Seminar questions
 1. *What is meant by a process?*
 A process is a running program that will execute fully and return a status code to its creator when it is finished. 
