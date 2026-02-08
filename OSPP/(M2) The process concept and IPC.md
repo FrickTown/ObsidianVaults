@@ -22,6 +22,7 @@ By using dup2(). A file descriptor table entry consists of a file and a number. 
 When there are no more writers. If no processes are set to write to a pipe, any process that is reading from that pipe receives an EOF value. 
 - *Why is it important for a process to close any pipe file descriptors it does not intend to use?*
 Because it can cause issues with logic if other processes are also tied to the same pipe opening. For example, a non-closed write-end pipe file descriptor could cause the pipe to remain empty, halting a program that is reading from it expecting it to end. 
+Also, if we're replacing the program using an exec command, they might not know to close its read pipe on finish for example.
 - *What could happen if you close a read descriptor to early?*
 The pipe could be filled with no one to read it, causing a SIGPIPE signal, terminating the program.
 ### Signal Part
