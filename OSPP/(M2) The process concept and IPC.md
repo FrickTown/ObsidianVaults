@@ -8,15 +8,22 @@ A pipe is a way to communicate between processes. It has a write end, and a read
 - *How are pipes used to construct process pipelines?*
 By linking together processes?
 - *Show an example of a proccess pipeline in the terminal (shell).*
-ls -la / | 
+ls -la / | grep "bin"
 - *How are shell (terminal) commands implemented?*
 - *What happens to the file descriptor table after a successful creation of a new pipe?*
+Two new file descriptors are added, pipe read and pipe write
 - *How many times does the parent calls fork and why?*
+Twice, because we need two child processes
 - *Why do the children need to call execlp()?*
+In order to execute the shell commands
 - *Explain how each child is able to redirect stdin or stdout from or to the pipe?*
+By using dup2(). A file descriptor table entry consists of a file and a number. 0 is STDIN, 1 is STDOUT, 2 is STDERR by default. If we use dup2(), we can duplicate a file descriptor entry's data to another index. We copy the pipe's in and/or out file descriptor and replace the regular STDIN/STDOUT pipe with our own pipe.
 - *How will the consumer know when there is no more data to expect from the pipe?*
+When there are no more writers. If no processes are set to write to a pipe, any process that is reading from that pipe receives an EOF value. 
 - *Why is it important for a process to close any pipe file descriptors it does not intend to use?*
+Because it can cause issues with logic if other processes are also tied to the same pipe opening. For example, a non-closed write-end pipe file descriptor could cause the pipe to remain empty, halting a program that is reading from it expecting it to end. 
 - *What could happen if you close a read descriptor to early?*
+The pipe could be filled with no one to read it, causing a SIGPIPE signal, terminating the program.
 ### Signal Part
 - *What is a signal?*
 Signals allow processes to communicate that an event has occurred, causing an interrupt or exception to occur. Signals can be both synchronous, if the process that sends the signal is also the receiver, or asynchronous, if it is transmitted to another one.
