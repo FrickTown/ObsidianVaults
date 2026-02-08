@@ -25,8 +25,10 @@ It terminates
 - *How do you send signals to other processes?*
 `kill -s [SIGNAL] [PROCESS]`
 - *Why is the keyword volatile needed when declaring the global variable done?*
-The CPU often caches a variable making it process-dependent. To ensure that other processes can see the value, so that it can be affected 
+The CPU often caches a variable making it process-dependent. To ensure that other processes can see the value in its most recent state, the volatile keyboard can be used. This ensures the value is stored in memory, not in cache. 
+Also, the compiler does not automatically take into account that signals exist, meaning if we have behavior that modifies a variable's value, but this behavior is only triggered by an async signal, and some loop is dependent on this variable's value, the compiler may optimize it as a static and constant value. Volatile ensures the compiler does not cache the variable as a constant value. 
 - *Why is the datatype sig_atomic_t needed when declaring the global variable done?*
+sig_atomic_t is a datatype that ensures c
 - *Why is it more efficient to use pause() instead of simply loop and check the done variable?*
 # Seminar questions
 1. *What is meant by a process?*
