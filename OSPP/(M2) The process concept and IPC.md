@@ -1,4 +1,23 @@
 # Coding assignment Questions
+### Pipe Part
+- *What do we mean with a process pipeline?*
+A system of pipes that connects a set of processes. For example
+$A \longleftrightarrow B \longleftrightarrow C$ 
+- *What is a pipe?*
+A pipe is a way to communicate between processes. It has a write end, and a read end, which can be coupled together with processes' file descriptors.
+- *How are pipes used to construct process pipelines?*
+By linking together processes?
+- *Show an example of a proccess pipeline in the terminal (shell).*
+ls -la / | 
+- *How are shell (terminal) commands implemented?*
+- *What happens to the file descriptor table after a successful creation of a new pipe?*
+- *How many times does the parent calls fork and why?*
+- *Why do the children need to call execlp()?*
+- *Explain how each child is able to redirect stdin or stdout from or to the pipe?*
+- *How will the consumer know when there is no more data to expect from the pipe?*
+- *Why is it important for a process to close any pipe file descriptors it does not intend to use?*
+- *What could happen if you close a read descriptor to early?*
+### Signal Part
 - *What is a signal?*
 Signals allow processes to communicate that an event has occurred, causing an interrupt or exception to occur. Signals can be both synchronous, if the process that sends the signal is also the receiver, or asynchronous, if it is transmitted to another one.
 - *How do signals relate to exceptions and interrupts?*
