@@ -27,6 +27,18 @@
             "state": {
               "type": "pdf",
               "state": {
+                "file": "Automatateori/Automataboken.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Automataboken"
+            }
+          },
+          {
+            "id": "152eb5bea0fe4f9e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
                 "file": "Automatateori/Lektion3.pdf"
               },
               "icon": "lucide-file-text",
@@ -194,6 +206,8 @@
   },
   "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
+    "Automatateori/Lektion3.pdf",
+    "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion1.pdf",
     "OSPP/(M2) The process concept and IPC.md",
     "OSPP/(M1) Fundamentals.md",
@@ -231,8 +245,6 @@
     "Envariabelanalys/Media",
     "TA-Docs/Microbit presentations.md",
     "Untitled",
-    "TA-Docs",
-    "Envariabelanalys",
     "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/MIPS.md",
     "DatorArkitektur/Exam/2023-June.md",
