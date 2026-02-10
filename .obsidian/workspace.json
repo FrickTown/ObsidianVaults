@@ -25,14 +25,12 @@
             "id": "6fc5bc2f01a43d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "OSPP/(M2) The process concept and IPC.md",
-                "mode": "source",
-                "source": false
+                "file": "Automatateori/Lektion3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "(M2) The process concept and IPC"
+              "icon": "lucide-file-text",
+              "title": "Lektion3"
             }
           }
         ],
@@ -196,8 +194,9 @@
   },
   "active": "6fc5bc2f01a43d06",
   "lastOpenFiles": [
-    "OSPP/(M1) Fundamentals.md",
+    "Automatateori/Lektion1.pdf",
     "OSPP/(M2) The process concept and IPC.md",
+    "OSPP/(M1) Fundamentals.md",
     "Envariabelanalys/3. Talföljder och Konvergens.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Envariabelanalys/2. Differentiering.md",
@@ -241,7 +240,6 @@
     "DatorArkitektur/Presentation.md",
     "DatorArkitektur/Lab 2 Background Material.md",
     "DatorArkitektur/Input & Output.md",
-    "DatorArkitektur/Branch Predictions, Exceptions, Interrupts.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
