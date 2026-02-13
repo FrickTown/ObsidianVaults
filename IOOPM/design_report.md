@@ -39,7 +39,7 @@ In type_allocation.c, the three functions that are relevant for this logic can b
 These functions are not expected to be called by the end user. Instead, in ref_counter.h (which should be the only file the end user needs to import) we have macros defined:
 - `register_type(type, ...)` which takes a direct type reference (that is, we give the name of type without quotation marks) and any number of arguments, which are names of the properties in the struct where freeable memory resides. The macro calls upon yet another macro found in type_registration.h, which, using convoluted macro logic, discerns the number of arguments, and automatically figures out their offsets in bytes. This is then used to create an entry in the type registry.
 - `allocate_from_type(type)` which, as the name suggests, simply takes the name of a type, and returns a pointer to the reference counted and allocated memory. 
-- `allocate_from_type_no_zr(type)` is a hacky workaround for an issue that we ran into fairly late in the project. Since not retaining an object that has been allocated before another allocation occurs immediately removes that first object (*see implementation of zero-ref stack below*), it was difficult to create a shopping cart that we didn't want to retain, because it was going to be added to be added to a linked list when it was fully initialized. The shopping cart had several properties that also needed to be allocated. In hindsight, there are a multitude of ways to solve this. We could have, for example, added the cart to the linked list before allocating its properties. We could also have retained it, added it to the linked list, and then released it. The stress of getting the project in on time definitely contributed to this function being defined, but perhaps it could be of some use to the end user in a highly specific situation. 
+- `allocate_from_type_no_zr(type)` is a hacky workaround for an issue that we ran into fairly late in the project. Since not retaining an object that has been allocated before another allocation occurs immediately removes that first object (*see implementation of zero-ref stack below*), it was difficult to create a shopping cart that we didn't want to retain, because it was going to be added to be added to a linked list when it was fully initialized. The shopping cart had several properties that also needed to be allocated, which would then cause the cart itself to get removed from the zero-ref stack and freed. In hindsight, there are a multitude of ways to solve this. We could have, for example, added the cart to the linked list before allocating its properties. We could also have retained it, added it to the linked list, and then released it. The stress of getting the project in on time definitely contributed to this function being defined, but perhaps it could be of some use to the end user in a highly specific situation. 
 ## Zero-ref Stack
 We implemented a custom data structure to manage the collection of any objects with zero references. This was to prevent strange feedback loops with , and keeping the zero_ref_counter itself out of memory management. It is instead a stack-like structure that can push and pop onto it. The reasoning is that if you allocated an object, you are likely to immediately retain it, meaning it will be at the top of the stack, so you can quickly pop it (it's not a true stack, since items other than the top can be removed as well).
 
@@ -118,16 +118,27 @@ It was simple to get this implemented in a basic sense. When an object is deallo
 These all are variations on its regular counterparts, where the primary difference is that when we allocate() in these functions, we specify a simple destructor that frees the entry's value. The "regular" functions simply do not specify a destructor function. This way, the user is responsible, but also has flexibility left. 
 
 Currently, this does not support hash table keys that need to be freed. However, this could be mitigated with, for example, another destructor function and a boolean, or using the type system. 
-
 ## Flow of Execution
 The control flow for a typical program could look like so:
-- The fundamental system is initialized as soon as allocate() or allocate_array() is called to heap-allocate an object.
+- The fundamental system is set up as soon as allocate() or allocate_array() is called to heap-allocate an object. We allocate an object *A*.
 	- This means the zero-ref stack is created, since it will hold the newly allocated object.
 	- Memory is allocated, and a ref_counter_t struct is placed at the head of the memory. Its count is set to 0.
 	- Since the object's count is 0, it is placed in the zero-ref stack.
 - The object is retained using retain(). 
-	- This means its count is set to 1, which also means it is *removed* from the zero-ref stack.
+	- This means its count metadata is set to 1, which also means it is *removed* from the zero-ref stack.
 - A type is registered using register_type()
 	- This means the type registry is created, since it will hold the newly registered type.
+	- The type is a struct, that has a property `value` that needs memory allocated.
 	- The type's name and byte offsets are stored in the registry.
-- 
+- An object *B* is allocated by type, using the type we registered
+	- The type registry is read, and if the type is found, allocate() is called to create the object as normal. 
+	- The object's `type` metadata is set to its type name as a string.
+- Object *B*  is retained using retain()
+- Object *A* is released using release()
+	- Its `count` hits 0, meaning it is immediately passed along to deallocate()
+		- deallocate() sees that it does not have a type or destructor, and so simply calls free() on the ref_counter_t header.
+- Object *B* is released using release()
+	- Its counter hits 0, and is passed along to deallocate()
+		- deallocate() sees that it does have a type
+		- The type is looked up in the type registry to get the byte offsets
+		- We perform a 
