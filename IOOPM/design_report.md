@@ -39,11 +39,11 @@ In type_allocation.c, the three functions that are relevant for this logic can b
 These functions are not expected to be called by the end user. Instead, in ref_counter.h (which should be the only file the end user needs to import) we have macros defined:
 - `register_type(type, ...)` which takes a direct type reference (that is, we give the name of type without quotation marks) and any number of arguments, which are names of the properties in the struct where freeable memory resides. The macro calls upon yet another macro found in type_registration.h, which, using convoluted macro logic, discerns the number of arguments, and automatically figures out their offsets in bytes. This is then used to create an entry in the type registry.
 - `allocate_from_type(type)` which, as the name suggests, simply takes the name of a type, and returns a pointer to the reference counted and allocated memory. 
-- `allocate_from_type_no_zr
-## Zero-ref stack
+- `allocate_from_type_no_zr(type)` is a hacky workaround for an issue that we ran into fairly late in the project. Since not retaining an object that has been allocated before another allocation occurs immediately removes that first object (*see implementation of zero-ref stack below*), it was difficult to create a shopping cart that we didn't want to retain, because it was going to be added to be added to a linked list when it was fully initialized. The shopping cart had several properties that also needed to be allocated. In hindsight, there are a multitude of ways to solve this. We could have, for example, added the cart to the linked list before allocating its properties. We could also have retained it, added it to the linked list, and then released it. The stress of getting the project in on time definitely contributed to this function being defined, but perhaps it could be of some use to the end user in a highly specific situation. 
+## Zero-ref Stack
 We implemented a custom data structure to manage the collection of any objects with zero references. This was to prevent strange feedback loops with , and keeping the zero_ref_counter itself out of memory management. It is instead a stack-like structure that can push and pop onto it. The reasoning is that if you allocated an object, you are likely to immediately retain it, meaning it will be at the top of the stack, so you can quickly pop it (it's not a true stack, since items other than the top can be removed as well).
 
-When an object is allocated, it is *automatically added to the zero_ref stack*, since it has no references yet. Additionally, `allocate()` and `allocate_array()` both clear the zero-ref list whenever they are called. When an object with zero references is `retain()`ed, it is removed from the zero-ref list. Therefore, it is *vital* that one retains an object they have just created, before trying to allocate another object. 
+When an object is allocated, it is *immediately and automatically added to the zero_ref stack*, since it has no references yet. Additionally, `allocate()` and `allocate_array()` both clear the zero-ref list whenever they are called. When an object with zero references is `retain()`ed, it is removed from the zero-ref list. Therefore, it is *vital* that one retains an object they have just created, before trying to allocate another object. 
 
 ```c
 // [BAD]
@@ -105,5 +105,9 @@ k = 7070 / 4370 = 1.617
 
 ```
 These values were acquired by running our demo-program and counting any bytes requested in the `allocation()` functions.
-
 ## Cascading frees
+The last, more advanced part of the specification pertained to cascading frees. This required a working zero-ref system, and somewhat ties into types as well, so this was one of the last things we implemented.
+
+When an object is deallocated, its constituent properties that are also heap-allocated need to be freed as well. These properties may in turn also have constituent properties that need to be freed.
+
+It was no big feat to get this implemented in a basic sense. When an object is deallocated, simply call its destructor function or lookup the offsets in the type registry. The crux of the problem arose when we needed to be able to free linked lists or hash tables. There's a problem where an entry in a hash table may or may not need to be freed. We can't have a general solution, since it would try to free memory that is not allocated
