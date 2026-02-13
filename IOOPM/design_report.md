@@ -118,3 +118,9 @@ It was simple to get this implemented in a basic sense. When an object is deallo
 These all are variations on its regular counterparts, where the primary difference is that when we allocate() in these functions, we specify a simple destructor that frees the entry's value. The "regular" functions simply do not specify a destructor function. This way, the user is responsible, but also has flexibility left. 
 
 Currently, this does not support hash table keys that need to be freed. However, this could be mitigated with, for example, another destructor function and a boolean, or using the type system. 
+
+## Flow of Execution
+The control flow for a typical program could look like so:
+- The fundamental system is initialized as soon as allocate() or allocate_array() is called to heap-allocate an object.
+	- This means the zero-ref list is created, since it will hold the newly allocated object
+- The object is retained using retain(). This means 
