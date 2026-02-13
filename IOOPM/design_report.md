@@ -122,5 +122,12 @@ Currently, this does not support hash table keys that need to be freed. However,
 ## Flow of Execution
 The control flow for a typical program could look like so:
 - The fundamental system is initialized as soon as allocate() or allocate_array() is called to heap-allocate an object.
-	- This means the zero-ref list is created, since it will hold the newly allocated object
-- The object is retained using retain(). This means 
+	- This means the zero-ref stack is created, since it will hold the newly allocated object.
+	- Memory is allocated, and a ref_counter_t struct is placed at the head of the memory. Its count is set to 0.
+	- Since the object's count is 0, it is placed in the zero-ref stack.
+- The object is retained using retain(). 
+	- This means its count is set to 1, which also means it is *removed* from the zero-ref stack.
+- A type is registered using register_type()
+	- This means the type registry is created, since it will hold the newly registered type.
+	- The type's name and byte offsets are stored in the registry.
+- 
