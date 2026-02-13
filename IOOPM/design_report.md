@@ -141,4 +141,7 @@ The control flow for a typical program could look like so:
 	- Its counter hits 0, and is passed along to deallocate()
 		- deallocate() sees that it does have a type
 		- The type is looked up in the type registry to get the byte offsets
-		- We perform a 
+		- We call deallocate() on all the memory addresses calculated using the byte offsets.
+- No more user-defined objects are memory managed. Before the program terminates, shutdown() is called.
+	- The type registry is memory managed, and the zero-ref stack is not, but still in memory. These are cleaned up by shutdown().
+- The program is ready to terminate without memory leaks.
