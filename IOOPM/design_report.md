@@ -26,15 +26,20 @@ We decided on three subdivisions of ref_counter.h based on a separation of conce
 - `cleanup`, `shutdown`, `get_cascade_limit` and `set_cascade_limit` do not fit into the other categories, and pertain to the overarching functionality of the reference counter, so these were put in a file called `manager.c`
 
 After getting the fundamentals working, we needed to think about:
-- A hash table containing the pointer offsets for various object types
-- A linked list containing any objects with zero references but that are yet to be deallocated
-## Type allocation
-By coupling a type name with a set of byte offsets, we can, given a pointer to a struct with a known type, free its allocated using the byte offsets. We need to store these type-offsets entries in a hash table. 
+- A hash table containing the pointer offsets for various object types.
+- A linked list containing any objects with zero references but that are yet to be deallocated.
+## Type Registration and Allocation
+By coupling a type name with a set of byte offsets, we can, given a pointer to a struct with a known type, free its allocated memory using the byte offsets. We need to store these (type : offsets) entries in a hash table, which we call the *type registry*.
 
-In type_allocation.c, the three functions that are relevant for this logic can be found. In short, we have:
-- `create_registry()`, which when called, initializes a hash table in a global variable. 
+In type_allocation.c, the three functions that are relevant for this logic can be found. In essence, we have:
+- `create_registry()`, which when called, initializes the type registry hash table in a global variable. 
 - `__register_type(char *type, int size, int num_offsets, int *offsets)`, which when called with the required arguments, creates a new entry in the global type registry, as long as that type does not already exist. If the type registry hash table has not been initialized, it calls `create_registry()` to initialize it.
-- `__allocate_from_type(char* type)`, which when called with a known and registered type, returns a pointer to a section of memory of a size 
+- `__allocate_from_type(char* type)`, which when called with a known and registered type, returns a pointer to a section of memory with the size that was specified for the type, with a ref_counter_t struct right before it. 
+
+These functions are not expected to be called by the end user. Instead, in ref_counter.h (which should be the only file the end user needs to import) we have macros defined:
+- `register_type(type, ...)` which takes a direct type reference (that is, we give the name of type without quotation marks) and any number of arguments, which are names of the properties in the struct where freeable memory resides. The macro calls upon yet another macro found in type_registration.h, which, using convoluted macro logic, discerns the number of arguments, and automatically figures out their offsets in bytes. This is then used to create an entry in the type registry.
+- `allocate_from_type(type)` which, as the name suggests, simply takes the name of a type, and returns a pointer to the reference counted and allocated memory. 
+- `allocate_from_type_no_zr
 ## Zero-ref stack
 We implemented a custom data structure to manage the collection of any objects with zero references. This was to prevent strange feedback loops with , and keeping the zero_ref_counter itself out of memory management. It is instead a stack-like structure that can push and pop onto it. The reasoning is that if you allocated an object, you are likely to immediately retain it, meaning it will be at the top of the stack, so you can quickly pop it (it's not a true stack, since items other than the top can be removed as well).
 
@@ -101,4 +106,4 @@ k = 7070 / 4370 = 1.617
 ```
 These values were acquired by running our demo-program and counting any bytes requested in the `allocation()` functions.
 
-After having fully implementing this third system design, our reference counter now achieves all the promised features.
+## Cascading frees
