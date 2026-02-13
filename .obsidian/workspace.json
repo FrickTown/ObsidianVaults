@@ -29,7 +29,7 @@
               "state": {
                 "file": "IOOPM/design_report.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "design_report"
