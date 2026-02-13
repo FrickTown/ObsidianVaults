@@ -54,10 +54,10 @@ retain(y);
 puts(*x);
 
 // [BETTER]
-char* x = allocate(sizeof(char) * 10, NULL); // x is removed from zero-ref list
+char* x = allocate(sizeof(char) * 10, NULL); // x is added to zero-ref list
 retain(x); // x is removed from zero-ref list
 *x = 'f';
-char* y = allocate(sizeof(char) * 10, NULL); // y is removed from zero-ref list
+char* y = allocate(sizeof(char) * 10, NULL); // y is added to zero-ref list
 retain(y); // y is removed from zero-ref list
 puts(*x); // Prints 'f'
 
@@ -110,4 +110,11 @@ The last, more advanced part of the specification pertained to cascading frees. 
 
 When an object is deallocated, its constituent properties that are also heap-allocated need to be freed as well. These properties may in turn also have constituent properties that need to be freed.
 
-It was no big feat to get this implemented in a basic sense. When an object is deallocated, simply call its destructor function or lookup the offsets in the type registry. The crux of the problem arose when we needed to be able to free linked lists or hash tables. There's a problem where an entry in a hash table may or may not need to be freed. We can't have a general solution, since it would try to free memory that is not allocated
+It was simple to get this implemented in a basic sense. When an object is deallocated, simply call its destructor function or lookup the offsets in the type registry. The crux of the problem arose when we needed to be able to free linked lists or hash tables. There's a problem where an entry's value in a hash table or linked list may or may not need to be freed. We can't assume all entries need to be freed, since it would try to free memory that is not allocated, and vice versa. The solution was to define:
+- `ioopm_hash_table_insert_object()`
+- `ioopm_linked_list_append_object()`
+- `ioopm_linked_list_prepend_object()`
+- `ioopm_linked_list_insert_object()`
+These all are variations on its regular counterparts, where the primary difference is that when we allocate() in these functions, we specify a simple destructor that frees the entry's value. The "regular" functions simply do not specify a destructor function. This way, the user is responsible, but also has flexibility left. 
+
+Currently, this does not support hash table keys that need to be freed. However, this could be mitigated with, for example, another destructor function and a boolean, or using the type system. 
