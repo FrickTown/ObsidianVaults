@@ -27,28 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOOPM/design_report.md",
+                "file": "OSPP/(M2) The process concept and IPC.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "design_report"
+              "title": "(M2) The process concept and IPC"
             }
           },
           {
             "id": "152eb5bea0fe4f9e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Automatateori/Lektion3.pdf"
+                "file": "OSPP/(M3) Processor.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lektion3"
+              "icon": "lucide-file",
+              "title": "(M3) Processor"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,19 +208,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "152eb5bea0fe4f9e",
   "lastOpenFiles": [
-    "IOOPM/design_report_old.md",
+    "OSPP/(M2) The process concept and IPC.md",
+    "OSPP/(M3) Processor.md",
+    "Automatateori/Lektion3.pdf",
+    "Untitled.md",
+    "Envariabelanalys/3. Talföljder och Konvergens.md",
     "IOOPM/design_report.md",
+    "IOOPM/design_report_old.md",
     "IOOPM/FooBarnen_Design_v0.3.png",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Anteckningar.md",
-    "Automatateori/Lektion3.pdf",
     "IOOPM/Projektdagbok.md",
     "Automatateori/Lektion1.pdf",
-    "OSPP/(M2) The process concept and IPC.md",
     "OSPP/(M1) Fundamentals.md",
-    "Envariabelanalys/3. Talföljder och Konvergens.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Envariabelanalys/2. Differentiering.md",
     "Envariabelanalys/Integration.md",
@@ -251,8 +255,6 @@
     "TA-Docs/Microbit presentations.md",
     "DatorArkitektur/Parallelism.md",
     "DatorArkitektur/MIPS.md",
-    "DatorArkitektur/Exam/2023-June.md",
-    "DatorArkitektur/Cheat Sheet.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
