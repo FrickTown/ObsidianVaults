@@ -37,9 +37,10 @@ The scheduler determines which process is should be allocated to the CPU. The di
 Running process' CPU context is saved in the process' PCB. The PCB is then moved to the waiting queue. The next ready process is moved into running.
 3. *Define dispatch latency.*
 The time it takes to perform the switch. This is wasted CPU time.
-4. Scheduler dispatch can be preemptive and nonpreemptive, define these terms.
-Preemptive means it is 
-5. Draw a diagram showing which process state transitions causes a preemptive respectively a nonpreemptive scheduler dispatch.
+4. *Scheduler dispatch can be preemptive and nonpreemptive, define these terms.*
+Preemptive means it is capable of halting ongoing processes and switching it with another in the ready queue, if it has higher priority.
+Nonpreemptive means processes run until their burst is finished.
+5. *Draw a diagram showing which process state transitions causes a preemptive respectively a nonpreemptive scheduler dispatch.*
 #### Scheduling algorithms
 1. *Explain the FCFS scheduling algorithm.*
 Runs processes as they arrive to the short-term scheduler.
