@@ -45,56 +45,24 @@ Runs processes as they arrive to the short-term scheduler.
 2. *Explain the convoy effect.*
  If several long processes precede a short one, the short one will have to wait.
 3. *Explain the SJF scheduling algorithm.*
-Shortest job first. May cause issues if a process is too long, it will be starved (postponed indefinitely)
+Shortest job first. May cause issues if a process is too long, it will be starved (postponed indefinitely). Also can't handle infinite loops.
 4. *In what way is SJF optimal?*
 Finishing the maximum number of cpu bursts in the shortest time, if estimates are accurate
 5. *Explain the PSJF scheduling algorithm.*
-Pre-emptive SJF.
-6. Explain the RR scheduling algorithm.
-7. In general, what can be said about turnaround time
-and response time when comparing RR and SJF?
-8. In CPU scheduling, what is meant by starvation
-and ageing?
+Pre-emptive SJF. Can handle infinite loops, because preemptive algorithms allow for the processor to focus on other things before the current job is completed.
+6. *Explain the RR scheduling algorithm.*
+
+7. In general, what can be said about turnaround time and response time when comparing RR and SJF?
+8. In CPU scheduling, what is meant by starvation and ageing?
 #### Multilevel queue scheduling
 1. *What is the overall purpose of multilevel queue scheduling?*
 
-2. In a ready queue for foreground processes, which
-algorithm of FCFS, SJF and RR would you choose.
-Justify your answer.
-3. What are the design objective of multilevel feed-
-back queue scheduling?
-4. Explain how multilevel feedback queue scheduling
-works and how this relates to the design objectives.
-Solaris and Linux
-5. Explain how the Solaris dispatch table is used to
-dynamically change a the priority and time quan-
-tum (time slice) for a process.
+2. In a ready queue for foreground processes, which algorithm of FCFS, SJF and RR would you choose. Justify your answer.
+3. What are the design objective of multilevel feedback queue scheduling?
+4. Explain how multilevel feedback queue scheduling works and how this relates to the design objectives. Solaris and Linux
+5. Explain how the Solaris dispatch table is used to dynamically change a the priority and time quantum (time slice) for a process.
 6. Explain how a bitmap makes it possible for the Linux O(1) scheduler to find the highest priority process in constant time, independent of the the number of active tasks.
-7. The Linux Completely Fair Scheduler uses a red-
-black tree to keep track the processes in the ready
-queue. What is the time complexity of selecting the
-next process to run? What is the time complexity
-of inserting process (task) into the red-black-tree?
-#### Scheduling algorithms
-1. Explain the FCFS scheduling algorithm.
-2. Explain the convoy effect.
-3. Explain the SJF scheduling algorithm.
-4. In what way is SJF optimal?
-5. Explain the PSJF scheduling algorithm.
-6. Explain the RR scheduling algorithm.
-7. In general, what can be said about turnaround time
-and response time when comparing RR and SJF?
-8. In CPU scheduling, what is meant by starvation
-and ageing?
-#### Multilevel queue scheduling
-1. What is the overall purpose of multilevel queue
-scheduling?
-2. In a ready queue for foreground processes, which
-algorithm of FCFS, SJF and RR would you choose.
-Justify your answer.
-3. What are the design objective of multilevel feed-
-back queue scheduling?
-4. Explain how multilevel feedback queue scheduling works and how this relates to the design objectives.
+7. The Linux Completely Fair Scheduler uses a red black tree to keep track the processes in the ready queue. What is the time complexity of selecting the next process to run? What is the time complexity of inserting process (task) into the red-black-tree?
 #### Solaris and Linux
 1. Explain how the Solaris dispatch table is used to dynamically change a the priority and time quantum (time slice) for a process.
 2. Explain how a bitmap makes it possible for theLinux O(1) scheduler to find the highest priority process in constant time, independent of the thenumber of active tasks.
