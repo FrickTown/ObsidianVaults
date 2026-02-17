@@ -8,11 +8,12 @@ The job scheduler's purpose is to decide the viability of a new process, estimat
 Schedules jobs based on resource requirements.
 Swapping status of jobs, who becomes suspended waiting for IO.
 #### Scheduling criteria
-1. *Define the following scheduling criteria: CPU uti-*
-*lization, throughput, turnaround time, waiting*
-*time and response time. For each metric, state*
-*whether the goal is to minimize or maximize the*
-*metric.*
+1. *Define the following scheduling criteria: CPU utilization, throughput, turnaround time, waiting time and response time. For each metric, state whether the goal is to minimize or maximize the metric.*
+	- CPU Utilization = Percentage active usage of the CPU, as opposed to being idle. ⬆️
+	- Throughput = Number of processes completed per time unit ⬆️
+	- Turnaround time  = Total time taken for a process from creation to completion ⬇️
+	- Waiting time = Process' total time spent in the waiting queue ⬇️
+	- Response time = Time between request and first response ⬇️
 #### Classification of processes
 1. *What is meant by CPU burst? What is meant by I/O burst?*
 The time a process uses the CPU before it is not ready anymore.
@@ -53,9 +54,12 @@ Finishing the maximum number of cpu bursts in the shortest time, if estimates ar
 5. *Explain the PSJF scheduling algorithm.*
 Pre-emptive SJF. Can handle infinite loops, because preemptive algorithms allow for the processor to focus on other things before the current job is completed.
 6. *Explain the RR scheduling algorithm.*
-
-7. In general, what can be said about turnaround time and response time when comparing RR and SJF?
-8. In CPU scheduling, what is meant by starvation and ageing?
+The round robin algorithm defines a time quantum and only allows processes a CPU burst of that length. If the time limit is reached, the process is put at the tail of the ready queue. If a syscall happens, it surrenders to the waiting queue as usual. 
+7. *In general, what can be said about turnaround time and response time when comparing RR and SJF?*
+Turnaround time = time taken for a process from creation to completion
+Response time = 
+8. *In CPU scheduling, what is meant by starvation and ageing?*
+Starvation means a process is ready, but never given CPU time. 
 #### Multilevel queue scheduling
 1. *What is the overall purpose of multilevel queue scheduling?*
 
