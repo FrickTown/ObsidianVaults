@@ -62,16 +62,15 @@ Response time = Time between request and first response
 ```
 RR will likely have a better response time on average. This is because a long job gets as much time on the processor as a short one, so even if a short job is in the back of the ready queue, it will respond in n\*q time where n is number of jobs before it in the queue, and q is the time quantum.
 8. *In CPU scheduling, what is meant by starvation and ageing?*
-Starvation means a process is ready, but never given CPU time. 
+Starvation means a process is ready, but never given CPU time. In a priority queue, there may be several higher priority processes preceding low priority process in the queue, causing the lower priority processes to be pushed back in the queue anytime a higher priority process enters the queue.
+Aging can mitigate this. Processes that have not gotten a CPU burst for a long time will get increased priority, so that they have a better chance of reaching the front of the queue.
 #### Multilevel queue scheduling
 1. *What is the overall purpose of multilevel queue scheduling?*
-
-2. In a ready queue for foreground processes, which algorithm of FCFS, SJF and RR would you choose. Justify your answer.
-3. What are the design objective of multilevel feedback queue scheduling?
-4. Explain how multilevel feedback queue scheduling works and how this relates to the design objectives. Solaris and Linux
-5. Explain how the Solaris dispatch table is used to dynamically change a the priority and time quantum (time slice) for a process.
-6. Explain how a bitmap makes it possible for the Linux O(1) scheduler to find the highest priority process in constant time, independent of the the number of active tasks.
-7. The Linux Completely Fair Scheduler uses a red black tree to keep track the processes in the ready queue. What is the time complexity of selecting the next process to run? What is the time complexity of inserting process (task) into the red-black-tree?
+If we have a lot of processes in the ready priority queue, we may need to perform a search every time to find the place in line for an incoming process. Multilevel queue scheduling just means we have a separate queue for each priority level. This gives a nicer structure and optimizes placing processes in line. We can timeslice among the queues to prevent aging, giving higher priority queues more time.
+2. *In a ready queue for foreground processes, which algorithm of FCFS, SJF and RR would you choose. Justify your answer.*
+Round Robin. This is because the user is interacting with these foreground processes, and the user does not want to experience hiccups. 
+3. *What are the design objective of multilevel feedback queue scheduling?*
+4. *Explain how multilevel feedback queue scheduling works and how this relates to the design objectives.* 
 #### Solaris and Linux
 1. Explain how the Solaris dispatch table is used to dynamically change a the priority and time quantum (time slice) for a process.
 2. Explain how a bitmap makes it possible for theLinux O(1) scheduler to find the highest priority process in constant time, independent of the thenumber of active tasks.
