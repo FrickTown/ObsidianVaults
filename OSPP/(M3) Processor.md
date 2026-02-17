@@ -21,7 +21,7 @@ Time time a process waits for I/O before it is ready again.
 2. *What characterizes a CPU bound process? What characterizes an I/O bound process?*
 CPU bound processes are bottlenecked by CPU, and so would be faster if the CPU was faster. I/O bound processes are bottlenecked by I/O, for example, hard disk vs ssd.
 3. *What would happen if there was a large majority of CPU bound processes in the ready queue?*
-Competition 
+Increased CPU utilization
 4. *What would happen if there was a large majority of I/O bound processes in the ready queue?*
 Potential competition over I/O, which depending on the algorithm used for scheduling, could cause wait times. 
 5. *How can a good balance between CPU bound processes and I/O bound processes in the ready queue be maintained?*
@@ -44,20 +44,23 @@ Nonpreemptive means processes run until their burst is finished.
 5. *Draw a diagram showing which process state transitions causes a preemptive respectively a nonpreemptive scheduler dispatch.*
 #### Scheduling algorithms
 1. *Explain the FCFS scheduling algorithm.*
-Runs processes as they arrive to the short-term scheduler.
+Runs processes as they arrive to the short-term scheduler. FIFO
 2. *Explain the convoy effect.*
- If several long processes precede a short one, the short one will have to wait.
+ If one long process precedes several short ones, the short ones will have to wait. Traffic behind big truck.
 3. *Explain the SJF scheduling algorithm.*
 Shortest job first. May cause issues if a process is too long, it will be starved (postponed indefinitely). Also can't handle infinite loops.
 4. *In what way is SJF optimal?*
 Finishing the maximum number of cpu bursts in the shortest time, if estimates are accurate
 5. *Explain the PSJF scheduling algorithm.*
-Pre-emptive SJF. Can handle infinite loops, because preemptive algorithms allow for the processor to focus on other things before the current job is completed.
+Pre-emptive SJF. Can handle infinite loops, because preemptive algorithms allow for the dispatcher to swap the active job before the current job is completed. If a job of higher priority is in the ready queue, it will swap places with it.
 6. *Explain the RR scheduling algorithm.*
 The round robin algorithm defines a time quantum and only allows processes a CPU burst of that length. If the time limit is reached, the process is put at the tail of the ready queue. If a syscall happens, it surrenders to the waiting queue as usual. 
 7. *In general, what can be said about turnaround time and response time when comparing RR and SJF?*
-Turnaround time = time taken for a process from creation to completion
-Response time = 
+```
+Turnaround time = Time taken for a process from creation to completion
+Response time = Time between request and first response 
+```
+RR will likely have a better response time on average. This is because a long job gets as much time on the processor as a short one, so even if a short job is in the back of the ready queue, it will respond in n\*q time where n is number of jobs before it in the queue, and q is the time quantum.
 8. *In CPU scheduling, what is meant by starvation and ageing?*
 Starvation means a process is ready, but never given CPU time. 
 #### Multilevel queue scheduling
