@@ -31,15 +31,15 @@ It requires being able to set processes to waiting and interrupts.
 8. *What characterizes a batch process?*
 A batch process requires all data to be provided before execution. No interaction necessary from execution to completion
 #### Scheduling dispatch
-1. What is meant by scheduler dispatch?
-2. What actions are taken during a scheduler dis-
-patch?
-3. Define dispatch latency.
-4. Scheduler dispatch can be preemptive and nonpre-
-emptive, define these terms.
-5. Draw a diagram showing which process state tran-
-sitions causes a preemptive respectively a nonpre-
-emptive scheduler dispatch.
+1. *What is meant by scheduler dispatch?*
+The scheduler determines which process is should be allocated to the CPU. The dispatcher performs the context switch for the next ready process.
+2. *What actions are taken during a scheduler dispatch?*
+Running process' CPU context is saved in the process' PCB. The PCB is then moved to the waiting queue. The next ready process is moved into running.
+3. *Define dispatch latency.*
+The time it takes to perform the switch. This is wasted CPU time.
+4. Scheduler dispatch can be preemptive and nonpreemptive, define these terms.
+Preemptive means it is 
+5. Draw a diagram showing which process state transitions causes a preemptive respectively a nonpreemptive scheduler dispatch.
 #### Scheduling algorithms
 1. *Explain the FCFS scheduling algorithm.*
 Runs processes as they arrive to the short-term scheduler.
