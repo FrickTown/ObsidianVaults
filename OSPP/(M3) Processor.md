@@ -22,14 +22,15 @@ Few long CPU bursts.
 2. *What characterizes a CPU bound process? What characterizes an I/O bound process?*
 CPU bound processes are bottlenecked by CPU, and so would be faster if the CPU was faster. I/O bound processes are bottlenecked by I/O, for example, hard disk vs ssd. Many short CPU bursts.
 3. *What would happen if there was a large majority of CPU bound processes in the ready queue?*
-Increased CPU utilization
+Increased CPU utilization, overpopulated ready queue, very empty waiting queue. Sluggish experience, I/O underutilized.
 4. *What would happen if there was a large majority of I/O bound processes in the ready queue?*
-Potential competition over I/O, which depending on the algorithm used for scheduling, could cause wait times. 
+Many short bursts, in ready queue. 
 5. *How can a good balance between CPU bound processes and I/O bound processes in the ready queue be maintained?*
+Medium term scheduler
 6. *What characterizes an interactive process?*
 Continuous interaction between user and computer, e.g. a prompting program that asks the user multiple questions.
 7. *What requirements on CPU scheduling does interactive processes impose?*
-It requires being able to set processes to waiting and interrupts.
+They need to be prioritized. 
 8. *What characterizes a batch process?*
 A batch process requires all data to be provided before execution. No interaction necessary from execution to completion
 #### Scheduling dispatch
@@ -75,9 +76,9 @@ Optimizing line placement based on priority.
 4. *Explain how multilevel feedback queue scheduling works and how this relates to the design objectives.* 
 #### Solaris and Linux
 1. *Explain how the Solaris dispatch table is used to dynamically change the priority and time quantum (time slice) for a process.*
-All processes begin at priority 29. Priority is lowered after it completes its time slice. CPU bound processes get lower priority. The table defines time slice duration for each priority, and also defines what priority a process will have after its time-slice or after it has returned from a sleep state.
+All processes begin at priority 29. Priority is lowered after it completes its time slice. CPU bound processes get lower priority. The table defines time slice duration for each priority, and also defines what priority a process will have after its time-slice or after it has returned from a sleep state. This new priority is then checked the next time it's finished. 
 2. *Explain how a bitmap makes it possible for the Linux O(1) scheduler to find the highest priority process in constant time, independent of the the number of active tasks.*
-There are 140 priority queues representing each level of priority for a process. A bitmap consisting of 140 bits keeps track of which queues contain any processes. When the next task to run is to be found, the first (leftmost) bit set to 1 of the bitmap is found, its index corresponding to the priority queue of that level. Because the number of priority queues is constant, we have a constant time to find the next process. 
+There are 140 priority queues representing each level of priority for a process. A bitmap consisting of 140 bits keeps track of which queues contain any processes. When the next task to run is to be found, the first (leftmost) bit set to 1 of the bitmap is found, its index corresponding to the priority queue of that level. Because the number of priority queues is constant, we have a constant time to find the next process. Find-first-bit-set instruction.
 3. *The Linux Completely Fair Scheduler uses a red-black tree to keep track the processes in the ready queue. What is the time complexity of selecting the next process to run? What is the time complexity of inserting process (task) into the red-black-tree?*
 Search in a red-black tree is O(log n)
 Insert in a red-black tree is also O(log n)
