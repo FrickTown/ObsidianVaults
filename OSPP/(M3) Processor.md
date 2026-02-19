@@ -73,8 +73,10 @@ Round Robin. This is because the user is interacting with these foreground proce
 Optimizing line placement based on priority. 
 4. *Explain how multilevel feedback queue scheduling works and how this relates to the design objectives.* 
 #### Solaris and Linux
-1. Explain how the Solaris dispatch table is used to dynamically change a the priority and time quantum (time slice) for a process.
-2. Explain how a bitmap makes it possible for the Linux O(1) scheduler to find the highest priority process in constant time, independent of the the number of active tasks.
+1. *Explain how the Solaris dispatch table is used to dynamically change the priority and time quantum (time slice) for a process.*
+
+2. *Explain how a bitmap makes it possible for the Linux O(1) scheduler to find the highest priority process in constant time, independent of the the number of active tasks.*
+There are 140 priority queues representing each level of priority for a process. A bitmap consisting of 140 bits keeps track of which queues contain any processes. When the next task to run is to be found, the first (leftmost) bit set to 1 of the bitmap is found, its index corresponding to the priority queue of that level. Because the number of priority queues is constant, we have a constant time to find the next process. 
 3. *The Linux Completely Fair Scheduler uses a red-black tree to keep track the processes in the ready queue. What is the time complexity of selecting the next process to run? What is the time complexity of inserting process (task) into the red-black-tree?*
 Search in a red-black tree is O(log n)
 Insert in a red-black tree is also O(log n)
