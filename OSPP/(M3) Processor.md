@@ -61,7 +61,7 @@ The round robin algorithm defines a time quantum and only allows processes a CPU
 Turnaround time = Time taken for a process from creation to completion
 Response time = Time between request and first response 
 ```
-RR will likely have a better response time on average. This is because a long job gets as much time on the processor as a short one, so even if a short job is in the back of the ready queue, it will respond in n\*q time where n is number of jobs before it in the queue, and q is the time quantum.
+RR will likely have a better response time on average. This is because a long job gets as much time on the processor as a short one, so even if a short job is in the back of the ready queue, it will respond in n\*q time where n is number of jobs before it in the queue, and q is the time quantum. SJF may have higher average turnaround time.
 8. *In CPU scheduling, what is meant by starvation and ageing?*
 Starvation means a process is ready, but never given CPU time. In a priority queue, there may be several higher priority processes preceding low priority process in the queue, causing the lower priority processes to be pushed back in the queue anytime a higher priority process enters the queue.
 Aging can mitigate this. Processes that have not gotten a CPU burst for a long time will get increased priority, so that they have a better chance of reaching the front of the queue.
@@ -75,7 +75,7 @@ Optimizing line placement based on priority.
 4. *Explain how multilevel feedback queue scheduling works and how this relates to the design objectives.* 
 #### Solaris and Linux
 1. *Explain how the Solaris dispatch table is used to dynamically change the priority and time quantum (time slice) for a process.*
-
+All processes begin at priority 29. Priority is lowered after it completes its time slice. CPU bound processes get lower priority. The table defines time slice duration for each priority, and also defines what priority a process will have after its time-slice or after it has returned from a sleep state.
 2. *Explain how a bitmap makes it possible for the Linux O(1) scheduler to find the highest priority process in constant time, independent of the the number of active tasks.*
 There are 140 priority queues representing each level of priority for a process. A bitmap consisting of 140 bits keeps track of which queues contain any processes. When the next task to run is to be found, the first (leftmost) bit set to 1 of the bitmap is found, its index corresponding to the priority queue of that level. Because the number of priority queues is constant, we have a constant time to find the next process. 
 3. *The Linux Completely Fair Scheduler uses a red-black tree to keep track the processes in the ready queue. What is the time complexity of selecting the next process to run? What is the time complexity of inserting process (task) into the red-black-tree?*
