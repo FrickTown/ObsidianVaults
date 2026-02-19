@@ -70,6 +70,7 @@ If we have a lot of processes in the ready priority queue, we may need to perfor
 2. *In a ready queue for foreground processes, which algorithm of FCFS, SJF and RR would you choose. Justify your answer.*
 Round Robin. This is because the user is interacting with these foreground processes, and the user does not want to experience hiccups. 
 3. *What are the design objective of multilevel feedback queue scheduling?*
+Optimizing line placement based on priority. 
 4. *Explain how multilevel feedback queue scheduling works and how this relates to the design objectives.* 
 #### Solaris and Linux
 1. Explain how the Solaris dispatch table is used to dynamically change a the priority and time quantum (time slice) for a process.
