@@ -1,12 +1,12 @@
 # Seminar Questions
 #### Different types of scheduling
 1. *What is the overall purpose of the the short-term scheduler (aka CPU scheduler)?*
-The CPU scheduler's job is to balance CPU time between ready jobs. It tries to keep the system responsive, by looking at priority set by the job scheduler, CPU burst time, and waiting time. 
+The CPU scheduler's job is to balance CPU time between ready jobs, and determining the next job to run. It tries to keep the system responsive, by looking at priority set by the job scheduler, CPU burst time, and waiting time. Be fast.
 2. *What is the overall purpose of the long-term scheduler?*
-The job scheduler's purpose is to decide the viability of a new process, estimating its runtime, memory needs and IO needs. It may assign priority to new processes, determining how the short-term scheduler manages it later.
+The job scheduler's purpose is to decide the viability of a new process, estimating its runtime, memory needs and IO needs. It may assign priority to new processes, determining how the short-term scheduler manages it later. 
+Manages degree of multiprogramming = number of processes in memory
 3. *What is the overall purpose of the medium-term scheduler?*
-Schedules jobs based on resource requirements.
-Swapping status of jobs, who becomes suspended waiting for IO.
+Swapping, moving very inactive or currently non-viable processes to and from storage.
 #### Scheduling criteria
 1. *Define the following scheduling criteria: CPU utilization, throughput, turnaround time, waiting time and response time. For each metric, state whether the goal is to minimize or maximize the metric.*
 	- CPU Utilization = Percentage active usage of the CPU, as opposed to being idle. ⬆️
