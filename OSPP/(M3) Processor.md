@@ -22,9 +22,9 @@ Few long CPU bursts.
 2. *What characterizes a CPU bound process? What characterizes an I/O bound process?*
 CPU bound processes are bottlenecked by CPU, and so would be faster if the CPU was faster. I/O bound processes are bottlenecked by I/O, for example, hard disk vs ssd. Many short CPU bursts.
 3. *What would happen if there was a large majority of CPU bound processes in the ready queue?*
-Increased CPU utilization, overpopulated ready queue, very empty waiting queue. Sluggish experience, I/O underutilized.
+Increased CPU utilization with long bursts, overpopulated ready queue, very empty waiting queue. Sluggish experience, I/O underutilized.
 4. *What would happen if there was a large majority of I/O bound processes in the ready queue?*
-Many short bursts, in ready queue. 
+Many short bursts, in ready queue. Sluggish processing, but interactive. 
 5. *How can a good balance between CPU bound processes and I/O bound processes in the ready queue be maintained?*
 Medium term scheduler
 6. *What characterizes an interactive process?*
