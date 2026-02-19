@@ -74,5 +74,7 @@ Optimizing line placement based on priority.
 4. *Explain how multilevel feedback queue scheduling works and how this relates to the design objectives.* 
 #### Solaris and Linux
 1. Explain how the Solaris dispatch table is used to dynamically change a the priority and time quantum (time slice) for a process.
-2. Explain how a bitmap makes it possible for theLinux O(1) scheduler to find the highest priority process in constant time, independent of the thenumber of active tasks.
-3. The Linux Completely Fair Scheduler uses a red-black tree to keep track the processes in the ready queue. What is the time complexity of selecting the next process to run? What is the time complexity of inserting process (task) into the red-black-tree?
+2. Explain how a bitmap makes it possible for the Linux O(1) scheduler to find the highest priority process in constant time, independent of the the number of active tasks.
+3. *The Linux Completely Fair Scheduler uses a red-black tree to keep track the processes in the ready queue. What is the time complexity of selecting the next process to run? What is the time complexity of inserting process (task) into the red-black-tree?*
+Search in a red-black tree is O(log n)
+Insert in a red-black tree is also O(log n)
