@@ -20,7 +20,7 @@ The time a process uses the CPU before it is not ready anymore.
 Time time a process waits for I/O before it is ready again.
 Few long CPU bursts.
 2. *What characterizes a CPU bound process? What characterizes an I/O bound process?*
-CPU bound processes are bottlenecked by CPU, and so would be faster if the CPU was faster. I/O bound processes are bottlenecked by I/O, for example, hard disk vs ssd. 
+CPU bound processes are bottlenecked by CPU, and so would be faster if the CPU was faster. I/O bound processes are bottlenecked by I/O, for example, hard disk vs ssd. Many short CPU bursts.
 3. *What would happen if there was a large majority of CPU bound processes in the ready queue?*
 Increased CPU utilization
 4. *What would happen if there was a large majority of I/O bound processes in the ready queue?*
