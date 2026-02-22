@@ -45,7 +45,8 @@
               "title": "Lektion3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,11 +204,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "c14e927a133c8598",
   "lastOpenFiles": [
+    "Automatateori/Anteckningar.md",
     "Automatateori/Lektion3.pdf",
     "Automatateori/Automataboken.pdf",
-    "Automatateori/Anteckningar.md",
     "OSPP/(M2) The process concept and IPC.md",
     "IOOPM/design_report_old.md",
     "Automatateori/Tutorial3.pdf",
