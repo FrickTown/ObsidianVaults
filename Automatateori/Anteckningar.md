@@ -18,3 +18,13 @@ Om oändligt många strängar särskiljs av L så måste – enligt SATS 2.3 –
 [[Automataboken.pdf#page=23|Automataboken, page 23]]
 
 # Regular languages
+A regular language is one that can be expressed with a finite automata or a regular expression.
+#### Pumping lemma
+If a language is regular, then every string has a segment that can be "pumped" (concatenated on the end) indefinitely (if they are at least as long as a certain length $P$).
+$$
+\begin{enumerate}
+
+For\ each\ i > 0, xy^{i}z \in A
+
+\end{enumerate}
+$$
