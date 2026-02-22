@@ -45,7 +45,8 @@
               "title": "Lektion3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,12 +204,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "c14e927a133c8598",
   "lastOpenFiles": [
+    "Automatateori/Anteckningar.md",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Notation.pdf",
     "Automatateori/Lektion3.pdf",
-    "Automatateori/Anteckningar.md",
     "OSPP/(M2) The process concept and IPC.md",
     "IOOPM/design_report_old.md",
     "Automatateori/Tutorial3.pdf",
@@ -244,7 +245,6 @@
     "Pasted image 20251001170843.png",
     "Pasted image 20251001170835.png",
     "Pasted image 20251001170632.png",
-    "LinAlg 1/Exam/20240312-1.pdf",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "LinAlg 1/Formler och samband.md",
