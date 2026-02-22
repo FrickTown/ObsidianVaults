@@ -28,4 +28,4 @@ If you divide the string into three ubiquitous parts, $xyz$, then
 #### Disproving regularity of language using pumping lemma
 1. Assume language is regular
 2. Given $P$, choose a string that is at least of length $P$.
-3. Show how pumping and splitting the string does not satisfy the pumping lemma.
+3. Show how pumping and splitting the string does not satisfy the pumping lemma. 
