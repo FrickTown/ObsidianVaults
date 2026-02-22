@@ -21,10 +21,11 @@ Om oändligt många strängar särskiljs av L så måste – enligt SATS 2.3 –
 A regular language is one that can be expressed with a finite automata or a regular expression.
 #### Pumping lemma
 If a language is regular, then every string has a segment that can be "pumped" (concatenated on the end) indefinitely (if they are at least as long as a certain length $P$).
-$$
-\begin{enumerate}
-
-For\ each\ i > 0, xy^{i}z \in A
-
-\end{enumerate}
-$$
+If you divide the string into three ubiquitous parts, $xyz$, then
+1. $For\ each\ i \geq 0, xy^{i}z \in A$ 
+2. $|y| > 0$ (x and z can be empty string)
+3. $|xy| \leq P$ (length of y can be at most $P$ and must occur within P symbols )
+#### Disproving regularity of language using pumping lemma
+1. Assume language is regular
+2. Given $P$, choose a string that is at least of length $P$.
+3. Show how pumping and splitting the string does not satisfy the pumping lemma.
