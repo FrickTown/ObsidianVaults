@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sysdes/Ethics.md",
+                "file": "OSPP/(M4) Threads and Synchronization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethics"
+              "title": "(M4) Threads and Synchronization"
             }
           },
           {
@@ -205,17 +205,18 @@
   },
   "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "OSPP/(M3) Processor.md",
+    "OSPP/(M4) Threads and Synchronization.md",
+    "Automatateori/Lektion3.pdf",
+    "Sysdes/Ethics.md",
     "Pasted image 20260223125441.png",
     "Pasted image 20260223125427.png",
     "Automatateori/Anteckningar.md",
-    "Sysdes/Ethics.md",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Notation.pdf",
-    "Automatateori/Lektion3.pdf",
     "OSPP/(M2) The process concept and IPC.md",
     "IOOPM/design_report_old.md",
     "Automatateori/Tutorial3.pdf",
-    "OSPP/(M3) Processor.md",
     "Untitled.md",
     "Envariabelanalys/3. Talföljder och Konvergens.md",
     "IOOPM/design_report.md",
@@ -245,12 +246,10 @@
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "kontinuerlig.md",
     "Pasted image 20251001170843.png",
-    "Pasted image 20251001170835.png",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "LinAlg 1/Formler och samband.md",
     "TA-Docs/Microbit presentations.md",
-    "DatorArkitektur/Parallelism.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
