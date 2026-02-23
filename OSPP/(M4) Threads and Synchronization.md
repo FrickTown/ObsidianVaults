@@ -29,9 +29,24 @@ TAS (Test And Set)
 SWAP
 10. How can spin locks be constructed using the two atomic instructions from above?
 ```c
+volatile bool lock = false;
+// TestAndSet sets a value to True, and then returns whatever value was there before.
 while (TestAndSet(&lock)){
 }
+// Critical section
+lock = false;
 
+```
+ 
+```c
+volatile bool lock = false;
+do {
+	key = true;
+	while(key == true)
+		Swap(&lock, &key);
+	// Critical section
+	lock = false;
+} while (true)
 ``` 
 #### Abstractions for synchronization
 11. *What operations can be performed on a semaphore and how do these operations work?*
