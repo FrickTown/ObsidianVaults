@@ -5,17 +5,20 @@ Threads are kind of like sub-processes. These are several program counters in a 
 2. *Why is it more “expensive” to create a new process compared to creating a new thread?*
 A new thread is just a new program counter to keep track of. A new process requires the OS to allocate and load a process into memory, assign it to a queue, etc.
 3. *In short, explain the many-to-one user level thread model. Also explain what happens if one of the threads makes a blocking system call in the many- to-one user level thread model.*
-
 #### Need for synchronization
 4. *What is meant by an atomic operation? Give examples of non-atomic operations.*
-An uninterruptable action. 
+An action that happens all at once, a totally uninterruptable action. 
 5. *Define the following terms: Race condition, Datarace, Critical section and Mutual exclusion.*
- Race condition: 
- Datarace:
- Critical section: A duration 
+ Race condition: One process is dependent on, for it, uncontrollable events.
+ Datarace: Two or more processes trying to modify same data at once, and at least one is write.
+ Critical section: A section of a program that requires some limited resource
+ Mutual exclusion: Only one process is able to access some resource. One can not have a thing if another already has it.
+ 
 #### Properties of lock operations
-6. What is meant by a spin lock? What is meant by busy waiting?
-7. In the context of mutual exclusion, what is meant by starvation?
+6. *What is meant by a spin lock? What is meant by busy waiting?*
+Spin lock is any lock that causes a thread to loop until it is available. Busy waiting is CPU time given to simply waiting. The process is not waiting, only a thread. 
+7. *In the context of mutual exclusion, what is meant by starvation?*
+If a process is excluded by a lock long enough, it will never execute.
 #### Software based synchronization
 8. What are the limitations of Petersson’s solution to the mutual exclusion problem?
 #### Hardware support for synchronization
