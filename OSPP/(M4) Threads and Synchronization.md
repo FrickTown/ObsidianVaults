@@ -22,7 +22,7 @@ If a process is excluded by a lock long enough, it will never execute. It waits 
 #### Software based synchronization
 8. What are the limitations of Petersson’s solution to the mutual exclusion problem?
 - Only works for two processes (although can be generalized for more)
-- Software solution, meaning potential difficulties with getting it to work on modern architectures, due to memory reordering (an)
+- Software solution, meaning potential difficulties with getting it to work on modern architectures, due to memory reordering (an optimization on modern hardware, causing memory accesses to occur out of order)
 #### Hardware support for synchronization
 9. Name two atomic CPU instructions that can be used to implement synchronization locks.
 10. How can spin locks be constructed using the two atomic instructions from above?
