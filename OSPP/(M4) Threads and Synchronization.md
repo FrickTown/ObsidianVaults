@@ -1,11 +1,18 @@
 # Seminar questions 
 #### Threads
-1. How do threads differ from processes?
-2. Why is it more “expensive” to create a new process compared to creating a new thread?
-3. In short, explain the many-to-one user level thread model. Also explain what happens if one of the threads makes a blocking system call in the many- to-one user level thread model.
+1. *How do threads differ from processes?*
+Threads are kind of like sub-processes. These are several program counters in a single process, executing different parts of the code concurrently. While they each have their own stack (in order to be able to call functions and such), they share everything else in their process.
+2. *Why is it more “expensive” to create a new process compared to creating a new thread?*
+A new thread is just a new program counter to keep track of. A new process requires the OS to allocate and load a process into memory, assign it to a queue, etc.
+3. *In short, explain the many-to-one user level thread model. Also explain what happens if one of the threads makes a blocking system call in the many- to-one user level thread model.*
+
 #### Need for synchronization
-4. What is meant by an atomic operation? Give examples of non-atomic operations.
-5. Define the following terms: Race condition, Datarace, Critical section and Mutual exclusion.
+4. *What is meant by an atomic operation? Give examples of non-atomic operations.*
+An uninterruptable action. 
+5. *Define the following terms: Race condition, Datarace, Critical section and Mutual exclusion.*
+ Race condition: 
+ Datarace:
+ Critical section: A duration 
 #### Properties of lock operations
 6. What is meant by a spin lock? What is meant by busy waiting?
 7. In the context of mutual exclusion, what is meant by starvation?
