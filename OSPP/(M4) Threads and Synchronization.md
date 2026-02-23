@@ -19,6 +19,10 @@
 `wait()` which reduces semaphore count by one, and if the resulting count is less than 0, the process waits
 `signal()` which increases semaphore count by one, and wakes up one process, if any is waiting.
 12. *What operations can be performed on a mutex lock and how do these operations work?*
+`lock()`
+`unlock()`
 13. *What is the difference between a mutex lock and a semaphore?*
-A binary semaphore is similar to a mutex lock
-14. When implementing semaphores and mutex locks, how can busy waiting be avoided?
+A binary semaphore is somewhat to a mutex lock. A mutex lock is simply a boolean, that is set by a process that wants to use a resource.
+A major difference is in a mutex, the process takes ownership of its lock, so only it can unlock the mutex again. A semaphore is just an integer for counting current accessors.
+14. *When implementing semaphores and mutex locks, how can busy waiting be avoided?*
+Busy waiting can occur, for example, due to priority inversion (i.e. a lower-priority process is keeping a higher-priority process from executing). Priority inheritance and preemption can solve this. 
