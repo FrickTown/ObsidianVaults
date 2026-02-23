@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatateori/Anteckningar.md",
+                "file": "Sysdes/Ethics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anteckningar"
+              "title": "Ethics"
             }
           },
           {
@@ -45,8 +45,7 @@
               "title": "Lektion3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,9 +203,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c14e927a133c8598",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "Pasted image 20260223125441.png",
+    "Pasted image 20260223125427.png",
     "Automatateori/Anteckningar.md",
+    "Sysdes/Ethics.md",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Notation.pdf",
     "Automatateori/Lektion3.pdf",
@@ -244,13 +246,11 @@
     "kontinuerlig.md",
     "Pasted image 20251001170843.png",
     "Pasted image 20251001170835.png",
-    "Pasted image 20251001170632.png",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "LinAlg 1/Formler och samband.md",
     "TA-Docs/Microbit presentations.md",
     "DatorArkitektur/Parallelism.md",
-    "DatorArkitektur/MIPS.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
