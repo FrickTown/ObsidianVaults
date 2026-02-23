@@ -25,7 +25,7 @@ If a process is excluded by a lock long enough, it will never execute. It waits 
 - Software solution, meaning potential difficulties with getting it to work on modern architectures, due to memory reordering (an optimization on modern hardware, causing memory accesses to occur out of order)
 #### Hardware support for synchronization
 9. *Name two atomic CPU instructions that can be used to implement synchronization locks.*
-
+swap, jump if equal
 10. How can spin locks be constructed using the two atomic instructions from above?
 #### Abstractions for synchronization
 11. *What operations can be performed on a semaphore and how do these operations work?*
