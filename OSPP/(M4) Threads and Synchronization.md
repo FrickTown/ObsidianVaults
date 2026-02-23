@@ -18,9 +18,11 @@ An action that happens all at once, a totally uninterruptable action.
 6. *What is meant by a spin lock? What is meant by busy waiting?*
 Spin lock is any lock that causes a thread to loop until it is available. Busy waiting is CPU time given to simply waiting. The process is not waiting, only a thread. 
 7. *In the context of mutual exclusion, what is meant by starvation?*
-If a process is excluded by a lock long enough, it will never execute.
+If a process is excluded by a lock long enough, it will never execute. It waits indefinitely to get to its critical section.
 #### Software based synchronization
 8. What are the limitations of Petersson’s solution to the mutual exclusion problem?
+- Only works for two processes (although can be generalized for more)
+- Software solution, meaning potential difficulties with getting it to work on modern architectures, due to memory reordering (an)
 #### Hardware support for synchronization
 9. Name two atomic CPU instructions that can be used to implement synchronization locks.
 10. How can spin locks be constructed using the two atomic instructions from above?
