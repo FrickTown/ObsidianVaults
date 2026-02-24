@@ -67,7 +67,8 @@ Hold and wait: a task holding a resource is waiting for another resource that is
 No preemption: A resource cannot be voluntarily let go by a task
 Circular wait: A depends on B depends on C depends on A
 16. *Explain the differences between deadlock prevention and deadlock avoidance.*
-Deadlock avoidance does not allow deadlocks to occur, instead checking before performing any action that may lea
+Deadlock avoidance does not allow deadlocks to occur, instead checking before performing any action that may lead to a deadlock. This requires a priori information.
+Deadlock prevention allows deadlocks to occur, but supplies tasks with ways to rollback.
 17. *Explain how deadlock prevention can be used to prevent circular wait.*
 18. *What conclusions regarding deadlock can be made*
 *using a resource allocation graph (RAG)?*
