@@ -62,13 +62,22 @@ A major difference is in a mutex, the process takes ownership of its lock, so on
 Busy waiting can occur, for example, due to priority inversion (i.e. a lower-priority process is keeping a higher-priority process from executing). Priority inheritance and preemption can solve this. 
 #### Deadlock
 15. *Name and explain the four necessary conditions for deadlock?*
-
+Mutual exclusion: only one task at a time can use a resource
+Hold and wait: a task holding a resource is waiting for another resource that is being held by another task
+No preemption: A resource cannot be voluntarily let go by a task
+Circular wait: A depends on B depends on C depends on A
 16. *Explain the differences between deadlock prevention and deadlock avoidance.*
+Deadlock avoidance does not allow deadlocks to occur, instead checking before performing any action that may lea
 17. *Explain how deadlock prevention can be used to prevent circular wait.*
-18. What conclusions regarding deadlock can be made
-using a resource allocation graph (RAG)?
+18. *What conclusions regarding deadlock can be made*
+*using a resource allocation graph (RAG)?*
+- If a RAG is acyclical, there is no deadlock
+- If it does contain a cycle:
+	- If only one instance per resource type => deadlock
+	- Several instances per resource type => possible deadlock
 #### Dining philosophers
-19. Explain the Dining philosophers problem.
+19. *Explain the Dining philosophers problem.*
+5 Philosophers sit around a circular table, with a bowl of rice in the middle. They need two chopsticks to eat from the bowl of rice. There is one chopstick on either side of each philosopher, meaning there are 5 chopsticks, so not every philosopher can eat at the same time. They need to wait until both left and right chopstick is available. If every philosopher tries to pick up their right chopstick, no one can pick of their left chopstick, which causes a deadlock.
 #### Barrier synchronization
 20. Two threads A and B both executes a loop con-
 currently with each other. In the loop, Thread A
