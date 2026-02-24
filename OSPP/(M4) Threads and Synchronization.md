@@ -136,13 +136,13 @@ Avoidance. This is because it uses a priori data before performing any request /
 | 1   | 3   | 3   | 5   |
 *Need* ($S_{1}$)
 
-| Step | A   | B   | C   | D   | Choice |
-| ---- | --- | --- | --- | --- | ------ |
-| 1    |     |     |     |     |        |
-| 2    |     |     |     |     |        |
-| 3    |     |     |     |     |        |
-| 4    |     |     |     |     |        |
-| 5    |     |     |     |     |        |
+| Step | A   | B   | C   | D   | Choice  |
+| ---- | --- | --- | --- | --- | ------- |
+| 1    | 2   | 1   | 2   | 0   | $T_{2}$ |
+| 2    | 3   | 1   | 2   | 1   | $T_{1}$ |
+| 3    | 3   | 2   | 4   | 3   | $T_{0}$ |
+| 4    | 4   | 4   | 4   | 5   | $T_{3}$ |
+| 5    | 6   | 4   | 5   | 5   | x       |
 *Available*
 #### Priority inversion
 23. *Use a figure to explain what is meant by priority inversion.*
