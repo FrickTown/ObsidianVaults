@@ -84,8 +84,19 @@ This means 4 NEEDS to request resource 0 before it asks for resource 4.
 #### Barrier synchronization
 20. Two threads A and B both executes a loop concurrently with each other. In the loop, Thread A prints A and thread B prints B.
 ![[Pasted image 20260224100021.png]]
-In the loops there should be a barrier such that the first thread to reach the barrier must wait for the other to also reach the barrier. Once both threads have reached the barrier the threads are allowed to continue with the next iteration. For each iteration the order between the threads should not be restricted. The following is an example of a valid trace of execution: ABBABA. The following is an example of an invalid trace of execution: ABBBAB.
-*Explain how two semaphores can be used to en force the two threads to have a rendezvous at the barrier after each iteration.*
-One semaphore is coupled with A
+	In the loops there should be a barrier such that the first thread to reach the barrier must wait for the other to also reach the barrier. Once both threads have reached the barrier the threads are allowed to continue with the next iteration. For each iteration the order between the threads should not be restricted. The following is an example of a valid trace of execution: ABBABA. The following is an example of an invalid trace of execution: ABBBAB.
+	*Explain how two semaphores can be used to en force the two threads to have a rendezvous at the barrier after each iteration.*
+We have two semaphores: $S_{1}$ and $S_{2}$, both are set to 1.
+Task A waits on $S_{1}$ to pass the barrier, and is allowed to pass.
+Task B waits on $S_{2}$ to pass the barrier, and is allowed to pass.
+Task A arrives at the barrier, and signals $S_{2}$, setting it to 1. Task A waits on $S_{1}$ to pass the barrier.
+Task B arrives at the barrier, and signals $S_{1}$, setting it to 1. Task B waits on $S_{2}$ to pass the barrier.
 21. *Could two mutex locks be used as drop in replacements for the two semaphores when solving the barrier problem above, where you replace wait with lock and signal with unlock? Justify your answer*
-
+No, not in my solution, because a mutex has specific ownership of a lock. Only the process that locked can unlock. But my solution relies on Task A being allowed to modify $S_{2}$, even though it did not lock it, Task B did.
+#### Bounded buffer
+22. Explain how semaphores can be used to synchronize access to a bounded buffer.
+One semaphorer
+#### Banker’s algorithm
+23. Is Banker’s algorithm an example of deadlock prevention or deadlock avoidance? Justify your answer.
+24. Consider a system with four tasks T0, T1, T2, T3 and four resources A, B, C, D. The initial state S0 for Banker’s
+algorithm is defined by:
