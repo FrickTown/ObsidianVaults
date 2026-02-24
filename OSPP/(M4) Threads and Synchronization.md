@@ -105,19 +105,45 @@ No, not in my solution, because a mutex has specific ownership of a lock. Only t
 Avoidance. This is because it uses a priori data before performing any request / allocation to ensure that we do not reach any deadlock situations.
 24. *Consider a system with four tasks T0, T1, T2, T3 and four resources A, B, C, D. The initial state S0 for Banker’s algorithm is defined by:*
 ![[Pasted image 20260224113636.png]]
-Need
+- $request[T_{1}]$ = (0, 0, 1, 1) => $S_{1}$ 
+- Is less than available vector => request approved
 
 | A   | B   | C   | D   |
 | --- | --- | --- | --- |
 | 1   | 0   | 2   | 2   |
-| 0   | 1   | 3   | 2   |
+| 2   | 1   | 3   | 2   |
 | 1   | 1   | 2   | 0   |
 | 1   | 3   | 3   | 5   |
+*Need* ($S_{0}$)
 
-|     |     |
-| --- | --- |
-|     |     |
+- $request[T_{1}]$ = (0, 0, 1, 1) is within (0, 1, 3, 2) => proceed
+- Subtract request from available vector => (2, 1, 2, 0)
+- Add request to allocation table =>
 
+| A   | B   | C   | D   |
+| --- | --- | --- | --- |
+| 1   | 2   | 0   | 2   |
+| 0   | 1   | 2   | 2   |
+| 1   | 0   | 0   | 1   |
+| 2   | 0   | 1   | 0   |
+*Allocation* ($S_{1}$)
+
+| A   | B   | C   | D   |
+| --- | --- | --- | --- |
+| 1   | 0   | 2   | 2   |
+| 2   | 1   | 2   | 1   |
+| 1   | 1   | 2   | 0   |
+| 1   | 3   | 3   | 5   |
+*Need* ($S_{1}$)
+
+| Step | A   | B   | C   | D   | Choice |
+| ---- | --- | --- | --- | --- | ------ |
+| 1    |     |     |     |     |        |
+| 2    |     |     |     |     |        |
+| 3    |     |     |     |     |        |
+| 4    |     |     |     |     |        |
+| 5    |     |     |     |     |        |
+*Available*
 #### Priority inversion
 23. *Use a figure to explain what is meant by priority inversion.*
 <span style="display: flex; justify-content: center;"><img style="width:100%" src="Pasted image 20260224114023.png"</img></span>
