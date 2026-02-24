@@ -94,9 +94,18 @@ Task B arrives at the barrier, and signals $S_{1}$, setting it to 1. Task B wait
 21. *Could two mutex locks be used as drop in replacements for the two semaphores when solving the barrier problem above, where you replace wait with lock and signal with unlock? Justify your answer*
 No, not in my solution, because a mutex has specific ownership of a lock. Only the process that locked can unlock. But my solution relies on Task A being allowed to modify $S_{2}$, even though it did not lock it, Task B did.
 #### Bounded buffer
-22. Explain how semaphores can be used to synchronize access to a bounded buffer.
-One semaphorer
+22. *Explain how semaphores can be used to synchronize access to a bounded buffer.*
+- One semaphore named *empty*, which will display the number of empty slots in the buffer. Producers must wait on this to be allowed to write. Consumers signal this when reading. **Init: size of buffer.**
+- One semaphore named *data*, which will house the number of occupied slots in the buffer. Producers signal this after writing to buffer. Consumers must wait on this. **Init: 0. **
+- One semaphore (or mutex), for r/w access. Must be obtained before modifying next_in or next_out.
+<span style="display: flex; justify-content: center;"><img style="width:90%" src="Pasted image 20260224113527.png"</img></span>
 #### Banker’s algorithm
 23. Is Banker’s algorithm an example of deadlock prevention or deadlock avoidance? Justify your answer.
 24. Consider a system with four tasks T0, T1, T2, T3 and four resources A, B, C, D. The initial state S0 for Banker’s
 algorithm is defined by:
+![[Pasted image 20260224113636.png]]
+#### Priority inversion
+23. *Use a figure to explain what is meant by priority inversion.*
+<span style="display: flex; justify-content: center;"><img style="width:100%" src="Pasted image 20260224114023.png"</img></span>
+24. *Explain how priority inheritance solves the problem with priority inversion*
+Priority inheritance means that 
