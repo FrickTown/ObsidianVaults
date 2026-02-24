@@ -60,3 +60,29 @@ A binary semaphore is somewhat to a mutex lock. A mutex lock is simply a boolean
 A major difference is in a mutex, the process takes ownership of its lock, so only it can unlock the mutex again. A semaphore is just an integer for counting current accessors.
 14. *When implementing semaphores and mutex locks, how can busy waiting be avoided?*
 Busy waiting can occur, for example, due to priority inversion (i.e. a lower-priority process is keeping a higher-priority process from executing). Priority inheritance and preemption can solve this. 
+#### Deadlock
+15. *Name and explain the four necessary conditions for deadlock?*
+
+16. *Explain the differences between deadlock prevention and deadlock avoidance.*
+17. *Explain how deadlock prevention can be used to prevent circular wait.*
+18. What conclusions regarding deadlock can be made
+using a resource allocation graph (RAG)?
+#### Dining philosophers
+19. Explain the Dining philosophers problem.
+#### Barrier synchronization
+20. Two threads A and B both executes a loop con-
+currently with each other. In the loop, Thread A
+prints A and thread B prints B.
+![[Pasted image 20260224100021.png]]
+In the loops there should be a barrier such
+that the first thread to reach the barrier must wait
+for the other to also reach the barrier. Once both
+threads have reached the barrier the threads are
+allowed to continue with the next iteration.
+For each iteration the order between the threads
+should not be restricted. The following is an exam-
+ple of a valid trace of execution: ABBABA. The
+following is an example of an invalid trace of execution: ABBBAB.
+Explain how two semaphores can be used to en force the two threads to have a rendezvous at the barrier after each iteration.
+21. Could two mutex locks be used as drop in replacements for the two semaphores when solving the barrier problem above, where you replace wait with lock and signal with unlock? Justify your answer
+
