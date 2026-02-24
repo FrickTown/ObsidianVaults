@@ -101,7 +101,8 @@ No, not in my solution, because a mutex has specific ownership of a lock. Only t
 - One semaphore (or mutex), for r/w access. Must be obtained before modifying next_in or next_out.
 <span style="display: flex; justify-content: center;"><img style="width:90%" src="Pasted image 20260224113527.png"</img></span>
 #### Banker’s algorithm
-23. Is Banker’s algorithm an example of deadlock prevention or deadlock avoidance? Justify your answer.
+23. *Is Banker’s algorithm an example of deadlock prevention or deadlock avoidance? Justify your answer.*
+Avoidance. 
 24. Consider a system with four tasks T0, T1, T2, T3 and four resources A, B, C, D. The initial state S0 for Banker’s
 algorithm is defined by:
 ![[Pasted image 20260224113636.png]]
@@ -109,4 +110,4 @@ algorithm is defined by:
 23. *Use a figure to explain what is meant by priority inversion.*
 <span style="display: flex; justify-content: center;"><img style="width:100%" src="Pasted image 20260224114023.png"</img></span>
 24. *Explain how priority inheritance solves the problem with priority inversion*
-Priority inheritance means that 
+Priority inheritance solves the problem by elevating the blocking, lower-priority task to the level of the task that is being blocked, so that medium does not preempt the task that holds R. 
