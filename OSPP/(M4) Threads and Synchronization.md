@@ -5,6 +5,7 @@ Threads are kind of like sub-processes. These are several program counters in a 
 2. *Why is it more “expensive” to create a new process compared to creating a new thread?*
 A new thread is just a new program counter to keep track of. A new process requires the OS to allocate and load a process into memory, assign it to a queue, etc.
 3. *In short, explain the many-to-one user level thread model. Also explain what happens if one of the threads makes a blocking system call in the many- to-one user level thread model.*
+Threads can either be on user-level or kernel-level. Generally, a good way to balance this, is to have several user-level threads be bound to some amount of kernel-level threads. Many-to-one means several user-level threads are bound to a single kernel level thread. Since we only have one kernel thread, we can not run in parallell. One thread blocks all other threads if it performs a blocking syscall.
 #### Need for synchronization
 4. *What is meant by an atomic operation? Give examples of non-atomic operations.*
 An action that happens all at once, a totally uninterruptable action. 
