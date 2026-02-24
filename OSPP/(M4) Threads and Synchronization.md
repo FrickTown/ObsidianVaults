@@ -70,8 +70,8 @@ Circular wait: A depends on B depends on C depends on A
 Deadlock avoidance does not allow deadlocks to occur, instead checking before performing any action that may lead to a deadlock. This requires a priori information.
 Deadlock prevention allows some of the deadlock conditions to occur, but at least ONE must never occur. 
 17. *Explain how deadlock prevention can be used to prevent circular wait.*
-By imposing a strict ordering on resources, and only allowing tasks to access resources in increasing order of their number.
-Task 4 can for example, 
+By imposing a strict ordering on resources, and only allowing tasks to access resources in increasing order of their number. So you NEED to obtain the resource of lower order to even request one of higher order. <span style="display: flex; justify-content: center;"><img style="width:45%" src="Pasted image 20260224111140.png"</img></span> 
+This means 4 NEEDS to request resource 0 before it asks for resource 4. 
 18. *What conclusions regarding deadlock can be made*
 *using a resource allocation graph (RAG)?*
 - If a RAG is acyclical, there is no deadlock
@@ -82,19 +82,10 @@ Task 4 can for example,
 19. *Explain the Dining philosophers problem.*
 5 Philosophers sit around a circular table, with a bowl of rice in the middle. They need two chopsticks to eat from the bowl of rice. There is one chopstick on either side of each philosopher, meaning there are 5 chopsticks, so not every philosopher can eat at the same time. They need to wait until both left and right chopstick is available. If every philosopher tries to pick up their right chopstick, no one can pick of their left chopstick, which causes a deadlock.
 #### Barrier synchronization
-20. Two threads A and B both executes a loop con-
-currently with each other. In the loop, Thread A
-prints A and thread B prints B.
+20. Two threads A and B both executes a loop concurrently with each other. In the loop, Thread A prints A and thread B prints B.
 ![[Pasted image 20260224100021.png]]
-In the loops there should be a barrier such
-that the first thread to reach the barrier must wait
-for the other to also reach the barrier. Once both
-threads have reached the barrier the threads are
-allowed to continue with the next iteration.
-For each iteration the order between the threads
-should not be restricted. The following is an exam-
-ple of a valid trace of execution: ABBABA. The
-following is an example of an invalid trace of execution: ABBBAB.
-Explain how two semaphores can be used to en force the two threads to have a rendezvous at the barrier after each iteration.
-21. Could two mutex locks be used as drop in replacements for the two semaphores when solving the barrier problem above, where you replace wait with lock and signal with unlock? Justify your answer
+In the loops there should be a barrier such that the first thread to reach the barrier must wait for the other to also reach the barrier. Once both threads have reached the barrier the threads are allowed to continue with the next iteration. For each iteration the order between the threads should not be restricted. The following is an example of a valid trace of execution: ABBABA. The following is an example of an invalid trace of execution: ABBBAB.
+*Explain how two semaphores can be used to en force the two threads to have a rendezvous at the barrier after each iteration.*
+One semaphore is coupled with A
+21. *Could two mutex locks be used as drop in replacements for the two semaphores when solving the barrier problem above, where you replace wait with lock and signal with unlock? Justify your answer*
 
