@@ -102,10 +102,22 @@ No, not in my solution, because a mutex has specific ownership of a lock. Only t
 <span style="display: flex; justify-content: center;"><img style="width:90%" src="Pasted image 20260224113527.png"</img></span>
 #### Banker’s algorithm
 23. *Is Banker’s algorithm an example of deadlock prevention or deadlock avoidance? Justify your answer.*
-Avoidance. 
-24. Consider a system with four tasks T0, T1, T2, T3 and four resources A, B, C, D. The initial state S0 for Banker’s
-algorithm is defined by:
+Avoidance. This is because it uses a priori data before performing any request / allocation to ensure that we do not reach any deadlock situations.
+24. *Consider a system with four tasks T0, T1, T2, T3 and four resources A, B, C, D. The initial state S0 for Banker’s algorithm is defined by:*
 ![[Pasted image 20260224113636.png]]
+Need
+
+| A   | B   | C   | D   |
+| --- | --- | --- | --- |
+| 1   | 0   | 2   | 2   |
+| 0   | 1   | 3   | 2   |
+| 1   | 1   | 2   | 0   |
+| 1   | 3   | 3   | 5   |
+
+|     |     |
+| --- | --- |
+|     |     |
+
 #### Priority inversion
 23. *Use a figure to explain what is meant by priority inversion.*
 <span style="display: flex; justify-content: center;"><img style="width:100%" src="Pasted image 20260224114023.png"</img></span>
