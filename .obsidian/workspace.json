@@ -11,14 +11,12 @@
             "id": "aa614148b528a7bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Automatateori/Anteckningar.md",
-                "mode": "source",
-                "source": false
+                "file": "Automatateori/Notation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Anteckningar"
+              "icon": "lucide-file-text",
+              "title": "Notation"
             }
           },
           {
@@ -45,8 +43,7 @@
               "title": "Lektion3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +201,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "152eb5bea0fe4f9e",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
     "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion3.pdf",
+    "Automatateori/Notation.pdf",
     "Automatateori/Anteckningar.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
@@ -219,7 +217,6 @@
     "Sysdes/Ethics.md",
     "Pasted image 20260223125441.png",
     "Pasted image 20260223125427.png",
-    "Automatateori/Notation.pdf",
     "OSPP/(M2) The process concept and IPC.md",
     "IOOPM/design_report_old.md",
     "Automatateori/Tutorial3.pdf",
