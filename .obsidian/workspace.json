@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSPP/(M4) Threads and Synchronization.md",
+                "file": "Automatateori/Anteckningar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(M4) Threads and Synchronization"
+              "title": "Anteckningar"
             }
           },
           {
@@ -205,19 +205,19 @@
   },
   "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "OSPP/(M4) Threads and Synchronization.md",
+    "Automatateori/Automataboken.pdf",
+    "Automatateori/Lektion3.pdf",
     "Pasted image 20260224114023.png",
     "Pasted image 20260224113636.png",
     "Pasted image 20260224113527.png",
     "Pasted image 20260224111140.png",
     "Pasted image 20260224100021.png",
     "OSPP/(M3) Processor.md",
-    "OSPP/(M4) Threads and Synchronization.md",
-    "Automatateori/Lektion3.pdf",
     "Sysdes/Ethics.md",
     "Pasted image 20260223125441.png",
     "Pasted image 20260223125427.png",
     "Automatateori/Anteckningar.md",
-    "Automatateori/Automataboken.pdf",
     "Automatateori/Notation.pdf",
     "OSPP/(M2) The process concept and IPC.md",
     "IOOPM/design_report_old.md",
@@ -236,7 +236,6 @@
     "IOOPM/Jakob_Frick_x59.md",
     "Untitled 2.base",
     "Envariabelanalys/Media/Pasted image 20260108204132.png",
-    "Envariabelanalys/Media/Pasted image 20260108203444.png",
     "IOOPM/ProjektAnteckningar.md",
     "IOOPM/Mötesanteckningar för Projekt.md",
     "IOOPM",
