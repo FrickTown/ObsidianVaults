@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,12 +204,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c14e927a133c8598",
+  "active": "152eb5bea0fe4f9e",
   "lastOpenFiles": [
-    "Automatateori/Anteckningar.md",
-    "OSPP/(M4) Threads and Synchronization.md",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion3.pdf",
+    "Automatateori/Anteckningar.md",
+    "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
     "Pasted image 20260224113636.png",
     "Pasted image 20260224113527.png",
