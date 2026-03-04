@@ -9,27 +9,35 @@ Overflows can lead to unintended access of memory blocks
 3. *Explain what is meant by memory compactation.*
 Blocks of memory that may once have been directly adjacent to one another contiguously, may find themselves without neighbors if their neighbors are deallocated. Compaction simply pushes memory blocks together. This is faster for reading and could allow for big blocks to be allocated whereas they previously could not.
 
-4. Explain the purpose of logical memory addresses and how logical memory addresses relates to physical memory addresses.
+4. *Explain the purpose of logical memory addresses and how logical memory addresses relates to physical memory addresses.*
+Logical memory addresses ensure that programs don't have to specify exactly at which addresses in the physical memory its data should end up. It is instead relative to the process. 
 
-5. Explain why compaction cannot be done without introducing logical memory.
+5. *Explain why compaction cannot be done without introducing logical memory.*
+Because processes using physical memory cannot be moved without altering the program itself. Logical memory address 0x4 can be anywhere, but physical memory address 0x4 is fixed.
 
 6. What is the meant by external fragmentation?
 
-7. What does the acronym MMU stand for and what is the purpose of the MMU?
+7. *What does the acronym MMU stand for and what is the purpose of the MMU?*
+The memory management unit is responsible for translating between logical memory addresses to physical ones.
 
-8. In the below figure, a simple MMU is shown. a) Explain the purpose of the relocation registers. b) What problems could occur if the check against the limit register was omitted?
+8. *In the below figure, a simple MMU is shown.* 
+	1. *a) Explain the purpose of the relocation registers.* 
+The relocation register keeps track of the offset we need to add for each process' logical address to get the physical one. 
+	2. *b) What problems could occur if the check against the limit register was omitted?*
+We could start writing and reading memory from neighboring memory segments.
+<span style="display: flex; justify-content: center;"><img style="width:100%" src="Pasted image 20260304211439.png"</img></span>
 
-9. What is the purpose of virtual memory?
+10. What is the purpose of virtual memory?
 
-10. How is a virtual memory address space similar to a logical address space and how are they different?
+11. How is a virtual memory address space similar to a logical address space and how are they different?
 
-11. What problem with contiguous memory allocation is solved by introducing a page table?
+12. What problem with contiguous memory allocation is solved by introducing a page table?
 
-12. How are pages and frames similar? How are they different?
+13. How are pages and frames similar? How are they different?
 
-13. What is the purpose of the page table?
+14. What is the purpose of the page table?
 
-14. With a logical address length of 16 bits and a page size of 8K byte, a process in the system gets the following page table: 
+15. With a logical address length of 16 bits and a page size of 8K byte, a process in the system gets the following page table: 
 
 | Page  | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- |
