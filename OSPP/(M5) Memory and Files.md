@@ -47,11 +47,14 @@ We could start writing and reading memory from neighboring memory segments.
 
 Compute the physical addresses for the following logical addresses:
 	a. `0x0F51` 
-	$(256 * 15) + (16 * 5) + (1 * 1) = 3921 =$`111101010001`
+	$(256 * 15) + (16 * 5) + (1 * 1) = 3921 =$`0000111101010001`
+	=> Page 0 (0000), Frame 4
 	b. `0xA619` 
-	$(4096 * 10) + (256 * 6) + (16 * 1) + (1 * 9) =  =$`1010011000011001`
+	$(4096 * 10) + (256 * 6) + (16 * 1) + (1 * 9) =$`1010011000011001`
 	c) `0x86BC` 
+	$(4096 * 8) + (256 * 6) + (16 * 11) + (1 * 12) =$`1000011010111100`
 	d) `0x70AD` 
+	$(4096 * 7) + (256 * 0) + (16 * 10) + (1 * 13) =$`0111000010101101`
 presented here in hexadecimal form. Your answers should be in hexadecimal.
 Hint: convert each logical address to a binary number, detect what bits should be associated with the page and convert them back to the physical address using the page to frame translation table above.
 
