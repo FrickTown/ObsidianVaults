@@ -1,6 +1,8 @@
 # Seminar Questions
 ## Memory management
-1. When creating a new process the operating system must allocate memory for two structures, name and explain the purpose of these structures.
+1. *When creating a new process the operating system must allocate memory for two structures, name and explain the purpose of these structures.*
+The PCB, or process control 
+
 2. One option is to allocate the memory needed by a single process contiguously in a sequential sequence of physical memory addresses. Describe two major problems with this approach.
 3. Explain what is meant by memory compactation.
 4. Explain the purpose of logical memory addresses and how logical memory addresses relates to physical memory addresses.
