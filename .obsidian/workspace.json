@@ -37,13 +37,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Automatateori/Lektion3.pdf"
+                "file": "Automatateori/Automataboken.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lektion3"
+              "title": "Automataboken"
+            }
+          },
+          {
+            "id": "60a4faa4119e32e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,11 +214,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "60a4faa4119e32e3",
   "lastOpenFiles": [
-    "Automatateori/Automataboken.pdf",
+    "Automatateori/Lektion4.pdf",
     "Automatateori/Lektion3.pdf",
     "Automatateori/Notation.pdf",
+    "Automatateori/Automataboken.pdf",
     "Automatateori/Anteckningar.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
