@@ -15,7 +15,8 @@ Logical memory addresses ensure that programs don't have to specify exactly at w
 5. *Explain why compaction cannot be done without introducing logical memory.*
 Because processes using physical memory cannot be moved without altering the program itself. Logical memory address 0x4 can be anywhere, but physical memory address 0x4 is fixed.
 
-6. What is the meant by external fragmentation?
+6. *What is the meant by external fragmentation?*
+External fragmentation refers to there being space between the memory blocks of processes that is not being used. There is space, but it is not contiguous. This is different from internal fragmentation, where memory that is not actually being used by a process is still reserved for that process.
 
 7. *What does the acronym MMU stand for and what is the purpose of the MMU?*
 The memory management unit is responsible for translating between logical memory addresses to physical ones.
@@ -23,6 +24,7 @@ The memory management unit is responsible for translating between logical memory
 8. *In the below figure, a simple MMU is shown.* 
 	1. *a) Explain the purpose of the relocation registers.* 
 The relocation register keeps track of the offset we need to add for each process' logical address to get the physical one. 
+The limit register keeps track of the limit in physical memory for the process.
 	2. *b) What problems could occur if the check against the limit register was omitted?*
 We could start writing and reading memory from neighboring memory segments.
 <span style="display: flex; justify-content: center;"><img style="width:100%" src="Pasted image 20260304211439.png"</img></span>
