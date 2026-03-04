@@ -37,26 +37,88 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Automatateori/Automataboken.pdf"
+                "file": "OSPP/Slides/(M5) Files and Filesystems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Automataboken"
+              "title": "(M5) Files and Filesystems"
             }
           },
           {
-            "id": "60a4faa4119e32e3",
+            "id": "a4b0116c96fdcd1b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "OSPP/Slides/(M5) Memory Management.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file-text",
+              "title": "(M5) Memory Management"
+            }
+          },
+          {
+            "id": "4e37bdf5564bbf36",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OSPP/Slides/(M5) Files and Filesystems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(M5) Files and Filesystems"
+            }
+          },
+          {
+            "id": "55605850ab04919a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OSPP/Slides/(M5) Memory Management.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(M5) Memory Management"
+            }
+          },
+          {
+            "id": "422186966c23b735",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OSPP/Slides/(M5) Files and Filesystems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(M5) Files and Filesystems"
+            }
+          },
+          {
+            "id": "78954c0c0cba59db",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OSPP/Slides/(M5) Files and Filesystems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(M5) Files and Filesystems"
+            }
+          },
+          {
+            "id": "f4a0980e5fbbe839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSPP/(M5) Memory and Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(M5) Memory and Files"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,12 +276,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "60a4faa4119e32e3",
+  "active": "f4a0980e5fbbe839",
   "lastOpenFiles": [
+    "OSPP/Slides/(M5) Memory Management.pdf",
+    "OSPP/Slides/(M5) Files and Filesystems.pdf",
+    "OSPP/(M5) Memory and Files.md",
+    "OSPP/Slides/(M4) Deadlock.pdf",
+    "OSPP/Slides",
+    "OSPP/Slides/(M4) Synchronization.pdf",
+    "OSPP/Slides/(M4) Threads.pdf",
+    "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion4.pdf",
     "Automatateori/Lektion3.pdf",
     "Automatateori/Notation.pdf",
-    "Automatateori/Automataboken.pdf",
     "Automatateori/Anteckningar.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
@@ -233,35 +302,27 @@
     "Pasted image 20260223125427.png",
     "OSPP/(M2) The process concept and IPC.md",
     "IOOPM/design_report_old.md",
-    "Automatateori/Tutorial3.pdf",
     "Untitled.md",
     "Envariabelanalys/3. Talföljder och Konvergens.md",
     "IOOPM/design_report.md",
     "IOOPM/FooBarnen_Design_v0.3.png",
     "IOOPM/Projektdagbok.md",
-    "Automatateori/Lektion1.pdf",
     "OSPP/(M1) Fundamentals.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Envariabelanalys/2. Differentiering.md",
     "Envariabelanalys/Integration.md",
     "Pasted image 20260112184408.png",
     "IOOPM/Jakob_Frick_x59.md",
-    "Untitled 2.base",
     "Envariabelanalys/Media/Pasted image 20260108204132.png",
     "IOOPM/ProjektAnteckningar.md",
     "IOOPM/Mötesanteckningar för Projekt.md",
-    "IOOPM",
     "Algebra 1/Tentamen.md",
     "Algebra 1/Kongruens.md",
-    "Untitled.base",
-    "Untitled 1.base",
     "snippets.md",
-    "LinAlg 1/Kompendium - 1MA025.pdf",
     "kontinuerlig.md",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
     "LinAlg 1/Formler och samband.md",
-    "TA-Docs/Microbit presentations.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
