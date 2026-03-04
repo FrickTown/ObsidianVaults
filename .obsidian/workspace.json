@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSPP/(M5) Memory and Files.md",
+                "file": "OSPP/Slides/(M5) Memory Management.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (M5) Memory and Files"
+              "title": "Outline of (M5) Memory Management"
             }
           },
           {
@@ -222,10 +222,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4a241a1703e1962c",
+  "active": "f4a0980e5fbbe839",
   "lastOpenFiles": [
-    "OSPP/Slides/(M5) Memory Management.pdf",
     "OSPP/(M5) Memory and Files.md",
+    "OSPP/Slides/(M5) Memory Management.pdf",
     "OSPP/Slides/(M5) Files and Filesystems.pdf",
     "OSPP/Slides/(M4) Deadlock.pdf",
     "OSPP/Slides",
