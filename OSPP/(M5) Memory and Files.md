@@ -39,7 +39,7 @@ We could start writing and reading memory from neighboring memory segments.
 
 14. What is the purpose of the page table?
 
-15. With a logical address length of 16 bits and a page size of 8K byte, a process in the system gets the following page table: 
+15. *With a logical address length of 16 bits and a page size of 8K byte, a process in the system gets the following page table: *
 
 | Page  | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -48,13 +48,20 @@ We could start writing and reading memory from neighboring memory segments.
 Compute the physical addresses for the following logical addresses:
 	a. `0x0F51` 
 	$(256 * 15) + (16 * 5) + (1 * 1) = 3921 =$`0000111101010001`
-	=> Page 0 (000), Frame 4
+	=> Page 0 (000), Frame 4 = 8192 * 4
+	=> 0x8000 + 0xF51 = 0x8F51
 	b. `0xA619` 
 	$(4096 * 10) + (256 * 6) + (16 * 1) + (1 * 9) =$`1010011000011001`
+	=> Page 5 (101), Frame 5 = 8192 * 5
+	=> 0xA000 + 0x619 = 0xA619
 	c) `0x86BC` 
 	$(4096 * 8) + (256 * 6) + (16 * 11) + (1 * 12) =$`1000011010111100`
+	=> Page 4 (100), Frame 2 = 8192 * 2
+	=> 0x4000 + 0x6BC = 0x46BC
 	d) `0x70AD` 
 	$(4096 * 7) + (256 * 0) + (16 * 10) + (1 * 13) =$`0111000010101101`
+	=> Page 3 (011), Frame 1 = 8192 * 1
+	=> 0x2000 + 0x0AD = 0x20AD
 presented here in hexadecimal form. Your answers should be in hexadecimal.
 Hint: convert each logical address to a binary number, detect what bits should be associated with the page and convert them back to the physical address using the page to frame translation table above.
 
