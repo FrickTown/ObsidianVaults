@@ -5,13 +5,15 @@
 - Process memory image
 - A file descriptor table
 
-1. *One option is to allocate the memory needed by a single process contiguously in a sequential sequence of physical memory addresses. Describe two major problems with this approach.*
-Can lead to exterbragmentation.
+2. *One option is to allocate the memory needed by a single process contiguously in a sequential sequence of physical memory addresses. Describe two major problems with this approach.*
+Can lead to external fragmentation.
+Physical memory addresses may be used by other processes.
 Overflows can lead to unintended access of memory blocks 
-2. *Explain what is meant by memory compactation.*
+
+3. *Explain what is meant by memory compaction.*
 Blocks of memory that may once have been directly adjacent to one another contiguously, may find themselves without neighbors if their neighbors are deallocated. Compaction simply pushes memory blocks together. This is faster for reading and could allow for big blocks to be allocated whereas they previously could not.
 
-3. *Explain the purpose of logical memory addresses and how logical memory addresses relates to physical memory addresses.*
+4. *Explain the purpose of logical memory addresses and how logical memory addresses relates to physical memory addresses.*
 Logical memory addresses ensure that programs don't have to specify exactly at which addresses in the physical memory its data should end up. It is instead relative to the process. 
 
 5. *Explain why compaction cannot be done without introducing logical memory.*
@@ -71,31 +73,33 @@ Its purpose is to map pages to frames and vice versa.
 presented here in hexadecimal form. Your answers should be in hexadecimal.
 Hint: convert each logical address to a binary number, detect what bits should be associated with the page and convert them back to the physical address using the page to frame translation table above.
 
-15. *Why is the translation lookaside buffer (TLB) introduced?*
+16. *Why is the translation lookaside buffer (TLB) introduced?*
 To reduce the time needed to lookup page tables. It acts as a cache for recently or often accessed pages. Can be read in parallel. 
 
-16. *Draw a diagram showing how an logical (or virtual) address as seen by the CPU is translated to a physical address using a page table and TLB.*
+17. *Draw a diagram showing how an logical (or virtual) address as seen by the CPU is translated to a physical address using a page table and TLB.*
 <span style="display: flex; justify-content: center;"><img style="width:85%" src="Pasted image 20260305070955.png"</img></span>
-17. What problem is solved by introducing hierarchical page tables?
+18. *What problem is solved by introducing hierarchical page tables?*
+In systems with quite big address-spaces, the page table itself can become quite large, and trying to allocate it in memory contiguously may cause the same issues that we were trying to solve with pages in the first place. Hierarchical page tables divides the page tables into multiple, smaller tiers, circumventing the need for a contiguous block of memory to contain the data.
 
 ## Files and file systems
-15. *What is meant by persistent data storage?*
+19. *What is meant by persistent data storage?*
 Unlike volatile data storage, which loses its contents when it loses power, persistent data is saved even without power. It persists between power cycles.
 
-16. A file is the smallest unit of secondary storage. Explain what this means.
+20. *A file is the smallest unit of secondary storage. Explain what this means.*
+Data cannot be freely written to storage. It needs to be contained within a file.
 
-17. Describe the relation between the system-wide open file table and the per-process open file table.
+21. *Describe the relation between the system-wide open file table and the per-process open file table.*
 
-18. What is the purpose of the directory structure?
+22. *What is the purpose of the directory structure?*
 
-19. To store a file on secondary storage, blocks of storage must be allocated to a file. What is meant by random access time in relation to secondary storage access?
+23. *To store a file on secondary storage, blocks of storage must be allocated to a file. What is meant by random access time in relation to secondary storage access?*
 
-20. What are the limitations of contiguous block allocation?
+24. *What are the limitations of contiguous block allocation?*
 
-21. Discuss and compare random access time for
-	1. linked allocation 
-	2. FAT
+25. *Discuss and compare random access time for*
+	1. *linked allocation* 
+	2. *FAT*
 
-22. Discuss the pros and cons of indexed block allocation.
+26. *Discuss the pros and cons of indexed block allocation.*
 
-23. Why does the Unix inode uses direct, indirect, double indirect and triple  indirect data blocks?
+27. *Why does the Unix inode uses direct, indirect, double indirect and triple indirect data blocks?*

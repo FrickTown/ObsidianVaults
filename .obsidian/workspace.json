@@ -42,9 +42,21 @@
               "icon": "lucide-file-text",
               "title": "(M5) Page Tables"
             }
+          },
+          {
+            "id": "875eec7773210125",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OSPP/Slides/(M5) Files and Filesystems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(M5) Files and Filesystems"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "e6955c649b8bf0fa",
@@ -183,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSPP/(M5) Memory and Files.md",
+                "file": "OSPP/Slides/(M5) Files and Filesystems.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (M5) Memory and Files"
+              "title": "Outline of (M5) Files and Filesystems"
             }
           },
           {
@@ -222,22 +234,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4a241a1703e1962c",
+  "active": "875eec7773210125",
   "lastOpenFiles": [
-    "OSPP/Slides/(M5) Page Tables.pdf",
+    "OSPP/(M5) Memory and Files.md",
+    "OSPP/Slides/(M5) Files and Filesystems.pdf",
     "OSPP/Slides/(M5) Memory Management.pdf",
+    "OSPP/Slides/(M5) Page Tables.pdf",
     "OSPP/Slides/(M5) Implementing ls Command.pdf",
     "OSPP/Slides/(M5) Segmentation.pdf",
-    "OSPP/(M5) Memory and Files.md",
     "Pasted image 20260305070955.png",
     "Pasted image 20260304211439.png",
-    "OSPP/Slides/(M5) Files and Filesystems.pdf",
     "OSPP/Slides/(M4) Deadlock.pdf",
     "OSPP/Slides",
     "OSPP/Slides/(M4) Synchronization.pdf",
     "OSPP/Slides/(M4) Threads.pdf",
     "Automatateori/Automataboken.pdf",
-    "Automatateori/Lektion4.pdf",
     "Automatateori/Anteckningar.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
