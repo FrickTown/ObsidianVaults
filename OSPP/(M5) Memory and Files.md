@@ -2,11 +2,14 @@
 ## Memory management
 1. *When creating a new process the operating system must allocate memory for two structures, name and explain the purpose of these structures.*
 - The PCB, or process control block
+	- Contains all the metadata for the process.
 - Process memory image
+	- The memory that will be needed for the process.
 - A file descriptor table
 
 2. *One option is to allocate the memory needed by a single process contiguously in a sequential sequence of physical memory addresses. Describe two major problems with this approach.*
 Can lead to external fragmentation.
+Can't really multitask.
 Physical memory addresses may be used by other processes.
 Overflows can lead to unintended access of memory blocks 
 
@@ -110,5 +113,6 @@ It wastes space due to external fragmentation, and there is no guarantee that fi
 No external fragmentation, random access. Index blocks are fixed-size logical blocks, and so must contain the entire file. This puts a cap on the file size, that can only be circumvented by levels of indirection.
 
 27. *Why does the Unix inode uses direct, indirect, double indirect and triple indirect data blocks?*
-The random access time increases for each level of indirection, but correspondingly, the files' maximum file size grows. 
+The random access time increases for each level of indirection, but correspondingly, the files' maximum file size grows. This means that the iNode, which generally has 12 direct block pointer, and one of each single, double, triple pointer, can, depending on the size of the file, choose the most reasonable level of indirection. 
 <span style="display: flex; justify-content: center;"><img style="width:80%" src="Pasted image 20260305093023.png"</img></span>
+![[Pasted image 20260305093354.png]]
