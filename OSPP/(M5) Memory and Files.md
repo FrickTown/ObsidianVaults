@@ -48,7 +48,7 @@ We could start writing and reading memory from neighboring memory segments.
 Compute the physical addresses for the following logical addresses:
 	a. `0x0F51` 
 	$(256 * 15) + (16 * 5) + (1 * 1) = 3921 =$`0000111101010001`
-	=> Page 0 (0000), Frame 4
+	=> Page 0 (000), Frame 4
 	b. `0xA619` 
 	$(4096 * 10) + (256 * 6) + (16 * 1) + (1 * 9) =$`1010011000011001`
 	c) `0x86BC` 
