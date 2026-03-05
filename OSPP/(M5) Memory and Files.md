@@ -89,7 +89,7 @@ Unlike volatile data storage, which loses its contents when it loses power, pers
 Data cannot be freely written to storage. It needs to be contained within a file.
 
 21. *Describe the relation between the system-wide open file table and the per-process open file table.*
-The system-wide open file table contains a copy of the file control block of each open file, which points to the data blocks of a file. On an open() syscall being made, the system looks in the system-wide OFT to see if the file is already open. If it isn't, its FCB is put in the system-wide OFT, and then an entry for the file is created in the per-process OFT, ppii
+The system-wide open file table contains a copy of the file control block of each open file, which points to the data blocks of a file. On an open() syscall being made, the system looks in the system-wide OFT to see if the file is already open. If it isn't, its FCB is put in the system-wide OFT, and then an entry for the file is created in the per-process OFT, pointing to the address of the FCB in the system-wide OFT.
 
 22. *What is the purpose of the directory structure?*
 It maps FCB numbers to file names.
@@ -106,6 +106,7 @@ It wastes space due to external fragmentation, and there is no guarantee that fi
 	2. *FAT*
 	The file access table simply is a copy of the hard drive without the data, only the block numbers. In this way, linearly searching through the FAT is faster, since there is less data to search. Even faster if cached in memory, which linked allocation cannot do. 
 
-27. *Discuss the pros and cons of indexed block allocation.*
+26. *Discuss the pros and cons of indexed block allocation.*
+No external fragmentation, random access. Index blocks are fixed-size logical blocks, and so must contain the entire file. This puts a cap on the file size, that can only be circumvented by levels of indirection.
 
 28. *Why does the Unix inode uses direct, indirect, double indirect and triple indirect data blocks?*
