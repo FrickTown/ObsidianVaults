@@ -97,11 +97,14 @@ It maps FCB numbers to file names.
 23. *To store a file on secondary storage, blocks of storage must be allocated to a file. What is meant by random access time in relation to secondary storage access?*
 
 24. *What are the limitations of contiguous block allocation?*
+It wastes space due to external fragmentation, and there is no guarantee that files can grow. 
 
 25. *Discuss and compare random access time for*
 	1. *linked allocation* 
+	Files are a linked list of disk blocks. No random access, search time is linear.
 	2. *FAT*
+	The file access table simply is a copy of the hard drive without the data, only the block numbers. In this way, linearly searching through the FAT is faster, since there is less data to search. Even faster if cached in memory, which linked allocation cannot do. 
 
-26. *Discuss the pros and cons of indexed block allocation.*
+27. *Discuss the pros and cons of indexed block allocation.*
 
-27. *Why does the Unix inode uses direct, indirect, double indirect and triple indirect data blocks?*
+28. *Why does the Unix inode uses direct, indirect, double indirect and triple indirect data blocks?*
