@@ -39,7 +39,8 @@ We could start writing and reading memory from neighboring memory segments.
 9. *What is the purpose of virtual memory?*
 A total contiguous memory span consisting of both swap space and RAM, giving the illusion of more memory than is actually available. Pages may be swapped in and out of storage. 
 
-10. How is a virtual memory address space similar to a logical address space and how are they different?
+10. *How is a virtual memory address space similar to a logical address space and how are they different?*
+They are both essentially aliasing the physical memory. Additionally, they are both process-specific. Virtual memory's address space also contains swap space, however.
 
 11. *What problem with contiguous memory allocation is solved by introducing a page table?*
 External fragmentation causing memory blocks to not be allocatable, not due to lack of free memory, but due to lack of free contiguous memory.
@@ -79,7 +80,7 @@ Hint: convert each logical address to a binary number, detect what bits should b
 16. *Why is the translation lookaside buffer (TLB) introduced?*
 To reduce the time needed to lookup page tables. It acts as a cache for recently or often accessed pages. Can be read in parallel. 
 
-17. *Draw a diagram showing how an logical (or virtual) address as seen by the CPU is translated to a physical address using a page table and TLB.*
+17. *Draw a diagram showing how a logical (or virtual) address as seen by the CPU is translated to a physical address using a page table and TLB.*
 <span style="display: flex; justify-content: center;"><img style="width:85%" src="Pasted image 20260305070955.png"</img></span>
 18. *What problem is solved by introducing hierarchical page tables?*
 In systems with quite big address-spaces, the page table itself can become quite large, and trying to allocate it in memory contiguously may cause the same issues that we were trying to solve with pages in the first place. Hierarchical page tables divides the page tables into multiple, smaller tiers, circumventing the need for a contiguous block of memory to contain the data.
@@ -110,7 +111,8 @@ It wastes space due to external fragmentation, and there is no guarantee that fi
 	The file access table simply is a copy of the hard drive without the data, only the block numbers. In this way, linearly searching through the FAT is faster, since there is less data to search. Even faster if cached in memory, which linked allocation cannot do. 
 
 26. *Discuss the pros and cons of indexed block allocation.*
-No external fragmentation, random access. Index blocks are fixed-size logical blocks, and so must contain the entire file. This puts a cap on the file size, that can only be circumvented by levels of indirection.
+Pros: No external fragmentation, random access. 
+Con: Index blocks are fixed-size logical blocks, and so must contain the entire file. This puts a cap on the file size, that can only be circumvented by levels of indirection.
 
 27. *Why does the Unix inode uses direct, indirect, double indirect and triple indirect data blocks?*
 The random access time increases for each level of indirection, but correspondingly, the files' maximum file size grows. This means that the iNode, which generally has 12 direct block pointer, and one of each single, double, triple pointer, can, depending on the size of the file, choose the most reasonable level of indirection. 

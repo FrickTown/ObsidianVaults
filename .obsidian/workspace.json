@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "f4a0980e5fbbe839",
+            "id": "875eec7773210125",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "OSPP/Slides/(M5) Page Tables.pdf"
+                "file": "OSPP/Slides/(M5) Memory Management.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "(M5) Page Tables"
+              "title": "(M5) Memory Management"
             }
           },
           {
-            "id": "875eec7773210125",
+            "id": "c30a8b7a3ab8c608",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -208,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSPP/Slides/(M5) Page Tables.pdf",
+                "file": "OSPP/Slides/(M5) Memory Management.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (M5) Page Tables"
+              "title": "Outline of (M5) Memory Management"
             }
           },
           {
@@ -247,23 +246,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f4a0980e5fbbe839",
+  "active": "875eec7773210125",
   "lastOpenFiles": [
     "OSPP/(M5) Memory and Files.md",
+    "OSPP/Slides/(M5) Files and Filesystems.pdf",
+    "OSPP/Slides/(M5) Memory Management.pdf",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "OSPP/Slides/(M5) Page Tables.pdf",
     "OSPP/Slides/(M5) Implementing ls Command.pdf",
     "Pasted image 20260305093354.png",
     "Pasted image 20260305093023.png",
-    "OSPP/Slides/(M5) Files and Filesystems.pdf",
-    "OSPP/Slides/(M5) Memory Management.pdf",
-    "OSPP/Slides/(M5) Page Tables.pdf",
     "OSPP/Slides/(M5) Segmentation.pdf",
     "Pasted image 20260305070955.png",
     "Pasted image 20260304211439.png",
     "OSPP/Slides/(M4) Deadlock.pdf",
     "OSPP/Slides",
     "OSPP/Slides/(M4) Synchronization.pdf",
-    "OSPP/Slides/(M4) Threads.pdf",
-    "Automatateori/Automataboken.pdf",
     "Automatateori/Anteckningar.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
