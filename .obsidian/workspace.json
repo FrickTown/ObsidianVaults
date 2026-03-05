@@ -75,8 +75,21 @@
               "icon": "lucide-file",
               "title": "(M5) Memory and Files"
             }
+          },
+          {
+            "id": "5ed34fe7b1d78800",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OSPP/Slides/(M5) Implementing ls Command.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "(M5) Implementing ls Command"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSPP/(M5) Memory and Files.md",
+                "file": "OSPP/Slides/(M5) Implementing ls Command.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (M5) Memory and Files"
+              "title": "Outline of (M5) Implementing ls Command"
             }
           },
           {
@@ -234,13 +247,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4a241a1703e1962c",
+  "active": "5ed34fe7b1d78800",
   "lastOpenFiles": [
-    "OSPP/Slides/(M5) Files and Filesystems.pdf",
     "OSPP/(M5) Memory and Files.md",
+    "Pasted image 20260305093023.png",
+    "OSPP/Slides/(M5) Implementing ls Command.pdf",
+    "OSPP/Slides/(M5) Files and Filesystems.pdf",
     "OSPP/Slides/(M5) Memory Management.pdf",
     "OSPP/Slides/(M5) Page Tables.pdf",
-    "OSPP/Slides/(M5) Implementing ls Command.pdf",
     "OSPP/Slides/(M5) Segmentation.pdf",
     "Pasted image 20260305070955.png",
     "Pasted image 20260304211439.png",
@@ -265,7 +279,6 @@
     "Untitled.md",
     "Envariabelanalys/3. Talföljder och Konvergens.md",
     "IOOPM/design_report.md",
-    "IOOPM/FooBarnen_Design_v0.3.png",
     "IOOPM/Projektdagbok.md",
     "OSPP/(M1) Fundamentals.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",

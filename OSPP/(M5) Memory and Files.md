@@ -109,4 +109,6 @@ It wastes space due to external fragmentation, and there is no guarantee that fi
 26. *Discuss the pros and cons of indexed block allocation.*
 No external fragmentation, random access. Index blocks are fixed-size logical blocks, and so must contain the entire file. This puts a cap on the file size, that can only be circumvented by levels of indirection.
 
-28. *Why does the Unix inode uses direct, indirect, double indirect and triple indirect data blocks?*
+27. *Why does the Unix inode uses direct, indirect, double indirect and triple indirect data blocks?*
+The random access time increases for each level of indirection, but correspondingly, the files' maximum file size grows. 
+<span style="display: flex; justify-content: center;"><img style="width:80%" src="Pasted image 20260305093023.png"</img></span>
