@@ -4,12 +4,14 @@
 - The PCB, or process control block
 - Process memory image
 - A file descriptor table
-2. *One option is to allocate the memory needed by a single process contiguously in a sequential sequence of physical memory addresses. Describe two major problems with this approach.*
+
+1. *One option is to allocate the memory needed by a single process contiguously in a sequential sequence of physical memory addresses. Describe two major problems with this approach.*
+Can lead to exterbragmentation.
 Overflows can lead to unintended access of memory blocks 
-3. *Explain what is meant by memory compactation.*
+2. *Explain what is meant by memory compactation.*
 Blocks of memory that may once have been directly adjacent to one another contiguously, may find themselves without neighbors if their neighbors are deallocated. Compaction simply pushes memory blocks together. This is faster for reading and could allow for big blocks to be allocated whereas they previously could not.
 
-4. *Explain the purpose of logical memory addresses and how logical memory addresses relates to physical memory addresses.*
+3. *Explain the purpose of logical memory addresses and how logical memory addresses relates to physical memory addresses.*
 Logical memory addresses ensure that programs don't have to specify exactly at which addresses in the physical memory its data should end up. It is instead relative to the process. 
 
 5. *Explain why compaction cannot be done without introducing logical memory.*
@@ -29,16 +31,19 @@ The limit register keeps track of the limit in physical memory for the process.
 We could start writing and reading memory from neighboring memory segments.
 <span style="display: flex; justify-content: center;"><img style="width:100%" src="Pasted image 20260304211439.png"</img></span>
 
-10. What is the purpose of virtual memory?
+9. *What is the purpose of virtual memory?*
+A total contiguous memory span consisting of both swap space and RAM, giving the illusion of more memory than is actually available. Pages may be swapped in and out of storage. 
 
-11. How is a virtual memory address space similar to a logical address space and how are they different?
+10. How is a virtual memory address space similar to a logical address space and how are they different?
 
-12. What problem with contiguous memory allocation is solved by introducing a page table?
-External fragmentation causing mem
+11. *What problem with contiguous memory allocation is solved by introducing a page table?*
+External fragmentation causing memory blocks to not be allocatable, not due to lack of free memory, but due to lack of free contiguous memory.
 
-13. How are pages and frames similar? How are they different?
+13. *How are pages and frames similar? How are they different?*
+They are similar in that they are the same size in bytes. They are different in that frames are what the physical ram is divided up into contiguously, while pages are what the logical memory is divided up into, to be mapped onto frames.
 
-14. What is the purpose of the page table?
+14. *What is the purpose of the page table?*
+Its purpose is to map pages to frames and vice versa. 
 
 15. *With a logical address length of 16 bits and a page size of 8K byte, a process in the system gets the following page table: *
 
@@ -69,12 +74,13 @@ Hint: convert each logical address to a binary number, detect what bits should b
 15. *Why is the translation lookaside buffer (TLB) introduced?*
 To reduce the time needed to lookup page tables. It acts as a cache for recently or often accessed pages. Can be read in parallel. 
 
-16. Draw a diagram showing how an logical (or virtual) address as seen by the CPU is translated to a physical address using a page table and TLB.
+16. *Draw a diagram showing how an logical (or virtual) address as seen by the CPU is translated to a physical address using a page table and TLB.*
 <span style="display: flex; justify-content: center;"><img style="width:85%" src="Pasted image 20260305070955.png"</img></span>
 17. What problem is solved by introducing hierarchical page tables?
 
 ## Files and file systems
-15. What is meant by persistent data storage?
+15. *What is meant by persistent data storage?*
+Unlike volatile data storage, which loses its contents when it loses power, persistent data is saved even without power. It persists between power cycles.
 
 16. A file is the smallest unit of secondary storage. Explain what this means.
 
