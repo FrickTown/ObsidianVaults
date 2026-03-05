@@ -89,8 +89,10 @@ Unlike volatile data storage, which loses its contents when it loses power, pers
 Data cannot be freely written to storage. It needs to be contained within a file.
 
 21. *Describe the relation between the system-wide open file table and the per-process open file table.*
+The system-wide open file table contains a copy of the file control block of each open file, which points to the data blocks of a file. On an open() syscall being made, the system looks in the system-wide OFT to see if the file is already open, if it isn't it is put in the system-wide OFT and then an entry for the file is created in the per-process OFT.
 
 22. *What is the purpose of the directory structure?*
+It maps FCB numbers to file names.
 
 23. *To store a file on secondary storage, blocks of storage must be allocated to a file. What is meant by random access time in relation to secondary storage access?*
 
