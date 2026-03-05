@@ -34,6 +34,7 @@ We could start writing and reading memory from neighboring memory segments.
 11. How is a virtual memory address space similar to a logical address space and how are they different?
 
 12. What problem with contiguous memory allocation is solved by introducing a page table?
+External fragmentation causing mem
 
 13. How are pages and frames similar? How are they different?
 
@@ -45,7 +46,7 @@ We could start writing and reading memory from neighboring memory segments.
 | ----- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Frame | 4   | 3   | 7   | 1   | 2   | 5   | 6   | 0   |
 
-Compute the physical addresses for the following logical addresses:
+*Compute the physical addresses for the following logical addresses:*
 	a. `0x0F51` 
 	$(256 * 15) + (16 * 5) + (1 * 1) = 3921 =$`0000111101010001`
 	=> Page 0 (000), Frame 4 = 8192 * 4
@@ -65,10 +66,11 @@ Compute the physical addresses for the following logical addresses:
 presented here in hexadecimal form. Your answers should be in hexadecimal.
 Hint: convert each logical address to a binary number, detect what bits should be associated with the page and convert them back to the physical address using the page to frame translation table above.
 
-15. Why is the translation lookaside buffer (TLB) introduced?
+15. *Why is the translation lookaside buffer (TLB) introduced?*
+To reduce the time needed to lookup page tables. It acts as a cache for recently or often accessed pages. Can be read in parallel. 
 
 16. Draw a diagram showing how an logical (or virtual) address as seen by the CPU is translated to a physical address using a page table and TLB.
-
+<span style="display: flex; justify-content: center;"><img style="width:85%" src="Pasted image 20260305070955.png"</img></span>
 17. What problem is solved by introducing hierarchical page tables?
 
 ## Files and file systems
