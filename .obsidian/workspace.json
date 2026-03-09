@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -215,10 +215,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c14e927a133c8598",
+  "active": "c30a8b7a3ab8c608",
   "lastOpenFiles": [
-    "Automatateori/Lektion4.pdf",
     "Automatateori/Automataboken.pdf",
+    "Automatateori/Lektion4.pdf",
     "IOOPM/design_report.md",
     "OSPP/Slides/(M5) Files and Filesystems.pdf",
     "OSPP/Slides/(M5) Memory Management.pdf",
