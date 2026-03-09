@@ -47,18 +47,16 @@
             "id": "c30a8b7a3ab8c608",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "IOOPM/design_report.md",
-                "mode": "source",
-                "source": false
+                "file": "Automatateori/Lektion4.pdf"
               },
-              "icon": "lucide-file",
-              "title": "design_report"
+              "icon": "lucide-file-text",
+              "title": "Lektion4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -216,8 +215,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c30a8b7a3ab8c608",
+  "active": "c14e927a133c8598",
   "lastOpenFiles": [
+    "Automatateori/Lektion4.pdf",
+    "Automatateori/Automataboken.pdf",
+    "IOOPM/design_report.md",
     "OSPP/Slides/(M5) Files and Filesystems.pdf",
     "OSPP/Slides/(M5) Memory Management.pdf",
     "OSPP/Slides/(M5) Implementing ls Command.pdf",
@@ -232,7 +234,6 @@
     "Pasted image 20260304211439.png",
     "OSPP/Slides/(M4) Deadlock.pdf",
     "OSPP/Slides",
-    "OSPP/Slides/(M4) Synchronization.pdf",
     "Automatateori/Anteckningar.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
@@ -247,7 +248,6 @@
     "IOOPM/design_report_old.md",
     "Untitled.md",
     "Envariabelanalys/3. Talföljder och Konvergens.md",
-    "IOOPM/design_report.md",
     "IOOPM/Projektdagbok.md",
     "OSPP/(M1) Fundamentals.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
