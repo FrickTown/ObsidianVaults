@@ -11,24 +11,14 @@
             "id": "aa614148b528a7bf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Automatateori/Notation.pdf"
+                "file": "Automatateori/Anteckningar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Notation"
-            }
-          },
-          {
-            "id": "c14e927a133c8598",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Automatateori/Automataboken.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Automataboken"
+              "icon": "lucide-file",
+              "title": "Anteckningar"
             }
           },
           {
@@ -37,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "OSPP/Slides/(M5) Memory Management.pdf"
+                "file": "Automatateori/Automataboken.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "(M5) Memory Management"
+              "title": "Automataboken"
             }
           },
           {
@@ -113,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7705f462e1c22d53",
@@ -215,26 +204,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c14e927a133c8598",
+  "active": "875eec7773210125",
   "lastOpenFiles": [
-    "Automatateori/Lektion4.pdf",
+    "Automatateori/Anteckningar.md",
+    "OSPP/Slides/(M5) Memory Management.pdf",
+    "Automatateori/Notation.pdf",
+    "Untitled 6.base",
+    "Untitled 5.base",
     "Automatateori/Automataboken.pdf",
+    "Automatateori/Lektion4.pdf",
     "IOOPM/design_report.md",
     "OSPP/Slides/(M5) Files and Filesystems.pdf",
-    "OSPP/Slides/(M5) Memory Management.pdf",
     "OSPP/Slides/(M5) Implementing ls Command.pdf",
     "OSPP/(M5) Memory and Files.md",
     "Untitled 4.base",
     "Untitled 3.base",
-    "OSPP/Slides/(M5) Page Tables.pdf",
     "Pasted image 20260305093354.png",
     "Pasted image 20260305093023.png",
-    "OSPP/Slides/(M5) Segmentation.pdf",
     "Pasted image 20260305070955.png",
     "Pasted image 20260304211439.png",
-    "OSPP/Slides/(M4) Deadlock.pdf",
-    "OSPP/Slides",
-    "Automatateori/Anteckningar.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
     "Pasted image 20260224113636.png",
