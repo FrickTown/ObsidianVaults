@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatateori/Anteckningar.md",
+                "file": "OSPP/(M5) Memory and Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anteckningar"
+              "title": "(M5) Memory and Files"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "aa614148b528a7bf",
   "lastOpenFiles": [
-    "Automatateori/Automataboken.pdf",
     "Automatateori/Anteckningar.md",
+    "Automatateori/Automataboken.pdf",
     "OSPP/Slides/(M5) Memory Management.pdf",
     "Automatateori/Notation.pdf",
     "Untitled 6.base",
