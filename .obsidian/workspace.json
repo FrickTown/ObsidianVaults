@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSPP/(M5) Memory and Files.md",
+                "file": "Automatateori/Anteckningar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(M5) Memory and Files"
+              "title": "Anteckningar"
             }
           },
           {
@@ -206,14 +206,15 @@
   },
   "active": "875eec7773210125",
   "lastOpenFiles": [
-    "OSPP/(M5) Memory and Files.md",
+    "Automatateori/Lektion4.pdf",
     "Automatateori/Anteckningar.md",
+    "Pasted image 20260312194137.png",
+    "OSPP/(M5) Memory and Files.md",
     "Automatateori/Automataboken.pdf",
     "OSPP/Slides/(M5) Memory Management.pdf",
     "Automatateori/Notation.pdf",
     "Untitled 6.base",
     "Untitled 5.base",
-    "Automatateori/Lektion4.pdf",
     "IOOPM/design_report.md",
     "OSPP/Slides/(M5) Files and Filesystems.pdf",
     "OSPP/Slides/(M5) Implementing ls Command.pdf",
@@ -231,7 +232,6 @@
     "Pasted image 20260224100021.png",
     "OSPP/(M3) Processor.md",
     "Sysdes/Ethics.md",
-    "Pasted image 20260223125441.png",
     "OSPP/(M2) The process concept and IPC.md",
     "IOOPM/design_report_old.md",
     "Untitled.md",
