@@ -31,3 +31,5 @@ If you divide the string into three ubiquitous parts, $xyz$, then
 3. Show how pumping and splitting the string does not satisfy the pumping lemma. 
 
 ![[Pasted image 20260312194137.png]]
+![[Pasted image 20260312200541.png]]
+![[Pasted image 20260312200916.png]]
