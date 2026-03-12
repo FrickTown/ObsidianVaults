@@ -45,7 +45,8 @@
               "title": "Lektion4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +204,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "875eec7773210125",
   "lastOpenFiles": [
+    "Automatateori/Anteckningar.md",
     "Pasted image 20260312200916.png",
     "Pasted image 20260312200541.png",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion4.pdf",
-    "Automatateori/Anteckningar.md",
     "Pasted image 20260312194137.png",
     "OSPP/(M5) Memory and Files.md",
     "OSPP/Slides/(M5) Memory Management.pdf",
@@ -229,7 +230,6 @@
     "Pasted image 20260224114023.png",
     "Pasted image 20260224113636.png",
     "Pasted image 20260224113527.png",
-    "Pasted image 20260224111140.png",
     "OSPP/(M3) Processor.md",
     "Sysdes/Ethics.md",
     "OSPP/(M2) The process concept and IPC.md",
