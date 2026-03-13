@@ -45,7 +45,8 @@
               "title": "Lektion4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +204,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "875eec7773210125",
   "lastOpenFiles": [
-    "Automatateori/Automataboken.pdf",
     "Automatateori/Anteckningar.md",
+    "Automatateori/Automataboken.pdf",
     "Pasted image 20260312200916.png",
     "Pasted image 20260312200541.png",
     "Automatateori/Lektion4.pdf",
