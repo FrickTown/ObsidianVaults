@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSPP/(M4) Threads and Synchronization.md",
+                "file": "OSPP/(M5) Memory and Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(M4) Threads and Synchronization"
+              "title": "(M5) Memory and Files"
             }
           },
           {
@@ -208,6 +208,7 @@
   },
   "active": "875eec7773210125",
   "lastOpenFiles": [
+    "OSPP/(M4) Threads and Synchronization.md",
     "OSPP/(M5) Memory and Files.md",
     "OSPP/(M2) The process concept and IPC.md",
     "OSPP/(M1) Fundamentals.md",
@@ -230,7 +231,6 @@
     "Pasted image 20260305093023.png",
     "Pasted image 20260305070955.png",
     "Pasted image 20260304211439.png",
-    "OSPP/(M4) Threads and Synchronization.md",
     "Pasted image 20260224114023.png",
     "Pasted image 20260224113636.png",
     "Pasted image 20260224113527.png",
