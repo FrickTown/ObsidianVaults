@@ -25,12 +25,14 @@
             "id": "875eec7773210125",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Automatateori/Automataboken.pdf"
+                "file": "OSPP/(M4) Threads and Synchronization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Automataboken"
+              "icon": "lucide-file",
+              "title": "(M4) Threads and Synchronization"
             }
           },
           {
@@ -206,13 +208,15 @@
   },
   "active": "875eec7773210125",
   "lastOpenFiles": [
+    "OSPP/(M5) Memory and Files.md",
+    "OSPP/(M2) The process concept and IPC.md",
+    "OSPP/(M1) Fundamentals.md",
+    "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion4.pdf",
     "Automatateori/Anteckningar.md",
-    "Automatateori/Automataboken.pdf",
     "Pasted image 20260312200916.png",
     "Pasted image 20260312200541.png",
     "Pasted image 20260312194137.png",
-    "OSPP/(M5) Memory and Files.md",
     "OSPP/Slides/(M5) Memory Management.pdf",
     "Automatateori/Notation.pdf",
     "Untitled 6.base",
@@ -232,12 +236,10 @@
     "Pasted image 20260224113527.png",
     "OSPP/(M3) Processor.md",
     "Sysdes/Ethics.md",
-    "OSPP/(M2) The process concept and IPC.md",
     "IOOPM/design_report_old.md",
     "Untitled.md",
     "Envariabelanalys/3. Talföljder och Konvergens.md",
     "IOOPM/Projektdagbok.md",
-    "OSPP/(M1) Fundamentals.md",
     "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
     "Envariabelanalys/2. Differentiering.md",
     "Envariabelanalys/Integration.md",
