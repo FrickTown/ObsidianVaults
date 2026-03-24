@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,17 +206,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "875eec7773210125",
+  "active": "c30a8b7a3ab8c608",
   "lastOpenFiles": [
-    "OSPP/(M5) Memory and Files.md",
+    "Automatateori/Anteckningar.md",
     "OSPP/(M7) Erlang.md",
+    "OSPP/(M5) Memory and Files.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "OSPP/(M3) Processor.md",
     "OSPP/(M2) The process concept and IPC.md",
     "OSPP/(M1) Fundamentals.md",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion4.pdf",
-    "Automatateori/Anteckningar.md",
     "Pasted image 20260312200916.png",
     "Pasted image 20260312200541.png",
     "Pasted image 20260312194137.png",
