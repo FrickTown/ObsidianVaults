@@ -3,18 +3,20 @@
 1. *In short, how is the functional programming paradigm different from the imperative programming paradigm?*
 
 2. *What is meant by the head and tail of a list?*
-
+The head is the first element of the list, and the tail is the chain of elements that follow it.
 3. *What is meant by a predicate?*
-
+A predicate is a test, evaluating whether a statement is truthy.
 4. *What is meant by arity?*
 
 5. *What is meant by a higher order function?*
-
+A function that takes another function as a parameter. 
 6. *What is meant by an anonymous function?*
-
+An anonymous function is an unnamed lambda expression.
 7. *How does anonymous functions relate to higher order functions?*
-
+Anonymous functions can be used as parameters easily. In fact, they can be defined inside the function call itself. 
 8. *Four common operations on lists are: map, filter, zip, and fold. In brief, describe these operations.*
+Map: applies a function on each element in a list
+Filter: returns a list that contains only elements of a list that 
 
 ## Recursion
 9. *In computer science, what is meant by recursion?*
