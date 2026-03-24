@@ -16,19 +16,21 @@ An anonymous function is an unnamed lambda expression.
 Anonymous functions can be used as parameters easily. In fact, they can be defined inside the function call itself. 
 8. *Four common operations on lists are: map, filter, zip, and fold. In brief, describe these operations.*
 Map: applies a function on each element in a list
-Filter: returns a list that contains only elements of a list that 
+Filter: returns a list that contains only elements of a list that match a given predicate.
+Zip: Given two lists, returns a list that contains alternating elements from each list. $[x_{1},y_{1},x_{2},y_{2}]$
+Fold: Given a list and a function that accepts two elements, $x, y$, initially, $y$ will represent the last element and $x$, the second to last element. The next tick of the Fold function, the result of the function is given as $y$, and the next element preceding x is the new x. 
 
 ## Recursion
 9. *In computer science, what is meant by recursion?*
-
+Recursion is a function that calls itself.
 10. *Why is recursion important in functional programming languages?*
-
+Recursion is important because generally, loops do not exist, since we do not have state.
 11. *What is meant by tail recursion?*
-
+Tail recursion is when the last thing that happens in a recursive function is the recursive call.
 12. *How does tail call optimisation work?*
-
+Tail call optimisation works by, in the compiler, changing tail recursive functions into a loop. 
 13. *Why is tail recursion important?*
-
+Tail recursion is important because it can prevent a stack overflow.
 ## Message passing
 10. *What is meant by synchronous message passing? What is meant by asynchronous message passing?*
 
