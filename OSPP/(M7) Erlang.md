@@ -75,5 +75,5 @@ separate sections.
 26. *What is the purpose of trap exit?*
 ## Hot code swapping
 27. *Explain what is meant with hot code swapping (aka hot swapping or code replacement).*
-
+Replacing parts of code that is currently running without aborting the proecs.
 28. *In brief, explain how hot code swapping works in Erlang.*
