@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +206,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c30a8b7a3ab8c608",
+  "active": "875eec7773210125",
   "lastOpenFiles": [
+    "Automatateori/Lektion4.pdf",
     "Automatateori/Anteckningar.md",
     "OSPP/(M7) Erlang.md",
     "OSPP/(M5) Memory and Files.md",
@@ -216,7 +217,6 @@
     "OSPP/(M2) The process concept and IPC.md",
     "OSPP/(M1) Fundamentals.md",
     "Automatateori/Automataboken.pdf",
-    "Automatateori/Lektion4.pdf",
     "Pasted image 20260312200916.png",
     "Pasted image 20260312200541.png",
     "Pasted image 20260312194137.png",
@@ -253,7 +253,6 @@
     "kontinuerlig.md",
     "DatorArkitektur/Caches.md",
     "DatorArkitektur/Exam/2024-Apr.md",
-    "LinAlg 1/Formler och samband.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
