@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSPP/(M4) Threads and Synchronization.md",
+                "file": "OSPP/(M7) Erlang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(M4) Threads and Synchronization"
+              "title": "(M7) Erlang"
             }
           },
           {
@@ -208,11 +208,12 @@
   },
   "active": "875eec7773210125",
   "lastOpenFiles": [
+    "OSPP/(M5) Memory and Files.md",
+    "OSPP/(M7) Erlang.md",
+    "OSPP/(M4) Threads and Synchronization.md",
     "OSPP/(M3) Processor.md",
     "OSPP/(M2) The process concept and IPC.md",
     "OSPP/(M1) Fundamentals.md",
-    "OSPP/(M5) Memory and Files.md",
-    "OSPP/(M4) Threads and Synchronization.md",
     "Automatateori/Automataboken.pdf",
     "Automatateori/Lektion4.pdf",
     "Automatateori/Anteckningar.md",
