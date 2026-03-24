@@ -5,7 +5,7 @@ Everything happens through function calls. We also lack state.
 2. *What is meant by the head and tail of a list?*
 The head is the first element of the list, and the tail is the chain of elements that follow it.
 3. *What is meant by a predicate?*
-A predicate is a test, evaluating whether a statement is truthy.
+A predicate is a function that returns a boolean, evaluating whether an argument is truthy according to some condition.
 4. *What is meant by arity?*
 The number of arguments 
 5. *What is meant by a higher order function?*
