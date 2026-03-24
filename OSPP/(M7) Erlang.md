@@ -1,13 +1,13 @@
 # Seminar Questions
 ## Functional programming
 1. *In short, how is the functional programming paradigm different from the imperative programming paradigm?*
-
+Everything happens through function calls. We also lack state.
 2. *What is meant by the head and tail of a list?*
 The head is the first element of the list, and the tail is the chain of elements that follow it.
 3. *What is meant by a predicate?*
 A predicate is a test, evaluating whether a statement is truthy.
 4. *What is meant by arity?*
-
+The number of arguments 
 5. *What is meant by a higher order function?*
 A function that takes another function as a parameter. 
 6. *What is meant by an anonymous function?*
