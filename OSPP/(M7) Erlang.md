@@ -49,7 +49,7 @@ separate sections.
 14. *In Erlang, how can you create a new process?*
 
 15. *Do Erlang processes share any memory?*
-
+No.
 16. *How can a process get to know its own process id (PID)?*
 
 ## Message passing
