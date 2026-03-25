@@ -47,16 +47,33 @@ separate sections.
 13. *What makes an Erlang process lightweight compared to threads and processes in operating systems?*
 Erlang processes are not OS processes, they exist as independent units in the Erlang VM. They don't have to save the entire CPU context when they swap control, and also have a dynamically allocated stack, so they start very small. 
 14. *In Erlang, how can you create a new process?*
-
+Using the build in function spawn/3
+```erlang
+spawn(Module, Function, Args) -> pid()
+```
+Function must be included in the Module specified.
+The built in function spawn/1 only accepts a function, but otherwise is the same.
+```erlang
+spawn(Fun) -> pid()
+```
 15. *Do Erlang processes share any memory?*
 No.
 16. *How can a process get to know its own process id (PID)?*
-
+Using the build in function self/0
+```erlang
+self().
+```
 ## Message passing
 17. *Explain the syntax for sending a message from one process to another process.*
-
+```erlang
+RECIPIENT ! Message.
+```
 18. *Explain the syntax for receiving a message.*
-
+```erlang
+receive
+	Message -> %Action
+end
+```
 19. *What can be sent in a message?*
 
 20. *Is sending a message blocking the sender?*
