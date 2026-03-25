@@ -83,15 +83,24 @@ Waiting to receive a message in the mailbox is blocking
 22. *Is message passing in Erlang synchronous or asynchronous?*
 Asynchronous 
 23. *If process A sends a message to process B process and wants that process to send some sort of result back, how can this be accomplished?*
-By sending a callback function that sends a message to process A.
+By sending a message that includes the PID of A, as well as a callback function that sends a message back to the PID of A.
 
 ## Stateful process
 24. *How is it possible for process to maintain and change state?*
 
 ## Process supervision
 25. *What is the effect of linking two processes?*
-
+```erlang
+% Creates a link between this process and another, already running process
+link(pid()) -> true.
+% Spawns a new process that runs the specified function, linking it with the current process.
+spawn_link(Fun) -> pid()
+% Unlinks a link if there is one
+unlink(pid()) -> true
+```
+If one dies unexpectedly, the other one does so as well. Useful for preventing erroneous behavior. 
 26. *What is the purpose of trap exit?*
+Catching an exit signal and instead defining some sort of restart behavior.
 ## Hot code swapping
 27. *Explain what is meant with hot code swapping (aka hot swapping or code replacement).*
 Replacing parts of code that is currently running without aborting the process.
