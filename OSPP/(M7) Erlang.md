@@ -37,9 +37,9 @@ Synchronous: Code sends a message and is blocked until answer
 Asynchronous: Code sends a message and usually a callback function, and continues executing, breaking to run the callback function once a response is received.
 ## The actor model
 11. *Describe the actor model for concurrency?*
-The actor model allows for asynchronous concurrency. In the actor model, processes have identities and mailboxes, which means an actor can send messages to other, or their own, mailbox, 
+The actor model allows for asynchronous concurrency. In the actor model, processes have identities and mailboxes, which means an actor can send messages to other, or their own, mailbox, in order to trigger behaviors. 
 12. *How is the actor model different from processes and threads?*
-
+Traditional problems with concurrency does not occur, namely synchronization of shared data. Instead of sharing memory, each actor has its own state and only communicate through message passing.
 ## Erlang
 The questions about Erlang has been divided into
 separate sections.
