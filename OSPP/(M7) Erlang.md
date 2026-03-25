@@ -33,10 +33,11 @@ Tail call optimisation works by, in the compiler, changing tail recursive functi
 Tail recursion is important because it can prevent a stack overflow.
 ## Message passing
 10. *What is meant by synchronous message passing? What is meant by asynchronous message passing?*
-
+Synchronous: Code sends a message and is blocked until answer
+Asynchronous: Code sends a message and usually a callback function, and continues executing, breaking to run the callback function once a response is received.
 ## The actor model
 11. *Describe the actor model for concurrency?*
-
+The actor model allows for asynchronous concurrency. In the actor model, processes have identities and mailboxes, which means an actor can send messages to other, or their own, mailbox, 
 12. *How is the actor model different from processes and threads?*
 
 ## Erlang
