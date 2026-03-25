@@ -75,14 +75,15 @@ receive
 end
 ```
 19. *What can be sent in a message?*
-
+Any erlang term, including functions
 20. *Is sending a message blocking the sender?*
-
+No
 21. *Is receiving a message blocking the receiver?*
-
+Waiting to receive a message in the mailbox is blocking 
 22. *Is message passing in Erlang synchronous or asynchronous?*
-
+Asynchronous 
 23. *If process A sends a message to process B process and wants that process to send some sort of result back, how can this be accomplished?*
+By sending a callback function that sends a message to process A.
 
 ## Stateful process
 24. *How is it possible for process to maintain and change state?*
