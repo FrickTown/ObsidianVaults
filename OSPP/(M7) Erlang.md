@@ -45,7 +45,7 @@ The questions about Erlang has been divided into
 separate sections.
 ## Lightweight processes
 13. *What makes an Erlang process lightweight compared to threads and processes in operating systems?*
-
+Erlang processes are not OS processes, they exist as independent units in the Erlang VM. They don't have to save the entire CPU context when they swap control, and also have a dynamically allocated stack, so they start very small. 
 14. *In Erlang, how can you create a new process?*
 
 15. *Do Erlang processes share any memory?*
