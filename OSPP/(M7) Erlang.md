@@ -87,7 +87,7 @@ By sending a message that includes the PID of A, as well as a callback function 
 
 ## Stateful process
 24. *How is it possible for process to maintain and change state?*
-
+By recursive calls and altering the argument
 ## Process supervision
 25. *What is the effect of linking two processes?*
 ```erlang
