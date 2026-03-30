@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSPP/(M7) Erlang.md",
+                "file": "OSPP/Projektförslag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(M7) Erlang"
+              "title": "Projektförslag"
             }
           },
           {
@@ -209,9 +209,10 @@
   },
   "active": "875eec7773210125",
   "lastOpenFiles": [
+    "OSPP/(M7) Erlang.md",
+    "OSPP/Projektförslag.md",
     "Automatateori/Lektion4.pdf",
     "Automatateori/Anteckningar.md",
-    "OSPP/(M7) Erlang.md",
     "OSPP/(M5) Memory and Files.md",
     "OSPP/(M4) Threads and Synchronization.md",
     "OSPP/(M3) Processor.md",
