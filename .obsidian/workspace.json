@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aae189146dd1a9d8",
+        "id": "a28b0446ab75646f",
         "type": "tabs",
         "children": [
           {
-            "id": "44333f04d60141ec",
+            "id": "aa614148b528a7bf",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -37,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -47,13 +49,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Klämsatsen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -61,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -84,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LinAlg 1/Exam/22-06-09 losningar-1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 22-06-09 losningar-1"
             }
           },
           {
@@ -100,9 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projektförslag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Projektförslag"
             }
           },
           {
@@ -113,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -121,7 +135,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IOOPM/design_report.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of design_report"
             }
           },
           {
@@ -129,18 +150,22 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -150,12 +175,57 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "113c536c60a15814",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "OSPP/(M7) Erlang.md",
     "gitignore",
-    "snippets.md",
     "ReadMe.md",
-    "Juli 2024.md",
-    "Dagsplanering Juli 2024.md"
+    "Automatateori/Lektion4.pdf",
+    "Untitled 7.base",
+    "OSPP/Projektförslag.md",
+    "Automatateori/Anteckningar.md",
+    "OSPP/(M5) Memory and Files.md",
+    "OSPP/(M4) Threads and Synchronization.md",
+    "OSPP/(M3) Processor.md",
+    "OSPP/(M2) The process concept and IPC.md",
+    "OSPP/(M1) Fundamentals.md",
+    "Automatateori/Automataboken.pdf",
+    "Pasted image 20260312200916.png",
+    "Pasted image 20260312200541.png",
+    "Pasted image 20260312194137.png",
+    "OSPP/Slides/(M5) Memory Management.pdf",
+    "Automatateori/Notation.pdf",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "IOOPM/design_report.md",
+    "OSPP/Slides/(M5) Files and Filesystems.pdf",
+    "OSPP/Slides/(M5) Implementing ls Command.pdf",
+    "Pasted image 20260305093354.png",
+    "Pasted image 20260305093023.png",
+    "Pasted image 20260305070955.png",
+    "Pasted image 20260304211439.png",
+    "Pasted image 20260224114023.png",
+    "Pasted image 20260224113636.png",
+    "Pasted image 20260224113527.png",
+    "Sysdes/Ethics.md",
+    "IOOPM/design_report_old.md",
+    "Untitled.md",
+    "Envariabelanalys/3. Talföljder och Konvergens.md",
+    "IOOPM/Projektdagbok.md",
+    "Envariabelanalys/1. Gränsvärden och Kontinuitet.md",
+    "Envariabelanalys/2. Differentiering.md",
+    "Envariabelanalys/Integration.md",
+    "IOOPM/Jakob_Frick_x59.md",
+    "IOOPM/ProjektAnteckningar.md",
+    "IOOPM/Mötesanteckningar för Projekt.md",
+    "Algebra 1/Tentamen.md",
+    "Algebra 1/Kongruens.md",
+    "snippets.md",
+    "kontinuerlig.md",
+    "SGT Planering.canvas",
+    "Lätta disktinktioner.canvas",
+    "Gula Blommor.canvas",
+    "Träd.canvas",
+    "Snabbnyckel (Familj).canvas"
   ]
 }
