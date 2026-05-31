@@ -12,3 +12,7 @@ Spridning beskrivs i varians (andra momentet)
 ![[Pasted image 20260531140555.png]]
 
 Det förväntade värdet för en *normalfördelning* N: $E[N(x, y)]$ motsvarar **alltid** x.
+### Student's t-distribution
+![[Pasted image 20260531192710.png]]
+![[Pasted image 20260531192741.png]]
+
