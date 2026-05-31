@@ -7,3 +7,7 @@ Fördelningsfunktion > Täthetsfunktion (kontinuerlig) || Sannolikhetsfunktion (
 
 Väntevärde är tyngdpunkten för en sannolikhetsfördelning (första momentet)
 Spridning beskrivs i varians (andra momentet)
+
+### $Bin(n, p)$ = Binomialfördelningen. Antalet lyckade försök för n antal försök med sannolikhet p
+![[Pasted image 20260531140555.png]]
+$Re()
