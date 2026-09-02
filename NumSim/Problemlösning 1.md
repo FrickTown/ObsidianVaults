@@ -11,4 +11,5 @@ Felet är mer variabelt till vänster om -28 på grund av avrundningsfel.
 Felet blir konstant till vänster om -52 på grund av maskinepsilon. 
 
 3. *Antag att vi vill simulera ett fysikaliskt fenomen med numeriska metoder, vilka olika felkällor kan påverka noggrannheten och tillförlitligheten i lösningen?*
+
 4. 
