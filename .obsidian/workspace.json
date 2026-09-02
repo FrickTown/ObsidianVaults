@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinAlg 1/Formler och samband.md",
+                "file": "NumSim/Problemlösning 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formler och samband"
+              "title": "Problemlösning 1"
             }
           }
         ]
@@ -181,6 +181,11 @@
   },
   "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "Pasted image 20260902153345.png",
+    "Pasted image 20260902153343.png",
+    "LinAlg 1/Formler och samband.md",
+    "NumSim/Problemlösning 1.md",
+    "NumSim",
     "SanStat/Foreplay till tentan.md",
     "Pasted image 20260531192741.png",
     "Pasted image 20260531192710.png",
@@ -200,14 +205,12 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "TA-Docs/Microbit presentations.md",
-    "TA-Docs",
     "Sysdes/Intervju 2.md",
     "Sysdes/Intervju 1.md",
     "Sysdes/Ethics.md",
     "Screenshot_20260128_220127.png",
     "Pasted image 20260312200916.png",
     "Pasted image 20260312200541.png",
-    "Pasted image 20260312194137.png",
     "OSPP/Projektförslag.md",
     "OSPP/(M7) Erlang.md",
     "OSPP/(M5) Memory and Files.md",
@@ -215,7 +218,6 @@
     "OSPP/(M3) Processor.md",
     "OSPP/(M2) The process concept and IPC.md",
     "OSPP/(M1) Fundamentals.md",
-    "LinAlg 1/Formler och samband.md",
     "IntroIT/Seminarium M0_HT25.md",
     "IntroIT/Reflektion kring studievalet.md",
     "IntroIT/Micro-bit Projektförslag (Grupp 3).md",
@@ -225,7 +227,6 @@
     "IOOPM/design_report.md",
     "IOOPM/Projektdagbok.md",
     "IOOPM/ProjektAnteckningar.md",
-    "IOOPM/Mötesanteckningar för Projekt.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
