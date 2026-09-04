@@ -9,6 +9,7 @@ $$
 	Förklara med ord varför felet beter som den gör i figuren för olika steglängder. Vilka konsekvenser och begränsningar ger det när man ska lösa en ODE numeriskt?*
 Felet är mer variabelt till vänster om -28 på grund av avrundningsfel.
 Felet blir konstant till vänster om -52 på grund av maskinepsilon. 
+Vid numerisk lösning av ODEr så använder man sig av en steglängd, $h$, tillsammans med lutningen vid en känd punkt, för att estimera vart en efterträdande punkt skulle kunna ligga på funktionens kurva. En liten steglängd kommer ge mer träffsäkra estimat. 
 
 3. *Antag att vi vill simulera ett fysikaliskt fenomen med numeriska metoder, vilka olika felkällor kan påverka noggrannheten och tillförlitligheten i lösningen?*
 - Mätfel
