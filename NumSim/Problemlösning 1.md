@@ -13,10 +13,3 @@ Felet blir konstant till vänster om -52 på grund av maskinepsilon.
 3. *Antag att vi vill simulera ett fysikaliskt fenomen med numeriska metoder, vilka olika felkällor kan påverka noggrannheten och tillförlitligheten i lösningen?*
 - Mätfel
 - Dålig approximering av fenomenet (inte identifierat alla variabler)
-  
-3. *Formulera Eulers metod (Euler framåt) för följande ODE:*
-$$y'(t) + y(t) = t,\ \ \ \ y(0) = 1$$
-	*Använd sedan formuleringen för att beräkna approximationen till $y(0.2)$ med steglängd $h = 0.1$.*
-	
-	
-4. 

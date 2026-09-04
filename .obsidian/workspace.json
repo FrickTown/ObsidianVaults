@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Problemlösning 1"
             }
-          },
-          {
-            "id": "f51c7e390db90497",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f51c7e390db90497",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
     "Pasted image 20260902153345.png",
     "Pasted image 20260902153343.png",
