@@ -4,7 +4,7 @@ Maskinepsilon är det minsta möjliga steget datorn kan ta längsmed den reella 
 $$
 f'(x) \approx f'(x) = \frac{f(x_{i+1})-f(x_{i})}{h}
 $$
-	*till en funktion och sedan plottat felet av derivatan, skillnaden mellan $\tilde{f}'(x) och f'(x)$ , som en funktion av steglängden $h = x_{i+1} − x_{i}$ 
+	*till en funktion och sedan plottat felet av derivatan, skillnaden mellan $\tilde{f}'(x) och f'(x)$ , som en funktion av steglängden* $h = x_{i+1} − x_{i}$ 
 	
 ![[Pasted image 20260902153345.png]]
 
