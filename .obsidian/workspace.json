@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Problemlösning 1"
             }
+          },
+          {
+            "id": "f51c7e390db90497",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa614148b528a7bf",
+  "active": "f51c7e390db90497",
   "lastOpenFiles": [
     "Pasted image 20260902153345.png",
     "Pasted image 20260902153343.png",
