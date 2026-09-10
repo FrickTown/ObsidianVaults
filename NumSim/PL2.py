@@ -38,7 +38,7 @@ def heuns(fun: Callable[float, float], h: float, t_end: float, y0: float):
     return solution
 
 def question_2():
-    def given_func(t, y):
+    def given_func(t: float, y: float):
         return math.pow(math.e, t * math.sin(y))
 
     h = 0.5
@@ -46,6 +46,17 @@ def question_2():
     y0 = 0
     print(heuns(given_func, h, end, y0))
 
+def question_3():
+    # y'''(t) + sin(t) * y(t) * y''(t) + y(t) - t = 0
+    # y'''(t) = -sin(t) * y(t) * y''(t) - y(t) + t
+
+    # y'''(t) + sin(t) * y(t) * y''(t) = y(t) - t
+    # y(0) = 0, y'(0) = 0, y''(0) = 5
+    def solve_ode(t: float, y: float):
+        yder = np.zeros(3)
+        yder[0] = y[1]
+        yder[1] = y[2]
+        yder[2] = (-math.sin(t) * y[0] * y[2]) - (y[0] + t)
 def main():
     question_1()
     question_2()
