@@ -49,8 +49,7 @@
               "title": "Formler och samband"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,13 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70493f7dcc266497",
+  "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "DataCom/Formler och samband.md",
     "NumSim/Problemlösning 1.md",
     "NumSim/Problemlösning 2.md",
     "Untitled 2.md",
     "DataCom/Terminologi.md",
-    "DataCom/Formler och samband.md",
     "Untitled 1.md",
     "DataCom",
     "Pasted image 20260902153345.png",
