@@ -46,8 +46,6 @@ def question_2():
 def question_3():
     # y'''(t) + sin(t) * y(t) * y''(t) + y(t) - t = 0
     # y'''(t) = -sin(t) * y(t) * y''(t) - y(t) + t
-
-    # y'''(t) + sin(t) * y(t) * y''(t) = y(t) - t
     # y(0) = 0, y'(0) = 0, y''(0) = 5
     def solve_ode(t: float, y: list[float]):
         yder = np.zeros(3)
@@ -66,10 +64,17 @@ def question_3():
     plt.show()
 
 def question_4():
-    def custom_ode_solver(fun: Callable[[float, list[float]], float], h: float, t_span: list[float]):
-        yi = y0
+    class ode_solution:
+        t: list[float]
+        y: list[list[float]]
+        def __init__(self):
+            self.t = []
+            self.y = []
+
+    def custom_ode_solver(fun: Callable[[float, list[float]], float], h: float, t_span: list[float], y0: list[float]):
+        yi = y0[]
         ti = t_span[0]
-        solution = []
+        solution = ode_solution()
         while(ti <= t_span[1]):
             k1 = fun(ti, yi)
             k2 = fun(ti + (h / 2), yi + (h / 2) * k1)
