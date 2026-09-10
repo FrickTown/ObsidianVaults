@@ -27,4 +27,12 @@ Traffic load mäter alltså hur över/underarbetad en nod är.
 #ProcessingDelay
 - Time to examine packet's header, determine destination, etc.
 - In this course: 
--
+$$ d_{proc} \rightarrow 0$$
+
+#NodalDelay
+- The sum of all delays
+$$d_{nodal} = d_{proc}+d_{queue}+d_{trans}+d_{prop}$$
+
+#RTT
+- Round Trip Time
+$$RTT \approx 2 * (d_{proc}+d_{prop}+d_{queue})$$
