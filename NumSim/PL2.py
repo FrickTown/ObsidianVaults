@@ -49,7 +49,7 @@ def question_3():
 
     # y'''(t) + sin(t) * y(t) * y''(t) = y(t) - t
     # y(0) = 0, y'(0) = 0, y''(0) = 5
-    def solve_ode(t: float, y: float):
+    def solve_ode(t: float, y: list[float]):
         yder = np.zeros(3)
         yder[0] = y[1]
         yder[1] = y[2]
@@ -66,9 +66,10 @@ def question_3():
     plt.show()
 
 def question_4():
-    def custom_ode_solver(fun: Callable[[float, float], float], h: float, t_span: list[float], y0: float = 0):
+    def custom_ode_solver(fun: Callable[[float, list[float]], float], h: float, t_span: list[float]):
         yi = y0
         ti = t_span[0]
+        solution = []
         while(ti <= t_span[1]):
             k1 = fun(ti, yi)
             k2 = fun(ti + (h / 2), yi + (h / 2) * k1)
