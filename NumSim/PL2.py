@@ -13,5 +13,6 @@ def solve_ode(t, y):
 t_span = [0, 3]
 y0 = [0, 1]
 sol = solve_ivp(solve_ode, t_span, y0)
-plt.plot(sol.t, sol.y, "o-r")
+plt.plot(sol.t, sol.y[0], "o-r")
+plt.plot(sol.t, sol.y[1], "*-b")
 plt.show()
