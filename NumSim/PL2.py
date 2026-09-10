@@ -19,7 +19,7 @@ def question_1():
 Calculates y(t) given y(0), step-size, terminating t-value, and y'
 fun = y'(t) = f(t, y)
 """
-def heuns(fun: Callable[float, float], h: float, t_end: float, y0: float):
+def heuns(fun: Callable[[float, float], float], h: float, t_end: float, y0: float):
     # Init conditions
     t = 0.0
     y_prev = y0
