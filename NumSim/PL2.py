@@ -57,7 +57,7 @@ def question_3():
         return yder
 
     y0 = [0, 0, 5]
-    t_span = [0, 3]
+    t_span = [0, 4]
     sol = solve_ivp(solve_ode, t_span, y0)
     plt.plot(sol.t, sol.y[0], "o-r", color="red", label="y(t)")
     plt.plot(sol.t, sol.y[1], "*-r", color="purple", label="y'(t)")
@@ -66,13 +66,15 @@ def question_3():
     plt.show()
 
 def question_4():
-    def custom_ode_solver(fun: Callable[float, float], h: float, t_end: float, y0: float):
+    def custom_ode_solver(fun: Callable[[float, float], float], h: float, t_span: list[float], y0: float = 0):
         yi = y0
-        ti = 0
-        k1 = fun(ti, yi)
-        k2 = fun(ti + (h / 2), yi + (h / 2) * k1)
-        k3 = fun(ti + h, yi - (h * k1) + (2 * h * k2))
-    k1: float =
+        ti = t_span[0]
+        while(ti <= t_span[1]):
+            k1 = fun(ti, yi)
+            k2 = fun(ti + (h / 2), yi + (h / 2) * k1)
+            k3 = fun(ti + h, yi - (h * k1) + (2 * h * k2))
+            k  = (k1 + (4 * k2) + k3) / 6
+            yi_1 = yi + (h * k)
 
 def main():
     #question_1()
