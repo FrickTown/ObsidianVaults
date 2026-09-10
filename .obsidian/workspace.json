@@ -211,6 +211,8 @@
   },
   "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "NumSim/__pycache__/PL2.cpython-314.pyc",
+    "NumSim/__pycache__",
     "NumSim/PL2.py",
     "NumSim/PL2_",
     "DataCom/Formler och samband.md",
@@ -238,8 +240,6 @@
     "Untitled 7.base",
     "Untitled 6.base",
     "Untitled 5.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
     "TA-Docs/Microbit presentations.md",
     "Sysdes/Intervju 2.md",
     "Sysdes/Intervju 1.md",
