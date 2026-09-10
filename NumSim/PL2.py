@@ -33,3 +33,8 @@ def heuns(fun: Callable[float, float], h: float, t_end: float, y0: float):
         solution.append((t, y_next))
         y_prev = y_next
     return solution
+
+def funny(t: float, y: float):
+    return t - y
+
+print(heuns(funny, 0.1, 0.2, 1))
