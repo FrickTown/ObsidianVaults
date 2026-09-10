@@ -72,7 +72,7 @@ def question_4():
             self.y = []
 
     def custom_ode_solver(fun: Callable[[float, list[float]], float], h: float, t_span: list[float], y0: list[float]):
-        yi = y0[]
+        yi = y0[0]
         ti = t_span[0]
         solution = ode_solution()
         while(ti <= t_span[1]):
@@ -81,6 +81,7 @@ def question_4():
             k3 = fun(ti + h, yi - (h * k1) + (2 * h * k2))
             k  = (k1 + (4 * k2) + k3) / 6
             yi_1 = yi + (h * k)
+            ti = ti + h
 
 def main():
     #question_1()
