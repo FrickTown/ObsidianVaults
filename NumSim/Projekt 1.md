@@ -36,6 +36,7 @@ $$
 t = [0, 10] \\
 k_{m} = 700 m/s \\
 c = 0.05 kg/m \\
+\boldsymbol{\vec{g}} = (0, 9.82)\\
 mål = (x, y) = (80, 60)
 \end{cases}
 $$
@@ -53,4 +54,10 @@ $$
 - Raketen *måste* nå en höjd på *minst 20 meter* innan vinkeln får justeras.
 
 ## Tillvägagångssätt
-- 
+- Vi identifierar $m'(t)$:
+$$
+m'(t) = \begin{cases}
+0.4 & t \leq 10 \\
+0 & t > 10
+\end{cases}
+$$
