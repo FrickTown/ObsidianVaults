@@ -71,10 +71,26 @@ $$
 + 
 \frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
 $$
+- Byter notation till v'(t)
 $$
 \vec{v}\ '(t) 
 = 
 \boldsymbol{\vec{F}}/m(t) 
++ 
+\frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
+$$
+- Vi förlänger $\boldsymbol{\vec{F}}$ 
+$$
+\vec{v}\ '(t) 
+= 
+\frac{m(t)\boldsymbol{\vec{g}} - c\ ||\vec{v}(t)||\ \vec{v}(t)}{m(t)}
++ 
+\frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
+$$
+$$
+\vec{v}\ '(t) 
+= 
+\boldsymbol{\vec{g}} - \frac{c\ ||\vec{v}(t)||\ \vec{v}(t)}{m(t)}
 + 
 \frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
 $$
