@@ -85,6 +85,11 @@ def question_4():
             yi_1 = yi + (h * k)
             ti = ti + h
 
+def question_5():
+    def euler_reverse(fun: Callable[[float, float], float], h: float, t_end: float, y0: float):
+
+    def given_function(t, y):
+        math.pow(math.e, t * math.sin(y) )
 def main():
     #question_1()
     #question_2()
