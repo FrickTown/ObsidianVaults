@@ -54,10 +54,27 @@ $$
 - Raketen *måste* nå en höjd på *minst 20 meter* innan vinkeln får justeras.
 
 ## Tillvägagångssätt
-- Vi identifierar $m'(t)$:
+- Vi identifierar $m'(t)$ från definitionen av $m(t)$:
 $$
 m'(t) = \begin{cases}
 0.4 & t \leq 10 \\
 0 & t > 10
 \end{cases}
+$$
+- Derivatan av positionsvektorn = hastighet $\vec{v}(t)$
+- Derivatan av hastighetsvektorn = acceleration $\vec{a}(t)$
+- Vi bryter ut accelerationsvektorn
+$$
+\boldsymbol{\vec{a}}(t) 
+= 
+\boldsymbol{\vec{F}}/m(t) 
++ 
+\frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
+$$
+$$
+\vec{v}\ '(t) 
+= 
+\boldsymbol{\vec{F}}/m(t) 
++ 
+\frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
 $$
