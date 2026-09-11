@@ -75,6 +75,8 @@ def question_4():
         yi = y0[0]
         ti = t_span[0]
         solution = ode_solution()
+        solution.t.append(ti)
+        solution.y.append([yi])
         while(ti <= t_span[1]):
             k1 = fun(ti, yi)
             k2 = fun(ti + (h / 2), yi + (h / 2) * k1)
