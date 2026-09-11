@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataCom/Causes and Solutions for Transmission Problems.md",
+                "file": "NumSim/Projekt 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Causes and Solutions for Transmission Problems"
+              "title": "Projekt 1"
             }
           },
           {
@@ -211,9 +211,10 @@
   },
   "active": "aa614148b528a7bf",
   "lastOpenFiles": [
+    "DataCom/Causes and Solutions for Transmission Problems.md",
+    "NumSim/Projekt 1.md",
     "NumSim/Problemlösning 2.md",
     "DataCom/Formler och samband.md",
-    "DataCom/Causes and Solutions for Transmission Problems.md",
     "NumSim/Problemlösning 1.md",
     "NumSim/__pycache__/PL2.cpython-314.pyc",
     "NumSim/__pycache__",
@@ -256,7 +257,6 @@
     "IntroIT/Seminarium M0_HT25.md",
     "IntroIT/Reflektion kring studievalet.md",
     "IntroIT/Micro-bit Projektförslag (Grupp 3).md",
-    "IntroIT/Introduktion.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
