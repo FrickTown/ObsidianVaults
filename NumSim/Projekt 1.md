@@ -14,9 +14,9 @@ $m'(t)\boldsymbol{\vec{u}}(t)$ beskriver *kraften raketen utsätts för av expul
 $$
 \boldsymbol{\vec{F}} = m(t)\boldsymbol{\vec{g}} - c\ ||\vec{v}(t)||\ \vec{v}(t)
 $$
-Raketens massa är konstant på 4 kg
+Raketens egna massa är konstant på 4 kg
 Ursprunglig massa bränsle är 4 kg
-Raketens massa är en funktion av tiden:
+Raketens totala massa är en funktion av tiden:
 $$
 m(t) = \begin{cases}
 8 - 0.4t & t \leq 10 \\
@@ -24,13 +24,33 @@ m(t) = \begin{cases}
 \end{cases}
 $$
 
-Bränslet skjuts med konstant hastighet $k_{m}$ $\boldsymbol{\vec{u}}(t)$ 
+Bränslet skjuts med konstant hastighet $k_{m}$, raketens *hastighetsvektor* är alltså:
 $$
-Starttillstånd
+\boldsymbol{\vec{u}}(t) = 
+\begin{pmatrix}u_{x}(t)\\u_{y}(t)\end{pmatrix} =
+\begin{pmatrix}k_{m}cos(\theta(t))\\k_{m}sin(\theta(t))\end{pmatrix}
+$$
+## Konstanter
+$$
 \begin{cases}
 t = [0, 10] \\
-m(0) = 8 \\
-$k_{m}$ = 700 m/s \\
+k_{m} = 700 m/s \\
+c = 0.05 kg/m \\
+mål = (x, y) = (80, 60)
 \end{cases}
-
 $$
+## Starttillstånd
+$$
+\begin{cases}
+m(0) = 8 \\
+\vec{v}(0) = (0, 0) \\
+pos = (0,0) \\
+\theta= \pi / 2
+\end{cases}
+$$
+## Uppgiftsbeskrivning
+- Identifiera en lämplig funktion för vinkeln $\theta(t)$ sådan att raketen träffar målet.
+- Raketen *måste* nå en höjd på *minst 20 meter* innan vinkeln får justeras.
+
+## Tillvägagångssätt
+- 
