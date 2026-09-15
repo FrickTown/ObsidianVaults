@@ -36,7 +36,7 @@ $$
 t = [0, 10] \\
 k_{m} = 700 m/s \\
 c = 0.05 kg/m \\
-\boldsymbol{\vec{g}} = (0, 9.82)\\
+\boldsymbol{\vec{g}} = \begin{pmatrix}0\\-9.82\end{pmatrix}\\
 mål = (x, y) = (80, 60)
 \end{cases}
 $$
@@ -97,7 +97,7 @@ $$
 $$
 \vec{pos}\ ''(t) 
 = 
-\boldsymbol{\vec{g}} - \frac{c\ ||\vec{v}(t)||\ \vec{v}(t)}{m(t)}
+\boldsymbol{\vec{g}} - \frac{c\ ||\vec{v}(t)||\ }{m(t)} \vec{v}(t)
 + 
 \frac{m'(t)}{m(t)}\boldsymbol{\vec{u}}(t)
 
@@ -108,5 +108,16 @@ $$
 \vec{pos}\ '(0) = \begin{pmatrix}0\\0\end{pmatrix}\\ \\
 $$
 $$
-\vec{pos}\ ''(0) = \begin{pmatrix}0\\-9.82\end{pmatrix} - \frac{0.05*0*0}{8}
+\vec{pos}\ ''(0) = \begin{pmatrix}0\\-9.82\end{pmatrix} - \frac{0.05*0}{8}\begin{pmatrix}0\\0\end{pmatrix} +
+\frac{4}{8} \begin{pmatrix}700 * cos(\pi/2)\\700 * sin(\pi/2)\end{pmatrix}
+$$
+$$
+\vec{pos}\ ''(0) = \begin{pmatrix}0\\-9.82\end{pmatrix} + \begin{pmatrix}350 * cos(\pi/2)\\350 * sin(\pi/2)\end{pmatrix}
+$$
+$$
+\vec{pos}\ ''(0) = \begin{pmatrix} 0 \\ 340.18 \end{pmatrix}
+$$
+$$
+\vec{pos}(0) = \begin{pmatrix}0\\0\end{pmatrix}\ \ \ \
+\vec{pos}\ '(0) = \begin{pmatrix}0\\0\end{pmatrix}\ \ \ \ \vec{pos}\ ''(0) = \begin{pmatrix} 0 \\ 340.18 \end{pmatrix}
 $$
