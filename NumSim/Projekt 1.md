@@ -94,3 +94,19 @@ $$
 + 
 \frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
 $$
+$$
+\vec{pos}\ ''(t) 
+= 
+\boldsymbol{\vec{g}} - \frac{c\ ||\vec{v}(t)||\ \vec{v}(t)}{m(t)}
++ 
+\frac{m'(t)}{m(t)}\boldsymbol{\vec{u}}(t)
+
+$$
+
+$$
+\vec{pos}(0) = \begin{pmatrix}0\\0\end{pmatrix}\ \ \ \
+\vec{pos}\ '(0) = \begin{pmatrix}0\\0\end{pmatrix}\\ \\
+$$
+$$
+\vec{pos}\ ''(0) = \begin{pmatrix}0\\-9.82\end{pmatrix} - \frac{0.05*0*0}{8}
+$$
