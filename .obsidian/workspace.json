@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cef76b2b08953526",
+  "active": "70493f7dcc266497",
   "lastOpenFiles": [
-    "Semantics/Semantics with Applications.pdf",
     "Semantics/Structural Semantics.md",
+    "Semantics/Semantics with Applications.pdf",
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "Semantics/978-1-84628-692-6.pdf",
     "Pasted image 20260916211053.png",
