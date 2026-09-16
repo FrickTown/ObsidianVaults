@@ -102,6 +102,14 @@ $$
 \frac{m'(t)}{m(t)}\boldsymbol{\vec{u}}(t)
 
 $$
+$$
+\vec{pos}\ ''(t) 
+= 
+\boldsymbol{\vec{g}} - \frac{c\ ||\vec{pos}'(t)||\ }{m(t)} \vec{pos}'(t)
++ 
+\frac{m'(t)}{m(t)}\boldsymbol{\vec{u}}(t)
+
+$$
 
 $$
 \vec{pos}(0) = \begin{pmatrix}0\\0\end{pmatrix}\ \ \ \
@@ -128,9 +136,23 @@ tspan = np.arange(0, 10, 0.1)
 km = 700 # m/s
 c = 0.05 # kg/m
 target = [80, 60]
+
+def m_func(t):
+	return 8 - 0.4t if t <= 10 else 4
+
+def m_prime(t):
+	return 0.4 if t <= 10 else 0
+	
+def theta_func(t):
+	return math.pi/2
+	
+def u_func(t):
+	return [km * math.cos(t), km * math.sin(t)]
+
 def ode_solver(t, posvec):
 	pos_deriv = np.zeros(2)
 	pos_deriv[0] = posvec[1]
-	pos_deriv[1] = np.matvec(g, )
+	pos_deriv[1] = g - ((np.norm(posvec[1]) * c / m_func(t)) * posvec[0]) + m_prime(t) / m_func(t) * u_func(t)
+	
 
 ```
