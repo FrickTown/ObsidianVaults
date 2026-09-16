@@ -4,6 +4,16 @@ import numpy as np
 from scipy.integrate import solve_ivp
 from collections.abc import Callable
 
+"""
+Structure for ODE results. Retains all t-values and y-values for y^(n) to y^(1)
+"""
+class ode_solution:
+    t: list[float]
+    y: list[list[float]]
+    def __init__(self):
+        self.t = []
+        self.y = []
+
 def question_1():
     def solve_ode(t, y):
         yder = np.zeros(1)
@@ -64,13 +74,6 @@ def question_3():
     plt.show()
 
 def question_4():
-    class ode_solution:
-        t: list[float]
-        y: list[list[float]]
-        def __init__(self):
-            self.t = []
-            self.y = []
-
     def custom_ode_solver(fun: Callable[[float, list[float]], float], h: float, t_span: list[float], y0: list[float]):
         yi = y0[0]
         ti = t_span[0]
@@ -87,9 +90,13 @@ def question_4():
 
 def question_5():
     def euler_reverse(fun: Callable[[float, float], float], h: float, t_end: float, y0: float):
+        ti = 0
+        yi = y0
+        result = [(ti, yi)]
+        while(ti <= t_end):
 
     def given_function(t, y):
-        math.pow(math.e, t * math.sin(y) )
+        return math.pow(math.e, t * math.sin(y) )
 def main():
     #question_1()
     #question_2()
