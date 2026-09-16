@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataCom/Formler och samband.md",
+                "file": "LinAlg 1/Formler och samband.md",
                 "mode": "source",
                 "source": false
               },
@@ -211,8 +211,8 @@
   },
   "active": "aa614148b528a7bf",
   "lastOpenFiles": [
-    "DataCom/Causes and Solutions for Transmission Problems.md",
     "DataCom/Formler och samband.md",
+    "DataCom/Causes and Solutions for Transmission Problems.md",
     "NumSim/Projekt 1.md",
     "NumSim/Problemlösning 2.md",
     "NumSim/Problemlösning 1.md",
