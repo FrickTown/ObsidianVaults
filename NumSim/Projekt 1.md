@@ -121,3 +121,16 @@ $$
 \vec{pos}(0) = \begin{pmatrix}0\\0\end{pmatrix}\ \ \ \
 \vec{pos}\ '(0) = \begin{pmatrix}0\\0\end{pmatrix}\ \ \ \ \vec{pos}\ ''(0) = \begin{pmatrix} 0 \\ 340.18 \end{pmatrix}
 $$
+
+```python
+g = [0, -9.82] # m/s/s
+tspan = np.arange(0, 10, 0.1)
+km = 700 # m/s
+c = 0.05 # kg/m
+target = [80, 60]
+def ode_solver(t, posvec):
+	pos_deriv = np.zeros(2)
+	pos_deriv[0] = posvec[1]
+	pos_deriv[1] = np.matvec(g, )
+
+```
