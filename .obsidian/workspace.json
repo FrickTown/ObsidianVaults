@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semantics/Structural Semantics.md",
+                "file": "Semantics/Seminarium 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structural Semantics"
+              "title": "Seminarium 2"
             }
           }
         ],
@@ -210,9 +210,10 @@
   },
   "active": "cef76b2b08953526",
   "lastOpenFiles": [
+    "Semantics/Structural Semantics.md",
+    "Semantics/Seminarium 2.md",
     "Pasted image 20260917120209.png",
     "DatorArkitektur/Parallelism.md",
-    "Semantics/Structural Semantics.md",
     "Pasted image 20260917115105.png",
     "Semantics/Semantics with Applications.pdf",
     "LinAlg 1/Kompendium - 1MA025.pdf",
@@ -243,7 +244,6 @@
     "Pasted image 20260531192710.png",
     "Pasted image 20260531140555.png",
     "Pasted image 20260531134843.png",
-    "Pasted image 20260531134835.png",
     "snippets.md",
     "Untitled.md",
     "TA-Docs/Microbit presentations.md",
