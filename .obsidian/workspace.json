@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,9 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70493f7dcc266497",
+  "active": "cef76b2b08953526",
   "lastOpenFiles": [
+    "Pasted image 20260917120209.png",
+    "DatorArkitektur/Parallelism.md",
     "Semantics/Structural Semantics.md",
+    "Pasted image 20260917115105.png",
     "Semantics/Semantics with Applications.pdf",
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "Semantics/978-1-84628-692-6.pdf",
@@ -241,7 +244,6 @@
     "Pasted image 20260531140555.png",
     "Pasted image 20260531134843.png",
     "Pasted image 20260531134835.png",
-    "Pasted image 20260531134744.png",
     "snippets.md",
     "Untitled.md",
     "TA-Docs/Microbit presentations.md",
@@ -254,7 +256,6 @@
     "OSPP/(M4) Threads and Synchronization.md",
     "OSPP/(M3) Processor.md",
     "OSPP/(M2) The process concept and IPC.md",
-    "OSPP/(M1) Fundamentals.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
