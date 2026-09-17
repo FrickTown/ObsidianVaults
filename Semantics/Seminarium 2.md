@@ -10,9 +10,9 @@ This is an *axiom*, a fundamental truth, and it does not require a solid line.
 
 2. Explain the rule $[while^{tt}_{ns}]$. What are its premises, conclusions, side conditions?
 ![[Pasted image 20260917121809.png]]
-Premise: If the statement $S$ performed on state $s$ results in new state $s'$, and repeating $S$ on the new state $s'$ $n$ times $(n > 0)$ results in a new state $s''$...
-Sidecondition: The boolean $b$ must be $true$ (given if $B[[b]] s = \boldsymbol{tt}$)
-Conclusion: Performing $S$ repeatedly on the original state $s$ must therefore also result in the latest known state $s''$
+*Premise*: If the statement $S$ performed on state $s$ results in new state $s'$, and repeating $S$ on the new state $s'$ $n$ times $(n > 0)$ results in a new state $s''$...
+*Sidecondition*: The boolean $b$ must be $true$ (given if $B[[b]] s = \boldsymbol{tt}$)
+*Conclusion*: Performing $S$ repeatedly on the original state $s$ must therefore also result in the latest known state $s''$
 
 3. Exercise 2.3, but with x having the value 12
 4. Exercise 2.4

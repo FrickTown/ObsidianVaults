@@ -7,3 +7,4 @@
 
 ## [[Parallelism]]![[Pasted image 20260917115105.png]]
 
+![[Pasted image 20260917125618.png]]
