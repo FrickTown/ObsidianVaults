@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,11 +222,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf1a094f408d623d",
+  "active": "70493f7dcc266497",
   "lastOpenFiles": [
-    "Semantics/Semantics with Applications.pdf",
     "Semantics/Seminarium 2.md",
     "Semantics/Structural Semantics.md",
+    "Semantics/Semantics with Applications.pdf",
     "NumSim/Problemlösning 2.md",
     "Pasted image 20260917131412.png",
     "Pasted image 20260917131347.png",
