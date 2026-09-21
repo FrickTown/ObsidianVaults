@@ -15,16 +15,20 @@ All packages are marked as received on the sender. This is because the receiver 
 
 **b. Visit the Selective Repeat Java applet at this website and repeat those questions.**
 1) *Have the source send five packets and the pause the animation before any of the five packets reach the destination. Then kill the second packet and resume the animation. Describe what happens and why.* 
-The receiver marks the second packet as missing, but sends back ACKs for each specific package succeeding it, letting the sender know it only needs to resend the first one. This gives name to the 
+The receiver marks the second packet as missing, but sends back ACKs for each specific package succeeding it, letting the sender know it only needs to resend the second one. This behavior gives the algorithm its name.
 2) *Repeat the experiment but now let the second packet reach the destination and kill the second acknowledgement. Describe again what happens and why.* 
+The receiver has marked each package as received, but since the sender does not know this, it resends the second package. Because the sender has already ACK'd this package, it does not change its data and sends back a DUPACK, which finally satisfies the sender. 
 
 ![[Pasted image 20260921233949.png]]
 Using the figure above, answer a few questions related to the sliding window principle. The figure is imitated from the section on Go-back-n in the book. 
 
 a) Draw the figure again showing where the base, nextseqnum are, and how the box colors change after each of the following events: 
 1. One new packet has been sent from the transmitter, but an ACK has not been received. 
+![[Pasted image 20260922000115.png]]
 2. The ACK for the packet at the base is received by the transmitter. 
+![[Pasted image 20260922000628.png]]
 3. The transmitter receives an ACK for all the sent packets (assume all ACKs are received in order) 
+
 
 b. How many bits would you need to indicate the sequence number in each packet with the following protocols? (Hint: Consider the window size.) Answer with formulas, and make sure to avoid ambiguity. 
 1. Go-Back-N 
