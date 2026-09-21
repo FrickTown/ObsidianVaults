@@ -34,9 +34,9 @@ The receiver has marked each package as received, but since the sender does not 
 **b. How many bits would you need to indicate the sequence number in each packet with the following protocols? (Hint: Consider the window size.) Answer with formulas, and make sure to avoid ambiguity.** 
 1. *Go-Back-N* 
 $log_{2}(N)$ rounded up, where $N$ is the window size. 
-When base (0) has been used and ACK'd, it *can* be reused for the nextseqnum. 
+(When base (0) has been used and ACK'd by sender and receiver, it *can* be reused for the nextseqnum.)
 *2. Selective repeat*
-$\{x \in{\mathbb{R}}\ |\ 0 < x \leq 2\ |\ log_{2}(N * x)\}$ where $N$ is the window size.
-(Window size ($N$) must be equal to - or less than - half of the size of the sequence number protocol ($N*x$))
+At least $log_{2}(N * 2)$ rounded up, where $N$ is the window size.
+(Window size ($N$) must be equal to - or less than - half of the size of the sequence number protocol ($N*2$))
 
-In reality TCP sequence number field 
+In reality the TCP sequence number field is 32 bits long.
