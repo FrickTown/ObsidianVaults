@@ -19,10 +19,11 @@ The receiver marks the second packet as missing, but sends back ACKs for each sp
 2) *Repeat the experiment but now let the second packet reach the destination and kill the second acknowledgement. Describe again what happens and why.* 
 The receiver has marked each package as received, but since the sender does not know this, it resends the second package. Because the sender has already ACK'd this package, it does not change its data and sends back a DUPACK, which finally satisfies the sender. 
 
+# Sliding window
 ![[Pasted image 20260921233949.png]]
-Using the figure above, answer a few questions related to the sliding window principle. The figure is imitated from the section on Go-back-n in the book. 
+**Using the figure above, answer a few questions related to the sliding window principle. The figure is imitated from the section on Go-back-n in the book.** 
 
-a) Draw the figure again showing where the base, nextseqnum are, and how the box colors change after each of the following events: 
+**a) Draw the figure again showing where the base, nextseqnum are, and how the box colors change after each of the following events:** 
 1. *One new packet has been sent from the transmitter, but an ACK has not been received. *
 ![[Pasted image 20260922000115.png]]
 *2. The ACK for the packet at the base is received by the transmitter. *
@@ -30,9 +31,12 @@ a) Draw the figure again showing where the base, nextseqnum are, and how the box
 2. *The transmitter receives an ACK for all the sent packets (assume all ACKs are received in order) *
 ![[Pasted image 20260922001015.png]]
 
-b. How many bits would you need to indicate the sequence number in each packet with the following protocols? (Hint: Consider the window size.) Answer with formulas, and make sure to avoid ambiguity. 
-1. Go-Back-N 
+**b. How many bits would you need to indicate the sequence number in each packet with the following protocols? (Hint: Consider the window size.) Answer with formulas, and make sure to avoid ambiguity.** 
+1. *Go-Back-N* 
 $log_{2}(N)$ rounded up, where $N$ is the window size. 
-When base (0) has been used, it will be reused for the nextseqnum. 
-2. Selective repeat
-${x \in{\mathbb{Z}}\ |\ x < 2 |\ |\ log_{2}(N * x)}$ 
+When base (0) has been used and ACK'd, it *can* be reused for the nextseqnum. 
+*2. Selective repeat*
+$\{x \in{\mathbb{R}}\ |\ 0 < x \leq 2\ |\ log_{2}(N * x)\}$ where $N$ is the window size.
+(Window size ($N$) must be equal to - or less than - half of the size of the sequence number protocol ($N*x$))
+
+In reality TCP sequence number field 
