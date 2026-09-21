@@ -78,7 +78,8 @@
               "title": "Computer_Networks_a_Top-Down_Approach"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,9 +241,11 @@
   },
   "active": "cef76b2b08953526",
   "lastOpenFiles": [
+    "DataCom/Computer_Networks_a_Top-Down_Approach.pdf",
+    "DataCom/Homework 1.md",
+    "Pasted image 20260922001015.png",
     "Pasted image 20260922000628.png",
     "DataCom/Homework 1 - Reliable Communication.pdf",
-    "DataCom/Homework 1.md",
     "Screenshot_20260922_000140.png",
     "Pasted image 20260922000258.png",
     "Pasted image 20260922000115.png",
@@ -251,15 +254,12 @@
     "Semantics/Semantics with Applications.pdf",
     "DataCom/Pasted image 20260921233949.png",
     "DataCom/Causes and Solutions for Transmission Problems.md",
-    "DataCom/Computer_Networks_a_Top-Down_Approach.pdf",
     "Semantics/Structural Semantics.md",
     "Pasted image 20260917131412.png",
     "Pasted image 20260917131347.png",
     "Pasted image 20260917125618.png",
     "Pasted image 20260917121809.png",
-    "Pasted image 20260917120209.png",
     "DatorArkitektur/Parallelism.md",
-    "Pasted image 20260917115105.png",
     "LinAlg 1/Kompendium - 1MA025.pdf",
     "Semantics/978-1-84628-692-6.pdf",
     "DataCom/Formler och samband.md",

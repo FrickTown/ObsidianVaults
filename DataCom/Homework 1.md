@@ -23,13 +23,14 @@ The receiver has marked each package as received, but since the sender does not 
 Using the figure above, answer a few questions related to the sliding window principle. The figure is imitated from the section on Go-back-n in the book. 
 
 a) Draw the figure again showing where the base, nextseqnum are, and how the box colors change after each of the following events: 
-1. One new packet has been sent from the transmitter, but an ACK has not been received. 
+1. *One new packet has been sent from the transmitter, but an ACK has not been received. *
 ![[Pasted image 20260922000115.png]]
-2. The ACK for the packet at the base is received by the transmitter. 
+*2. The ACK for the packet at the base is received by the transmitter. *
 ![[Pasted image 20260922000628.png]]
-3. The transmitter receives an ACK for all the sent packets (assume all ACKs are received in order) 
-
+2. *The transmitter receives an ACK for all the sent packets (assume all ACKs are received in order) *
+![[Pasted image 20260922001015.png]]
 
 b. How many bits would you need to indicate the sequence number in each packet with the following protocols? (Hint: Consider the window size.) Answer with formulas, and make sure to avoid ambiguity. 
 1. Go-Back-N 
+$log_{2}(N)$ rounded up, where $N$ is the window size.
 2. Selective repeat
