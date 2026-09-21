@@ -53,16 +53,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semantics/Structural Semantics.md",
+                "file": "DataCom/Homework 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structural Semantics"
+              "title": "Homework 1"
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "a3be35f63e4a8518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64981d976884c3b1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DataCom/Homework 1 - Reliable Communication.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Homework 1 - Reliable Communication"
+            }
+          },
+          {
+            "id": "713c092425c5176a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DataCom/Computer_Networks_a_Top-Down_Approach.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Computer_Networks_a_Top-Down_Approach"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,8 +255,11 @@
   },
   "active": "bf1a094f408d623d",
   "lastOpenFiles": [
-    "Semantics/Semantics with Applications.pdf",
+    "DataCom/Computer_Networks_a_Top-Down_Approach.pdf",
+    "DataCom/Homework 1.md",
+    "DataCom/Homework 1 - Reliable Communication.pdf",
     "Semantics/Structural Semantics.md",
+    "Semantics/Semantics with Applications.pdf",
     "Semantics/Seminarium 2.md",
     "NumSim/Problemlösning 2.md",
     "Pasted image 20260917131412.png",
@@ -250,11 +284,9 @@
     "NumSim/__pycache__/PL2.cpython-314.pyc",
     "NumSim/__pycache__",
     "NumSim/PL2.py",
-    "NumSim/PL2_",
     "Untitled 2.md",
     "DataCom/Terminologi.md",
     "Untitled 1.md",
-    "DataCom",
     "Pasted image 20260902153345.png",
     "Pasted image 20260902153343.png",
     "SanStat/Foreplay till tentan.md",
@@ -268,7 +300,6 @@
     "OSPP/(M7) Erlang.md",
     "OSPP/(M5) Memory and Files.md",
     "OSPP/(M4) Threads and Synchronization.md",
-    "OSPP/(M3) Processor.md",
     "SGT Planering.canvas",
     "Lätta disktinktioner.canvas",
     "Gula Blommor.canvas",
