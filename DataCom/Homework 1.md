@@ -1,5 +1,7 @@
 # TCP Congestion Control
 1) *Why does TCP repeatedly increase the congestion window until it detects a problem (timeout or triple duplicate ACKs), then decrease it instead of finding an optimal maximum then staying there?*
+Because the maximum transmission rate is variable, due to the network being used by other TCP senders. By staying fixed, if bandwidth clears up, we risk not using it, and if the opposite happens, we will likely incur segment losses. 
 2) *Why are there two distinct phases, one with an exponential increase in congestion window, and one with a linear increase.*
-This is because an exponential increase is preferable at the start of the increase, since the sending rate is doubled for each successful MSS ack. But continuously 
+This is because an exponential increase is preferable at the start of the increase, since the sending rate is doubled for each successful MSS ack. When we reach a threshold, we risk going way over an acceptable rate by continuing to double, so we switch to linear (congestion avoidance) to probe the link's capacity.
 3) *During congestion avoidance, the congestion window increases linearly, but upon receiving triple duplicate acks, why does the congestion window halve instead of decreasing linearly.*
+This is because we enter the "fast recovery" phase. The network seems to have been congested since a segment was lost, so we step back. 
