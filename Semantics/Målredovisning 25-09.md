@@ -40,8 +40,9 @@ $$
 \frac
 {
 \langle x\ := 8, s\rangle,\  
-\langle while\ b\ do \ S\rangle
+\langle while\ b\ do \ S, s\rangle
 }
+{
 {
 }
 $$
