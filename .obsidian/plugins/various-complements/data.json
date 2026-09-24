@@ -86,7 +86,7 @@
   "customDictionaryWordRegexPattern": "",
   "delimiterToHideSuggestion": "",
   "delimiterToDivideSuggestionsForDisplayFromInsertion": "->",
-  "caretLocationSymbolAfterComplement": "",
+  "caretLocationSymbolAfterComplement": "©",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
   "suggestInternalLinkWithAlias": false,
