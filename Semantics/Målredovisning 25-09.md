@@ -31,3 +31,20 @@ $$
 - $\frac{}{ \langle while\ b\ do\ S, s \rangle \rightarrow s''}$
 	- Då kan vi dra slutsatsen att $S$, applicerat på tillståndet $s$, medan $b$ håller (det vill säga, är sann), resulterar i tillståndet $s''$. 
 # Goal 34
+```
+x:=8;
+while 0<x do
+	x:=x-5
+```
+$$
+\frac
+{
+\langle x\ := 8, s\rangle,\  
+\langle while\ b\ do \ S\rangle
+}
+{
+}
+$$
+$$
+
+$$

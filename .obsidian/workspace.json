@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumSim/Problemlösning 2.md",
+                "file": "Semantics/Structural Semantics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problemlösning 2"
+              "title": "Structural Semantics"
             }
           },
           {
@@ -29,9 +29,9 @@
               "state": {
                 "file": "Semantics/Semantics with Applications.pdf",
                 "page": 30,
-                "left": -11,
-                "top": 513,
-                "zoom": 1.411110140506253
+                "left": -23,
+                "top": 516,
+                "zoom": 0.6727971562770884
               },
               "icon": "lucide-file-text",
               "title": "Semantics with Applications"
@@ -53,6 +53,28 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "51689a38bb7d6c27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeae7c1c554519f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Semantics/Semantics with Applications.pdf",
+                "page": 42,
+                "left": 75,
+                "top": 368,
+                "zoom": 0.9
+              },
+              "icon": "lucide-file-text",
+              "title": "Semantics with Applications"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOOPM/design_report.md",
+                "file": "Semantics/Målredovisning 25-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of design_report"
+              "title": "Outline"
             }
           },
           {
@@ -217,11 +239,11 @@
   },
   "active": "026963e192d18a90",
   "lastOpenFiles": [
-    "Semantics/Semantics with Applications.pdf",
     "Semantics/Structural Semantics.md",
+    "Semantics/Målredovisning 25-09.md",
+    "Semantics/Semantics with Applications.pdf",
     "NumSim/Problemlösning 2.md",
     "Semantics/Seminarium 2.md",
-    "Semantics/Målredovisning 25-09.md",
     "DataCom/Homework 1 - Reliable Communication.pdf",
     "snippets.md",
     "DataCom/Homework 1.md",
