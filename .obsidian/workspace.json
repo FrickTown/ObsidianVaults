@@ -28,10 +28,10 @@
               "type": "pdf",
               "state": {
                 "file": "Semantics/Semantics with Applications.pdf",
-                "page": 49,
-                "left": -20,
-                "top": 474,
-                "zoom": 0.7836700958882938
+                "page": 30,
+                "left": -11,
+                "top": 513,
+                "zoom": 1.411110140506253
               },
               "icon": "lucide-file-text",
               "title": "Semantics with Applications"
@@ -43,16 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semantics/Structural Semantics.md",
+                "file": "Semantics/Målredovisning 25-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structural Semantics"
+              "title": "Målredovisning 25-09"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,16 +215,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "70493f7dcc266497",
+  "active": "026963e192d18a90",
   "lastOpenFiles": [
+    "Semantics/Semantics with Applications.pdf",
+    "Semantics/Structural Semantics.md",
+    "NumSim/Problemlösning 2.md",
     "Semantics/Seminarium 2.md",
     "Semantics/Målredovisning 25-09.md",
-    "Semantics/Semantics with Applications.pdf",
     "DataCom/Homework 1 - Reliable Communication.pdf",
-    "Semantics/Structural Semantics.md",
     "snippets.md",
     "DataCom/Homework 1.md",
-    "NumSim/Problemlösning 2.md",
     "DataCom/Computer_Networks_a_Top-Down_Approach.pdf",
     "DataCom/Formler och samband.md",
     "DataCom/Causes and Solutions for Transmission Problems.md",

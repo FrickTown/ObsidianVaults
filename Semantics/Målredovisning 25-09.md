@@ -30,4 +30,4 @@ $$
 	- Om booleska variabeln $b$ i tillståndet $s$ är sann
 - $\frac{}{ \langle while\ b\ do\ S, s \rangle \rightarrow s''}$
 	- Då kan vi dra slutsatsen att $S$, applicerat på tillståndet $s$, medan $b$ håller (det vill säga, är sann), resulterar i tillståndet $s''$. 
-# Goal 
+# Goal 34
