@@ -17,8 +17,17 @@ $$
 $$
 [while^{tt}_{ns}] \ \ \ \ \  
 \frac
-{\langle S, s\rangle \rightarrow s'\  
+{\langle S, s\rangle \rightarrow s',\  
 \langle while\ b\ do\ S, s' \rangle \rightarrow s''}
 { \langle while\ b\ do\ S, s \rangle \rightarrow s''}\ \ \ \ 
-if\  \mathcal{B}
+if\  \mathcal{B}[[b]]s = \boldsymbol{tt}
 $$
+- $\langle S, s\rangle \rightarrow s'$
+	- Låt $S$ vara ett statement som, när det appliceras på tillståndet $s$, resulterar i tillståndet $s'$ 
+- $\langle while\ b\ do\ S, s' \rangle \rightarrow s''$
+	- Låt $S$, applicerat på tillståndet $s'$, resulterar i tillståndet $s''$ givet att $b$ håller
+- $if\  \mathcal{B}[[b]]s = \boldsymbol{tt}$
+	- Om booleska variabeln $b$ i tillståndet $s$ är sann
+- $\frac{}{ \langle while\ b\ do\ S, s \rangle \rightarrow s''}$
+	- Då kan vi dra slutsatsen att $S$, applicerat på tillståndet $s$, medan $b$ håller (det vill säga, är sann), resulterar i tillståndet $s''$. 
+# Goal 
