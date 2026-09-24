@@ -4,7 +4,7 @@ Because the maximum transmission rate is variable, due to the network being used
 2) *Why are there two distinct phases, one with an exponential increase in congestion window, and one with a linear increase.*
 This is because an exponential increase is preferable at the start of the increase, since the sending rate is doubled for each successful MSS ack. When we reach a threshold, we risk going way over an acceptable rate by continuing to double, so we switch to linear (congestion avoidance) to probe the link's capacity.
 3) *During congestion avoidance, the congestion window increases linearly, but upon receiving triple duplicate acks, why does the congestion window halve instead of decreasing linearly.*
-This is because we enter the "fast recovery" phase. The network seems to have been congested since a segment was lost, so we step back. 
+This is because we enter the "fast recovery" phase. The network seems to have been congested since a segment was lost, so we step back. We don't know how congested the network has become, so to avoid more lost data, it's safer to halve and increase the window slowly again.
 
 # Repeat
 **a. Visit the Go-Back-N Java applet at this website. Try it out and get familiar with how it works then, using the applet, answer the following questions: **
@@ -34,7 +34,7 @@ The receiver has marked each package as received, but since the sender does not 
 **b. How many bits would you need to indicate the sequence number in each packet with the following protocols? (Hint: Consider the window size.) Answer with formulas, and make sure to avoid ambiguity.** 
 1. *Go-Back-N* 
 $log_{2}(N + 1)$ rounded up, where $N$ is the sender's window size. 
-The receiver needs to keep track of the next expected sequence number, but if sequence numbers are limited to sender's window size, there is a risk of ambiguity if the acks are lost in 
+The receiver needs to keep track of the next expected sequence number, but if sequence numbers are limited to sender's window size, there is a risk of ambiguity if the acks are lost on the way back to sender.
 *2. Selective repeat*
 At least $log_{2}(N * 2)$ rounded up, where $N$ is the window size.
 (Window size ($N$) must be equal to - or less than - half of the size of the sequence number protocol ($N*2$))
