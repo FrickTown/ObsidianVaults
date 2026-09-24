@@ -33,6 +33,8 @@ The receiver has marked each package as received, but since the sender does not 
 
 **b. How many bits would you need to indicate the sequence number in each packet with the following protocols? (Hint: Consider the window size.) Answer with formulas, and make sure to avoid ambiguity.** 
 1. *Go-Back-N* 
+The receiver needs only keep track of the next expected sequence number. 
+As for the sender, 
 $log_{2}(N)$ rounded up, where $N$ is the window size. 
 (When base (0) has been used and ACK'd by sender and receiver, it *can* be reused for the nextseqnum.)
 *2. Selective repeat*

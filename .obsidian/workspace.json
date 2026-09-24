@@ -46,6 +46,18 @@
               "icon": "lucide-file",
               "title": "Homework 1"
             }
+          },
+          {
+            "id": "ff21f45197df75cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DataCom/Homework 1 - Reliable Communication.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Homework 1 - Reliable Communication"
+            }
           }
         ],
         "currentTab": 2
@@ -78,7 +90,8 @@
               "title": "Computer_Networks_a_Top-Down_Approach"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,18 +253,18 @@
   },
   "active": "cef76b2b08953526",
   "lastOpenFiles": [
-    "DataCom/Homework 1_ Jakob_Frick.pdf",
-    "DataCom/Homework 1 - Reliable Communication.pdf",
     "DataCom/Computer_Networks_a_Top-Down_Approach.pdf",
+    "DataCom/Homework 1 - Reliable Communication.pdf",
+    "NumSim/Problemlösning 2.md",
+    "Semantics/Semantics with Applications.pdf",
     "DataCom/Homework 1.md",
+    "DataCom/Homework 1_ Jakob_Frick.pdf",
     "Pasted image 20260922001015.png",
     "Pasted image 20260922000628.png",
     "Screenshot_20260922_000140.png",
     "Pasted image 20260922000258.png",
     "Pasted image 20260922000115.png",
     "Semantics/Seminarium 2.md",
-    "NumSim/Problemlösning 2.md",
-    "Semantics/Semantics with Applications.pdf",
     "DataCom/Pasted image 20260921233949.png",
     "DataCom/Causes and Solutions for Transmission Problems.md",
     "Semantics/Structural Semantics.md",
@@ -271,7 +284,6 @@
     "NumSim/Problemlösning 1.md",
     "NumSim/__pycache__/PL2.cpython-314.pyc",
     "NumSim/__pycache__",
-    "NumSim/PL2.py",
     "Untitled 2.md",
     "DataCom/Terminologi.md",
     "Untitled 1.md",
