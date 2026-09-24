@@ -37,15 +37,31 @@ while 0<x do
 	x:=x-5
 ```
 $$
+\begin{split}\\
+\frac
+{
+\langle x\ := 8, s_{0\rangle,\  
+\langle while\ b\ do \ S, s\rangle
+\implies
+
+}
+{}
+\end{split}$$
+$$
 \frac
 {
 \langle x\ := 8, s\rangle,\  
 \langle while\ b\ do \ S, s\rangle
 }
-{
-{
-}
-$$
+{}
 $$
 
+
+$$
+\frac
+{
+\langle x\ := 8, s\rangle,\  
+\langle while\ b\ do \ S, s\rangle
+}
+{}
 $$

@@ -65,9 +65,9 @@
               "type": "pdf",
               "state": {
                 "file": "Semantics/Semantics with Applications.pdf",
-                "page": 42,
-                "left": 75,
-                "top": 368,
+                "page": 48,
+                "left": 58,
+                "top": 721,
                 "zoom": 0.9
               },
               "icon": "lucide-file-text",
@@ -239,13 +239,13 @@
   },
   "active": "026963e192d18a90",
   "lastOpenFiles": [
+    "snippets.md",
+    "Semantics/Semantics with Applications.pdf",
     "Semantics/Structural Semantics.md",
     "Semantics/Målredovisning 25-09.md",
-    "Semantics/Semantics with Applications.pdf",
     "NumSim/Problemlösning 2.md",
     "Semantics/Seminarium 2.md",
     "DataCom/Homework 1 - Reliable Communication.pdf",
-    "snippets.md",
     "DataCom/Homework 1.md",
     "DataCom/Computer_Networks_a_Top-Down_Approach.pdf",
     "DataCom/Formler och samband.md",
