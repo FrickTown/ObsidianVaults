@@ -43,7 +43,7 @@ $$
 \langle x\ := 8, s_{0}\rangle,\  
 \langle while\ b\ do \ S, s_{0}\rangle
 \implies
-\langle while\ b\ do \ S, s\rangle\  s_{0}[]
+\langle while\ b\ do \ S, s\rangle\  s_{0}[x \rightarrow \mathcal{A}[[8]]s_{0}]
 }
 {}
 \end{split}$$
@@ -53,7 +53,7 @@ $$
 \langle x\ := 8, s\rangle,\  
 \langle while\ b\ do \ S, s\rangle
 }
-{}
+{1}
 $$
 
 
