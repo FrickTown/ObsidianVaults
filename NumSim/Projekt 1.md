@@ -61,54 +61,46 @@ m'(t) = \begin{cases}
 0 & t > 10
 \end{cases}
 $$
-- Derivatan av positionsvektorn = hastighet $\vec{v}(t)$
-- Derivatan av hastighetsvektorn = acceleration $\vec{a}(t)$
+- Derivatan av positionsvektorn $\vec{pos(t)}$ = hastighet $\vec{v}(t)$
+- Derivatan av hastighetsvektorn $\vec{v}(t)$ = acceleration $\vec{a}(t)$
 - Vi bryter ut accelerationsvektorn
 $$
 \boldsymbol{\vec{a}}(t) 
 = 
-\boldsymbol{\vec{F}}/m(t) 
-+ 
+\frac{\boldsymbol{\vec{F}}}{m(t)}+ 
 \frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
 $$
 - Byter notation till v'(t)
 $$
 \vec{v}\ '(t) 
 = 
-\boldsymbol{\vec{F}}/m(t) 
-+ 
+\frac{\boldsymbol{\vec{F}}}{m(t)}+ 
 \frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
 $$
 - Vi förlänger $\boldsymbol{\vec{F}}$ 
 $$
 \vec{v}\ '(t) 
 = 
-\frac{m(t)\boldsymbol{\vec{g}} - c\ ||\vec{v}(t)||\ \vec{v}(t)}{m(t)}
-+ 
+\frac{m(t)\boldsymbol{\vec{g}} - c\ ||\vec{v}(t)||\ \vec{v}(t)}{m(t)}+ 
 \frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
 $$
 $$
 \vec{v}\ '(t) 
 = 
-\boldsymbol{\vec{g}} - \frac{c\ ||\vec{v}(t)||\ \vec{v}(t)}{m(t)}
-+ 
+\boldsymbol{\vec{g}} - \frac{c\ ||\vec{v}(t)||\ \vec{v}(t)}{m(t)}+ 
 \frac{m'(t)\boldsymbol{\vec{u}}(t)}{m(t)}
 $$
 $$
 \vec{pos}\ ''(t) 
 = 
-\boldsymbol{\vec{g}} - \frac{c\ ||\vec{v}(t)||\ }{m(t)} \vec{v}(t)
-+ 
+\boldsymbol{\vec{g}} - \frac{c\ ||\vec{v}(t)||\ }{m(t)} \vec{v}(t)+ 
 \frac{m'(t)}{m(t)}\boldsymbol{\vec{u}}(t)
-
 $$
 $$
 \vec{pos}\ ''(t) 
 = 
-\boldsymbol{\vec{g}} - \frac{c\ ||\vec{pos}'(t)||\ }{m(t)} \vec{pos}'(t)
-+ 
+\boldsymbol{\vec{g}} - \frac{c\ ||\vec{pos}'(t)||\ }{m(t)} \vec{pos}'(t)+ 
 \frac{m'(t)}{m(t)}\boldsymbol{\vec{u}}(t)
-
 $$
 
 $$
