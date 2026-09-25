@@ -38,41 +38,23 @@ while 0<x do
 ```
 $$
 \begin{align*}
-&\langle x\ := 8, s_{0}\rangle,\  
+&\langle x\ := 8; s_{0}\rangle,\  
 \langle while\ (0<x)\ do \ (x:=x-5), s_{0}\rangle \\
 \implies &
-\langle while\ (0<x)\ do \ (x:=x-5), s_{0}\rangle\  s_{0}[x \rightarrow \mathcal{A}[[8]]s_{0}]\\
+\langle while\ (0<x)\ do \ (x:=x-5), s_{0}[x \rightarrow \mathcal{A}[[8]]s_{0}]\rangle\  \\
 \implies &
-\langle if\ (0<x)\ then ((x:=x-5); while\ (0<x)\ do\ (x:=x-5))\ else\ skip, s_{0}[x\rightarrow \mathcal{A}[[8-5]]s_{0}]\rangle\\
+\langle if\ (0<x)\ then ((x:=x-5); while\ (0<x)\ do\ (x:=x-5))\ else\ skip, s_{0}[x\rightarrow \mathcal{A}[[8-5]]s_{0}]\rangle\\\\
 \implies &
-\langle while\ (0<x)\ do \ (x:=x-5), s_{0}\rangle\  s_{0}[x \rightarrow \mathcal{N}[[3]]s_{0}]\\
+\langle while\ (0<x)\ do \ (x:=x-5), s_{0}[x \rightarrow \mathcal{N}[[3]]s_{0}]\rangle\  \\
 \implies &
-\langle if\ (0<x)\ then ((x:=x-5); while\ (0<x)\ do\ (x:=x-5))\ else\ skip, s_{0}[x\rightarrow \mathcal{A}[[3-5]]s_{0}]\rangle\\
+\langle if\ (0<x)\ then ((x:=x-5); while\ (0<x)\ do\ (x:=x-5))\ else\ skip, s_{0}[x\rightarrow \mathcal{A}[[3-5]]s_{0}]\rangle\\\\
 \implies &
-\langle while\ (0<x)\ do \ (x:=x-5), s_{0}\rangle\  s_{0}[x \rightarrow \mathcal{N}[[-2]]s_{0}]\\
+\langle while\ (0<x)\ do \ (x:=x-5), s_{0}[x \rightarrow \mathcal{N}[[-2]]s_{0}]\rangle\  \\
 \implies &
 \langle if\ (0<x)\ then ((x:=x-5); while\ (0<x)\ do\ (x:=x-5))\ else\ skip, s_{0}[x\rightarrow \mathcal{N}[[-2]]s_{0}]\rangle\\
 \implies &
-\langle skip, s_{0}[x \rightarrow \mathcal{N}[[-2]]s_{0}]\rangle\\\\
-
+\langle skip, s_{0}[x \rightarrow \mathcal{N}[[-2]]s_{0}]\rangle\\
 \implies &
+s_{0}[x \rightarrow \mathcal{N}[[-2]]s_{0}]
 \end{align*}
-$$
-$$
-\frac
-{
-\langle x\ := 8, s\rangle,\  
-\langle while\ b\ do \ S, s\rangle
-}
-{1}
-$$
-
-
-$$
-\frac
-{
-\langle x\ := 8, s\rangle,\  
-\langle while\ b\ do \ S, s\rangle
-}
-{}
 $$

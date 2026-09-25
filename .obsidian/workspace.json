@@ -28,9 +28,9 @@
               "type": "pdf",
               "state": {
                 "file": "Semantics/Semantics with Applications.pdf",
-                "page": 48,
+                "page": 41,
                 "left": -12,
-                "top": 21,
+                "top": 723,
                 "zoom": 1.4111101405062525
               },
               "icon": "lucide-file-text",
@@ -217,9 +217,9 @@
   },
   "active": "026963e192d18a90",
   "lastOpenFiles": [
+    "Semantics/Structural Semantics.md",
     "Semantics/Semantics with Applications.pdf",
     "Semantics/Målredovisning 25-09.md",
-    "Semantics/Structural Semantics.md",
     "Pasted image 20260925133359.png",
     "Pasted image 20260925132851.png",
     "Pasted image 20260925132435.png",
