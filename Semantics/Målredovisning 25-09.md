@@ -45,7 +45,7 @@ $$
 \implies
 \langle while\ b\ do \ S, s\rangle\  s_{0}[x \rightarrow \mathcal{A}[[8]]s_{0}]
 }
-{}
+{\implies \langle if\ b\ then (S; while\ b\ do\ S)\ else\ skip\rangle}
 \end{split}$$
 $$
 \frac
