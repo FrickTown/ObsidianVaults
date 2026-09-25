@@ -37,16 +37,14 @@ while 0<x do
 	x:=x-5
 ```
 $$
-\begin{split}\\
-\frac
-{
-\langle x\ := 8, s_{0}\rangle,\  
-\langle while\ b\ do \ S, s_{0}\rangle
-\implies
-\langle while\ b\ do \ S, s\rangle\  s_{0}[x \rightarrow \mathcal{A}[[8]]s_{0}]
-}
-{\implies \langle if\ b\ then (S; while\ b\ do\ S)\ else\ skip\rangle}
-\end{split}$$
+\begin{align*}
+&\langle x\ := 8, s_{0}\rangle,\  
+\langle while\ (0<x)\ do \ (x:=x-5), s_{0}\rangle \\
+&\implies 
+\langle while\ (0<x)\ do \ (x:=x-5), s_{0}\rangle\  s_{0}[x \rightarrow \mathcal{A}[[8]]s_{0}]
+
+\implies \langle if\ b\ then (S; while\ b\ do\ S)\ else\ skip\rangle
+\end{align*}$$
 $$
 \frac
 {
