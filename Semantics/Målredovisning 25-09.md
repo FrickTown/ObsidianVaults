@@ -40,10 +40,10 @@ $$
 \begin{split}\\
 \frac
 {
-\langle x\ := 8, s_{0\rangle,\  
-\langle while\ b\ do \ S, s\rangle
+\langle x\ := 8, s_{0}\rangle,\  
+\langle while\ b\ do \ S, s_{0}\rangle
 \implies
-
+\langle while\ b\ do \ S, s\rangle\  s_{0}[]
 }
 {}
 \end{split}$$
