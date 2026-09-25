@@ -62,16 +62,14 @@
             "id": "aeae7c1c554519f5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semantics/Semantics with Applications.pdf",
-                "page": 48,
-                "left": 58,
-                "top": 721,
-                "zoom": 0.9
+                "file": "NumSim/Projekt 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Semantics with Applications"
+              "icon": "lucide-file",
+              "title": "Projekt 1"
             }
           }
         ]
@@ -195,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semantics/Målredovisning 25-09.md",
+                "file": "NumSim/Projekt 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -237,12 +235,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "026963e192d18a90",
+  "active": "aeae7c1c554519f5",
   "lastOpenFiles": [
-    "snippets.md",
     "Semantics/Semantics with Applications.pdf",
-    "Semantics/Structural Semantics.md",
     "Semantics/Målredovisning 25-09.md",
+    "snippets.md",
+    "Semantics/Structural Semantics.md",
     "NumSim/Problemlösning 2.md",
     "Semantics/Seminarium 2.md",
     "DataCom/Homework 1 - Reliable Communication.pdf",
